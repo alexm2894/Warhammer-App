@@ -1,4 +1,5 @@
-export interface CatalogueUnit { id: string; name: string; faction: string; url: string; aliases?: string[]; sizes?:import('./roster').SizeCost[]; pointsRetrievedAt?:string; image?:{url:string;source:string;credit:string} }
+export interface UnitImageReference {url:string;source:string;credit:string;kind:'miniature';background:'white'|'transparent';verifiedAt:string}
+export interface CatalogueUnit { id: string; name: string; faction: string; url: string; aliases?: string[]; sizes?:import('./roster').SizeCost[]; pointsRetrievedAt?:string; image?:UnitImageReference }
 export interface UnitCard extends CatalogueUnit {
   profiles: {name: string; stats: {label: string; value: string}[]}[];
   weapons: {name: string; kind: "ranged" | "melee"; keywords: string[]; range: string; attacks: string; skill: string; strength: string; ap: string; damage: string}[];

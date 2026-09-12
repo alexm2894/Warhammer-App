@@ -17,9 +17,12 @@ assert.equal(validRoster({...draft,text:'x'.repeat(100001)}),false);
 assert.ok(units.filter(u=>u.sizes?.length).length>=690);
 assert.equal(units.find(u=>u.id==='space-marines/Terminator-Squad').sizes[0].points,160);
 assert.equal(units.find(u=>u.id==='adeptus-custodes/Prosecutors').image,undefined);
-assert.ok(units.find(u=>u.id==='necrons/Necron-Warriors').image);
-assert.ok(units.filter(u=>u.image).every(u=>u.image.source.startsWith('https://travellingman.com/products/')));
-console.log('PASS: export parsing, model bullets vs wargear, unknown/ambiguous names, repeated-unit points tiers, invalid sizes, draft round-trip, catalogue and image provenance.');
+assert.equal(units.find(u=>u.id==='necrons/Necron-Warriors').image,undefined);
+assert.equal(units.filter(u=>u.image).length,4);
+assert.ok(units.filter(u=>u.image).every(u=>u.image.kind==='miniature'&&['white','transparent'].includes(u.image.background)&&/^\d{4}-\d{2}-\d{2}$/.test(u.image.verifiedAt)));
+assert.ok(units.find(u=>u.id==='adeptus-custodes/Custodian-Guard').image);
+assert.ok(units.find(u=>u.id==='genestealer-cults/Kelermorph').image);
+console.log('PASS: export parsing, model bullets vs wargear, unknown/ambiguous names, repeated-unit points tiers, invalid sizes, draft round-trip, and verified model-only images.');
 import {clearWhiteBackdrop} from '../lib/unit-art.ts';
 const pixels=new Uint8ClampedArray(5*5*4).fill(255);
 for(let y=1;y<4;y++)for(let x=1;x<4;x++){if(x===2&&y===2)continue;const i=(y*5+x)*4;pixels[i]=pixels[i+1]=pixels[i+2]=20;}

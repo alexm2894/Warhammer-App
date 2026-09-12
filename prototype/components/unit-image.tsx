@@ -10,7 +10,7 @@ export default function UnitImage({unit}:{unit:CatalogueUnit}){
   const prepare=()=>{void prepareUnitArt(url).then(result=>{if(!cancelled&&result)setArt({original:url,url:result});});};
   const observer=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)){observer.disconnect();prepare();}},{rootMargin:'80px'});observer.observe(host.current);return()=>{cancelled=true;observer.disconnect();};
  },[unit.image?.url]);
- if(!unit.image||failed===unit.image.url)return <div className="unit-art placeholder" aria-label={`Photo unavailable for ${unit.name}`}><Shield size={40}/></div>;
+ if(!unit.image||unit.image.kind!=='miniature'||!['white','transparent'].includes(unit.image.background)||failed===unit.image.url)return <div className="unit-art placeholder" aria-label={`Verified model photo unavailable for ${unit.name}`}><Shield size={40}/></div>;
  const cutout=art?.original===unit.image.url;
  // Native images support the browser-generated cutout data URLs and remote fallback.
  // eslint-disable-next-line @next/next/no-img-element

@@ -1,6 +1,6 @@
 "use client";
 import {useState,useSyncExternalStore} from 'react';
-import {readSavedGame} from '@/lib/saved-game';
+import {clearSavedGame,readSavedGame,SAVED_GAME_KEY} from '@/lib/saved-game';
 import {subscribeHydration,clientHydrated,serverHydrated} from '@/lib/hydration';
 import ConditionTile from '@/components/condition-tile';
 import {Swords,Sparkles} from 'lucide-react';
@@ -11,26 +11,26 @@ import UnitSearch from '@/components/unit-search';
 import {useCatalogue} from '@/lib/use-catalogue';
 import {defaults,lionsEligible,resolveAttack,type Game,type Combatant,type Weapon,type Conditions} from '@/lib/battle';
 import {factionStyle} from '@/lib/factions';
-const GAME_KEY='field-cards-game-11-v1';
 type Phase='attacker'|'defender'|'ready'|'modifiers'|'summary';
 export default function Versus(){
  const hydrated=useSyncExternalStore(subscribeHydration,clientHydrated,serverHydrated);
  return hydrated?<VersusWorkspace/>:<AppShell title="Versus">Loading saved setup…</AppShell>;
 }
 function VersusWorkspace(){
- const {units,error}=useCatalogue();const [game,setGame]=useState<Game|null>(null),[setup,setSetup]=useState(true),[resume]=useState(()=>readSavedGame(GAME_KEY));
+ const {units,error}=useCatalogue();const [game,setGame]=useState<Game|null>(null),[setup,setSetup]=useState(true),[resume,setResume]=useState(()=>readSavedGame(SAVED_GAME_KEY)),[setupKey,setSetupKey]=useState(0);
  const [phase,setPhase]=useState<Phase>('attacker'),[a,setA]=useState<Combatant|null>(null),[d,setD]=useState<Combatant|null>(null),[weapon,setWeapon]=useState<Weapon>(),[ownerA,setOwnerA]=useState(''),[ownerD,setOwnerD]=useState(''),[conditions,setConditions]=useState<Conditions>({...defaults}),[reply,setReply]=useState(false),[eligible,setEligible]=useState(false),[notice,setNotice]=useState('');
- function deploy(g:Game){g={...g,sessionId:g.sessionId||crypto.randomUUID(),players:([0,1] as const).flatMap(team=>g.players.filter(p=>p.team===team).slice(0,2))};setGame(g);setSetup(false);setOwnerA(g.players.find(p=>p.team===0)!.id);setOwnerD(g.players.find(p=>p.team===1)!.id);reset();try{localStorage.setItem(GAME_KEY,JSON.stringify(g));}catch{setNotice('This browser could not save the game setup. It remains available while this page is open.');}}
+ function deploy(g:Game){g={...g,sessionId:g.sessionId||crypto.randomUUID(),players:([0,1] as const).flatMap(team=>g.players.filter(p=>p.team===team).slice(0,2))};setGame(g);setResume(null);setSetup(false);setOwnerA(g.players.find(p=>p.team===0)!.id);setOwnerD(g.players.find(p=>p.team===1)!.id);reset();try{localStorage.setItem(SAVED_GAME_KEY,JSON.stringify(g));}catch{setNotice('This browser could not save the game setup. It remains available while this page is open.');}}
+ function startNewGame(){try{clearSavedGame();}catch{setNotice('This browser could not clear local setup. The new blank setup is still ready.');}setGame(null);setResume(null);setSetup(true);setSetupKey(key=>key+1);reset();}
  function reset(){setA(null);setD(null);setWeapon(undefined);setPhase('attacker');setConditions({...defaults});setReply(false);setEligible(false);setNotice('');}
  const pa=game?.players.find(p=>p.id===ownerA),pd=game?.players.find(p=>p.id===ownerD);
  function patch<K extends keyof Conditions>(key:K,value:Conditions[K]){setConditions(c=>({...c,[key]:value,reviewed:key==='reviewed'?Boolean(value):false}));}
  function backAttack(){if(!a||!d)return;setA(d);setD(a);setOwnerA(d.playerId);setOwnerD(a.playerId);setWeapon(undefined);setConditions({...defaults});setReply(true);setEligible(false);setPhase('attacker');}
  let result:ReturnType<typeof resolveAttack>|undefined,calculationError='';if(a&&d&&weapon&&pa){try{result=resolveAttack(a,d,weapon,conditions,pa,game?.rules[pa.faction]);}catch(e){calculationError=e instanceof Error?e.message:'Manual resolution required.';}}
- if(setup||!game)return <AppShell title="Versus · Team setup">{resume&&!game&&<div className="resume-bar"><span>Saved game setup · refresh rules in setup for a new session</span><button className="action" onClick={()=>deploy(resume)}>Resume game</button></div>}<GameSetup units={units} factions={[...new Set(units.map(u=>u.faction))].sort()} initial={game||resume||undefined} onDeploy={deploy}/>{error&&<p role="alert">{error}</p>}</AppShell>;
+ if(setup||!game)return <AppShell title="Versus · Team setup">{resume&&!game&&<div className="resume-bar"><span>Saved game found</span><button className="action" onClick={()=>deploy(resume)}>Resume game</button></div>}<GameSetup key={setupKey} units={units} factions={[...new Set(units.map(u=>u.faction))].sort()} initial={game||resume||undefined} onDeploy={deploy} onStartNew={startNewGame}/>{error&&<p role="alert">{error}</p>}</AppShell>;
  function combatPanel(side:'attacker'|'defender'){
   const attacking=side==='attacker',combat=attacking?a:d,owner=attacking?ownerA:ownerD,player=attacking?pa:pd,expanded=phase===side,compact=phase!=='ready'&&!expanded;
   return <section className={`combat-panel ${expanded?'expanded':''} ${compact?'compact':''}`} style={factionStyle(combat?.card.faction||player?.faction||'')}><div className="combat-top"><h2>{attacking?'Attacker':'Defender'}</h2>{!reply&&<select aria-label={`${side} player`} value={owner} disabled={!expanded} onChange={e=>{if(attacking){setOwnerA(e.target.value);setA(null);setWeapon(undefined);const next=game!.players.find(p=>p.id===e.target.value)!;if(pd?.team===next.team){setOwnerD(game!.players.find(p=>p.team!==next.team)!.id);setD(null);}}else{setOwnerD(e.target.value);setD(null);}}}>{game!.players.filter(p=>attacking||p.team!==pa?.team).map(p=><option key={p.id} value={p.id}>{p.name} · {p.faction}</option>)}</select>}</div>
-   {expanded&&!reply&&player&&<UnitSearch key={owner} recentScope={`${game!.sessionId}:${owner}`} pinned={player.roster?.mode!=='none'?player.roster?.entries.map(e=>e.unitId):[]} onSearching={()=>{if(attacking){setA(null);setWeapon(undefined);}else setD(null);}} catalogue={units.filter(u=>[player.faction,player.ally].includes(u.faction))} onCard={card=>{const selection={playerId:owner,card,profile:0};if(attacking){setA(selection);setWeapon(undefined);}else setD(selection);setConditions({...defaults});}}/>}
+   {expanded&&!reply&&player&&<UnitSearch key={owner} recentScope={`${game!.sessionId}:${owner}`} roster={player.roster?.mode!=='none'?player.roster?.entries:[]} rosterLabel={`${player.name}'s army`} onSearching={()=>{if(attacking){setA(null);setWeapon(undefined);}else setD(null);}} catalogue={units.filter(u=>[player.faction,player.ally].includes(u.faction))} onCard={card=>{const selection={playerId:owner,card,profile:0};if(attacking){setA(selection);setWeapon(undefined);}else setD(selection);setConditions({...defaults});}}/>}
    {combat&&expanded&&combat.card.profiles.length>1&&<label>Model profile<select value={combat.profile} onChange={e=>{const updated={...combat,profile:Number(e.target.value)};if(attacking)setA(updated);else setD(updated);}}>{combat.card.profiles.map((p,i)=><option key={i} value={i}>{p.name||`Profile ${i+1}`}</option>)}</select></label>}
    
    {combat?<DataCard card={combat.card} selected={attacking?weapon:undefined} onSelect={expanded&&attacking?w=>{if(!reply||w.kind==='melee')setWeapon(w);}:undefined}/>:<div className="empty-card"><h3>{expanded?'Choose a unit':'Waiting for '+side}</h3></div>}

@@ -2,6 +2,9 @@ import {validRoster} from './roster.ts';
 import type {Game, Player} from './battle';
 import type {FactionRules, RuleSection} from './faction-rules';
 
+export const SAVED_GAME_KEY = 'field-cards-game-11-v1';
+export const SETUP_DRAFT_KEY = 'field-cards-setup-draft-11';
+
 const record = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null && !Array.isArray(v);
 const text = (v: unknown): v is string => typeof v === 'string';
 function section(v: unknown): v is RuleSection {
@@ -37,7 +40,11 @@ export function readSavedGame(key: string, deployed = true): Game | null {
     return validGame(value, deployed) ? value : null;
   } catch { return null; }
 }
+export function clearSavedGame(): void {
+  localStorage.removeItem(SAVED_GAME_KEY);
+  localStorage.removeItem(SETUP_DRAFT_KEY);
+}
 // Promise rejection reports storage failures without interrupting rendering.
 export async function saveDraft(game: Game): Promise<void> {
-  localStorage.setItem('field-cards-setup-draft-11', JSON.stringify(game));
+  localStorage.setItem(SETUP_DRAFT_KEY, JSON.stringify(game));
 }

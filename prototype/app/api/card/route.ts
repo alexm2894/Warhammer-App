@@ -1,11 +1,12 @@
 import catalogue from "@/data/catalogue.json";
 import snapshots from "@/data/snapshots.json";
 import {parseCard} from "@/lib/wahapedia";
-import type {UnitCard} from "@/lib/types";
+import type {CatalogueUnit,UnitCard} from "@/lib/types";
+const units=catalogue as CatalogueUnit[];
 const cache = new Map<string, {card: UnitCard; }>();
 const pending = new Map<string, Promise<UnitCard>>();
 async function retrieve(id: string): Promise<UnitCard> {
-  const unit = catalogue.find(u => u.id === id);
+  const unit = units.find(u => u.id === id);
   if (!unit) throw Error("Unknown unit.");
   const cached = cache.get(id);
   if(pending.has(id)) return pending.get(id)!;
@@ -30,7 +31,7 @@ async function retrieve(id: string): Promise<UnitCard> {
 }
 export async function GET(request: Request) {
   const url = new URL(request.url), id = url.searchParams.get("id") || "";
-  if (!catalogue.some(u => u.id === id)) return Response.json({error:"This unit isn’t in the prototype index."},{status:404});
+  if (!units.some(u => u.id === id)) return Response.json({error:"This unit isn’t in the prototype index."},{status:404});
   try { return Response.json(await retrieve(id),{headers:{"Cache-Control":"no-store"}}); }
   catch(error) {return Response.json({error:error instanceof Error ? error.message : "The card couldn’t be loaded."},{status:502});}
 }
