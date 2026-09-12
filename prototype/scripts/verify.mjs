@@ -1,0 +1,56 @@
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {rankUnits} from '../lib/search.ts';
+import {parseCard} from '../lib/wahapedia.ts';
+const catalogue=JSON.parse(await readFile('data/catalogue.json','utf8'));
+const cards=JSON.parse(await readFile('data/snapshots.json','utf8'));
+assert.equal(rankUnits('show me Custodian Guards please',catalogue)[0].unit.name,'Custodian Guard');
+assert.equal(rankUnits('Necron Warrior',catalogue)[0].unit.name,'Necron Warriors');
+assert.equal(rankUnits('Terminator Squad',catalogue)[0].score,1);
+assert.equal(rankUnits('Genestealers',catalogue)[0].unit.faction,'Tyranids');
+assert.equal(rankUnits('Purestrain Genestealers',catalogue)[0].unit.faction,'Genestealer Cults');
+assert.equal(rankUnits('zzzzzzzzzzzzzzzzzzzzzzzz',catalogue).length,0);
+assert.ok(rankUnits('captain',catalogue).length>1);
+const custodesOnly=catalogue.filter(u=>u.faction==='Adeptus Custodes');
+assert.equal(rankUnits('Custodian Guards',custodesOnly)[0].unit.name,'Custodian Guard');
+assert.ok(rankUnits('Guard',custodesOnly).every(r=>r.unit.faction==='Adeptus Custodes'));
+assert.ok(catalogue.some(u=>u.faction==='Imperial Agents'));
+assert.ok(catalogue.some(u=>u.faction==='Imperial Knights'));
+const custodes=cards.find(c=>c.name==='Custodian Guard');
+assert.equal(custodes.weapons.filter(w=>w.name==='Guardian spear').length,2);
+assert.equal(custodes.weapons.find(w=>w.name==='Guardian spear'&&w.kind==='melee').strength,'7');
+assert.equal(custodes.invulnerableSave,'4+');
+assert.equal(custodes.source.edition,11);
+assert.ok(catalogue.length > 500);
+assert.ok(catalogue.every(u=>u.url.includes('/wh40k11ed/')));
+assert.ok(custodes.weapons.some(w=>w.keywords.includes('assault')));
+assert.ok(custodes.sections.some(s=>s.title==='CORE ABILITIES' && s.paragraphs.includes('Deep Strike')));
+assert.ok(custodes.sections.some(s=>s.paragraphs.some(p=>p.includes('Sentinel Storm'))));
+const term=cards.find(c=>c.name==='Terminator Squad');
+assert.ok(term.weapons.some(w=>w.attacks==='2D6'));
+assert.equal(cards.find(c=>c.name==='Genestealers').weapons.filter(w=>w.kind==='ranged').length,0);
+const source=await readFile('.sites-runtime/samples-11/adeptus-custodes.html','utf8');
+assert.throws(()=>parseCard('<html>Unavailable</html>',custodes));
+assert.throws(()=>parseCard(source.replaceAll('11th edition','10th edition'),custodes), /11th edition/);
+assert.throws(()=>parseCard(source,{...custodes,name:'Wrong Unit'}));
+assert.throws(()=>parseCard(source.replace('dsCharValue dsColorAC','missingValue'),custodes));
+console.log('PASS: aliases, ambiguous names, unknown names, distinct factions, ranged/melee profiles, variable dice, abilities, and malformed source rejection.');
+const storage=new Map();
+Object.defineProperty(globalThis,'sessionStorage',{value:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,v),removeItem:k=>storage.delete(k),key:i=>[...storage.keys()][i]??null,get length(){return storage.size}},configurable:true});
+const session=await import('../lib/session-cache.ts');
+session.saveSessionCard(custodes); assert.equal(session.getSessionCard(custodes.id).name,custodes.name); assert.equal(session.sessionCardCount(),1);
+const reloaded=await import('../lib/session-cache.ts?reload'); assert.equal(reloaded.getSessionCard(custodes.id).name,custodes.name);
+storage.set('unrelated-setting','keep'); session.clearSessionCards(); assert.equal(session.getSessionCard(custodes.id),undefined); assert.equal(storage.get('unrelated-setting'),'keep');
+globalThis.sessionStorage.setItem=()=>{throw Error('Quota exceeded')}; session.saveSessionCard(term); assert.equal(session.getSessionCard(term.id).name,term.name);
+console.log('PASS: session reuse, persistence across module reload, scoped clearing and memory fallback when storage is full.');
+if(process.argv.includes('--http')){
+ const base='http://localhost:5173';
+ const index=await fetch(base+'/api/catalogue').then(r=>r.json()); assert.equal(index.units.length,catalogue.length);
+ for(const card of cards){
+  const response=await fetch(base+'/api/card?id='+encodeURIComponent(card.id)); assert.equal(response.status,200);
+  const result=await response.json(); assert.equal(result.name,card.name); assert.ok(result.weapons.length);
+  console.log(`HTTP PASS: ${result.name} (${result.source.mode})`);
+ }
+ const invalid=await fetch(base+'/api/card?id=https://example.com'); assert.equal(invalid.status,404);
+ console.log('PASS: API catalogue, five cards, and rejection of arbitrary source URLs.');
+}

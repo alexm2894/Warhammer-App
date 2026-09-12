@@ -1,0 +1,27 @@
+import assert from 'node:assert/strict';
+import {createSpeechRecognition} from '../lib/speech.ts';
+import {microphoneError} from '../lib/microphone.ts';
+let instance;
+function Recognition(){return instance={start(){this.onstart?.();},stop(){this.onend?.();},abort(){this.onend?.();}};}
+globalThis.window={SpeechRecognition:Recognition};
+const events=[];
+const callbacks={onStart:()=>events.push('service'),onAudioStart:()=>events.push('capture'),onResult:t=>events.push(t),onError:t=>events.push(t),onEnd:()=>events.push('end')};
+let session=createSpeechRecognition(callbacks);session.start();assert.deepEqual(events,['service']);instance.onaudiostart();assert.equal(events[1],'capture');instance.onresult({results:[[{transcript:'Custodian Guard'}]]});instance.onend();assert.equal(events[2],'Custodian Guard');assert.equal(events[3],'end');
+events.length=0;session=createSpeechRecognition(callbacks);session.start();instance.onerror({error:'network'});instance.onend();assert.equal(events.filter(x=>x==='end').length,1);assert.ok(events.some(x=>x.includes('embedded preview')));const before=events.length;instance.onresult({results:[[{transcript:'late'}]]});assert.equal(events.length,before);
+events.length=0;session=createSpeechRecognition(callbacks);session.start();session.abort();assert.deepEqual(events,['service']);
+globalThis.window={};assert.equal(createSpeechRecognition(callbacks),null);
+globalThis.window={SpeechRecognition:Recognition};events.length=0;session=createSpeechRecognition(callbacks);session.start();session.stop();assert.deepEqual(events,['service','end']);
+const denied=new Error();denied.name='NotAllowedError';assert.match(microphoneError(denied),/blocked/);
+const missing=new Error();missing.name='NotFoundError';assert.match(microphoneError(missing),/No microphone/);
+const partial=text=>Object.assign([{transcript:text}],{isFinal:false});
+const final=text=>Object.assign([{transcript:text}],{isFinal:true});
+const drafts=[],results=[];
+const liveCallbacks={...callbacks,onTranscript:t=>drafts.push(t),onResult:t=>results.push(t)};
+session=createSpeechRecognition(liveCallbacks);session.start();assert.equal(instance.interimResults,true);
+instance.onresult({results:[partial('Custodian')]});assert.deepEqual(drafts,['Custodian']);assert.equal(results.length,0);
+instance.onresult({results:[final('Custodian Guard')]});instance.onend();assert.deepEqual(results,['Custodian Guard']);
+session=createSpeechRecognition(liveCallbacks);session.start();instance.onresult({results:[partial('Necron Warriors')]});session.stop();assert.deepEqual(results,['Custodian Guard','Necron Warriors']);
+session=createSpeechRecognition(liveCallbacks);session.start();instance.onend();assert.equal(results.length,2);
+session=createSpeechRecognition(liveCallbacks);session.start();instance.onresult({results:[partial('unfinished')]});instance.onerror({error:'network'});instance.onend();assert.equal(results.length,2);
+console.log('PASS: live draft text, one final lookup, end-of-speech fallback, independent successive phrases, and no lookup after empty/error sessions.');
+console.log('PASS: service start vs audio capture, transcript delivery, connection failure, single completion, late-event rejection, cleanup, unsupported browser, and microphone error guidance.');

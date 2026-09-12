@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {rememberUnit,recentUnits} from '../lib/recent-units.ts';
+const catalogue=[{id:'custodes/guard',name:'Guard',faction:'Custodes',url:''},{id:'cults/stealers',name:'Stealers',faction:'Cults',url:''}];
+const storage=new Map();Object.defineProperty(globalThis,'sessionStorage',{value:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)}});
+rememberUnit('game1:team1-player1',catalogue[0].id);rememberUnit('game1:team2-player1',catalogue[1].id);
+assert.deepEqual(recentUnits('game1:team1-player1',catalogue).map(u=>u.id),['custodes/guard']);
+assert.deepEqual(recentUnits('game1:team2-player1',catalogue).map(u=>u.id),['cults/stealers']);
+assert.deepEqual(recentUnits('game2:team1-player1',catalogue),[]);
+assert.deepEqual(recentUnits('game1:team1-player1',[catalogue[1]]),[]);
+rememberUnit('game1:team1-player1',catalogue[0].id);assert.equal(recentUnits('game1:team1-player1',catalogue).length,1);
+const reloaded=await import('../lib/recent-units.ts?reload');assert.equal(reloaded.recentUnits('game1:team1-player1',catalogue)[0].id,'custodes/guard');
+globalThis.sessionStorage.setItem=()=>{throw Error('Quota')};rememberUnit('memory-only',catalogue[1].id);assert.equal(recentUnits('memory-only',catalogue)[0].id,'cults/stealers');
+console.log('PASS: recent cards isolated by game/player, current faction filtering, deduplication, reload persistence, memory fallback.');

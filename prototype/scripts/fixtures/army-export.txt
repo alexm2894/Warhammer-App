@@ -1,0 +1,60 @@
+(515 Points)
+
+Genestealer Cults
+Brood Brothers Auxilia and Host of Ascension (5 Detachment Points)
+Take and Hold
+Incursion (1,000 Points)
+
+CHARACTERS
+
+Biophagus (50 Points)
+ • 1x Alchemicus Familiar
+ • 1x Autopistol
+ • 1x Chemical vials
+ • 1x Injector goad
+
+Jackal Alphus (55 Points)
+ • 1x Autopistol
+ • 1x Close combat weapon
+ • 1x Cult sniper rifle
+
+Kelermorph (60 Points)
+ • 1x Close combat weapon
+ • 1x Liberator autostubs
+
+BATTLELINE
+
+Acolyte Hybrids with Autopistols (70 Points)
+ • 1x Acolyte Leader
+    ◦ 1x Autopistol
+    ◦ 1x Cult claws and knife
+ • 4x Acolyte Hybrid
+    ◦ 4x Autopistol
+    ◦ 4x Cult claws and knife
+
+Acolyte Hybrids with Hand Flamers (75 Points)
+ • 1x Acolyte Leader
+    ◦ 1x Cult claws and knife
+    ◦ 1x Hand flamer
+ • 4x Acolyte Hybrid
+    ◦ 4x Cult claws and knife
+    ◦ 4x Hand flamer
+
+OTHER DATASHEETS
+
+Atalan Jackals (85 Points)
+ • 4x Atalan Jackal
+    ◦ 4x Atalan small arms
+    ◦ 4x Close combat weapon
+ • 1x Atalan Wolfquad
+    ◦ 1x Atalan small arms
+    ◦ 1x Close combat weapon
+    ◦ 1x Heavy stubber
+
+Goliath Rockgrinder (120 Points)
+ • 1x Demolition charge cache
+ • 1x Drilldozer blade
+ • 1x Heavy mining laser
+ • 1x Heavy stubber
+
+Exported with App Version: v2.6.0 (3), Data Version: v946

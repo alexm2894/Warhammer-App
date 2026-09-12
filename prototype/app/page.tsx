@@ -1,0 +1,3 @@
+import {BookOpen,Swords} from 'lucide-react';
+import AppShell from '@/components/app-shell';
+export default function Home(){return <AppShell title="Tabletop companion"><section className="home-screen"><div><span className="eyebrow">YOUR TABLETOP COMPANION</span><h1>Choose your mission.</h1></div><div className="home-tiles"><a href="/lookup"><BookOpen size={48}/><h2>Datasheet lookup</h2><p>Speak a name. Open any indexed unit.</p><span>Open lookup →</span></a><a href="/versus"><Swords size={48}/><h2>Current game · Versus</h2><p>Muster teams, select combatants and work through an attack.</p><span>Enter the battlefield →</span></a></div></section></AppShell>;}

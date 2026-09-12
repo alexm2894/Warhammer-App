@@ -1,0 +1,615 @@
+[
+  {
+    "id": "adeptus-custodes/Custodian-Guard",
+    "name": "Custodian Guard",
+    "faction": "Adeptus Custodes",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+    "profiles": [
+      {
+        "name": "",
+        "stats": [
+          {
+            "label": "M",
+            "value": "6\""
+          },
+          {
+            "label": "T",
+            "value": "6"
+          },
+          {
+            "label": "SV",
+            "value": "2+"
+          },
+          {
+            "label": "W",
+            "value": "3"
+          },
+          {
+            "label": "LD",
+            "value": "6+"
+          },
+          {
+            "label": "OC",
+            "value": "2"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Guardian spear",
+        "kind": "ranged",
+        "keywords": [
+          "assault"
+        ],
+        "range": "24\"",
+        "attacks": "2",
+        "skill": "2+",
+        "strength": "4",
+        "ap": "-1",
+        "damage": "2"
+      },
+      {
+        "name": "Sentinel blade",
+        "kind": "ranged",
+        "keywords": [
+          "assault",
+          "pistol"
+        ],
+        "range": "12\"",
+        "attacks": "2",
+        "skill": "2+",
+        "strength": "4",
+        "ap": "-1",
+        "damage": "2"
+      },
+      {
+        "name": "Guardian spear",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "5",
+        "skill": "2+",
+        "strength": "7",
+        "ap": "-2",
+        "damage": "2"
+      },
+      {
+        "name": "Misericordia",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "5",
+        "skill": "2+",
+        "strength": "5",
+        "ap": "-2",
+        "damage": "1"
+      },
+      {
+        "name": "Sentinel blade",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "5",
+        "skill": "2+",
+        "strength": "6",
+        "ap": "-2",
+        "damage": "1"
+      }
+    ],
+    "sections": [
+      {
+        "title": "CORE ABILITIES",
+        "paragraphs": [
+          "Deep Strike"
+        ]
+      },
+      {
+        "title": "ARMY RULES",
+        "paragraphs": [
+          "Martial Ka’tah"
+        ]
+      },
+      {
+        "title": "ABILITIES",
+        "paragraphs": [
+          "Stand Vigil: Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead.",
+          "Sentinel Storm: Once per battle, in your Shooting phase, after this unit has shot, it can shoot again.",
+          "Praesidium Shield: Add 1 to the bearer’s Wounds characteristic.",
+          "Vexilla: Add 1 to the Objective Control characteristic of models in the bearer’s unit."
+        ]
+      },
+      {
+        "title": "UNIT COMPOSITION",
+        "paragraphs": [
+          "• 4-5 Custodian Guard\nEvery model is equipped with: guardian spear.",
+          "YOUR 1ST TO 3RD UNITS COST\n4 models 170\n5 models 215\nYOUR 4TH + UNIT COSTS\n4 models 180\n5 models 225"
+        ]
+      }
+    ],
+    "wargear": [
+      "• Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1 praesidium shield.\n• 1 model’s guardian spear can be replaced with one of the following:\n• 1 vexilla and 1 misericordia\n• 1 vexilla, 1 misericordia and 1 praesidium shield"
+    ],
+    "invulnerableSave": "4+",
+    "invulnerableCondition": "",
+    "keywords": "INFANTRY; BATTLELINE; IMPERIUM; CUSTODIAN GUARD",
+    "factionKeywords": "ADEPTUS CUSTODES",
+    "source": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+      "retrievedAt": "2026-09-11T08:51:36.640Z",
+      "parserVersion": 3,
+      "edition": 11,
+      "mode": "snapshot"
+    }
+  },
+  {
+    "id": "necrons/Necron-Warriors",
+    "name": "Necron Warriors",
+    "faction": "Necrons",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Necron-Warriors",
+    "profiles": [
+      {
+        "name": "",
+        "stats": [
+          {
+            "label": "M",
+            "value": "5\""
+          },
+          {
+            "label": "T",
+            "value": "4"
+          },
+          {
+            "label": "SV",
+            "value": "4+"
+          },
+          {
+            "label": "W",
+            "value": "1"
+          },
+          {
+            "label": "LD",
+            "value": "7+"
+          },
+          {
+            "label": "OC",
+            "value": "2"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Gauss flayer",
+        "kind": "ranged",
+        "keywords": [
+          "lethal hits",
+          "rapid fire 1"
+        ],
+        "range": "24\"",
+        "attacks": "1",
+        "skill": "4+",
+        "strength": "4",
+        "ap": "0",
+        "damage": "1"
+      },
+      {
+        "name": "Gauss reaper",
+        "kind": "ranged",
+        "keywords": [
+          "lethal hits"
+        ],
+        "range": "12\"",
+        "attacks": "2",
+        "skill": "4+",
+        "strength": "4",
+        "ap": "-1",
+        "damage": "1"
+      },
+      {
+        "name": "Close combat weapon",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "1",
+        "skill": "4+",
+        "strength": "4",
+        "ap": "0",
+        "damage": "1"
+      }
+    ],
+    "sections": [
+      {
+        "title": "ARMY RULES",
+        "paragraphs": [
+          "Reanimation Protocols"
+        ]
+      },
+      {
+        "title": "ABILITIES",
+        "paragraphs": [
+          "Their Number is Legion: Each time this unit’s Reanimation Protocols activate, you can re-roll the dice to see how many wounds are reanimated."
+        ]
+      },
+      {
+        "title": "UNIT COMPOSITION",
+        "paragraphs": [
+          "• 10-20 Necron Warriors\nEvery model is equipped with: gauss flayer; close combat weapon.",
+          "YOUR UNIT COSTS\n10 models 85\n20 models 190"
+        ]
+      }
+    ],
+    "wargear": [
+      "• Any number of models can each have their gauss flayer replaced with 1 gauss reaper."
+    ],
+    "invulnerableSave": "",
+    "invulnerableCondition": "",
+    "keywords": "INFANTRY; BATTLELINE; NECRON WARRIORS",
+    "factionKeywords": "NECRONS",
+    "source": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Necron-Warriors",
+      "retrievedAt": "2026-09-11T08:51:34.946Z",
+      "parserVersion": 3,
+      "edition": 11,
+      "mode": "snapshot"
+    }
+  },
+  {
+    "id": "space-marines/Terminator-Squad",
+    "name": "Terminator Squad",
+    "faction": "Space Marines",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Squad",
+    "profiles": [
+      {
+        "name": "",
+        "stats": [
+          {
+            "label": "M",
+            "value": "5\""
+          },
+          {
+            "label": "T",
+            "value": "5"
+          },
+          {
+            "label": "SV",
+            "value": "2+"
+          },
+          {
+            "label": "W",
+            "value": "3"
+          },
+          {
+            "label": "LD",
+            "value": "6+"
+          },
+          {
+            "label": "OC",
+            "value": "1"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Assault cannon",
+        "kind": "ranged",
+        "keywords": [
+          "devastating wounds"
+        ],
+        "range": "24\"",
+        "attacks": "6",
+        "skill": "3+",
+        "strength": "6",
+        "ap": "0",
+        "damage": "1"
+      },
+      {
+        "name": "Cyclone missile launcher – frag",
+        "kind": "ranged",
+        "keywords": [
+          "blast"
+        ],
+        "range": "36\"",
+        "attacks": "2D6",
+        "skill": "3+",
+        "strength": "4",
+        "ap": "0",
+        "damage": "1"
+      },
+      {
+        "name": "Cyclone missile launcher – krak",
+        "kind": "ranged",
+        "keywords": [],
+        "range": "36\"",
+        "attacks": "2",
+        "skill": "3+",
+        "strength": "9",
+        "ap": "-2",
+        "damage": "D6"
+      },
+      {
+        "name": "Heavy flamer",
+        "kind": "ranged",
+        "keywords": [
+          "ignores cover",
+          "torrent"
+        ],
+        "range": "12\"",
+        "attacks": "D6",
+        "skill": "N/A",
+        "strength": "5",
+        "ap": "-1",
+        "damage": "1"
+      },
+      {
+        "name": "Storm bolter",
+        "kind": "ranged",
+        "keywords": [
+          "rapid fire 2"
+        ],
+        "range": "24\"",
+        "attacks": "2",
+        "skill": "3+",
+        "strength": "4",
+        "ap": "0",
+        "damage": "1"
+      },
+      {
+        "name": "Chainfist",
+        "kind": "melee",
+        "keywords": [
+          "anti-vehicle 3+"
+        ],
+        "range": "Melee",
+        "attacks": "3",
+        "skill": "4+",
+        "strength": "8",
+        "ap": "-2",
+        "damage": "2"
+      },
+      {
+        "name": "Power fist",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "3",
+        "skill": "3+",
+        "strength": "8",
+        "ap": "-2",
+        "damage": "2"
+      },
+      {
+        "name": "Power weapon",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "4",
+        "skill": "3+",
+        "strength": "5",
+        "ap": "-2",
+        "damage": "1"
+      }
+    ],
+    "sections": [
+      {
+        "title": "CORE ABILITIES",
+        "paragraphs": [
+          "Deep Strike"
+        ]
+      },
+      {
+        "title": "ARMY RULES",
+        "paragraphs": [
+          "Oath of Moment"
+        ]
+      },
+      {
+        "title": "ABILITIES",
+        "paragraphs": [
+          "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" of that token and not within 8\" of any enemy models. That token is then removed.",
+          "Fury of the First: Each time a model in this unit makes an attack that targets your Oath of Moment target, add 1 to the Hit roll."
+        ]
+      },
+      {
+        "title": "UNIT COMPOSITION",
+        "paragraphs": [
+          "• 1 Terminator Sergeant\n\n• 4-9 Terminators\nEvery model is equipped with: storm bolter; power fist.",
+          "YOUR UNIT COSTS\nYOUR UNIT COSTS\n5 models 160\n5 models 160\n10 models 320\n10 models 320\nYOUR UNIT COSTS\n5 models 160\n10 models 320"
+        ]
+      }
+    ],
+    "wargear": [
+      "• For every 5 models in this unit, 1 Terminator’s storm bolter can be replaced with one of the following:\n• 1 assault cannon\n• 1 heavy flamer\n• 1 cyclone missile launcher and 1 storm bolter.*\n\n• Any number of models can each have their power fist replaced with 1 chainfist.\n• The Terminator Sergeant’s power fist can be replaced with 1 power weapon.\n\n* This model’s storm bolter cannot be replaced."
+    ],
+    "invulnerableSave": "4+",
+    "invulnerableCondition": "",
+    "keywords": "INFANTRY; IMPERIUM; TERMINATOR; TERMINATOR SQUAD, DEATHWING",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "source": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Squad",
+      "retrievedAt": "2026-09-11T08:51:36.093Z",
+      "parserVersion": 3,
+      "edition": 11,
+      "mode": "snapshot"
+    }
+  },
+  {
+    "id": "genestealer-cults/Purestrain-Genestealers",
+    "name": "Purestrain Genestealers",
+    "faction": "Genestealer Cults",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/Purestrain-Genestealers",
+    "profiles": [
+      {
+        "name": "",
+        "stats": [
+          {
+            "label": "M",
+            "value": "8\""
+          },
+          {
+            "label": "T",
+            "value": "4"
+          },
+          {
+            "label": "SV",
+            "value": "5+"
+          },
+          {
+            "label": "W",
+            "value": "2"
+          },
+          {
+            "label": "LD",
+            "value": "7+"
+          },
+          {
+            "label": "OC",
+            "value": "1"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Cult claws and talons",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "4",
+        "skill": "2+",
+        "strength": "4",
+        "ap": "-2",
+        "damage": "1"
+      }
+    ],
+    "sections": [
+      {
+        "title": "CORE ABILITIES",
+        "paragraphs": [
+          "Deep Strike, Infiltrators"
+        ]
+      },
+      {
+        "title": "ARMY RULES",
+        "paragraphs": [
+          "Cult Ambush"
+        ]
+      },
+      {
+        "title": "ABILITIES",
+        "paragraphs": [
+          "Swift and Deadly: This unit is eligible to declare a charge in a turn in which it Advanced."
+        ]
+      },
+      {
+        "title": "UNIT COMPOSITION",
+        "paragraphs": [
+          "• 5-10 Purestrain Genestealers\nEvery model is equipped with: cult claws and talons.",
+          "YOUR 1ST TO 2ND UNITS COST\n5 models 75\n10 models 140\nYOUR 3RD + UNIT COSTS\n5 models 85\n10 models 150"
+        ]
+      }
+    ],
+    "wargear": [],
+    "invulnerableSave": "5+",
+    "invulnerableCondition": "",
+    "keywords": "INFANTRY; GREAT DEVOURER; PURESTRAIN GENESTEALERS",
+    "factionKeywords": "GENESTEALER CULTS",
+    "source": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/Purestrain-Genestealers",
+      "retrievedAt": "2026-09-11T08:51:37.156Z",
+      "parserVersion": 3,
+      "edition": 11,
+      "mode": "snapshot"
+    }
+  },
+  {
+    "id": "tyranids/Genestealers",
+    "name": "Genestealers",
+    "faction": "Tyranids",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Genestealers",
+    "profiles": [
+      {
+        "name": "",
+        "stats": [
+          {
+            "label": "M",
+            "value": "8\""
+          },
+          {
+            "label": "T",
+            "value": "4"
+          },
+          {
+            "label": "SV",
+            "value": "5+"
+          },
+          {
+            "label": "W",
+            "value": "2"
+          },
+          {
+            "label": "LD",
+            "value": "7+"
+          },
+          {
+            "label": "OC",
+            "value": "1"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Genestealer claws and talons",
+        "kind": "melee",
+        "keywords": [],
+        "range": "Melee",
+        "attacks": "4",
+        "skill": "2+",
+        "strength": "4",
+        "ap": "-2",
+        "damage": "1"
+      }
+    ],
+    "sections": [
+      {
+        "title": "CORE ABILITIES",
+        "paragraphs": [
+          "Scouts 8\""
+        ]
+      },
+      {
+        "title": "ARMY RULES",
+        "paragraphs": [
+          "Synapse"
+        ]
+      },
+      {
+        "title": "ABILITIES",
+        "paragraphs": [
+          "Vanguard Predator: Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target is within range of one or more objective markers, re-roll a Wound roll of 1 as well."
+        ]
+      },
+      {
+        "title": "UNIT COMPOSITION",
+        "paragraphs": [
+          "• 5-10 Genestealers\nEvery model is equipped with: Genestealer claws and talons.",
+          "YOUR 1ST TO 2ND UNITS COST\n5 models 75\n10 models 140\nYOUR 3RD + UNIT COSTS\n5 models 85\n10 models 150"
+        ]
+      }
+    ],
+    "wargear": [],
+    "invulnerableSave": "5+",
+    "invulnerableCondition": "",
+    "keywords": "INFANTRY; GREAT DEVOURER; VANGUARD INVADER; GENESTEALERS",
+    "factionKeywords": "TYRANIDS",
+    "source": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Genestealers",
+      "retrievedAt": "2026-09-11T08:51:38.235Z",
+      "parserVersion": 3,
+      "edition": 11,
+      "mode": "snapshot"
+    }
+  }
+]
