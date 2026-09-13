@@ -1,34 +1,2712 @@
 {
   "adeptus-custodes/Custodian-Guard": {
-    "url": "https://cdn2.philibertnet.com/731175-thickbox_default/w40k-adeptus-custodes-custodian-guard.jpg",
+    "url": "/images/units/0ceec063d839e471300e.jpg",
     "source": "https://www.philibertnet.com/en/adeptus-custodes/49742-w40k-adeptus-custodes-custodian-guard-5011921172016.html",
     "credit": "Games Workshop / Philibert",
     "kind": "miniature",
     "background": "white",
-    "verifiedAt": "2026-09-12"
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn2.philibertnet.com/731175-thickbox_default/w40k-adeptus-custodes-custodian-guard.jpg",
+    "sha256": "0ceec063d839e471300ee19ff093683fbd859497f11243743092a677216e5e35"
   },
   "genestealer-cults/Acolyte-Hybrids-With-Autopistols": {
-    "url": "https://www.ludifolie.com/44358-thickbox_default/warhammer-40k-genestealer-cults-acolyte-hybrids.jpg",
+    "url": "/images/units/97fa41bd29a04b938fb1.jpg",
     "source": "https://www.ludifolie.com/18644-warhammer-40k-genestealer-cults-acolyte-hybrids.html",
     "credit": "Games Workshop / Ludifolie",
     "kind": "miniature",
     "background": "white",
-    "verifiedAt": "2026-09-12"
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://www.ludifolie.com/44358-thickbox_default/warhammer-40k-genestealer-cults-acolyte-hybrids.jpg",
+    "sha256": "97fa41bd29a04b938fb147096faa6f89a80e46575b7f4636480458552d8478ba"
   },
   "genestealer-cults/Acolyte-Hybrids-With-Hand-Flamers": {
-    "url": "https://www.ludifolie.com/44358-thickbox_default/warhammer-40k-genestealer-cults-acolyte-hybrids.jpg",
+    "url": "/images/units/97fa41bd29a04b938fb1.jpg",
     "source": "https://www.ludifolie.com/18644-warhammer-40k-genestealer-cults-acolyte-hybrids.html",
     "credit": "Games Workshop / Ludifolie",
     "kind": "miniature",
     "background": "white",
-    "verifiedAt": "2026-09-12"
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://www.ludifolie.com/44358-thickbox_default/warhammer-40k-genestealer-cults-acolyte-hybrids.jpg",
+    "sha256": "97fa41bd29a04b938fb147096faa6f89a80e46575b7f4636480458552d8478ba"
   },
   "genestealer-cults/Kelermorph": {
-    "url": "https://agtom.eu/308476-thickbox_default/genestealer-cults-kelermorph.jpg",
+    "url": "/images/units/4a877312a2a1c64f17ac.jpg",
     "source": "https://agtom.eu/en/genestealer-cults/366743-genestealer-cults-kelermorph-5011921171903.html",
     "credit": "Games Workshop / Agtom",
     "kind": "miniature",
     "background": "white",
-    "verifiedAt": "2026-09-12"
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://agtom.eu/308476-thickbox_default/genestealer-cults-kelermorph.jpg",
+    "sha256": "4a877312a2a1c64f17ac120cd0f510fb18c7930caedc4e043cf873522fe93edd"
+  },
+  "tyranids/Tyranid-Prime-with-Lash-Whip": {
+    "url": "/images/units/b07b63dfcc556b02b2df.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/837819-thickbox_default/w40k-tyranids-primat-tyranide-avec-bioknout-5011921251810.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/172164-w40k-tyranids-primat-tyranide-avec-bioknout-5011921251810.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "b07b63dfcc556b02b2df431265d3ff1817836af14c81cf549485db82277c1e0a"
+  },
+  "tyranids/Von-Ryan-s-Leapers": {
+    "url": "/images/units/4eb46a54995f10d1c067.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/132885-w40k-tyranids-bondisseurs-de-von-ryan-5011921200368.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/606443-thickbox_default/w40k-tyranids-bondisseurs-de-von-ryan-5011921200368.jpg",
+    "sha256": "4eb46a54995f10d1c067f27a197ff96b7b634391a15347d50ec653c179a922e2"
+  },
+  "tyranids/Neurogaunts": {
+    "url": "/images/units/9298a450a8045bb7b964.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/132882-w40k-tyranids-neurogaunts-5011921200375.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/606433-thickbox_default/w40k-tyranids-neurogaunts-5011921200375.jpg",
+    "sha256": "9298a450a8045bb7b9643650107d1387be35a24851a192f0144963165171f9fb"
+  },
+  "tyranids/Broodlord": {
+    "url": "/images/units/28c405fafa52adb33568.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/43137-w40k-tyranids-broodlord-5011921173723.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/726921-thickbox_default/w40k-tyranids-broodlord-5011921173723.jpg",
+    "sha256": "28c405fafa52adb33568f382b68c77324541a207212f0d205e12fac3ed9c5cc7"
+  },
+  "tyranids/Zoanthropes": {
+    "url": "/images/units/43866331257ac69c4477.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/32654-venomthropes-5011921173709.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/730912-thickbox_default/venomthropes-5011921173709.jpg",
+    "sha256": "43866331257ac69c4477189cb25ffce8b20188b1d9dcc70af4b61be7e1acf3da"
+  },
+  "tyranids/Tyranid-Warriors-With-Ranged-Bio-weapons": {
+    "url": "/images/units/bb119906e3203c98f6be.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/27459-guerriers-tyranides-2014-5011921173716.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/723751-thickbox_default/guerriers-tyranides-2014-5011921173716.jpg",
+    "sha256": "bb119906e3203c98f6beeb6c49ecd4035adf2df4e3bdb474172a1b805b47fade"
+  },
+  "tyranids/Winged-Hive-Tyrant": {
+    "url": "/images/units/4b9221da846797c03d0c.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/16953-prince-tyranide-le-maitre-des-essaims--5011921173730.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/726907-thickbox_default/prince-tyranide-le-maitre-des-essaims--5011921173730.jpg",
+    "sha256": "4b9221da846797c03d0c7a8a8883dca93d248a450c1eafd8416cf0cb6b35f4c6"
+  },
+  "tyranids/Tyrannofex": {
+    "url": "/images/units/dcd0eaabad2e31901dd1.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/16952-tervigon-5011921173679.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/720607-thickbox_default/tervigon-5011921173679.jpg",
+    "sha256": "dcd0eaabad2e31901dd1c7a737854cda98eb345ea0cfa7deef8fd9b35f724042"
+  },
+  "tyranids/Gargoyles": {
+    "url": "/images/units/c7c68604628d493d058c.jpg",
+    "source": "https://www.philibertnet.com/en/tyranids/15914-essaim-de-gargouilles-tyranides-5011921173655.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-12",
+    "originalUrl": "https://cdn1.philibertnet.com/720636-thickbox_default/essaim-de-gargouilles-tyranides-5011921173655.jpg",
+    "sha256": "c7c68604628d493d058cb42f02a43f6eb2c2394a1ba01a771c588603e80d7fea"
+  },
+  "orks/Weirdboy": {
+    "url": "/images/units/7dbbea426d3fa71c464c.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885581-thickbox_default/w40k-orks-bizarboy-5011921267033.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181262-w40k-orks-bizarboy-5011921267033.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "7dbbea426d3fa71c464c0a8884ee1b9a4edfe76407dbba8a745957517eef41e1"
+  },
+  "orks/Mek": {
+    "url": "/images/units/a10de1762c7f502006f1.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885587-thickbox_default/w40k-orks-mek-5011921267101.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181264-w40k-orks-mek-5011921267101.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a10de1762c7f502006f10e1c1ba0543ba9397675c9ea2ea8d06d2d5ea8a303fc"
+  },
+  "orks/Trukk": {
+    "url": "/images/units/e3485f40a83f0b02f09b.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885590-thickbox_default/w40k-orks-kamion-5011921267095.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181265-w40k-orks-kamion-5011921267095.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "e3485f40a83f0b02f09b9e9765ff4d9822ab5d363ddf29b5a66e0f7d74d6d2cc"
+  },
+  "orks/Warbikers": {
+    "url": "/images/units/d5c2a44c0870c0c53fa6.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885595-thickbox_default/w40k-orks-motards-de-guerre-5011921267088.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181267-w40k-orks-motards-de-guerre-5011921267088.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d5c2a44c0870c0c53fa6f4d29162cfe6fcadd0907f0afeb564eb9399e60c577c"
+  },
+  "orks/Warboss": {
+    "url": "/images/units/2094e689cfe73e10dfd1.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885611-thickbox_default/w40k-orks-warboss-5011921267118.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181271-w40k-orks-warboss-5011921267118.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "2094e689cfe73e10dfd1eb2938f60253a5d2d145a9f57ae604b9389d3891f433"
+  },
+  "orks/Nazdreg": {
+    "url": "/images/units/ddf1391d9b3ed8e59a81.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885608-thickbox_default/w40k-orks-nazdreg-5011921267125.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181270-w40k-orks-nazdreg-5011921267125.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ddf1391d9b3ed8e59a8196d053ef35f41ac6805129829d86fdcff9207754b88d"
+  },
+  "orks/Big-Mek-Dakkarig": {
+    "url": "/images/units/501395d3d1b5216694b9.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885603-thickbox_default/w40k-orks-mekadakka-de-gros-mek-5011921267040.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181269-w40k-orks-mekadakka-de-gros-mek-5011921267040.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "501395d3d1b5216694b9710840a137a55695b35e6f82d10d96125d4cc7612f2f"
+  },
+  "orks/Boyz": {
+    "url": "/images/units/1d79ad6f4d24d5979b46.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/885599-thickbox_default/w40k-orks-boyz-5011921267064.jpg",
+    "source": "https://www.philibertnet.com/en/orks/181268-w40k-orks-boyz-5011921267064.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "1d79ad6f4d24d5979b46a1cd76e36ef850f255cf4b498455e22b08d157a2e84c"
+  },
+  "chaos-daemons/Fellgor-Beastmen": {
+    "url": "/images/units/3d63831c10966fae48df.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/877263-thickbox_default/w40k-empire-t-au-hommes-betes-affregors-5011921273324.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/179743-w40k-empire-t-au-hommes-betes-affregors-5011921273324.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "3d63831c10966fae48df4fc7bcacd1327ad4d42e4efc98baa5c2235fcba70734"
+  },
+  "chaos-knights/Fellgor-Beastmen": {
+    "url": "/images/units/3d63831c10966fae48df.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/877263-thickbox_default/w40k-empire-t-au-hommes-betes-affregors-5011921273324.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/179743-w40k-empire-t-au-hommes-betes-affregors-5011921273324.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "3d63831c10966fae48df4fc7bcacd1327ad4d42e4efc98baa5c2235fcba70734"
+  },
+  "chaos-space-marines/Fellgor-Beastmen": {
+    "url": "/images/units/3d63831c10966fae48df.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/877263-thickbox_default/w40k-empire-t-au-hommes-betes-affregors-5011921273324.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/179743-w40k-empire-t-au-hommes-betes-affregors-5011921273324.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "3d63831c10966fae48df4fc7bcacd1327ad4d42e4efc98baa5c2235fcba70734"
+  },
+  "orks/Wazdakka-Gutsmek": {
+    "url": "/images/units/4cc51cf27343df2bbef4.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/853228-thickbox_default/w40k-orks-wazdakka-gutsmek-5011921252343.jpg",
+    "source": "https://www.philibertnet.com/en/orks/175095-w40k-orks-wazdakka-gutsmek-5011921252343.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4cc51cf27343df2bbef4ff4bd7939c65f06403e81b6d409a920a37aacb30add3"
+  },
+  "imperial-knights/Knight-Destrier": {
+    "url": "/images/units/019c89fd012470a201dc.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/848345-thickbox_default/w40k-imperial-knights-chevalier-destrier-5011921252213.jpg",
+    "source": "https://www.philibertnet.com/en/imperial-knights/174162-w40k-imperial-knights-chevalier-destrier-5011921252213.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "019c89fd012470a201dc651faab5e2cf6181c62154bdbb91405c1557453f23f0"
+  },
+  "chaos-space-marines/Mutilators": {
+    "url": "/images/units/41e49aea87fef9f60468.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/848354-thickbox_default/w40k-space-marines-du-chaos-mutilators-5011921252299.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/174159-w40k-space-marines-du-chaos-mutilators-5011921252299.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "41e49aea87fef9f604689dc9ec129fbfaac54a665effa8693da0df6d951bc933"
+  },
+  "chaos-space-marines/Kravek-Morne": {
+    "url": "/images/units/f5f6328ace6b959a291f.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/848352-thickbox_default/w40k-chaos-space-marines-kravek-morne-5011921259267.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/174158-w40k-chaos-space-marines-kravek-morne-5011921259267.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "f5f6328ace6b959a291f68535fdedc503f23481a6933847bd98a55ae70224434"
+  },
+  "chaos-space-marines/Red-Corsairs-Raiders": {
+    "url": "/images/units/3e0d57ee2e5a256e0a57.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/837828-thickbox_default/w40k-space-marines-du-chaos-pillards-red-corsairs-5011921251711.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/172159-w40k-space-marines-du-chaos-pillards-red-corsairs-5011921251711.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "3e0d57ee2e5a256e0a5787270edfc0e7d868c11efd23458b6b99da31f1b1df47"
+  },
+  "necrons/Nekrosor-Ammentar": {
+    "url": "/images/units/a65fe1222c1b7655535f.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/823065-thickbox_default/w40k-necrons-nekrosor-ammentar-5011921249527.jpg",
+    "source": "https://www.philibertnet.com/en/necrons/169275-w40k-necrons-nekrosor-ammentar-5011921249527.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a65fe1222c1b7655535f55eb424ad0c53473ff44136eda2a4848dee912ed158c"
+  },
+  "necrons/C-tan-Shard-of-the-Nightbringer": {
+    "url": "/images/units/835299e11c483ee9bddb.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/823060-thickbox_default/w40k-necrons-echarde-c-tan-du-nyctophore-5011921249510.jpg",
+    "source": "https://www.philibertnet.com/en/necrons/169274-w40k-necrons-echarde-c-tan-du-nyctophore-5011921249510.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "835299e11c483ee9bddbf6812e9298b548a7031e9171b3fe54a219d3c58d3671"
+  },
+  "space-marines/Terminator-Assault-Squad": {
+    "url": "/images/units/26e80ef46a758f542cc9.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/812476-thickbox_default/w40k-space-marines-scouade-d-assaut-terminator-5011921248773.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/167067-w40k-space-marines-scouade-d-assaut-terminator-5011921248773.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "26e80ef46a758f542cc95875b7cb14780732d9f2bcf3a5b27af10e0c36c83fe4"
+  },
+  "space-marines/Ancient-In-Terminator-Armour": {
+    "url": "/images/units/d95140638fd06777fbcf.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/812472-thickbox_default/w40k-space-marines-doyen-en-armure-terminator-5011921248780.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/167066-w40k-space-marines-doyen-en-armure-terminator-5011921248780.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d95140638fd06777fbcf4aa9b468ffcee3e6a2bf65d1413ef847c17fe69dd33a"
+  },
+  "chaos-daemons/Traitor-Guardsmen-Squad": {
+    "url": "/images/units/ff45ad26cc5fed7ad666.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804728-thickbox_default/w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165629-w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ff45ad26cc5fed7ad6665525d6f05f3306e71ae58c03b6467904f11e4529c571"
+  },
+  "chaos-knights/Traitor-Guardsmen-Squad": {
+    "url": "/images/units/ff45ad26cc5fed7ad666.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804728-thickbox_default/w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165629-w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ff45ad26cc5fed7ad6665525d6f05f3306e71ae58c03b6467904f11e4529c571"
+  },
+  "chaos-space-marines/Traitor-Guardsmen-Squad": {
+    "url": "/images/units/ff45ad26cc5fed7ad666.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804728-thickbox_default/w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165629-w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ff45ad26cc5fed7ad6665525d6f05f3306e71ae58c03b6467904f11e4529c571"
+  },
+  "chaos-daemons/Traitor-Enforcer": {
+    "url": "/images/units/a12bea45b5fef71eab21.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804722-thickbox_default/w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165628-w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a12bea45b5fef71eab211610c8112f7384aeb596ff2ccb85e327abb6a81750b6"
+  },
+  "chaos-knights/Traitor-Enforcer": {
+    "url": "/images/units/a12bea45b5fef71eab21.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804722-thickbox_default/w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165628-w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a12bea45b5fef71eab211610c8112f7384aeb596ff2ccb85e327abb6a81750b6"
+  },
+  "chaos-space-marines/Traitor-Enforcer": {
+    "url": "/images/units/a12bea45b5fef71eab21.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804722-thickbox_default/w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165628-w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a12bea45b5fef71eab211610c8112f7384aeb596ff2ccb85e327abb6a81750b6"
+  },
+  "chaos-daemons/Legionaries": {
+    "url": "/images/units/40239cc317813fe48527.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804715-thickbox_default/w40k-space-marines-du-chaos-legionnaires-5011921248414.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165627-w40k-space-marines-du-chaos-legionnaires-5011921248414.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "40239cc317813fe485276294c7a5870ea235f9fcb3c5e02ab20191dfa276d38f"
+  },
+  "chaos-space-marines/Legionaries": {
+    "url": "/images/units/40239cc317813fe48527.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/804715-thickbox_default/w40k-space-marines-du-chaos-legionnaires-5011921248414.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/165627-w40k-space-marines-du-chaos-legionnaires-5011921248414.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "40239cc317813fe485276294c7a5870ea235f9fcb3c5e02ab20191dfa276d38f"
+  },
+  "thousand-sons/Sekhetar-Robots": {
+    "url": "/images/units/3de3d7f9c3a34c1955b2.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/790176-thickbox_default/w40k-thousand-sons-robots-sekhetar-5011921225811.jpg",
+    "source": "https://www.philibertnet.com/en/thousand-sons/162771-w40k-thousand-sons-robots-sekhetar-5011921225811.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "3de3d7f9c3a34c1955b272c6e55eca9215be9d3cb793553b285143da70002289"
+  },
+  "imperial-knights/Knight-Paladin": {
+    "url": "/images/units/2cde94835bfaba30c61e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/790096-thickbox_default/w40k-imperial-knights-chevalier-questoris-5011921225071.jpg",
+    "source": "https://www.philibertnet.com/en/imperial-knights/162752-w40k-imperial-knights-chevalier-questoris-5011921225071.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "2cde94835bfaba30c61e4bf72938b91230183129f57fd083d916ef084aeaf61b"
+  },
+  "world-eaters/Slaughterbound": {
+    "url": "/images/units/1cf08aa9d0fa5674e022.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/781473-thickbox_default/w40k-world-eaters-occilie-5011921225835.jpg",
+    "source": "https://www.philibertnet.com/en/world-eaters/161630-w40k-world-eaters-occilie-5011921225835.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "1cf08aa9d0fa5674e0223c143892207af1a8faff3b1f9b44f44eadbabe288870"
+  },
+  "death-guard/Lord-of-Poxes": {
+    "url": "/images/units/fd11cc5d74c90ead2801.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/781470-thickbox_default/w40k-death-guard-seigneur-des-veroles-5011921225828.jpg",
+    "source": "https://www.philibertnet.com/en/death-guard/161629-w40k-death-guard-seigneur-des-veroles-5011921225828.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "fd11cc5d74c90ead280172a6317ac810de92a76332631b04d5ffa8c93c59a91d"
+  },
+  "space-marines/Drop-Pod": {
+    "url": "/images/units/e634a590fa7265c0d7c8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/771385-thickbox_default/w40k-adeptus-astartes-modules-de-largage-5011921229154.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/159597-w40k-adeptus-astartes-modules-de-largage-5011921229154.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "e634a590fa7265c0d7c84b44c94aaaf955145214de8870bdaea6463f54484515"
+  },
+  "chaos-knights/Knight-Ruinator": {
+    "url": "/images/units/fb2be8eb2d732b198790.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/763490-thickbox_default/w40k-chaos-knight-chevalier-ruineur-5011921225095.jpg",
+    "source": "https://www.philibertnet.com/en/chaos-knights/158696-w40k-chaos-knight-chevalier-ruineur-5011921225095.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "fb2be8eb2d732b198790f583765a11343c21695e2d50c3ba628e8a5802a72362"
+  },
+  "emperor-s-children/Lord-Kakophonist": {
+    "url": "/images/units/7e2bf74f5e547a473ed8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746690-thickbox_default/w40k-emperor-s-children-seigneur-kakophoniste-5011921225927.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156076-w40k-emperor-s-children-seigneur-kakophoniste-5011921225927.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "7e2bf74f5e547a473ed82612e11b2059ac0210a418847d8b6bac11384b6827a0"
+  },
+  "emperor-s-children/Tormentors": {
+    "url": "/images/units/96633aa0eccd814e91ff.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746682-thickbox_default/w40k-emperor-s-children-tourmenteurs-5011921225903.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156074-w40k-emperor-s-children-tourmenteurs-5011921225903.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "96633aa0eccd814e91fff2a6683075f0f6cf57f1af2d07f681dd64aecac0b4da"
+  },
+  "emperor-s-children/Lord-Exultant": {
+    "url": "/images/units/9de7e54277c52a24c0ed.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746678-thickbox_default/w40k-emperor-s-children-seigneur-exultant-5011921225934.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156073-w40k-emperor-s-children-seigneur-exultant-5011921225934.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "9de7e54277c52a24c0edf78d1b6da2c51df628f88d518f92b68e6d618291ca08"
+  },
+  "chaos-space-marines/Noise-Marines": {
+    "url": "/images/units/44726ac911b2b3e6f7b2.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746669-thickbox_default/w40k-emperor-s-children-marines-du-vacarme-5011921225910.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156070-w40k-emperor-s-children-marines-du-vacarme-5011921225910.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "44726ac911b2b3e6f7b2fbd4d6965d6961cec5150ff85af718b5d21d40894629"
+  },
+  "emperor-s-children/Noise-Marines": {
+    "url": "/images/units/44726ac911b2b3e6f7b2.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746669-thickbox_default/w40k-emperor-s-children-marines-du-vacarme-5011921225910.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156070-w40k-emperor-s-children-marines-du-vacarme-5011921225910.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "44726ac911b2b3e6f7b2fbd4d6965d6961cec5150ff85af718b5d21d40894629"
+  },
+  "emperor-s-children/Lucius-the-Eternal": {
+    "url": "/images/units/9b9c3abca5e5f76db287.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746666-thickbox_default/w40k-emperor-s-children-lucius-l-eternel-5011921225880.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156069-w40k-emperor-s-children-lucius-l-eternel-5011921225880.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "9b9c3abca5e5f76db28797abf02c67a49e27c548ab4347b5480c549850496e3b"
+  },
+  "emperor-s-children/Flawless-Blades": {
+    "url": "/images/units/4a6352d22720d08a2a67.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746661-thickbox_default/w40k-emperor-s-children-lames-infaillibles-5011921225897.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156068-w40k-emperor-s-children-lames-infaillibles-5011921225897.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4a6352d22720d08a2a67d4c892d69c0022c26cf64cce905371bc98df9b4bc806"
+  },
+  "emperor-s-children/Fulgrim": {
+    "url": "/images/units/a538f32290e3e98057bc.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/746657-thickbox_default/w40k-emperor-s-children-fulgrim-primarque-demon-de-slaanesh-5011921225873.jpg",
+    "source": "https://www.philibertnet.com/en/emperor-s-children/156067-w40k-emperor-s-children-fulgrim-primarque-demon-de-slaanesh-5011921225873.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a538f32290e3e98057bc1a4023bb9be712c726013b34c58ae6dba3fa93652d50"
+  },
+  "chaos-daemons/Chaos-Lord": {
+    "url": "/images/units/44b05a82c16046655841.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/680617-thickbox_default/w40k-space-marines-du-chaos-seigneur-du-chaos-5011921225101.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/145858-w40k-space-marines-du-chaos-seigneur-du-chaos-5011921225101.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "44b05a82c160466558415ce29fe90426d0667bfedfbc7d0144ff9084472398f6"
+  },
+  "chaos-space-marines/Chaos-Lord": {
+    "url": "/images/units/44b05a82c16046655841.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/680617-thickbox_default/w40k-space-marines-du-chaos-seigneur-du-chaos-5011921225101.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/145858-w40k-space-marines-du-chaos-seigneur-du-chaos-5011921225101.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "44b05a82c160466558415ce29fe90426d0667bfedfbc7d0144ff9084472398f6"
+  },
+  "orks/Kommandos": {
+    "url": "/images/units/d0db980b23fd66e975e6.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/787976-thickbox_default/kill-team-kommandos-5011921251544.jpg",
+    "source": "https://www.philibertnet.com/en/orks/144402-kill-team-kommandos-5011921251544.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d0db980b23fd66e975e641134b2d68dd8580c5ca33e5cb8d2c36b3c94d13a850"
+  },
+  "orks/Big-Mek": {
+    "url": "/images/units/6a745ee2ba85cac02d1c.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/635725-thickbox_default/w40k-orks-gros-mek-5011921218257.jpg",
+    "source": "https://www.philibertnet.com/en/orks/139580-w40k-orks-gros-mek-5011921218257.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "6a745ee2ba85cac02d1c8867127ab68335446dc0e0152081263dc72c58fafbda"
+  },
+  "t-au-empire/Kroot-Lone-Spear": {
+    "url": "/images/units/a51781b7cd40d4ccbc3d.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/628165-thickbox_default/w40k-empire-t-au-solilance-kroot-5011921204557.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/137845-w40k-empire-t-au-solilance-kroot-5011921204557.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a51781b7cd40d4ccbc3d7ff87081cfceddd22c92745bdbd5c0e4b59615b7a6ad"
+  },
+  "t-au-empire/Kroot-Hounds": {
+    "url": "/images/units/67eaadadad115c142ea0.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/628152-thickbox_default/w40k-empire-t-au-chiens-kroots-5011921204496.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/137842-w40k-empire-t-au-chiens-kroots-5011921204496.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "67eaadadad115c142ea010f906705383b3aec0f745310c182e0fff2924e29ecb"
+  },
+  "t-au-empire/Kroot-War-Shaper": {
+    "url": "/images/units/9fdb732f407c91700add.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/628134-thickbox_default/w40k-empire-t-au-mentor-de-guerre-kroot-5011921204939.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/137836-w40k-empire-t-au-mentor-de-guerre-kroot-5011921204939.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "9fdb732f407c91700addb2a45d3171e139f00b30cebc4d553f9b3c34d3ae7334"
+  },
+  "t-au-empire/Krootox-Riders": {
+    "url": "/images/units/df265826ff1643ef7c53.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/628128-thickbox_default/w40k-empire-t-au-cavalier-krootox-5011921204434.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/137834-w40k-empire-t-au-cavalier-krootox-5011921204434.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "df265826ff1643ef7c53c2847b607cd7200614a8a97e5adad3525ce1b82ed46c"
+  },
+  "necrons/Triarch-Stalker": {
+    "url": "/images/units/79ca4370ab00205fcae3.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/626989-thickbox_default/w40k-necrons-triarch-stalker-5011921139170.jpg",
+    "source": "https://www.philibertnet.com/en/necrons/137624-w40k-necrons-triarch-stalker-5011921139170.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "79ca4370ab00205fcae3dc85bf709b5e3d056addf9240d640c28d99bfb9536e9"
+  },
+  "space-marines/Deathwing-Knights": {
+    "url": "/images/units/75d192fb1a345af9b986.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/614656-thickbox_default/w40k-adeptus-astartes-dark-angels-chevaliers-de-la-deathwing-5011921203697.jpg",
+    "source": "https://www.philibertnet.com/en/dark-angels/134944-w40k-adeptus-astartes-dark-angels-chevaliers-de-la-deathwing-5011921203697.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "75d192fb1a345af9b986b2c4f76b2c01ed83c72fc5829338aeb4d4e550f2489d"
+  },
+  "space-marines/Captain-In-Terminator-Armour": {
+    "url": "/images/units/d30cb624b15fe4e93f21.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/613818-thickbox_default/w40k-adeptus-astartes-capitaine-en-armure-terminator-5011921201327.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/134719-w40k-adeptus-astartes-capitaine-en-armure-terminator-5011921201327.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d30cb624b15fe4e93f2107e2d48aadce44dd6b3990ea46991bfbf8cf887cec73"
+  },
+  "space-marines/Infernus-Squad": {
+    "url": "/images/units/f5b51120d77a1fbcc7d8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/613811-thickbox_default/w40k-adeptus-astartes-escouade-infernus-5011921200481.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/134718-w40k-adeptus-astartes-escouade-infernus-5011921200481.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "f5b51120d77a1fbcc7d809d83634a2f1113bcd700451e7a21084c6c865486232"
+  },
+  "space-marines/Ballistus-Dreadnought": {
+    "url": "/images/units/c0b62ca5146a476af2c9.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/613807-thickbox_default/w40k-adeptus-astartes-dreadnought-ballistus-5011921200504.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/134717-w40k-adeptus-astartes-dreadnought-ballistus-5011921200504.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "c0b62ca5146a476af2c901d22979dad0d7284823cbdf219b2faa1f725c814bee"
+  },
+  "imperial-knights/Knight-Castellan": {
+    "url": "/images/units/934550ed7edbef2e507f.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/877962-thickbox_default/w40k-imperial-knights-knights-dominus-5011921174003.jpg",
+    "source": "https://www.philibertnet.com/en/chaos-knights/109854-w40k-imperial-knights-knights-dominus-5011921174003.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "934550ed7edbef2e507fc8e68462c1df19c9fd3625a20c7d27698085afa5b6d5"
+  },
+  "imperial-knights/Knight-Valiant": {
+    "url": "/images/units/3e378367272a3392d9a7.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/877964-thickbox_default/w40k-imperial-knights-knights-dominus-5011921174003.jpg",
+    "source": "https://www.philibertnet.com/en/chaos-knights/109854-w40k-imperial-knights-knights-dominus-5011921174003.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "3e378367272a3392d9a79cd36c2a22234f7b1bdc8e2f5eca795d18f616d9ad66"
+  },
+  "space-marines/Infiltrator-Squad": {
+    "url": "/images/units/fd71047b5826e8b742a7.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/723756-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-infiltrators-5011921142545.jpg",
+    "source": "https://www.philibertnet.com/en/jeux-de-figurines/82103-w40k-adeptus-astartes-space-marines-primaris-infiltrators-5011921142545.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "fd71047b5826e8b742a7176d41c2dffefb95e9bc8bf20980adb90a942c456e7e"
+  },
+  "space-marines/Impulsor": {
+    "url": "/images/units/95c4d5fa621f9207b340.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/763168-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-impulsor-5011921142538.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/82102-w40k-adeptus-astartes-space-marines-primaris-impulsor-5011921142538.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "95c4d5fa621f9207b340834d5b2e2197b741c7586af54da45ccb547b03678e78"
+  },
+  "space-marines/Impulsor-1": {
+    "url": "/images/units/95c4d5fa621f9207b340.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/763168-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-impulsor-5011921142538.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/82102-w40k-adeptus-astartes-space-marines-primaris-impulsor-5011921142538.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "95c4d5fa621f9207b340834d5b2e2197b741c7586af54da45ccb547b03678e78"
+  },
+  "space-marines/Eliminator-Squad": {
+    "url": "/images/units/00f6824f5a135af12323.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779723-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-eliminators-5011921142521.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/80673-w40k-adeptus-astartes-space-marines-primaris-eliminators-5011921142521.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "00f6824f5a135af12323fa41d3eef1c8684170e26b710ee00ef83807e444cf4b"
+  },
+  "space-marines/Invictor-Tactical-Warsuit": {
+    "url": "/images/units/044fbbb51b045334aea8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779729-thickbox_default/w40k-adeptus-astartes-primaris-invictor-tactical-warsuit-5011921142552.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/79882-w40k-adeptus-astartes-primaris-invictor-tactical-warsuit-5011921142552.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "044fbbb51b045334aea876f003495baa9167bdb23c31186fa8dee3fd87dcafe6"
+  },
+  "chaos-space-marines/Lord-Discordant-On-Helstalker": {
+    "url": "/images/units/597f39835a336379cfa5.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/752999-thickbox_default/w40k-chaos-space-marines-vex-machinator-arch-lord-discordant-5011921178278.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/75898-w40k-chaos-space-marines-vex-machinator-arch-lord-discordant-5011921178278.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "597f39835a336379cfa50b190bf618c710b8628d2521821d51f31de70fb31d46"
+  },
+  "chaos-daemons/Chaos-Terminator-Squad": {
+    "url": "/images/units/24b1c072e2f383dcc6a1.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/740121-thickbox_default/w40k-chaos-space-marines-terminators-5011921178247.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/75790-w40k-chaos-space-marines-terminators-5011921178247.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "24b1c072e2f383dcc6a13d90dcfab9c9fa718f45fb42631c64ed87f1494f94a2"
+  },
+  "chaos-space-marines/Chaos-Terminator-Squad": {
+    "url": "/images/units/24b1c072e2f383dcc6a1.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/740121-thickbox_default/w40k-chaos-space-marines-terminators-5011921178247.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/75790-w40k-chaos-space-marines-terminators-5011921178247.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "24b1c072e2f383dcc6a13d90dcfab9c9fa718f45fb42631c64ed87f1494f94a2"
+  },
+  "chaos-space-marines/Abaddon-The-Despoiler": {
+    "url": "/images/units/377a611b1be35ef04ecb.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/729207-thickbox_default/w40k-chaos-space-marines-abaddon-the-despoiler-5011921178285.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/75645-w40k-chaos-space-marines-abaddon-the-despoiler-5011921178285.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "377a611b1be35ef04ecbf9fb2665f078ed209c8fa05d1270b6730a6d464aebb0"
+  },
+  "chaos-daemons/Skulltaker": {
+    "url": "/images/units/5aae7d43cc2f3c171bca.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/727122-thickbox_default/age-of-sigmar-deamons-of-khorne-skulltaker-5011921259182.jpg",
+    "source": "https://www.philibertnet.com/en/khorne-bloodbound/75399-age-of-sigmar-deamons-of-khorne-skulltaker-5011921259182.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "5aae7d43cc2f3c171bca9c4518cf9b9a5f65e5d1f6533c7341898d5dffd6f8c2"
+  },
+  "chaos-space-marines/Heldrake": {
+    "url": "/images/units/509a000f593aa3c4d83e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731235-thickbox_default/w40k-chaos-space-marines-heldrake-5011921178193.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/71000-w40k-chaos-space-marines-heldrake-5011921178193.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "509a000f593aa3c4d83edd0970b0d3bfafb0472ad84379027b9eadcad957b628"
+  },
+  "emperor-s-children/Heldrake": {
+    "url": "/images/units/509a000f593aa3c4d83e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731235-thickbox_default/w40k-chaos-space-marines-heldrake-5011921178193.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/71000-w40k-chaos-space-marines-heldrake-5011921178193.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "509a000f593aa3c4d83edd0970b0d3bfafb0472ad84379027b9eadcad957b628"
+  },
+  "thousand-sons/Heldrake": {
+    "url": "/images/units/509a000f593aa3c4d83e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731235-thickbox_default/w40k-chaos-space-marines-heldrake-5011921178193.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/71000-w40k-chaos-space-marines-heldrake-5011921178193.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "509a000f593aa3c4d83edd0970b0d3bfafb0472ad84379027b9eadcad957b628"
+  },
+  "world-eaters/Heldrake": {
+    "url": "/images/units/509a000f593aa3c4d83e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731235-thickbox_default/w40k-chaos-space-marines-heldrake-5011921178193.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/71000-w40k-chaos-space-marines-heldrake-5011921178193.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "509a000f593aa3c4d83edd0970b0d3bfafb0472ad84379027b9eadcad957b628"
+  },
+  "adeptus-custodes/Custodian-Wardens": {
+    "url": "/images/units/4c442a6d32d373d836c4.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779996-thickbox_default/w40k-adeptus-custodes-custodian-wardens-5011921172054.jpg",
+    "source": "https://www.philibertnet.com/en/adeptus-custodes/57217-w40k-adeptus-custodes-custodian-wardens-5011921172054.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4c442a6d32d373d836c48664c68d33fb9b1b84212634a94c75ccdca7df55ba4e"
+  },
+  "adeptus-custodes/Vertus-Praetors": {
+    "url": "/images/units/98db1027d2bb800dc66b.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779990-thickbox_default/w40k-adeptus-custodes-vertus-praetors-5011921172061.jpg",
+    "source": "https://www.philibertnet.com/en/adeptus-custodes/57215-w40k-adeptus-custodes-vertus-praetors-5011921172061.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "98db1027d2bb800dc66bc0bb703d3980b2f2396b1fb2e7628323d9a8207eabc9"
+  },
+  "adeptus-custodes/Allarus-Custodians": {
+    "url": "/images/units/b3ab379daf18005cd155.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779983-thickbox_default/w40k-adeptus-custodes-allarus-custodians-5011921172030.jpg",
+    "source": "https://www.philibertnet.com/en/adeptus-custodes/57018-w40k-adeptus-custodes-allarus-custodians-5011921172030.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "b3ab379daf18005cd155ce0466b481b3e16804d5896639540859de5fba79751b"
+  },
+  "adeptus-custodes/Trajann-Valoris": {
+    "url": "/images/units/96067f87a1b306d1c8d4.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/749807-thickbox_default/w40k-adeptus-custodes-captain-general-trajann-valoris-5011921172047.jpg",
+    "source": "https://www.philibertnet.com/en/adeptus-custodes/57017-w40k-adeptus-custodes-captain-general-trajann-valoris-5011921172047.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "96067f87a1b306d1c8d40c5d93bed8a79c7b5358de10be676f455009fff2c6aa"
+  },
+  "space-marines/Roboute-Guilliman": {
+    "url": "/images/units/d5b411d282850d1d2758.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/747958-thickbox_default/w40k-adeptus-astartes-space-marines-roboute-guilliman-5011921142569.jpg",
+    "source": "https://www.philibertnet.com/en/ultramarines/57014-w40k-adeptus-astartes-space-marines-roboute-guilliman-5011921142569.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d5b411d282850d1d2758369db43c90c6c296b7495abf1e425be5774c3bbadf32"
+  },
+  "space-marines/Inceptor-Squad": {
+    "url": "/images/units/500c24fee6aec82cc602.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/728683-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-inceptors-5011921142415.jpg",
+    "source": "https://www.philibertnet.com/en/jeux-de-figurines/52905-w40k-adeptus-astartes-space-marines-primaris-inceptors-5011921142415.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "500c24fee6aec82cc602e9dc779da72e282a6bdd228fc0262445de2ed1687686"
+  },
+  "space-marines/Repulsor": {
+    "url": "/images/units/48749651a492e890cc7f.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731144-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-repulsor-5011921142408.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/52512-w40k-adeptus-astartes-space-marines-primaris-repulsor-5011921142408.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "48749651a492e890cc7fe5512aed0e706221be3c3408fe3ffc702d65d36698e5"
+  },
+  "space-marines/Repulsor-1": {
+    "url": "/images/units/48749651a492e890cc7f.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731144-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-repulsor-5011921142408.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/52512-w40k-adeptus-astartes-space-marines-primaris-repulsor-5011921142408.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "48749651a492e890cc7fe5512aed0e706221be3c3408fe3ffc702d65d36698e5"
+  },
+  "space-marines/Chaplain": {
+    "url": "/images/units/8aebf67818e5c65c8244.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731148-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-chaplain-5011921999156.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/52511-w40k-adeptus-astartes-space-marines-primaris-chaplain-5011921999156.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "8aebf67818e5c65c8244e9c1276a0d0632e1d0b064941e6227f194d85275f87b"
+  },
+  "thousand-sons/Scarab-Occult-Terminators": {
+    "url": "/images/units/c0d37f81766e1190a4fc.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731193-thickbox_default/w40k-thousand-sons-scarab-occult-terminators-5011921153718.jpg",
+    "source": "https://www.philibertnet.com/en/thousand-sons/46849-w40k-thousand-sons-scarab-occult-terminators-5011921153718.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "c0d37f81766e1190a4fc724bf4e1bbd20065c35f730437517b60dc9c48d44b57"
+  },
+  "chaos-space-marines/Rubric-Marines": {
+    "url": "/images/units/a49704ad38a5baa5a255.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731203-thickbox_default/w40k-thousand-sons-rubric-marines-5011921153688.jpg",
+    "source": "https://www.philibertnet.com/en/thousand-sons/46848-w40k-thousand-sons-rubric-marines-5011921153688.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a49704ad38a5baa5a2558e80fcd907d9c035d0cad43aa852a774636b63e0592e"
+  },
+  "thousand-sons/Rubric-Marines": {
+    "url": "/images/units/a49704ad38a5baa5a255.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731203-thickbox_default/w40k-thousand-sons-rubric-marines-5011921153688.jpg",
+    "source": "https://www.philibertnet.com/en/thousand-sons/46848-w40k-thousand-sons-rubric-marines-5011921153688.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "a49704ad38a5baa5a2558e80fcd907d9c035d0cad43aa852a774636b63e0592e"
+  },
+  "genestealer-cults/Goliath-Truck": {
+    "url": "/images/units/f2fee1563e83eb6e3f3f.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731213-thickbox_default/w40k-genestealers-cults-goliath-5011921171927.jpg",
+    "source": "https://www.philibertnet.com/en/genestealers-cults/45699-w40k-genestealers-cults-goliath-5011921171927.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "f2fee1563e83eb6e3f3f3365e02f9a8a80e0cc60ee90101733dde58b7ffcdbb7"
+  },
+  "genestealer-cults/Neophyte-Hybrids": {
+    "url": "/images/units/df280ea9dfd61ef719fb.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731230-thickbox_default/w40k-genestealers-cults-neophyte-hybrids-5011921171941.jpg",
+    "source": "https://www.philibertnet.com/en/warhammer-40000/45534-w40k-genestealers-cults-neophyte-hybrids-5011921171941.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "df280ea9dfd61ef719fb817e625858a58f756ed8c4ff68f34c83f9e0f31d0b36"
+  },
+  "world-eaters/Kh-rn-The-Betrayer": {
+    "url": "/images/units/d3b784f8d80542e770e9.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731100-thickbox_default/w40k-chaos-space-marines-kharn-the-betrayer-5011921207534.jpg",
+    "source": "https://www.philibertnet.com/en/warhammer-40000/44988-w40k-chaos-space-marines-kharn-the-betrayer-5011921207534.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d3b784f8d80542e770e9ab2feb5e5edb0a4a563d556cf14ea7bc9e7d83f0405d"
+  },
+  "orks/Dakkajet": {
+    "url": "/images/units/b0eaeb23847338f17373.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731116-thickbox_default/orks-wazbom-blastajet-5011921156962.jpg",
+    "source": "https://www.philibertnet.com/en/orks/42411-orks-wazbom-blastajet-5011921156962.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "b0eaeb23847338f173730187495749cbf3ff75ea4071f9f77b55b1aa5dc103bc"
+  },
+  "t-au-empire/Strike-Team": {
+    "url": "/images/units/4c85a6608f307f7922c1.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/730963-thickbox_default/fire-warriors-5011921169979.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/38103-fire-warriors-5011921169979.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4c85a6608f307f7922c1d2cbf81f2f6c30273db819195f315cc88404a28fcaeb"
+  },
+  "t-au-empire/Ghostkeel-Battlesuit": {
+    "url": "/images/units/109e9e47ffa546189914.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/730953-thickbox_default/tau-empire-xv95-ghostkeel-battlesuit-5011921169993.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/38062-tau-empire-xv95-ghostkeel-battlesuit-5011921169993.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "109e9e47ffa546189914e18082bc2a46bdd4898125e513c01b3e5dd78daf58a9"
+  },
+  "t-au-empire/Stormsurge": {
+    "url": "/images/units/1ed4eae09e3d9631fc1e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/730935-thickbox_default/kv128-stormsurge-5011921169924.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/37902-kv128-stormsurge-5011921169924.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "1ed4eae09e3d9631fc1ebcdb24d35100f3cff3fc8604cfa56b1ef9d0609fe9a9"
+  },
+  "orks/Meganobz": {
+    "url": "/images/units/148ea770e013fba907de.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/730874-thickbox_default/ork-meganobz-5011921156955.jpg",
+    "source": "https://www.philibertnet.com/en/jeux-de-figurines/30458-ork-meganobz-5011921156955.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "148ea770e013fba907de6d672bad40137fc67442f9a5b8708d7649e745c52168"
+  },
+  "orks/Mek-Gunz": {
+    "url": "/images/units/4b0df87ca99772bc9af7.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/730859-thickbox_default/ork-mek-gunz-5011921156900.jpg",
+    "source": "https://www.philibertnet.com/en/orks/30176-ork-mek-gunz-5011921156900.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4b0df87ca99772bc9af704ec021bae5ccdef9f60e01dc3f097bd1ec163e036d3"
+  },
+  "orks/Gorkanaut": {
+    "url": "/images/units/12d504d5ec0a934c5b6a.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/730840-thickbox_default/morkanaut-gorkanaut-5011921156948.jpg",
+    "source": "https://www.philibertnet.com/en/orks/29991-morkanaut-gorkanaut-5011921156948.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "12d504d5ec0a934c5b6ac3366eac7b7203824f344d5216a14c9df062bfe146a4"
+  },
+  "t-au-empire/Broadside-Battlesuits": {
+    "url": "/images/units/84f5739bf683eaa747ab.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779273-thickbox_default/exo-armure-xv88-broadside-5011921170036.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/23614-exo-armure-xv88-broadside-5011921170036.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "84f5739bf683eaa747abc4c7ae3089f5a6d1e04c1e8f4eba819c80505bc740e9"
+  },
+  "t-au-empire/Pathfinder-Team": {
+    "url": "/images/units/666514369b3336d3750d.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731085-thickbox_default/equipe-de-cibleurs-5011921170012.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/23612-equipe-de-cibleurs-5011921170012.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "666514369b3336d3750d3002e0f0a5022f11bc23ec8cdfb241b7ad3224229cf3"
+  },
+  "t-au-empire/Riptide-Battlesuit": {
+    "url": "/images/units/733a84417a43e5be1914.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731076-thickbox_default/exo-armures-xv104-riptide-5011921169986.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/23610-exo-armures-xv104-riptide-5011921169986.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "733a84417a43e5be19149d73dff86b34a3fc98009c882632033e6bb99414c37b"
+  },
+  "chaos-space-marines/Forgefiend": {
+    "url": "/images/units/0a0c50bdcf33f41121a8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731068-thickbox_default/ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/19700-ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "0a0c50bdcf33f41121a84e043f44f717e6d21fcf1ec4ffec749c92f8d945a0e2"
+  },
+  "thousand-sons/Forgefiend": {
+    "url": "/images/units/0a0c50bdcf33f41121a8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731068-thickbox_default/ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/19700-ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "0a0c50bdcf33f41121a84e043f44f717e6d21fcf1ec4ffec749c92f8d945a0e2"
+  },
+  "world-eaters/Forgefiend": {
+    "url": "/images/units/0a0c50bdcf33f41121a8.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731068-thickbox_default/ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/19700-ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "0a0c50bdcf33f41121a84e043f44f717e6d21fcf1ec4ffec749c92f8d945a0e2"
+  },
+  "necrons/Canoptek-Wraiths": {
+    "url": "/images/units/4afa4eccbc2929a58db0.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731061-thickbox_default/spectres-canopteks-necrons--5011921139156.jpg",
+    "source": "https://www.philibertnet.com/en/necrons/18032-spectres-canopteks-necrons--5011921139156.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4afa4eccbc2929a58db069115c96ab46c3bf8e707c08574196aceb8e9b23bab8"
+  },
+  "necrons/Tomb-Blades": {
+    "url": "/images/units/9bca6d24b883bff86606.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/720602-thickbox_default/mecanopteres-necrons-5011921139149.jpg",
+    "source": "https://www.philibertnet.com/en/necrons/18031-mecanopteres-necrons-5011921139149.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "9bca6d24b883bff86606cf01818a1903a2fe07564cc676a9c5c7a88178102afc"
+  },
+  "chaos-daemons/Chaos-Lord-In-Terminator-Armour": {
+    "url": "/images/units/e5c2a05e33bb1de3db02.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/723744-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15909-seigneur-terminator-du-chaos-5011921178223.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "e5c2a05e33bb1de3db025bd2cc5e0b3703bf389d7f53ef0db60bcae4e80ec6ee"
+  },
+  "chaos-space-marines/Chaos-Lord-In-Terminator-Armour": {
+    "url": "/images/units/e5c2a05e33bb1de3db02.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/723744-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15909-seigneur-terminator-du-chaos-5011921178223.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "e5c2a05e33bb1de3db025bd2cc5e0b3703bf389d7f53ef0db60bcae4e80ec6ee"
+  },
+  "chaos-daemons/Sorcerer-In-Terminator-Armour": {
+    "url": "/images/units/bd6d314d40f1197401ee.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/723745-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15909-seigneur-terminator-du-chaos-5011921178223.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "bd6d314d40f1197401ee6f7d6cd3d57001e2a35ab8dcdd02ba7d24d7e2a3c801"
+  },
+  "chaos-space-marines/Sorcerer-In-Terminator-Armour": {
+    "url": "/images/units/bd6d314d40f1197401ee.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/723745-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15909-seigneur-terminator-du-chaos-5011921178223.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "bd6d314d40f1197401ee6f7d6cd3d57001e2a35ab8dcdd02ba7d24d7e2a3c801"
+  },
+  "thousand-sons/Sorcerer-In-Terminator-Armour": {
+    "url": "/images/units/bd6d314d40f1197401ee.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/723745-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15909-seigneur-terminator-du-chaos-5011921178223.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "bd6d314d40f1197401ee6f7d6cd3d57001e2a35ab8dcdd02ba7d24d7e2a3c801"
+  },
+  "orks/Nobz": {
+    "url": "/images/units/7e385886cf871cef6760.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731039-thickbox_default/nobz-orks-5011921157006.jpg",
+    "source": "https://www.philibertnet.com/en/orks/15882-nobz-orks-5011921157006.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "7e385886cf871cef67601fb4d25fd657636845625943c73ae6a6214e75e69c70"
+  },
+  "orks/Gretchin": {
+    "url": "/images/units/beae61c012c8c060c21a.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731033-thickbox_default/gretchins-5011921156986.jpg",
+    "source": "https://www.philibertnet.com/en/orks/15880-gretchins-5011921156986.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "beae61c012c8c060c21ad02967a296d3ca8619363376d5c8dde1c44de66f15d3"
+  },
+  "orks/Stormboyz": {
+    "url": "/images/units/91725e0063ed7e106bab.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731028-thickbox_default/chokboyz-5011921157013.jpg",
+    "source": "https://www.philibertnet.com/en/orks/15878-chokboyz-5011921157013.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "91725e0063ed7e106babe2d42875b0ec272a15adee1a939c060d41fa9b892ccd"
+  },
+  "orks/Killa-Kans": {
+    "url": "/images/units/f75babf913b9375f1dd1.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/615924-thickbox_default/boit-kitu-orks-5011921156894.jpg",
+    "source": "https://www.philibertnet.com/en/orks/15875-boit-kitu-orks-5011921156894.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "f75babf913b9375f1dd1a47065f41bfc70bd129fd28fd7e02241a51b9750cb98"
+  },
+  "t-au-empire/Piranhas": {
+    "url": "/images/units/ed77a0d2d8ad4bec0ef7.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731017-thickbox_default/piranha-tau-5011921169948.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/15856-piranha-tau-5011921169948.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ed77a0d2d8ad4bec0ef7a64d95a2928ce329b59e8d03c8774f769596772702bf"
+  },
+  "necrons/Catacomb-Command-Barge": {
+    "url": "/images/units/05593d5c0986184277ca.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731004-thickbox_default/console-de-commandement-ou-console-dannihilation-necron-5011921139194.jpg",
+    "source": "https://www.philibertnet.com/en/necrons/15544-console-de-commandement-ou-console-dannihilation-necron-5011921139194.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "05593d5c0986184277cad5db75775733cedf1b7dbd62c08849ae6f31d0fca056"
+  },
+  "t-au-empire/Devilfish": {
+    "url": "/images/units/c63583ae48736aa9cbf2.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/727131-thickbox_default/devilfish-tau-5011921169955.jpg",
+    "source": "https://www.philibertnet.com/en/tau-empire/15150-devilfish-tau-5011921169955.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "c63583ae48736aa9cbf2ba12cbc56ceae2ba9625e12188674de7f37d31163739"
+  },
+  "space-marines/Razorback": {
+    "url": "/images/units/c6d28d4a7a15b4e2bc97.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/754011-thickbox_default/razorback-space-marine-5011921142484.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/15122-razorback-space-marine-5011921142484.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "c6d28d4a7a15b4e2bc97ae932139bf3400a88aadeb88dbf0e59be340ff4bb183"
+  },
+  "grey-knights/Razorback": {
+    "url": "/images/units/c6d28d4a7a15b4e2bc97.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/754011-thickbox_default/razorback-space-marine-5011921142484.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/15122-razorback-space-marine-5011921142484.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "c6d28d4a7a15b4e2bc97ae932139bf3400a88aadeb88dbf0e59be340ff4bb183"
+  },
+  "space-marines/Rhino": {
+    "url": "/images/units/39e12f888876ecccf47b.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/754013-thickbox_default/razorback-space-marine-5011921142484.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/15122-razorback-space-marine-5011921142484.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "39e12f888876ecccf47b36237b6402745ac7948316285cd1ef16919fa53e63da"
+  },
+  "grey-knights/Rhino": {
+    "url": "/images/units/39e12f888876ecccf47b.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/754013-thickbox_default/razorback-space-marine-5011921142484.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/15122-razorback-space-marine-5011921142484.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "39e12f888876ecccf47b36237b6402745ac7948316285cd1ef16919fa53e63da"
+  },
+  "chaos-daemons/The-Changeling": {
+    "url": "/images/units/ea37e4b0ae6236423c04.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/790283-thickbox_default/w40k-age-of-sigmar-chaos-deamon-tzeentch-changelin-5011921178674.jpg",
+    "source": "https://www.philibertnet.com/en/disciples-of-tzeentch/162802-w40k-age-of-sigmar-chaos-deamon-tzeentch-changelin-5011921178674.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ea37e4b0ae6236423c04b118e1df5cf8c91cebaf3614f54ed8da9fdb6d46ec12"
+  },
+  "genestealer-cults/Benefictus": {
+    "url": "/images/units/6bbab598c1fea129c846.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/675965-thickbox_default/w40k-genestealers-cults-benefictus-5011921219360.jpg",
+    "source": "https://www.philibertnet.com/en/genestealers-cults/144966-w40k-genestealers-cults-benefictus-5011921219360.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "6bbab598c1fea129c8460186564727b3ea21c35da2e732b3aec0a39e14144bc5"
+  },
+  "space-marines/Lieutenant": {
+    "url": "/images/units/d03ebb197b0483b92f8e.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/592435-thickbox_default/w40k-adeptus-astartes-lieutenant-space-marine-5011921177943.jpg",
+    "source": "https://www.philibertnet.com/en/space-marines/129128-w40k-adeptus-astartes-lieutenant-space-marine-5011921177943.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d03ebb197b0483b92f8e65fedeab7b57defbd6c8e15b767d8e60941ae06a1f68"
+  },
+  "adeptus-custodes/Blade-Champion": {
+    "url": "/images/units/1f807d0e258fc4211cbd.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/780001-thickbox_default/w40k-adeptus-custodes-blade-champion-5011921163106.jpg",
+    "source": "https://www.philibertnet.com/en/adeptus-custodes/110415-w40k-adeptus-custodes-blade-champion-5011921163106.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "1f807d0e258fc4211cbd64fd6e86050f3d431702b478c557ac3ecce893cf55cd"
+  },
+  "space-marines/Ancient": {
+    "url": "/images/units/ac6f2ddb43a2282d407a.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779902-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-ancient-5011921163076.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/106426-w40k-adeptus-astartes-space-marines-primaris-ancient-5011921163076.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "ac6f2ddb43a2282d407a70704d0f11ad8b41558887e3b0e75c2b3730e9cc1510"
+  },
+  "space-marines/Captain-In-Gravis-Armour": {
+    "url": "/images/units/4844616703814fa10430.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779873-thickbox_default/w40k-adeptus-astartes-space-marines-captain-in-gravis-armour-5011921163083.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/106425-w40k-adeptus-astartes-space-marines-captain-in-gravis-armour-5011921163083.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "4844616703814fa10430519119e1f15726f9404b40658f4d1bd0bb755facb52d"
+  },
+  "grey-knights/Grand-Master-Voldus": {
+    "url": "/images/units/53ebaa6a27e825a68e1c.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779940-thickbox_default/w40k-adeptus-astartes-grey-knight-great-master-voldus-5011921153749.jpg",
+    "source": "https://www.philibertnet.com/en/grey-knights/87760-w40k-adeptus-astartes-grey-knight-great-master-voldus-5011921153749.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "53ebaa6a27e825a68e1c4d48b9f2d8a768bab9f0ddbfce6973d4cd22a18b71c0"
+  },
+  "space-marines/Captain-In-Phobos-Armour": {
+    "url": "/images/units/15363f6810d34b57a9fb.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779734-thickbox_default/w40k-adeptus-astartes-primaris-captain-en-armure-phobos-copie-5011921142101.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/79879-w40k-adeptus-astartes-primaris-captain-en-armure-phobos-copie-5011921142101.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "15363f6810d34b57a9fbabd35054d666d543890622c54cf2727cc69c1c68af84"
+  },
+  "space-marines/Librarian-In-Phobos-Armour": {
+    "url": "/images/units/973338c7a5651018de63.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/779738-thickbox_default/w40k-adeptus-astartes-primaris-librarian-en-armure-phobos-5011921142095.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/79878-w40k-adeptus-astartes-primaris-librarian-en-armure-phobos-5011921142095.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "973338c7a5651018de637220dd882f58bc9d97c650e980acf72b164123a28bbc"
+  },
+  "death-guard/Myphitic-Blight-hauler": {
+    "url": "/images/units/58ae28dc9c736e200182.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/716116-thickbox_default/w40k-easy-to-build-death-guard-myphitic-blight-hauler-5011921129751.jpg",
+    "source": "https://www.philibertnet.com/en/death-guard/56289-w40k-easy-to-build-death-guard-myphitic-blight-hauler-5011921129751.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "58ae28dc9c736e200182bbccf1effce00975795643cf78be0597c3f932a4401b"
+  },
+  "death-guard/Biologus-Putrifier": {
+    "url": "/images/units/992ba047ab8affea4da4.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731139-thickbox_default/w40k-death-guard-biologus-putrifier-5011921153626.jpg",
+    "source": "https://www.philibertnet.com/en/death-guard/54383-w40k-death-guard-biologus-putrifier-5011921153626.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "992ba047ab8affea4da4bc9fca2cf01aaddc5bfd5bc0ca12c3f107e41cabd777"
+  },
+  "space-marines/Apothecary": {
+    "url": "/images/units/d34f25244efca5ddf2c0.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731150-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-apothecary-5011921999170.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/52509-w40k-adeptus-astartes-space-marines-primaris-apothecary-5011921999170.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "d34f25244efca5ddf2c03e1201b2b29d72b584db711aa4215238bd517188fc5b"
+  },
+  "space-marines/Captain": {
+    "url": "/images/units/b7a557e293bc4a8f134c.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/731162-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-captain-5011921145980.jpg",
+    "source": "https://www.philibertnet.com/en/primaris/51960-w40k-adeptus-astartes-space-marines-primaris-captain-5011921145980.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "b7a557e293bc4a8f134c666ecbdcbd40e155f6dadba5ddab99b6870693e00263"
+  },
+  "chaos-space-marines/Chaos-Rhino": {
+    "url": "/images/units/754a6e668697ea210907.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/720595-thickbox_default/rhino-du-chaos-5011921178216.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15130-rhino-du-chaos-5011921178216.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "754a6e668697ea210907a6888f0b7cb7948af04410f250ad09871c2352af3e61"
+  },
+  "death-guard/Chaos-Rhino": {
+    "url": "/images/units/754a6e668697ea210907.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/720595-thickbox_default/rhino-du-chaos-5011921178216.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15130-rhino-du-chaos-5011921178216.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "754a6e668697ea210907a6888f0b7cb7948af04410f250ad09871c2352af3e61"
+  },
+  "emperor-s-children/Chaos-Rhino": {
+    "url": "/images/units/754a6e668697ea210907.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/720595-thickbox_default/rhino-du-chaos-5011921178216.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15130-rhino-du-chaos-5011921178216.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "754a6e668697ea210907a6888f0b7cb7948af04410f250ad09871c2352af3e61"
+  },
+  "thousand-sons/Chaos-Rhino": {
+    "url": "/images/units/754a6e668697ea210907.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/720595-thickbox_default/rhino-du-chaos-5011921178216.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15130-rhino-du-chaos-5011921178216.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "754a6e668697ea210907a6888f0b7cb7948af04410f250ad09871c2352af3e61"
+  },
+  "world-eaters/Chaos-Rhino": {
+    "url": "/images/units/754a6e668697ea210907.jpg",
+    "originalUrl": "https://cdn1.philibertnet.com/720595-thickbox_default/rhino-du-chaos-5011921178216.jpg",
+    "source": "https://www.philibertnet.com/en/heretic-astartes/15130-rhino-du-chaos-5011921178216.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "sha256": "754a6e668697ea210907a6888f0b7cb7948af04410f250ad09871c2352af3e61"
+  },
+  "adeptus-custodes/Vigilators": {
+    "originalUrl": "https://cdn1.philibertnet.com/731168-thickbox_default/w40k-astra-telepathica-sisters-of-silence-5011921172023.jpg",
+    "source": "https://www.philibertnet.com/en/warhammer-40000/49744-w40k-astra-telepathica-sisters-of-silence-5011921172023.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/1fa9f7de1d6313c92b8d.jpg",
+    "sha256": "1fa9f7de1d6313c92b8d46323ea1a3da03797306e572eadd2902f52964d7d28e"
+  },
+  "adeptus-custodes/Coronus-Grav-carrier": {
+    "originalUrl": "https://cdn1.philibertnet.com/850688-thickbox_default/the-horus-heresy-legio-custodes-coronus-grav-carrier-5011921252282.jpg",
+    "source": "https://www.philibertnet.com/en/legio-custodes/174529-the-horus-heresy-legio-custodes-coronus-grav-carrier-5011921252282.html",
+    "credit": "Games Workshop / Philibert",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/a7e3c821e67b0ccc50f8.jpg",
+    "sha256": "a7e3c821e67b0ccc50f89af6161826c1804c4b5de314f0ffcf05c822e8eeb412"
+  },
+  "adeptus-custodes/Venatari-Custodians": {
+    "originalUrl": "https://gamehaventooele.com/cdn/shop/files/99123043003_CustodesVenatariSodality1_771x1000.jpg",
+    "source": "https://gamehaventooele.com/collections/adeptus-custodes",
+    "credit": "Games Workshop / Game Haven Tooele",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/de8275e92ff3ec898e2d.jpg",
+    "sha256": "de8275e92ff3ec898e2d4edd0bd5b3a8cf838c1bda96d7a53487fbda5412265e"
+  },
+  "adeptus-custodes/Shield-captain": {
+    "originalUrl": "https://gamehaventooele.com/cdn/shop/files/99123043004_CustodesShieldCaptain1_771x1000.jpg",
+    "source": "https://gamehaventooele.com/collections/adeptus-custodes",
+    "credit": "Games Workshop / Game Haven Tooele",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/cfcdf6957d3021dee8a1.jpg",
+    "sha256": "cfcdf6957d3021dee8a15b7032fa2bf6744932ca896b20d87a3350f39640eaaf"
+  },
+  "genestealer-cults/Abominant": {
+    "originalUrl": "https://cdn11.bigcommerce.com/s-7876e/images/stencil/1280x1280/products/7277/77450/99070117009_GSCAbominant01__86220.1759792807.jpg?c=2",
+    "source": "https://us.battlefoam.com/genestealer-cults-abominant/",
+    "credit": "Games Workshop / Battle Foam",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/5947a5f356a9c31be1c2.jpg",
+    "sha256": "5947a5f356a9c31be1c25bbf1c03562788358a3ba1ee9f3332ce5ab3b45dda87"
+  },
+  "genestealer-cults/Biophagus": {
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0093/5739/4017/products/99070117003_GSCBiophagus01_1200x1200.jpg?v=1674249798",
+    "source": "https://www.redqueen.mx/products/biophagus-wh40k-genestealer-cult",
+    "credit": "Games Workshop / RedQueen",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/2a7c0848d33ee7e82d86.jpg",
+    "sha256": "2a7c0848d33ee7e82d862609fbdbbf85b6445c39688e0933a7e93695bc809502"
+  },
+  "genestealer-cults/Locus": {
+    "originalUrl": "https://gamersparadisela.com/cdn/shop/files/99070117007_GCSLocus01.jpg?v=1712780334",
+    "source": "https://gamersparadisela.com/products/warhammer-40k-genestealer-cults-locus",
+    "credit": "Games Workshop / Gamers Paradise",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/672c410b86bb7d728ef6.jpg",
+    "sha256": "672c410b86bb7d728ef62dd7d50cf313f4cbdae816dc55b9df51fca203e4f849"
+  },
+  "genestealer-cults/Nexos": {
+    "originalUrl": "https://guf.com.au/cdn/shop/files/f072d7d0997c10894bb46a1d7eb1afcc2cbbe059_1024x1024.jpg?v=1722226935",
+    "source": "https://guf.com.au/collections/from-our-shelves/products/51-48-genestealer-cults-nexos",
+    "credit": "Games Workshop / Guf",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/7d79e19c6228544efc5c.jpg",
+    "sha256": "7d79e19c6228544efc5c22eb9f435ffd8edbe78031389c62291a5b8871a7b8af"
+  },
+  "genestealer-cults/Magus": {
+    "originalUrl": "https://www.ludifolie.com/46967-thickbox_default/warhammer-40k-genestealer-cults-magus.jpg",
+    "source": "https://www.ludifolie.com/19432-warhammer-40k-genestealer-cults-magus.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/939a6f30d535f98dfdf5.jpg",
+    "sha256": "939a6f30d535f98dfdf5b72b6c543cb1ac8541263aa7e4fa9cfd17ebf93c5f3f"
+  },
+  "genestealer-cults/Clamavus": {
+    "originalUrl": "https://www.ludifolie.com/59569-thickbox_default/warhammer-40k-genestealer-cults-clamavus.jpg",
+    "source": "https://www.ludifolie.com/22867-warhammer-40k-genestealer-cults-clamavus.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/4b9bc374e5645b1766b0.jpg",
+    "sha256": "4b9bc374e5645b1766b0b6d7a64bae4730552d61705e637ec4cb11d94ff89f8d"
+  },
+  "necrons/Ghost-Ark": {
+    "source": "https://www.ludifolie.com/19878-warhammer-40k-necrons-ghost-ark.html",
+    "originalUrl": "https://www.ludifolie.com/48558-thickbox_default/warhammer-40k-necrons-ghost-ark.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/fcc69d7a82fca58816cd.jpg",
+    "sha256": "fcc69d7a82fca58816cd14c48981affe2071625effcbdd2af386569c636b8b44"
+  },
+  "necrons/Illuminor-Szeras": {
+    "source": "https://www.ludifolie.com/18328-warhammer-40k-necrons-illuminor-szeras.html",
+    "originalUrl": "https://www.ludifolie.com/43572-thickbox_default/warhammer-40k-necrons-illuminor-szeras.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/d8f6a6d44c2690513714.jpg",
+    "sha256": "d8f6a6d44c2690513714db3a0b2529b307eac69070da021757b143e31af808f4"
+  },
+  "necrons/C-tan-Shard-of-the-Void-Dragon": {
+    "source": "https://www.ludifolie.com/20886-warhammer-40k-necrons-c-tan-shard-of-the-void-dragon.html",
+    "originalUrl": "https://www.ludifolie.com/52237-thickbox_default/warhammer-40k-necrons-c-tan-shard-of-the-void-dragon.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/f38c35962caea26f5835.jpg",
+    "sha256": "f38c35962caea26f58354f82c6fa826f737e8c9ef804c7e5e4b55a803238c1c7"
+  },
+  "necrons/Orikan-The-Diviner": {
+    "source": "https://www.ludifolie.com/20243-warhammer-40k-necrons-orikan-the-diviner.html",
+    "originalUrl": "https://www.ludifolie.com/49932-thickbox_default/warhammer-40k-necrons-orikan-the-diviner.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/457f7138bed0847e6590.jpg",
+    "sha256": "457f7138bed0847e6590ef8d3b534d16a8f19a7c0f050d4fb5a8a0e717301693"
+  },
+  "necrons/Overlord-with-translocation-shroud": {
+    "source": "https://www.ludifolie.com/19764-warhammer-40k-necrons-overlord-with-translocation-shroud.html",
+    "originalUrl": "https://www.ludifolie.com/48162-thickbox_default/warhammer-40k-necrons-overlord-with-translocation-shroud.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/b7d2905858704039ac5b.jpg",
+    "sha256": "b7d2905858704039ac5beb4725f89cef27d6a478b5b8aef7969dcbb9f8b3d95f"
+  },
+  "necrons/Imotekh-The-Stormlord": {
+    "source": "https://www.ludifolie.com/18961-warhammer-40k-necrons-imotekh-the-stormlord.html",
+    "originalUrl": "https://www.ludifolie.com/45409-thickbox_default/warhammer-40k-necrons-imotekh-the-stormlord.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/146a85add0bb8de303cb.jpg",
+    "sha256": "146a85add0bb8de303cb6b5540b73fe67e951f6570ad067ab80cd99a1dfb1f42"
+  },
+  "necrons/Technomancer": {
+    "source": "https://www.ludifolie.com/19755-warhammer-40k-necrons-cryptek.html",
+    "originalUrl": "https://www.ludifolie.com/48129-thickbox_default/warhammer-40k-necrons-cryptek.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/d672805305156a2a7e4c.jpg",
+    "sha256": "d672805305156a2a7e4cc6795667348c94912ba9f84a446b46f650c5d6781242"
+  },
+  "necrons/Canoptek-Spyders": {
+    "source": "https://www.ludifolie.com/18645-warhammer-40k-necrons-canoptek-spyder.html",
+    "originalUrl": "https://www.ludifolie.com/44362-thickbox_default/warhammer-40k-necrons-canoptek-spyder.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e48d1dca5acecfb2d43f.jpg",
+    "sha256": "e48d1dca5acecfb2d43f19be9ec28ab368c333da578eab185b3195221ad8cf80"
+  },
+  "necrons/Chronomancer": {
+    "source": "https://www.ludifolie.com/19757-warhammer-40k-necrons-chronomancer.html",
+    "originalUrl": "https://www.ludifolie.com/48136-thickbox_default/warhammer-40k-necrons-chronomancer.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/d4a2141f4049983d8b51.jpg",
+    "sha256": "d4a2141f4049983d8b514ad314e0b2680143eb4d7d5adf80698c2d7fa4099363"
+  },
+  "necrons/Lokhust-Heavy-Destroyers": {
+    "source": "https://www.ludifolie.com/15378-w40k-necrons-lokhust-heavy-destroyer.html",
+    "originalUrl": "https://www.ludifolie.com/33250-thickbox_default/w40k-necrons-lokhust-heavy-destroyer.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/4309e32582c9dc9cd267.jpg",
+    "sha256": "4309e32582c9dc9cd26783ae58e4892eb8e11de3f7243eecd1b3dc53b7331763"
+  },
+  "necrons/Canoptek-Doomstalker": {
+    "source": "https://www.ludifolie.com/18314-warhammer-40k-necrons-canoptek-doomstalker.html",
+    "originalUrl": "https://www.ludifolie.com/43526-thickbox_default/warhammer-40k-necrons-canoptek-doomstalker.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/adde4839589bd2004049.jpg",
+    "sha256": "adde4839589bd200404926c93ad0f416c44a9ef2fa1dbba352b501b76f14194b"
+  },
+  "necrons/The-Silent-King": {
+    "source": "https://www.ludifolie.com/19251-warhammer-40k-necrons-szarekh-the-silent-king.html",
+    "originalUrl": "https://www.ludifolie.com/46407-thickbox_default/warhammer-40k-necrons-szarekh-the-silent-king.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/b9df20181dd79e018002.jpg",
+    "sha256": "b9df20181dd79e0180028caec4f056ba5a5f7be789c1aae51b1a0df95449dda3"
+  },
+  "space-marines/Chaplain-On-Bike": {
+    "originalUrl": "https://www.ludifolie.com/46467-large_default/warhammer-40k-space-marines-primaris-chaplain-on-bike.jpg",
+    "source": "https://www.ludifolie.com/19272-warhammer-40k-space-marines-primaris-chaplain-on-bike.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/f0748e993412a3e3e0e7.jpg",
+    "sha256": "f0748e993412a3e3e0e70e77f4eba2b77089a0b126d34045fe9e543baf4e3b99"
+  },
+  "t-au-empire/Kroot-Trail-Shaper": {
+    "originalUrl": "https://www.ludifolie.com/46380-large_default/warhammer-40k-t-au-empire-kroot-trail-shaper.jpg",
+    "source": "https://www.ludifolie.com/19244-warhammer-40k-t-au-empire-kroot-trail-shaper.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/da7912ef3e50263c51eb.jpg",
+    "sha256": "da7912ef3e50263c51eb466b000670c7a8db2f1ff6d349c4f2a39074c83ea418"
+  },
+  "t-au-empire/Krootox-Rampagers": {
+    "originalUrl": "https://www.ludifolie.com/46142-large_default/warhammer-40k-t-au-empire-krootox-rampagers.jpg",
+    "source": "https://www.ludifolie.com/19176-warhammer-40k-t-au-empire-krootox-rampagers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/f66212be74f05dec3225.jpg",
+    "sha256": "f66212be74f05dec3225ef2ee896cbd854797a1e53deb4a1ef318bf89c58802d"
+  },
+  "t-au-empire/Kroot-Carnivores": {
+    "originalUrl": "https://www.ludifolie.com/46138-large_default/warhammer-40k-t-au-empire-kroot-carnivores.jpg",
+    "source": "https://www.ludifolie.com/19175-warhammer-40k-t-au-empire-kroot-carnivores.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/a1f8c22eac654b9f287a.jpg",
+    "sha256": "a1f8c22eac654b9f287ab74d45c37c7c2d26eb9973cd67dd13eab3cdf783cea0"
+  },
+  "genestealer-cults/Gargoyles": {
+    "originalUrl": "https://www.ludifolie.com/46000-large_default/warhammer-40k-tyranids-gargoyles.jpg",
+    "source": "https://www.ludifolie.com/19133-warhammer-40k-tyranids-gargoyles.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/3a10cfad00d97dc73f7b.jpg",
+    "sha256": "3a10cfad00d97dc73f7bc1c8adef158f8c34bac7b3313d7bac5eb04e4e01a464"
+  },
+  "tyranids/Hive-Guard": {
+    "originalUrl": "https://www.ludifolie.com/45992-large_default/warhammer-40k-tyranids-hive-guard.jpg",
+    "source": "https://www.ludifolie.com/19131-warhammer-40k-tyranids-hive-guard.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/22d247918e685ba8d08a.jpg",
+    "sha256": "22d247918e685ba8d08a273cf3b1cb3d1dbe27fc6dec26f01cf4c3adea0a42be"
+  },
+  "t-au-empire/Cadre-Fireblade": {
+    "originalUrl": "https://www.ludifolie.com/45783-large_default/warhammer-40k-t-au-empire-cadre-fireblade.jpg",
+    "source": "https://www.ludifolie.com/19066-warhammer-40k-t-au-empire-cadre-fireblade.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/96d5f41757de1d5d3226.jpg",
+    "sha256": "96d5f41757de1d5d3226cedc02a8236ca029cad9a1ba0e07294a6801dc68ef3c"
+  },
+  "space-marines/Terminator-Squad": {
+    "originalUrl": "https://www.ludifolie.com/45761-large_default/warhammer-40k-space-marines-terminator-squad.jpg",
+    "source": "https://www.ludifolie.com/19060-warhammer-40k-space-marines-terminator-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/7675a44eeace83eaf8fc.jpg",
+    "sha256": "7675a44eeace83eaf8fc765e576a77be449f62980d26a2cd336c078580948836"
+  },
+  "space-marines/Terminator-Squad-1": {
+    "originalUrl": "https://www.ludifolie.com/45761-large_default/warhammer-40k-space-marines-terminator-squad.jpg",
+    "source": "https://www.ludifolie.com/19060-warhammer-40k-space-marines-terminator-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/7675a44eeace83eaf8fc.jpg",
+    "sha256": "7675a44eeace83eaf8fc765e576a77be449f62980d26a2cd336c078580948836"
+  },
+  "t-au-empire/Breacher-Team": {
+    "originalUrl": "https://www.ludifolie.com/45432-large_default/warhammer-40k-t-au-empire-fire-warrior.jpg",
+    "source": "https://www.ludifolie.com/18966-warhammer-40k-t-au-empire-fire-warrior.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/561b83e42e742ba09592.jpg",
+    "sha256": "561b83e42e742ba09592f510afcfb8512e53133e169f672e5a5b50d3a37ce7d6"
+  },
+  "orks/Mozrog-Skragbad": {
+    "originalUrl": "https://www.ludifolie.com/45414-large_default/warhammer-40k-orks-mozrog-skragbad.jpg",
+    "source": "https://www.ludifolie.com/18962-warhammer-40k-orks-mozrog-skragbad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/43d36b4d760a879b46d2.jpg",
+    "sha256": "43d36b4d760a879b46d2956f06872a4d279640944cf995340a730d300c6d8029"
+  },
+  "death-guard/Deathshroud-Terminators": {
+    "originalUrl": "https://www.ludifolie.com/45393-large_default/warhammer-40k-death-guard-deathshroud-bodyguard.jpg",
+    "source": "https://www.ludifolie.com/18957-warhammer-40k-death-guard-deathshroud-bodyguard.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/84453899927499fe8985.jpg",
+    "sha256": "84453899927499fe8985c4c6599b961b41dfae0917f0d834e0347590f2635fed"
+  },
+  "death-guard/Mortarion": {
+    "originalUrl": "https://www.ludifolie.com/44741-large_default/warhammer-40k-death-guard-mortarion-daemon-primarch-of-nurgle.jpg",
+    "source": "https://www.ludifolie.com/18771-warhammer-40k-death-guard-mortarion-daemon-primarch-of-nurgle.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/dd77967ee5f0f05f9f02.jpg",
+    "sha256": "dd77967ee5f0f05f9f027840ce2d8f9b5fa9f366701f2d23ac2c21fe969892eb"
+  },
+  "tyranids/Norn-Emissary": {
+    "originalUrl": "https://www.ludifolie.com/44717-large_default/warhammer-40k-tyranids-norn-emissary.jpg",
+    "source": "https://www.ludifolie.com/18765-warhammer-40k-tyranids-norn-emissary.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/c1e8f06c545cdfb3557f.jpg",
+    "sha256": "c1e8f06c545cdfb3557f61c546f37ac6598235dc8ea41aa580790f536e2a31fd"
+  },
+  "death-guard/Typhus": {
+    "originalUrl": "https://www.ludifolie.com/44368-large_default/warhammer-40k-death-guard-typhus.jpg",
+    "source": "https://www.ludifolie.com/18647-warhammer-40k-death-guard-typhus.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/77759b724222fb7935d3.jpg",
+    "sha256": "77759b724222fb7935d35e015e82793d0ed1d2e057db8461fcc918de568fe984"
+  },
+  "world-eaters/Exalted-Eightbound": {
+    "originalUrl": "https://www.ludifolie.com/44343-large_default/warhammer-40k-world-eaters-exalted-eightbound.jpg",
+    "source": "https://www.ludifolie.com/18639-warhammer-40k-world-eaters-exalted-eightbound.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/efa5014ace6bf63c63fa.jpg",
+    "sha256": "efa5014ace6bf63c63fa406f7864cb654c09b033d71c786c557f54cd3186b737"
+  },
+  "t-au-empire/Crisis-Battlesuits": {
+    "originalUrl": "https://www.ludifolie.com/44331-large_default/warhammer-40k-t-au-empire-crisis-battlesuits.jpg",
+    "source": "https://www.ludifolie.com/18635-warhammer-40k-t-au-empire-crisis-battlesuits.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/670ca19c80b40912aad1.jpg",
+    "sha256": "670ca19c80b40912aad15920fc12694fd05d5832b36155d76e19e05883ba5af3"
+  },
+  "genestealer-cults/Von-Ryan-s-Leapers": {
+    "originalUrl": "https://www.ludifolie.com/42312-large_default/warhammer-40k-tyranids-von-ryan-s-leapers.jpg",
+    "source": "https://www.ludifolie.com/17982-warhammer-40k-tyranids-von-ryan-s-leapers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/29d1a3e2d9a10e56924c.jpg",
+    "sha256": "29d1a3e2d9a10e56924c5248a1f5f4b729db18bc0766329888d5897ebf6ae791"
+  },
+  "space-marines/Captain-With-Jump-Pack": {
+    "originalUrl": "https://www.ludifolie.com/42299-large_default/warhammer-40k-space-marines-captain-with-jump-pack.jpg",
+    "source": "https://www.ludifolie.com/17979-warhammer-40k-space-marines-captain-with-jump-pack.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/1f60adc0a3fe4528d306.jpg",
+    "sha256": "1f60adc0a3fe4528d30673a94d1e897cb98d31924b51a1574b58335760530817"
+  },
+  "genestealer-cults/Lictor": {
+    "originalUrl": "https://www.ludifolie.com/42296-large_default/warhammer-40k-tyranids-lictor.jpg",
+    "source": "https://www.ludifolie.com/17978-warhammer-40k-tyranids-lictor.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/54283f67c01f2c0de5c2.jpg",
+    "sha256": "54283f67c01f2c0de5c20f2e06470185d30129e9d294faed4234d52ced21149e"
+  },
+  "tyranids/Lictor": {
+    "originalUrl": "https://www.ludifolie.com/42296-large_default/warhammer-40k-tyranids-lictor.jpg",
+    "source": "https://www.ludifolie.com/17978-warhammer-40k-tyranids-lictor.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/54283f67c01f2c0de5c2.jpg",
+    "sha256": "54283f67c01f2c0de5c20f2e06470185d30129e9d294faed4234d52ced21149e"
+  },
+  "tyranids/Biovores": {
+    "originalUrl": "https://www.ludifolie.com/41671-large_default/warhammer-40k-tyranids-biovore.jpg",
+    "source": "https://www.ludifolie.com/17794-warhammer-40k-tyranids-biovore.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/bb638bd99942d1f72681.jpg",
+    "sha256": "bb638bd99942d1f726818a40db52aae92f1ad03a2691af1ddc02cf6b73dcc001"
+  },
+  "t-au-empire/Commander-Farsight": {
+    "originalUrl": "https://www.ludifolie.com/41261-large_default/warhammer-40k-t-au-empire-commander-farsight.jpg",
+    "source": "https://www.ludifolie.com/17662-warhammer-40k-t-au-empire-commander-farsight.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/4ecdb0e577fc13246ec0.jpg",
+    "sha256": "4ecdb0e577fc13246ec0feb1b256577f55ddafc02c5042f98d17653fb600bc57"
+  },
+  "space-marines/Sternguard-Veteran-Squad": {
+    "originalUrl": "https://www.ludifolie.com/40877-large_default/warhammer-40k-space-marines-sternguard-veteran-squad.jpg",
+    "source": "https://www.ludifolie.com/17561-warhammer-40k-space-marines-sternguard-veteran-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/3c5c9c60a772f172062d.jpg",
+    "sha256": "3c5c9c60a772f172062df50be5b7068e8752ae8a38acbaeeb8bfe415bf18d8dc"
+  },
+  "space-marines/Sternguard-Veteran-Squad-1": {
+    "originalUrl": "https://www.ludifolie.com/40877-large_default/warhammer-40k-space-marines-sternguard-veteran-squad.jpg",
+    "source": "https://www.ludifolie.com/17561-warhammer-40k-space-marines-sternguard-veteran-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/3c5c9c60a772f172062d.jpg",
+    "sha256": "3c5c9c60a772f172062df50be5b7068e8752ae8a38acbaeeb8bfe415bf18d8dc"
+  },
+  "space-marines/Assault-Intercessors-With-Jump-Packs": {
+    "originalUrl": "https://www.ludifolie.com/40643-large_default/warhammer-40k-space-marines-jump-pack-intercessors.jpg",
+    "source": "https://www.ludifolie.com/17499-warhammer-40k-space-marines-jump-pack-intercessors.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/200a126929656ad02230.jpg",
+    "sha256": "200a126929656ad02230409bc30262554acb84cbd7f15cca614548c1b421f2dd"
+  },
+  "world-eaters/Angron": {
+    "originalUrl": "https://www.ludifolie.com/40368-large_default/warhammer-40k-world-eaters-angron-daemon-primarch-of-khorne.jpg",
+    "source": "https://www.ludifolie.com/17429-warhammer-40k-world-eaters-angron-daemon-primarch-of-khorne.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/58c57c7c9c35f50779ed.jpg",
+    "sha256": "58c57c7c9c35f50779edda2884d7b9980c8ae4f7bd5f274df4e724fbbf564f95"
+  },
+  "genestealer-cults/Parasite-Of-Mortrex": {
+    "originalUrl": "https://www.ludifolie.com/39502-large_default/w40k-tyranids-parasite-of-mortrex.jpg",
+    "source": "https://www.ludifolie.com/17179-w40k-tyranids-parasite-of-mortrex.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/0d727c09c132a25cb092.jpg",
+    "sha256": "0d727c09c132a25cb092162b79475034fb84968435073c6b74990f94f9b89ab2"
+  },
+  "tyranids/Parasite-Of-Mortrex": {
+    "originalUrl": "https://www.ludifolie.com/39502-large_default/w40k-tyranids-parasite-of-mortrex.jpg",
+    "source": "https://www.ludifolie.com/17179-w40k-tyranids-parasite-of-mortrex.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/0d727c09c132a25cb092.jpg",
+    "sha256": "0d727c09c132a25cb092162b79475034fb84968435073c6b74990f94f9b89ab2"
+  },
+  "space-marines/Heavy-Intercessor-Squad": {
+    "originalUrl": "https://www.ludifolie.com/39346-large_default/w40k-space-marines-heavy-intercessors.jpg",
+    "source": "https://www.ludifolie.com/17140-w40k-space-marines-heavy-intercessors.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/991c86e92eef4d45d470.jpg",
+    "sha256": "991c86e92eef4d45d470c1f02a7b61965ba948f9feb8f52e193dc5e13bc9309f"
+  },
+  "tyranids/Venomthropes": {
+    "originalUrl": "https://www.ludifolie.com/35494-large_default/w40k-tyranids-venomthropes.jpg",
+    "source": "https://www.ludifolie.com/16044-w40k-tyranids-venomthropes.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/aa83c9abfa1e442d5035.jpg",
+    "sha256": "aa83c9abfa1e442d503575f10c325ab4fb6c92d536619f0c63173714ce24aa47"
+  },
+  "chaos-space-marines/Khorne-Berzerkers": {
+    "originalUrl": "https://www.ludifolie.com/35039-large_default/w40k-world-eaters-khorne-berzerkers.jpg",
+    "source": "https://www.ludifolie.com/15905-w40k-world-eaters-khorne-berzerkers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/a82164d073cd84ce1fbe.jpg",
+    "sha256": "a82164d073cd84ce1fbe54dd968c73c2e4415ad3664fefd9aac05ddd6113181c"
+  },
+  "world-eaters/Khorne-Berzerkers": {
+    "originalUrl": "https://www.ludifolie.com/35039-large_default/w40k-world-eaters-khorne-berzerkers.jpg",
+    "source": "https://www.ludifolie.com/15905-w40k-world-eaters-khorne-berzerkers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/a82164d073cd84ce1fbe.jpg",
+    "sha256": "a82164d073cd84ce1fbe54dd968c73c2e4415ad3664fefd9aac05ddd6113181c"
+  },
+  "world-eaters/Jakhals": {
+    "originalUrl": "https://www.ludifolie.com/35035-large_default/w40k-world-eaters-jakhals.jpg",
+    "source": "https://www.ludifolie.com/15904-w40k-world-eaters-jakhals.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e9d794c9a5fdb1c4e344.jpg",
+    "sha256": "e9d794c9a5fdb1c4e344537d9935e3f2d964222103f3b10fd5aca6aa69f01805"
+  },
+  "chaos-daemons/Be-lakor": {
+    "originalUrl": "https://www.ludifolie.com/29847-large_default/w40k-chaos-daemons-be-lakor-the-dark-master.jpg",
+    "source": "https://www.ludifolie.com/14361-w40k-chaos-daemons-be-lakor-the-dark-master.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/4a6b856094b118f546a6.jpg",
+    "sha256": "4a6b856094b118f546a60f330ae344475025678ebd253fef3cce1e7591d4dfae"
+  },
+  "tyranids/Hormagaunts": {
+    "originalUrl": "https://www.ludifolie.com/40639-large_default/warhammer-40k-tyranids-hormagaunts.jpg",
+    "source": "https://www.ludifolie.com/13334-warhammer-40k-tyranids-hormagaunts.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/181a2b5597d632ad90e0.jpg",
+    "sha256": "181a2b5597d632ad90e023c77a2ecbd6f1c2d5378b648bc86fd788744809fd22"
+  },
+  "orks/Ghazghkull-Thraka": {
+    "originalUrl": "https://www.ludifolie.com/19817-large_default/w40k-orks-ghazghkull-thraka.jpg",
+    "source": "https://www.ludifolie.com/11136-w40k-orks-ghazghkull-thraka.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/aa75d203d2b350365e1e.jpg",
+    "sha256": "aa75d203d2b350365e1e64fde8fff9d76b0912eda688ca8ada351f86e1c3d7ae"
+  },
+  "chaos-daemons/Raptors": {
+    "originalUrl": "https://www.ludifolie.com/67606-large_default/warhammer-40k-chaos-space-marines-raptors.jpg",
+    "source": "https://www.ludifolie.com/10915-warhammer-40k-chaos-space-marines-raptors.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/65c607811a4d9faab4ea.jpg",
+    "sha256": "65c607811a4d9faab4ea26e66b8973f5ecf7dcf5f079652fe243a4f01c77fb2c"
+  },
+  "chaos-space-marines/Raptors": {
+    "originalUrl": "https://www.ludifolie.com/67606-large_default/warhammer-40k-chaos-space-marines-raptors.jpg",
+    "source": "https://www.ludifolie.com/10915-warhammer-40k-chaos-space-marines-raptors.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/65c607811a4d9faab4ea.jpg",
+    "sha256": "65c607811a4d9faab4ea26e66b8973f5ecf7dcf5f079652fe243a4f01c77fb2c"
+  },
+  "tyranids/Termagants": {
+    "originalUrl": "https://www.ludifolie.com/40636-large_default/warhammer-40k-tyranids-termagants.jpg",
+    "source": "https://www.ludifolie.com/7824-warhammer-40k-tyranids-termagants.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/6c947ae7109cf374f54e.jpg",
+    "sha256": "6c947ae7109cf374f54eb057cdd6dde847b2b84f7ec6bc464aa9096dd364213e"
+  },
+  "t-au-empire/Commander-In-Enforcer-Battlesuit": {
+    "originalUrl": "https://www.ludifolie.com/7277-large_default/w40k-t-au-empire-commander.jpg",
+    "source": "https://www.ludifolie.com/5446-w40k-t-au-empire-commander.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/1e2d1d6411fa7d12dc3d.jpg",
+    "sha256": "1e2d1d6411fa7d12dc3d9604f7092badfb9da7d075353b423f220e543ba9be31"
+  },
+  "t-au-empire/Stealth-Battlesuits": {
+    "originalUrl": "https://www.ludifolie.com/7266-large_default/w40k-t-au-empire-xv25-stealth-battlesuits.jpg",
+    "source": "https://www.ludifolie.com/5439-w40k-t-au-empire-xv25-stealth-battlesuits.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/110a24688f6e2511dbca.jpg",
+    "sha256": "110a24688f6e2511dbca4018cfab4a1358f24ca688dfbc7b2ce45a75aedfd807"
+  },
+  "space-marines/Gladiator-Valiant": {
+    "originalUrl": "https://www.ludifolie.com/46979-large_default/warhammer-40k-space-marines-gladiator.jpg",
+    "source": "https://www.ludifolie.com/19435-warhammer-40k-space-marines-gladiator.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e4567624617275dedd9f.jpg",
+    "sha256": "e4567624617275dedd9f528fddf8b8f2a45b433da74b73882a687834554798a4"
+  },
+  "space-marines/Gladiator-Valiant-1": {
+    "originalUrl": "https://www.ludifolie.com/46979-large_default/warhammer-40k-space-marines-gladiator.jpg",
+    "source": "https://www.ludifolie.com/19435-warhammer-40k-space-marines-gladiator.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e4567624617275dedd9f.jpg",
+    "sha256": "e4567624617275dedd9f528fddf8b8f2a45b433da74b73882a687834554798a4"
+  },
+  "space-marines/Outrider-Squad": {
+    "originalUrl": "https://www.ludifolie.com/46983-large_default/warhammer-40k-space-marines-outriders.jpg",
+    "source": "https://www.ludifolie.com/19436-warhammer-40k-space-marines-outriders.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/620599f267a37c047c3d.jpg",
+    "sha256": "620599f267a37c047c3d65dcf84f187d1019a9168065c9efadb6dbd1dad100a5"
+  },
+  "space-marines/Stormhawk-Interceptor": {
+    "originalUrl": "https://www.ludifolie.com/46987-large_default/warhammer-40k-space-marines-stormhawk-interceptor.jpg",
+    "source": "https://www.ludifolie.com/19437-warhammer-40k-space-marines-stormhawk-interceptor.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/25f3ba25e078be5bd939.jpg",
+    "sha256": "25f3ba25e078be5bd939c56c40cf46c6044298c98081805a84104cd2de8781ac"
+  },
+  "space-marines/Aggressor-Squad": {
+    "originalUrl": "https://www.ludifolie.com/46995-large_default/warhammer-40k-space-marines-aggressor-squad.jpg",
+    "source": "https://www.ludifolie.com/19439-warhammer-40k-space-marines-aggressor-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/63cd147299a45c51e65b.jpg",
+    "sha256": "63cd147299a45c51e65bb802a58065b597bd885a834b02f79bda7f2a8519a078"
+  },
+  "thousand-sons/Ahriman": {
+    "originalUrl": "https://www.ludifolie.com/47007-large_default/warhammer-40k-thousand-sons-ahriman.jpg",
+    "source": "https://www.ludifolie.com/19442-warhammer-40k-thousand-sons-ahriman.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/b5c1bb67bc0fa0146b06.jpg",
+    "sha256": "b5c1bb67bc0fa0146b069ce6ab924647798bae3c5c4338988dd48c929eccbb7b"
+  },
+  "chaos-space-marines/Possessed": {
+    "originalUrl": "https://www.ludifolie.com/47015-large_default/warhammer-40k-chaos-space-marines-possessed.jpg",
+    "source": "https://www.ludifolie.com/19444-warhammer-40k-chaos-space-marines-possessed.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/cff585f5d8ee2f5f7c9b.jpg",
+    "sha256": "cff585f5d8ee2f5f7c9b1d73fc560ce4a90c785624102ba62216db809338ff16"
+  },
+  "orks/Squighog-Boyz": {
+    "originalUrl": "https://www.ludifolie.com/47019-large_default/warhammer-40k-orks-squighog-boyz.jpg",
+    "source": "https://www.ludifolie.com/19445-warhammer-40k-orks-squighog-boyz.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/7d6012354cf138c39967.jpg",
+    "sha256": "7d6012354cf138c399677fe0fa95890d28f8a55166e4a6162d41d45dfc10f7a9"
+  },
+  "orks/Lootas": {
+    "originalUrl": "https://www.ludifolie.com/47055-large_default/warhammer-40k-orks-lootas.jpg",
+    "source": "https://www.ludifolie.com/19454-warhammer-40k-orks-lootas.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/3e4809ae0e6cd47a0c9d.jpg",
+    "sha256": "3e4809ae0e6cd47a0c9d5e1c9089524be2202cf0dfad4ec69957dc0826778651"
+  },
+  "space-marines/Hellblaster-Squad": {
+    "originalUrl": "https://www.ludifolie.com/47090-large_default/warhammer-40k-space-marines-hellblasters.jpg",
+    "source": "https://www.ludifolie.com/19462-warhammer-40k-space-marines-hellblasters.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/4fa0ca2513e32260bbda.jpg",
+    "sha256": "4fa0ca2513e32260bbda47d5ddd09ad7b0641fc24199e06be215cb1b29ef4e55"
+  },
+  "space-marines/Eradicator-Squad": {
+    "originalUrl": "https://www.ludifolie.com/47093-large_default/warhammer-40k-space-marines-primaris-eradicators.jpg",
+    "source": "https://www.ludifolie.com/19463-warhammer-40k-space-marines-primaris-eradicators.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/534bb5c9b800653e5d30.jpg",
+    "sha256": "534bb5c9b800653e5d30a289f70be1b7e6ea72f39ac05bc00f55016665174230"
+  },
+  "chaos-knights/Knight-Abominant": {
+    "originalUrl": "https://www.ludifolie.com/57607-large_default/warhammer-40k-chaos-knights-knight-ruinator.jpg",
+    "source": "https://www.ludifolie.com/19465-warhammer-40k-chaos-knights-knight-ruinator.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e09292e20472decae98e.jpg",
+    "sha256": "e09292e20472decae98e9bd94a7e241946f47544896db1711956e2f3ef550055"
+  },
+  "chaos-knights/Knight-Rampager": {
+    "originalUrl": "https://www.ludifolie.com/57608-large_default/warhammer-40k-chaos-knights-knight-ruinator.jpg",
+    "source": "https://www.ludifolie.com/19465-warhammer-40k-chaos-knights-knight-ruinator.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e7718ab23b22ab1afe29.jpg",
+    "sha256": "e7718ab23b22ab1afe29f2bfafda5b6233eb229531f287dfa8840f070fb5ed1b"
+  },
+  "tyranids/Deathleaper": {
+    "originalUrl": "https://www.ludifolie.com/47598-large_default/warhammer-40k-tyranids-deathleaper.jpg",
+    "source": "https://www.ludifolie.com/19612-warhammer-40k-tyranids-deathleaper.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/5098c8d4da0c3a5369f7.jpg",
+    "sha256": "5098c8d4da0c3a5369f7488c985ba038ee1abfe4ae6dac8e0ac2b94d9d3d688c"
+  },
+  "world-eaters/Lord-Invocatus": {
+    "originalUrl": "https://www.ludifolie.com/47639-large_default/warhammer-40k-world-eaters-lord-invocatus.jpg",
+    "source": "https://www.ludifolie.com/19621-warhammer-40k-world-eaters-lord-invocatus.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/93f5dbfd5ea61dfe6c33.jpg",
+    "sha256": "93f5dbfd5ea61dfe6c33afe0b8da144ce4990a25a82afad10ba02d1bf8317768"
+  },
+  "space-marines/Land-Raider-Crusader": {
+    "originalUrl": "https://www.ludifolie.com/48076-large_default/warhammer-40k-space-marines-land-raider-crusader.jpg",
+    "source": "https://www.ludifolie.com/19741-warhammer-40k-space-marines-land-raider-crusader.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/58d99fd9da944cf24647.jpg",
+    "sha256": "58d99fd9da944cf246472c44b4fb8f85bf2c254a8b7d57761eeaabad038e9ea8"
+  },
+  "death-guard/Foetid-Bloat-drone": {
+    "originalUrl": "https://www.ludifolie.com/48087-large_default/warhammer-40k-death-guard-foetid-bloat-drone.jpg",
+    "source": "https://www.ludifolie.com/19744-warhammer-40k-death-guard-foetid-bloat-drone.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/20b50eb39ce7ebeee577.jpg",
+    "sha256": "20b50eb39ce7ebeee577caa2882d5dd2846d5308f5cec329fa0d42f0f3d4ee71"
+  },
+  "chaos-space-marines/Fabius-Bile": {
+    "originalUrl": "https://www.ludifolie.com/48091-large_default/warhammer-40k-chaos-space-marines-fabius-bile.jpg",
+    "source": "https://www.ludifolie.com/19745-warhammer-40k-chaos-space-marines-fabius-bile.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/9b57a02ce15f652318e5.jpg",
+    "sha256": "9b57a02ce15f652318e585b006e0002d50cb42849cfc4c87e3e9ed1450382919"
+  },
+  "orks/Painboy": {
+    "originalUrl": "https://www.ludifolie.com/48097-large_default/warhammer-40k-orks-painboy.jpg",
+    "source": "https://www.ludifolie.com/19747-warhammer-40k-orks-painboy.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/1912de4379a4a1fc5770.jpg",
+    "sha256": "1912de4379a4a1fc5770917850566f0d9b40fd9192140ec6b1d651423ca89137"
+  },
+  "orks/Boss-Snikrot": {
+    "originalUrl": "https://www.ludifolie.com/48101-large_default/warhammer-40k-orks-boss-snikrot.jpg",
+    "source": "https://www.ludifolie.com/19748-warhammer-40k-orks-boss-snikrot.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e919cea80fa765deef78.jpg",
+    "sha256": "e919cea80fa765deef78ab13fefa68a4ab4f7bd09091ed1943f471a9c1049ca2"
+  },
+  "orks/Warboss-In-Mega-Armour": {
+    "originalUrl": "https://www.ludifolie.com/48105-large_default/warhammer-40k-orks-warboss-in-mega-armour.jpg",
+    "source": "https://www.ludifolie.com/19749-warhammer-40k-orks-warboss-in-mega-armour.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/53807c82538d3de09134.jpg",
+    "sha256": "53807c82538d3de09134716ca34b43b8f1056d25600c3f0bc9d78bd81ef0ab92"
+  },
+  "tyranids/Neurolictor": {
+    "originalUrl": "https://www.ludifolie.com/48113-large_default/warhammer-40k-tyranids-neurolictor.jpg",
+    "source": "https://www.ludifolie.com/19751-warhammer-40k-tyranids-neurolictor.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/a5ea48d1bcab5edc5b85.jpg",
+    "sha256": "a5ea48d1bcab5edc5b85cae6154fdbd182b9d4083ed5bded0c8a578224197d91"
+  },
+  "t-au-empire/Hammerhead-Gunship": {
+    "originalUrl": "https://www.ludifolie.com/48174-large_default/warhammer-40k-t-au-empire-hammerhead-gunship.jpg",
+    "source": "https://www.ludifolie.com/19767-warhammer-40k-t-au-empire-hammerhead-gunship.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/dfe53155edcfe89765d5.jpg",
+    "sha256": "dfe53155edcfe89765d5cfa627bb32032f42cc6505ed92e1325da7c9398c5848"
+  },
+  "chaos-space-marines/Warpsmith": {
+    "originalUrl": "https://www.ludifolie.com/48412-large_default/warhammer-40k-chaos-space-marines-warpsmith.jpg",
+    "source": "https://www.ludifolie.com/19829-warhammer-40k-chaos-space-marines-warpsmith.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/90347c1a147d15278080.jpg",
+    "sha256": "90347c1a147d15278080bad29cfcaf23c003f090b285a3d5d738678aa7c5e243"
+  },
+  "space-marines/Assault-Intercessor-Squad": {
+    "originalUrl": "https://www.ludifolie.com/48550-large_default/warhammer-40k-space-marines-assault-intercessors.jpg",
+    "source": "https://www.ludifolie.com/19876-warhammer-40k-space-marines-assault-intercessors.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/5259541f8858bb0f105f.jpg",
+    "sha256": "5259541f8858bb0f105ffedede4306726fe4544c6f825ca5c039f1448f113115"
+  },
+  "death-guard/Blightlord-Terminators": {
+    "originalUrl": "https://www.ludifolie.com/48554-large_default/warhammer-40k-death-guard-blightlord-terminators.jpg",
+    "source": "https://www.ludifolie.com/19877-warhammer-40k-death-guard-blightlord-terminators.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/cc4e7aebf5d4f12a9aec.jpg",
+    "sha256": "cc4e7aebf5d4f12a9aecf9bb0681990c282657e355bb1ec6c40c28b54a9635d9"
+  },
+  "space-marines/Brutalis-Dreadnought-UL": {
+    "originalUrl": "https://www.ludifolie.com/49861-large_default/warhammer-40k-space-marines-brutalis-dreadnought.jpg",
+    "source": "https://www.ludifolie.com/20228-warhammer-40k-space-marines-brutalis-dreadnought.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/e59156bd0a95d542e3c2.jpg",
+    "sha256": "e59156bd0a95d542e3c25b5319c95419fd316fe8078ec65d346bcdd42cbcfb87"
+  },
+  "orks/Flash-Gitz": {
+    "originalUrl": "https://www.ludifolie.com/50020-large_default/warhammer-40k-orks-flash-gitz.jpg",
+    "source": "https://www.ludifolie.com/20267-warhammer-40k-orks-flash-gitz.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/36be9e0c3da61f474812.jpg",
+    "sha256": "36be9e0c3da61f4748123e0c4cfe7dcf05dc85803b5cd2e43a416b7dbf3db4cc"
+  },
+  "t-au-empire/Darkstrider": {
+    "originalUrl": "https://www.ludifolie.com/50032-large_default/warhammer-40k-t-au-empire-darkstrider.jpg",
+    "source": "https://www.ludifolie.com/20270-warhammer-40k-t-au-empire-darkstrider.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/6f13dac8261432c886df.jpg",
+    "sha256": "6f13dac8261432c886df389a3b208c880e657de1e3d71bed9528a025c2145ca4"
+  },
+  "chaos-space-marines/Chaos-Lord-with-Jump-Pack": {
+    "originalUrl": "https://www.ludifolie.com/51792-large_default/warhammer-40k-chaos-space-marines-chaos-lord-with-jump-pack.jpg",
+    "source": "https://www.ludifolie.com/20748-warhammer-40k-chaos-space-marines-chaos-lord-with-jump-pack.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/c1e0746084cc10e4ca33.jpg",
+    "sha256": "c1e0746084cc10e4ca333d1a097749712a1674cec09fff2a9c3b5878f9f75b86"
+  },
+  "t-au-empire/Ethereal": {
+    "originalUrl": "https://www.ludifolie.com/51823-large_default/warhammer-40k-t-au-empire-ethereal.jpg",
+    "source": "https://www.ludifolie.com/20754-warhammer-40k-t-au-empire-ethereal.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/adf59504050f76d7bc35.jpg",
+    "sha256": "adf59504050f76d7bc357c5f3dfcd1a91f9619a962edf8c2e4e22a9ed5628d07"
+  },
+  "space-marines/Storm-Speeder-Hailstrike": {
+    "originalUrl": "https://www.ludifolie.com/52225-large_default/warhammer-40k-space-marines-storm-speeder.jpg",
+    "source": "https://www.ludifolie.com/20883-warhammer-40k-space-marines-storm-speeder.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/74e7a6fcf7af01c8c24c.jpg",
+    "sha256": "74e7a6fcf7af01c8c24c80a8a363e5ae1746fd56946939e3b46bd26530f6fa52"
+  },
+  "thousand-sons/Infernal-Master": {
+    "originalUrl": "https://www.ludifolie.com/52469-large_default/warhammer-40k-thousand-sons-infernal-master.jpg",
+    "source": "https://www.ludifolie.com/20953-warhammer-40k-thousand-sons-infernal-master.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/039072a61ccf0152e7f3.jpg",
+    "sha256": "039072a61ccf0152e7f37146ad9ed4ab49c3dc05d1c92f02fb67de59039c17a5"
+  },
+  "death-guard/Plague-Surgeon": {
+    "originalUrl": "https://www.ludifolie.com/52486-large_default/warhammer-40k-death-guard-nauseous-rotbone-the-plague-surgeon.jpg",
+    "source": "https://www.ludifolie.com/20957-warhammer-40k-death-guard-nauseous-rotbone-the-plague-surgeon.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/9ed217214a9de07b50ab.jpg",
+    "sha256": "9ed217214a9de07b50abf07b80dcd36fa1d12b0ab461b190b15eaea676bd8437"
+  },
+  "orks/Beastboss": {
+    "originalUrl": "https://www.ludifolie.com/52679-large_default/warhammer-40k-orks-beastboss.jpg",
+    "source": "https://www.ludifolie.com/21012-warhammer-40k-orks-beastboss.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/547d908f23082357e3f1.jpg",
+    "sha256": "547d908f23082357e3f174f3ab639b4f51c55ee885c392f56fc986c3fdba7094"
+  },
+  "orks/Deffkoptas": {
+    "originalUrl": "https://www.ludifolie.com/52685-large_default/warhammer-40k-orks-deffkoptas.jpg",
+    "source": "https://www.ludifolie.com/21013-warhammer-40k-orks-deffkoptas.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/ace3e00a0b20760b401c.jpg",
+    "sha256": "ace3e00a0b20760b401c98dddc03416ffa8f54e4639573e009d8152a906a6731"
+  },
+  "chaos-space-marines/Haarken-Worldclaimer": {
+    "originalUrl": "https://www.ludifolie.com/54119-large_default/warhammer-40k-chaos-space-marines-haarken-worldclaimer.jpg",
+    "source": "https://www.ludifolie.com/21401-warhammer-40k-chaos-space-marines-haarken-worldclaimer.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/ef210a693d02fe14b85b.jpg",
+    "sha256": "ef210a693d02fe14b85b521cb06c8b0d58f2aeaa92711be59ee0486385d7f921"
+  },
+  "chaos-space-marines/Accursed-Cultists": {
+    "originalUrl": "https://www.ludifolie.com/54132-large_default/warhammer-40k-chaos-space-marines-accursed-cultists.jpg",
+    "source": "https://www.ludifolie.com/21405-warhammer-40k-chaos-space-marines-accursed-cultists.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/29c57cb8952b754e5baa.jpg",
+    "sha256": "29c57cb8952b754e5baa9725a7d9b7f5ca56d5a2af12abac358599de671689de"
+  },
+  "space-marines/Stormraven-Gunship": {
+    "originalUrl": "https://www.ludifolie.com/54961-large_default/warhammer-40k-space-marines-stormraven-gunship.jpg",
+    "source": "https://www.ludifolie.com/21644-warhammer-40k-space-marines-stormraven-gunship.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/df625cdaf830a56c3282.jpg",
+    "sha256": "df625cdaf830a56c32829035e801b8e4f9ebdbb39da24d23c2699e530a9ba58c"
+  },
+  "space-marines/Chaplain-In-Terminator-Armour": {
+    "originalUrl": "https://www.ludifolie.com/55457-large_default/warhammer-40k-space-marines-chaplain-in-terminator-armour.jpg",
+    "source": "https://www.ludifolie.com/21776-warhammer-40k-space-marines-chaplain-in-terminator-armour.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/b7e6ed83783d873e060a.jpg",
+    "sha256": "b7e6ed83783d873e060a8f8159bb588b5b5d3040e726f390c96aaadc22567478"
+  },
+  "death-guard/Tallyman": {
+    "originalUrl": "https://www.ludifolie.com/55867-large_default/warhammer-40k-death-guard-scribbus-wretch-the-tallyman.jpg",
+    "source": "https://www.ludifolie.com/21884-warhammer-40k-death-guard-scribbus-wretch-the-tallyman.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/bc3331025c4b2a939875.jpg",
+    "sha256": "bc3331025c4b2a939875ef5aa38032292a7d07aefb6b39f1afa575139233e26d"
+  },
+  "death-guard/Foul-Blightspawn": {
+    "originalUrl": "https://www.ludifolie.com/55870-large_default/warhammer-40k-death-guard-foul-blightspawn.jpg",
+    "source": "https://www.ludifolie.com/21885-warhammer-40k-death-guard-foul-blightspawn.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/0a81c8661fe5b0c35834.jpg",
+    "sha256": "0a81c8661fe5b0c35834eac68c50cb9588df1755963c97b3466e388e5875a7d6"
+  },
+  "death-guard/Lord-of-Virulence": {
+    "originalUrl": "https://www.ludifolie.com/55874-large_default/warhammer-40k-death-guard-lord-of-virulence.jpg",
+    "source": "https://www.ludifolie.com/21886-warhammer-40k-death-guard-lord-of-virulence.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/24c8633dcd14f5c06382.jpg",
+    "sha256": "24c8633dcd14f5c06382023a86e65dee3b323a8a35b3b6bbbb417b4b13aff31c"
+  },
+  "death-guard/Poxwalkers": {
+    "originalUrl": "https://www.ludifolie.com/55878-large_default/warhammer-40k-death-guard-poxwalkers.jpg",
+    "source": "https://www.ludifolie.com/21887-warhammer-40k-death-guard-poxwalkers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/667971733578e8296dc9.jpg",
+    "sha256": "667971733578e8296dc94486bac430943c13ea0aa4e99403f5b3b67c928c2851"
+  },
+  "chaos-space-marines/Vashtorr-The-Arkifane": {
+    "originalUrl": "https://www.ludifolie.com/56263-large_default/warhammer-40k-chaos-space-marines-vashtorr-the-arkifane.jpg",
+    "source": "https://www.ludifolie.com/21987-warhammer-40k-chaos-space-marines-vashtorr-the-arkifane.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/38c58c75df27593cd025.jpg",
+    "sha256": "38c58c75df27593cd0257f7ccf30e7af46d39ff6a24fc2420a2c02d9ac711f0e"
+  },
+  "chaos-space-marines/Master-Of-Executions": {
+    "originalUrl": "https://www.ludifolie.com/56520-large_default/warhammer-40k-chaos-space-marines-master-of-executions.jpg",
+    "source": "https://www.ludifolie.com/22060-warhammer-40k-chaos-space-marines-master-of-executions.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/d1e4720e3d11bb95f4ba.jpg",
+    "sha256": "d1e4720e3d11bb95f4ba643fa15b731a206e319a857702f48adc80bcf375df13"
+  },
+  "chaos-space-marines/Sorcerer": {
+    "originalUrl": "https://www.ludifolie.com/56524-large_default/warhammer-40k-chaos-space-marines-sorcerer.jpg",
+    "source": "https://www.ludifolie.com/22061-warhammer-40k-chaos-space-marines-sorcerer.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/27ad6a322fa0e2daa716.jpg",
+    "sha256": "27ad6a322fa0e2daa716a2e36f49f6ab1afeb1e1e94ac1e0d95e3a32835595c7"
+  },
+  "space-marines/Firestrike-Servo-turrets": {
+    "originalUrl": "https://www.ludifolie.com/56540-large_default/warhammer-40k-space-marines-primaris-firestrike-servo-turret.jpg",
+    "source": "https://www.ludifolie.com/22065-warhammer-40k-space-marines-primaris-firestrike-servo-turret.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/d835a850cf78fd56937b.jpg",
+    "sha256": "d835a850cf78fd56937b84b3a72300cf43f6f56716790ad49430f0b8d1274700"
+  },
+  "tyranids/Psychophage": {
+    "originalUrl": "https://www.ludifolie.com/56554-large_default/warhammer-40k-tyranids-psychophage.jpg",
+    "source": "https://www.ludifolie.com/22068-warhammer-40k-tyranids-psychophage.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/d280da7942567e9732c0.jpg",
+    "sha256": "d280da7942567e9732c066610ecb5d37e01d0c699cc348fbc5f576a948d6be76"
+  },
+  "orks/Deffkilla-Wartrike": {
+    "originalUrl": "https://www.ludifolie.com/56581-large_default/warhammer-40k-orks-deffkilla-wartrike.jpg",
+    "source": "https://www.ludifolie.com/22077-warhammer-40k-orks-deffkilla-wartrike.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/149b7fa97dd7dc4c4748.jpg",
+    "sha256": "149b7fa97dd7dc4c4748c8139bf67bb2ade68c1676287a8b6258984a2768f177"
+  },
+  "orks/Battlewagon": {
+    "originalUrl": "https://www.ludifolie.com/56585-large_default/warhammer-40k-orks-battlewagon.jpg",
+    "source": "https://www.ludifolie.com/22078-warhammer-40k-orks-battlewagon.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/7c1716fdbcf3e245721d.jpg",
+    "sha256": "7c1716fdbcf3e245721df6714eca98222674d4ddb09e4f37c75004955f65269d"
+  },
+  "chaos-space-marines/Havocs": {
+    "originalUrl": "https://www.ludifolie.com/57344-large_default/warhammer-40k-chaos-space-marines-havocs.jpg",
+    "source": "https://www.ludifolie.com/22282-warhammer-40k-chaos-space-marines-havocs.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/93b8bfb6eae6c04c1ebf.jpg",
+    "sha256": "93b8bfb6eae6c04c1ebfd664a7d20ef7a5cb6b96bd2a92d261e9139922d186bb"
+  },
+  "orks/Kill-Rig": {
+    "originalUrl": "https://www.ludifolie.com/59962-large_default/warhammer-40k-orks-kill-rig.jpg",
+    "source": "https://www.ludifolie.com/22959-warhammer-40k-orks-kill-rig.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/3b1550704143f3f67882.jpg",
+    "sha256": "3b1550704143f3f6788298a2f4d56dbc13cbdbeb86afde40707dff25d5762071"
+  },
+  "orks/Zodgrod-Wortsnagga": {
+    "originalUrl": "https://www.ludifolie.com/59966-large_default/warhammer-40k-orks-zodgrod-wortsnagga.jpg",
+    "source": "https://www.ludifolie.com/22960-warhammer-40k-orks-zodgrod-wortsnagga.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/f49163979f293739497f.jpg",
+    "sha256": "f49163979f293739497f11cfb53e1a306b480504cb8e7a7adc25446448a56a3b"
+  },
+  "orks/Painboss": {
+    "originalUrl": "https://www.ludifolie.com/61190-large_default/warhammer-40k-orks-painboss.jpg",
+    "source": "https://www.ludifolie.com/23318-warhammer-40k-orks-painboss.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/b61b9fc0aee8789337ae.jpg",
+    "sha256": "b61b9fc0aee8789337ae8aabec1f897dca02466f5b45fb88e759690c0ad477cf"
+  },
+  "chaos-space-marines/Red-Corsairs-Reave-Captain": {
+    "originalUrl": "https://www.ludifolie.com/64040-large_default/warhammer-40k-chaos-space-marines-red-corsairs-reave-captain.jpg",
+    "source": "https://www.ludifolie.com/24124-warhammer-40k-chaos-space-marines-red-corsairs-reave-captain.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/ed0bcc8b1f472e41b746.jpg",
+    "sha256": "ed0bcc8b1f472e41b746cac3c762ba333c4933689220be44af331971b13c9570"
+  },
+  "chaos-space-marines/Defiler": {
+    "originalUrl": "https://www.ludifolie.com/64963-large_default/warhammer-40k-chaos-space-marines-defiler.jpg",
+    "source": "https://www.ludifolie.com/24355-warhammer-40k-chaos-space-marines-defiler.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/93f4e4de42099053fb44.jpg",
+    "sha256": "93f4e4de42099053fb445d12886c5cfd9e29aa41de520b3832f86b0f6135ee69"
+  },
+  "t-au-empire/Kroot-Farstalkers": {
+    "originalUrl": "https://www.ludifolie.com/67506-large_default/warhammer-40k-t-au-empire-kroot-farstalkers.jpg",
+    "source": "https://www.ludifolie.com/24981-warhammer-40k-t-au-empire-kroot-farstalkers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/5c93b0ab45819425ce04.jpg",
+    "sha256": "5c93b0ab45819425ce04d11edbcb15933fbb587e160aa9bf779e94cf3dfa39de"
+  },
+  "orks/Wartrakks": {
+    "originalUrl": "https://www.ludifolie.com/67818-large_default/warhammer-40k-orks-wartrakk.jpg",
+    "source": "https://www.ludifolie.com/25075-warhammer-40k-orks-wartrakk.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-13",
+    "url": "/images/units/968d18fccc4bdb79c019.jpg",
+    "sha256": "968d18fccc4bdb79c0191cec21fb9f2e8143d72f14ba43a8a726eefc27cb29f2"
   }
 }

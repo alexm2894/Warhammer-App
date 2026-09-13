@@ -10,8 +10,8 @@ import type {Game,Player} from '@/lib/battle';
 import type {FactionRules} from '@/lib/faction-rules';
 import {factionStyle} from '@/lib/factions';
 const player=(team:0|1,n:number):Player=>({id:`${team}-${n}`,team,name:`Team ${team+1} · Player ${n+1}`,faction:'',ally:'',detachment:''});
-export default function GameSetup({factions,units,initial,onDeploy,onStartNew}:{factions:string[];units:CatalogueUnit[];initial?:Game;onDeploy:(game:Game)=>void;onStartNew:()=>void}){
- const [restored]=useState(()=>initial||readSavedGame(SETUP_DRAFT_KEY,false));
+export default function GameSetup({factions,units,initial,fresh=false,onDeploy,onStartNew}:{factions:string[];units:CatalogueUnit[];initial?:Game;fresh?:boolean;onDeploy:(game:Game)=>void;onStartNew:()=>void}){
+ const [restored]=useState(()=>initial||(fresh?null:readSavedGame(SETUP_DRAFT_KEY,false)));
  const [players,setPlayers]=useState<Player[]>(restored ? restored.players : [player(0,0),player(1,0)]),[rules,setRules]=useState<Record<string,FactionRules>>(restored?.rules||{}),[loading,setLoading]=useState<string[]>([]),[error,setError]=useState('');
  const [editor,setEditor]=useState<string|null>(null),[cacheStatus,setCacheStatus]=useState(''),[caching,setCaching]=useState(false);
  useEffect(()=>{let active=true;void saveDraft({version:1,players,rules}).catch(()=>{if(active)setError('Local saving is unavailable. Keep this page open until your army is ready.');});return()=>{active=false;};},[players,rules]);

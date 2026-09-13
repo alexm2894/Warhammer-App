@@ -1,0 +1,127 @@
+{
+  "source": "https://wahapedia.ru/wh40k11ed/nav.html",
+  "retrievedAt": "2026-09-12T18:28:57.674Z",
+  "edition": 11,
+  "armies": [
+    {
+      "name": "Adepta Sororitas",
+      "slug": "adepta-sororitas",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adepta-sororitas/"
+    },
+    {
+      "name": "Adeptus Custodes",
+      "slug": "adeptus-custodes",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/"
+    },
+    {
+      "name": "Adeptus Mechanicus",
+      "slug": "adeptus-mechanicus",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/"
+    },
+    {
+      "name": "Adeptus Titanicus",
+      "slug": "adeptus-titanicus",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-titanicus/"
+    },
+    {
+      "name": "Astra Militarum",
+      "slug": "astra-militarum",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/"
+    },
+    {
+      "name": "Grey Knights",
+      "slug": "grey-knights",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/grey-knights/"
+    },
+    {
+      "name": "Imperial Agents",
+      "slug": "imperial-agents",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/"
+    },
+    {
+      "name": "Imperial Knights",
+      "slug": "imperial-knights",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-knights/"
+    },
+    {
+      "name": "Space Marines",
+      "slug": "space-marines",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/"
+    },
+    {
+      "name": "Chaos Daemons",
+      "slug": "chaos-daemons",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/"
+    },
+    {
+      "name": "Chaos Knights",
+      "slug": "chaos-knights",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/"
+    },
+    {
+      "name": "Chaos Space Marines",
+      "slug": "chaos-space-marines",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/"
+    },
+    {
+      "name": "Death Guard",
+      "slug": "death-guard",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/"
+    },
+    {
+      "name": "Emperor’s Children",
+      "slug": "emperor-s-children",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/"
+    },
+    {
+      "name": "Thousand Sons",
+      "slug": "thousand-sons",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/"
+    },
+    {
+      "name": "World Eaters",
+      "slug": "world-eaters",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/"
+    },
+    {
+      "name": "Aeldari",
+      "slug": "aeldari",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/aeldari/"
+    },
+    {
+      "name": "Drukhari",
+      "slug": "drukhari",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/drukhari/"
+    },
+    {
+      "name": "Genestealer Cults",
+      "slug": "genestealer-cults",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/"
+    },
+    {
+      "name": "Leagues of Votann",
+      "slug": "leagues-of-votann",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/"
+    },
+    {
+      "name": "Necrons",
+      "slug": "necrons",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/"
+    },
+    {
+      "name": "Orks",
+      "slug": "orks",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/orks/"
+    },
+    {
+      "name": "T’au Empire",
+      "slug": "t-au-empire",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/"
+    },
+    {
+      "name": "Tyranids",
+      "slug": "tyranids",
+      "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/"
+    }
+  ]
+}

@@ -16,9 +16,7 @@ assert.equal(validRoster({...draft,entries:[{unitId:guard.id,models:4,count:-1}]
 assert.equal(validRoster({...draft,text:'x'.repeat(100001)}),false);
 assert.ok(units.filter(u=>u.sizes?.length).length>=690);
 assert.equal(units.find(u=>u.id==='space-marines/Terminator-Squad').sizes[0].points,160);
-assert.equal(units.find(u=>u.id==='adeptus-custodes/Prosecutors').image,undefined);
-assert.equal(units.find(u=>u.id==='necrons/Necron-Warriors').image,undefined);
-assert.equal(units.filter(u=>u.image).length,4);
+assert.ok(units.filter(u=>u.image).length>=13);
 assert.ok(units.filter(u=>u.image).every(u=>u.image.kind==='miniature'&&['white','transparent'].includes(u.image.background)&&/^\d{4}-\d{2}-\d{2}$/.test(u.image.verifiedAt)));
 assert.ok(units.find(u=>u.id==='adeptus-custodes/Custodian-Guard').image);
 assert.ok(units.find(u=>u.id==='genestealer-cults/Kelermorph').image);

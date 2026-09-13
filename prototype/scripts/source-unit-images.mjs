@@ -7,7 +7,7 @@ const ids=new Set(units.map(unit=>unit.id));
 for(const [id,image] of Object.entries(curated)){
  if(!ids.has(id))throw Error(`Curated image has no matching unit: ${id}`);
  if(image.kind!=='miniature'||!['white','transparent'].includes(image.background))throw Error(`Curated image must be a model on white or transparent background: ${id}`);
- if(![image.url,image.source].every(value=>typeof value==='string'&&value.startsWith('https://')))throw Error(`Curated image URLs must use HTTPS: ${id}`);
+ if(!image.source.startsWith('https://')||!(image.url.startsWith('https://')||/^\/images\/units\/[\w.-]+$/.test(image.url)))throw Error(`Invalid curated image URL: ${id}`);
  if(!image.credit||!/^\d{4}-\d{2}-\d{2}$/.test(image.verifiedAt))throw Error(`Curated image needs credit and a verification date: ${id}`);
 }
 
