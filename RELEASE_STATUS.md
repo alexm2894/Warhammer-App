@@ -1,4 +1,17 @@
-# Live release — 16 September 2026
+# Live release — sidebar update, 16 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 12
+- Deployment: appgdep_6aaa702bfd4c8191af5b610e1e5a8932 — succeeded, 10:32:24 UTC
+- GitHub application source: b22e09318cf7bb94e97647552c5370cef1658a8a
+- Hosting source: 1fac60b0ecf7d12f7a9432b21f2eb89e420caead
+- Matching application tree: c8fd6d8f20d77f7a95f6e245abcee39e8b185b92
+
+Game Data Cards now uses the lookup layout with a collapsible saved-card sidebar and compact thumbnail switching. Field Cards uses a direct main-menu link.
+
+Validation: TypeScript, existing automated suite and production build passed. Published home, lookup, game-cards and versus routes returned successful responses with updated home navigation. Interactive iPad/browser testing was not performed for this release.
+
+# Previous release — 16 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site
 - Sites version: 11
