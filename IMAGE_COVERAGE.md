@@ -2,40 +2,16 @@
 
 Verified model-only photographs on white, stored permanently with source attribution and SHA-256. Missing entries below remain unfinished; no box-art fallback is used. Counts include allied datasheets indexed under an army.
 
-## Adeptus Custodes: 10/31
+## Adeptus Custodes: 29/31
 
-- Aleya (`adeptus-custodes/Aleya`)
-- Valerian (`adeptus-custodes/Valerian`)
 - Knight-centura (`adeptus-custodes/Knight-centura`)
-- Shield-captain In Allarus Terminator Armour (`adeptus-custodes/Shield-captain-In-Allarus-Terminator-Armour`)
-- Shield-captain On Dawneagle Jetbike (`adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike`)
-- Anathema Psykana Rhino (`adeptus-custodes/Anathema-Psykana-Rhino`)
-- Ares Gunship (`adeptus-custodes/Ares-Gunship`)
-- Prosecutors (`adeptus-custodes/Prosecutors`)
-- Witchseekers (`adeptus-custodes/Witchseekers`)
-- Aquilon Custodians (`adeptus-custodes/Aquilon-Custodians`)
-- Custodian Guard With Adrasite And Pyrithite Spears (`adeptus-custodes/Custodian-Guard-With-Adrasite-And-Pyrithite-Spears`)
-- Sagittarum Custodians (`adeptus-custodes/Sagittarum-Custodians`)
-- Agamatus Custodians (`adeptus-custodes/Agamatus-Custodians`)
-- Venerable Land Raider (`adeptus-custodes/Venerable-Land-Raider`)
-- Orion Assault Dropship (`adeptus-custodes/Orion-Assault-Dropship`)
-- Caladius Grav-tank (`adeptus-custodes/Caladius-Grav-tank`)
-- Pallas Grav-attack (`adeptus-custodes/Pallas-Grav-attack`)
 - Venerable Contemptor Dreadnought (`adeptus-custodes/Venerable-Contemptor-Dreadnought`)
-- Contemptor-achillus Dreadnought (`adeptus-custodes/Contemptor-achillus-Dreadnought`)
-- Contemptor-galatus Dreadnought (`adeptus-custodes/Contemptor-galatus-Dreadnought`)
-- Telemon Heavy Dreadnought (`adeptus-custodes/Telemon-Heavy-Dreadnought`)
 
-## Genestealer Cults: 16/139
+## Genestealer Cults: 28/139
 
 - Deathleaper (`genestealer-cults/Deathleaper`)
 - Hell’s Last (`genestealer-cults/Hell-s-Last`)
 - The Red Terror (`genestealer-cults/The-Red-Terror`)
-- Acolyte Iconward (`genestealer-cults/Acolyte-Iconward`)
-- Patriarch (`genestealer-cults/Patriarch`)
-- Primus (`genestealer-cults/Primus`)
-- Reductus Saboteur (`genestealer-cults/Reductus-Saboteur`)
-- Sanctus (`genestealer-cults/Sanctus`)
 - Cadian Castellan (`genestealer-cults/Cadian-Castellan`)
 - Cadian Command Squad (`genestealer-cults/Cadian-Command-Squad`)
 - Catachan Command Squad (`genestealer-cults/Catachan-Command-Squad`)
@@ -45,10 +21,10 @@ Verified model-only photographs on white, stored permanently with source attribu
 - Winged Tyranid Prime (`genestealer-cults/Winged-Tyranid-Prime`)
 - Quartermaster Cadre Squad (`genestealer-cults/Quartermaster-Cadre-Squad`)
 - Winged Hive Tyrant (`genestealer-cults/Winged-Hive-Tyrant`)
-- Jackal Alphus (`genestealer-cults/Jackal-Alphus`)
 - Death Rider Commissar (`genestealer-cults/Death-Rider-Commissar`)
 - Leman Russ Commander (`genestealer-cults/Leman-Russ-Commander`)
 - Rogal Dorn Commander (`genestealer-cults/Rogal-Dorn-Commander`)
+- Acolyte Hybrids With Hand Flamers (`genestealer-cults/Acolyte-Hybrids-With-Hand-Flamers`)
 - Cadian Shock Troops (`genestealer-cults/Cadian-Shock-Troops`)
 - Catachan Jungle Fighters (`genestealer-cults/Catachan-Jungle-Fighters`)
 - Death Korps Of Krieg (`genestealer-cults/Death-Korps-Of-Krieg`)
@@ -65,9 +41,6 @@ Verified model-only photographs on white, stored permanently with source attribu
 - Armageddon-pattern Medusa (`genestealer-cults/Armageddon-pattern-Medusa`)
 - Griffon Mortar Carrier (`genestealer-cults/Griffon-Mortar-Carrier`)
 - Minotaur (`genestealer-cults/Minotaur`)
-- Aberrants (`genestealer-cults/Aberrants`)
-- Hybrid Metamorphs (`genestealer-cults/Hybrid-Metamorphs`)
-- Purestrain Genestealers (`genestealer-cults/Purestrain-Genestealers`)
 - Artillery Team (`genestealer-cults/Artillery-Team`)
 - Cadian Heavy Weapons Squad (`genestealer-cults/Cadian-Heavy-Weapons-Squad`)
 - Catachan Heavy Weapons Squad (`genestealer-cults/Catachan-Heavy-Weapons-Squad`)
@@ -88,7 +61,6 @@ Verified model-only photographs on white, stored permanently with source attribu
 - Regimental Attachés (`genestealer-cults/Regimental-Attach-s`)
 - Mawloc (`genestealer-cults/Mawloc`)
 - Trygon (`genestealer-cults/Trygon`)
-- Atalan Jackals (`genestealer-cults/Atalan-Jackals`)
 - Attilan Rough Riders (`genestealer-cults/Attilan-Rough-Riders`)
 - Death Riders (`genestealer-cults/Death-Riders`)
 - Mukaali Riders (`genestealer-cults/Mukaali-Riders`)
@@ -111,10 +83,8 @@ Verified model-only photographs on white, stored permanently with source attribu
 - Macharius Vulcan (`genestealer-cults/Macharius-Vulcan`)
 - Stormblade (`genestealer-cults/Stormblade`)
 - Valdor (`genestealer-cults/Valdor`)
-- Goliath Rockgrinder (`genestealer-cults/Goliath-Rockgrinder`)
 - Centaur Light Carrier (`genestealer-cults/Centaur-Light-Carrier`)
 - Crassus (`genestealer-cults/Crassus`)
-- Achilles Ridgerunners (`genestealer-cults/Achilles-Ridgerunners`)
 - Hellhound (`genestealer-cults/Hellhound`)
 - Hippogriff AFV (`genestealer-cults/Hippogriff-AFV`)
 - Hydra (`genestealer-cults/Hydra`)
@@ -150,7 +120,6 @@ Verified model-only photographs on white, stored permanently with source attribu
 - Hydra Platform (`genestealer-cults/Hydra-Platform`)
 - Manticore Platform (`genestealer-cults/Manticore-Platform`)
 - Sabre Weapons Battery (`genestealer-cults/Sabre-Weapons-Battery`)
-- Tectonic Fragdrill (`genestealer-cults/Tectonic-Fragdrill`)
 
 ## Imperial Knights: 4/28
 

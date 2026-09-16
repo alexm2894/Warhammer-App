@@ -19,16 +19,6 @@
     "originalUrl": "https://www.ludifolie.com/44358-thickbox_default/warhammer-40k-genestealer-cults-acolyte-hybrids.jpg",
     "sha256": "97fa41bd29a04b938fb147096faa6f89a80e46575b7f4636480458552d8478ba"
   },
-  "genestealer-cults/Acolyte-Hybrids-With-Hand-Flamers": {
-    "url": "/images/units/97fa41bd29a04b938fb1.jpg",
-    "source": "https://www.ludifolie.com/18644-warhammer-40k-genestealer-cults-acolyte-hybrids.html",
-    "credit": "Games Workshop / Ludifolie",
-    "kind": "miniature",
-    "background": "white",
-    "verifiedAt": "2026-09-12",
-    "originalUrl": "https://www.ludifolie.com/44358-thickbox_default/warhammer-40k-genestealer-cults-acolyte-hybrids.jpg",
-    "sha256": "97fa41bd29a04b938fb147096faa6f89a80e46575b7f4636480458552d8478ba"
-  },
   "genestealer-cults/Kelermorph": {
     "url": "/images/units/4a877312a2a1c64f17ac.jpg",
     "source": "https://agtom.eu/en/genestealer-cults/366743-genestealer-cults-kelermorph-5011921171903.html",
@@ -2708,5 +2698,325 @@
     "verifiedAt": "2026-09-13",
     "url": "/images/units/968d18fccc4bdb79c019.jpg",
     "sha256": "968d18fccc4bdb79c0191cec21fb9f2e8143d72f14ba43a8a726eefc27cb29f2"
+  },
+  "adeptus-custodes/Prosecutors": {
+    "originalUrl": "https://battlecitygames.co.uk/cdn/shop/files/99120108007_ProsecutorSquad01.jpg",
+    "source": "https://battlecitygames.co.uk/products/sisters-of-silence-2017",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/f19909030c95ce008396.jpg",
+    "sha256": "f19909030c95ce00839679c054aa998f206337b81051abeed2b5f5eec645b102"
+  },
+  "adeptus-custodes/Witchseekers": {
+    "originalUrl": "https://battlecitygames.co.uk/cdn/shop/files/99120108007_WitchseekerSquad01.jpg",
+    "source": "https://battlecitygames.co.uk/products/sisters-of-silence-2017",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/d5927d936a29d650d2ff.jpg",
+    "sha256": "d5927d936a29d650d2ffdd5b022c0f4d4806d676297dad5db04d7215a39e3943"
+  },
+  "adeptus-custodes/Caladius-Grav-tank": {
+    "originalUrl": "https://battlecitygames.co.uk/cdn/shop/files/99123043007_CustodesCaladiusGravTank1.jpg",
+    "source": "https://battlecitygames.co.uk/products/sisters-of-silence-2017",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/5610de6c937ce1e82b98.jpg",
+    "sha256": "5610de6c937ce1e82b98c038b6a164c8584d2c76d7b6640c98c1fcd4ceb6b6af"
+  },
+  "adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike": {
+    "originalUrl": "https://miniset.net/files/set/gw-99120108078-1.jpg",
+    "source": "https://miniset.net/sets/gw-99120108078",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/81a48fd9bf63409f1247.jpg",
+    "sha256": "81a48fd9bf63409f12476925fd9c6d369d89ac33b3d8a93862283e0b640918c6"
+  },
+  "adeptus-custodes/Shield-captain-In-Allarus-Terminator-Armour": {
+    "originalUrl": "https://miniset.net/files/set/gw-99120108075-1-1.jpg",
+    "source": "https://miniset.net/sets/gw-99120108075-1",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/576d8443e23d2a98cda5.jpg",
+    "sha256": "576d8443e23d2a98cda5972f42e1ef0df1a158f2350c7f57dd41bd426ab24e8a"
+  },
+  "adeptus-custodes/Ares-Gunship": {
+    "originalUrl": "https://miniset.net/files/set/gw-99860108214-0.jpg",
+    "source": "https://miniset.net/sets/gw-99860108214",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/cca24ac4cd5a0def3e5b.jpg",
+    "sha256": "cca24ac4cd5a0def3e5b2611cdb9c273391bdbe47f8dbad78b5fb0fd8feda6a8"
+  },
+  "adeptus-custodes/Pallas-Grav-attack": {
+    "originalUrl": "https://miniset.net/files/set/gw-99560108173-0.jpg",
+    "source": "https://miniset.net/sets/gw-99560108173",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/c1fd50f70ea531e09575.jpg",
+    "sha256": "c1fd50f70ea531e09575dc4a5f3fc0810ff77485bef0a4c1ef7aad3b8b6bad55"
+  },
+  "adeptus-custodes/Sagittarum-Custodians": {
+    "originalUrl": "https://miniset.net/files/set/gw-99020187256-0.jpg",
+    "source": "https://miniset.net/sets/gw-99020187256",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/21768346afe5fb5c6a88.jpg",
+    "sha256": "21768346afe5fb5c6a88a9294cbece77e2d689240919abd400f1a84ae4a27649"
+  },
+  "adeptus-custodes/Aquilon-Custodians": {
+    "originalUrl": "https://miniset.net/files/set/gw-99560108190-0.jpg",
+    "source": "https://miniset.net/sets/gw-99560108190",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/c7692d0645149be7e365.jpg",
+    "sha256": "c7692d0645149be7e3656bfd9352f47083fa977f9a2e201a59365bf0c9a727fa"
+  },
+  "adeptus-custodes/Orion-Assault-Dropship": {
+    "originalUrl": "https://miniset.net/files/set/gw-99560108193-0.jpg",
+    "source": "https://miniset.net/sets/gw-99560108193",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/06a4251243445a040306.jpg",
+    "sha256": "06a4251243445a040306a9e59085625bcb9d4efc7ed78faf891a388e214e4f4f"
+  },
+  "adeptus-custodes/Telemon-Heavy-Dreadnought": {
+    "originalUrl": "https://miniset.net/files/set/gw-99020187293-0.jpg",
+    "source": "https://miniset.net/sets/gw-99020187293",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/42646fa508c20987251f.jpg",
+    "sha256": "42646fa508c20987251fc78fd365973ee725d6bcb83109acaf7e1ac6d99fd80f"
+  },
+  "adeptus-custodes/Contemptor-achillus-Dreadnought": {
+    "originalUrl": "https://miniset.net/files/set/gw-99560108178-0.jpg",
+    "source": "https://miniset.net/sets/gw-99560108178",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/5e72f96d16f939312e6e.jpg",
+    "sha256": "5e72f96d16f939312e6e033b3228f79de278e89941c472f3f6ac3b4e62f4e369"
+  },
+  "adeptus-custodes/Contemptor-galatus-Dreadnought": {
+    "originalUrl": "https://miniset.net/files/set/gw-99550108174-0.jpg",
+    "source": "https://miniset.net/sets/gw-99550108174",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/f2921552e06c3c683b30.jpg",
+    "sha256": "f2921552e06c3c683b301713ec3df6f39a479ca6c584c8c5c19af76547be2f23"
+  },
+  "adeptus-custodes/Valerian": {
+    "originalUrl": "https://miniset.net/files/set/gw-99120108031-1.jpg",
+    "source": "https://miniset.net/sets/gw-99120108031",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/6fa5e6bf14167163489a.jpg",
+    "sha256": "6fa5e6bf14167163489a6963be96562efbce0e36805dbdabfbd140e160bf40b2"
+  },
+  "adeptus-custodes/Aleya": {
+    "originalUrl": "https://miniset.net/files/set/gw-99120108031-2.jpg",
+    "source": "https://miniset.net/sets/gw-99120108031",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/73543cbe16a7b1c10b22.jpg",
+    "sha256": "73543cbe16a7b1c10b2293fab6a944d1b98b1607b57797ccd8856307c4715225"
+  },
+  "adeptus-custodes/Custodian-Guard-With-Adrasite-And-Pyrithite-Spears": {
+    "originalUrl": "https://miniset.net/files/set/gw-99020187355-0.jpg",
+    "source": "https://miniset.net/sets/gw-99020187355",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/3faa9d7b4492d5045791.jpg",
+    "sha256": "3faa9d7b4492d50457910c1f8e678200420a9a3f38d2b5086eda5206c5d7e3a0"
+  },
+  "adeptus-custodes/Agamatus-Custodians": {
+    "originalUrl": "https://miniset.net/files/set/gw-99020187262-0.jpg",
+    "source": "https://miniset.net/sets/gw-99020187262",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/adbfb80c02e9f0ad48c6.jpg",
+    "sha256": "adbfb80c02e9f0ad48c68699072e003ee89807ca028fe59c75b32ab28339145f"
+  },
+  "genestealer-cults/Acolyte-Iconward": {
+    "originalUrl": "https://www.boardgamesdallas.com/cdn/shop/files/99070117002_AcolyteIconward01_2048x.jpg?v=1711995772",
+    "source": "https://www.boardgamesdallas.com/products/w40k-genecult-acolyte-iconward",
+    "credit": "Games Workshop / Common Ground Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/653589196f2591a91ba4.jpg",
+    "sha256": "653589196f2591a91ba4410726771740350e6e3c4ee33b1cd6fba82845277d4a"
+  },
+  "genestealer-cults/Jackal-Alphus": {
+    "originalUrl": "https://www.redqueen.mx/cdn/shop/products/99120117013_GSCJackalAlphus01_1024x1024.jpg?v=1674252525",
+    "source": "https://www.redqueen.mx/products/jackal-alphus-wh40k-genestealer-cults",
+    "credit": "Games Workshop / RedQueen",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/672de08265e9a979ae6a.jpg",
+    "sha256": "672de08265e9a979ae6ace4251e1997d06cf58240e03fdce4d551386b87c3ca1"
+  },
+  "genestealer-cults/Achilles-Ridgerunners": {
+    "originalUrl": "https://www.forbiddenpowermalta.com/cdn/shop/files/99120117015_GSCAchilliesRidgerunner01.jpg?v=1760360015&width=1946",
+    "source": "https://www.forbiddenpowermalta.com/products/achilles-ridgerunner",
+    "credit": "Games Workshop / Forbidden Power",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/25db1555c65d26d27ebc.jpg",
+    "sha256": "25db1555c65d26d27ebc037a0438aca2700adaadbaa89b98a4ce9a89e1fe2aba"
+  },
+  "genestealer-cults/Reductus-Saboteur": {
+    "originalUrl": "https://www.hobby-max.fr/47294-large_default/culte-genestealer-saboteur-reductus.jpg",
+    "source": "https://www.hobby-max.fr/genestealer-cults/34951-culte-genestealer-saboteur-reductus-5011921163090.html",
+    "credit": "Games Workshop / Hobby Max",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/b046113c327ef0ded5c0.jpg",
+    "sha256": "b046113c327ef0ded5c05b4d9620e49e1a5407f39e419e167f0e64971fbea701"
+  },
+  "genestealer-cults/Sanctus": {
+    "originalUrl": "https://cdn11.bigcommerce.com/s-91vl4/products/3196/images/16837/837_Genestealer_Cult_Sanctus_S_1__85253.1560737770.800.600.JPG?c=2",
+    "source": "https://www.miniaturepainters.com/genestealer-cults-sanctus/",
+    "credit": "Games Workshop / Miniature Painters",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/9a27c3798ec702e9064e.jpg",
+    "sha256": "9a27c3798ec702e9064e46675c4f84cd352cd37d6536600cb15310db9bb30b9d"
+  },
+  "genestealer-cults/Patriarch": {
+    "originalUrl": "https://wh40k-fr.lexicanum.com/mediawiki/images/d/d9/FigPatriarcheGenestealerDO.jpg",
+    "source": "https://wh40k-fr.lexicanum.com/wiki/Patriarche",
+    "credit": "Games Workshop / Lexicanum",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/bfa73bdc2b4ef6abc51e.jpg",
+    "sha256": "bfa73bdc2b4ef6abc51e060d581ebf50a04569a2b1091ca3f463dacedfe31ed5"
+  },
+  "genestealer-cults/Primus": {
+    "originalUrl": "https://wh40k-fr.lexicanum.com/mediawiki/images/5/5f/FigPrimus.jpeg",
+    "source": "https://wh40k-fr.lexicanum.com/wiki/Primus",
+    "credit": "Games Workshop / Lexicanum",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/ba88f645d881a74f2c0a.jpg",
+    "sha256": "ba88f645d881a74f2c0a10b6ea6a784f5b4b7b030abe1a1ea2d03f1428295f00"
+  },
+  "genestealer-cults/Goliath-Rockgrinder": {
+    "originalUrl": "https://www.morehobbygames.com/1509-large_default/goliath-rockgrinder-truck-genestealer-cults-warhammer-40000.jpg",
+    "source": "https://www.morehobbygames.com/culto-genestealer-genestealer-cults/168-goliath-rockgrinder-truck-genestealer-cults-warhammer-40000-5011921171927.html",
+    "credit": "Games Workshop / More Hobby Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/a2d8d8fa8a8b17550e59.jpg",
+    "sha256": "a2d8d8fa8a8b17550e597f474e88a336e92908c348d05bc8ea4e1faa9b520549"
+  },
+  "genestealer-cults/Aberrants": {
+    "originalUrl": "https://agtom.eu/308667-thickbox_default/genestealer-cults-aberrants.jpg",
+    "source": "https://agtom.eu/genestealer-cults/357522-genestealer-cults-aberrants-5011921171965.html",
+    "credit": "Games Workshop / Agtom",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/ca50ef3a7cf010125a46.jpg",
+    "sha256": "ca50ef3a7cf010125a46efbe58299bdf3a51fadb7cd61cd35e9b0926a4d645c9"
+  },
+  "genestealer-cults/Hybrid-Metamorphs": {
+    "originalUrl": "https://www.rart.fr/39402-large_default/hybrid-metamorphs.jpg",
+    "source": "https://www.rart.fr/a25905-hybrid-metamorphs",
+    "credit": "Games Workshop / Rart",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/6f512bb79e1310d0de57.jpg",
+    "sha256": "6f512bb79e1310d0de572fd62f3eea8cd92ff02d3d6bc91b8fbe4fe9fb29ea54"
+  },
+  "genestealer-cults/Purestrain-Genestealers": {
+    "originalUrl": "https://www.rart.fr/39399-large_default/purestrain-genestealers.jpg",
+    "source": "https://www.rart.fr/a25902-purestrain-genestealers",
+    "credit": "Games Workshop / Rart",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/39c70d069c5bcacc1763.jpg",
+    "sha256": "39c70d069c5bcacc1763e882a2ba1393840aae75f7fefc953e7062739ba20654"
+  },
+  "genestealer-cults/Tectonic-Fragdrill": {
+    "originalUrl": "https://isleofgamesaz.com/cdn/shop/products/99120199072_SectorMechTectonicFragdrill01_1000x1000.jpg?v=1610237968",
+    "source": "https://isleofgamesaz.com/products/warhammer40kterrainsectormechanicustectonicfragdrill",
+    "credit": "Games Workshop / Isle of Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/653fd9692fc91279044a.jpg",
+    "sha256": "653fd9692fc91279044a74f26507bb62684e352fac81ac0c19baf4d7c3922bb5"
+  },
+  "genestealer-cults/Atalan-Jackals": {
+    "originalUrl": "https://www.cosplayerworld.co.uk/media/catalog/product/cache/357fb9658ab79bb191145ef48d4285b4/9/9/99120117014_gscatalanjackals01.jpg",
+    "source": "https://www.cosplayerworld.co.uk/games-workshop/warhammer-40k/genestealer-cults",
+    "credit": "Games Workshop / Cosplayer World",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/c054dafe43293ecee678.jpg",
+    "sha256": "c054dafe43293ecee678bff3a28af57a91f81f32da48dc53b98fcf7fe2864d0e"
+  },
+  "adeptus-custodes/Venerable-Land-Raider": {
+    "originalUrl": "https://miniset.net/files/set/gw-99120101061-1-0.jpg",
+    "source": "https://miniset.net/sets/gw-99120101061-1",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/f96202303e8bb516eed2.jpg",
+    "sha256": "f96202303e8bb516eed2b948c8570a4a84073b6e9cbe8e438d988d3a0d592e5f"
+  },
+  "adeptus-custodes/Anathema-Psykana-Rhino": {
+    "originalUrl": "https://miniset.net/files/set/gw-99120101226-2-0.jpg",
+    "source": "https://miniset.net/sets/gw-99120101226-2",
+    "credit": "\"Games",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-14",
+    "url": "/images/units/cdf079dcb64e902bff37.jpg",
+    "sha256": "cdf079dcb64e902bff3705c3a464a141a974820ec95cea975d429bb1fb1b5430"
   }
 }
