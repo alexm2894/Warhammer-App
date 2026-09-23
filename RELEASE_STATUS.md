@@ -1,3 +1,20 @@
+# Live release — compact card content, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 16
+- Deployment: appgdep_6ab40b5e02e88191a97ea192b604a09c — succeeded, 17:25:18 UTC
+- GitHub application source: 995b71c04d0cf3ed1b8c4864ce27ddd37f50f314
+- Hosting source: f92c556dc9d7239e46339727cfb1dd0872128d0a
+- Matching application tree: 04fa75eb2367db5bb27ef51c81d436f7ec4450a8
+
+Source dates/cache disclosure/refresh moved to header in both viewers. Smaller responsive banner, stats and keywords; army-management controls collapsed. Weapons/abilities body receives priority. Themed illustrative navigation icons and exact-source effect highlighting retain conditions.
+
+Validation: TypeScript, existing suite, source-preservation test across 16,338 rule strings and production build passed. Browser checks at 1024x471: card body 252px of 405px card (62%), keywords 24px. At 1180x820 all Allarus ranged and melee rows visible. Talons sheet verified highlighted Feel No Pain and roll modifier within full conditions. Physical iPad not tested.
+
+Research: Wahapedia 11th-edition Custodes page and official Warhammer detachment coverage checked on 23 September. No consistent official detachment icon collection identified; app icons explicitly illustrative.
+
+---
+
 # Live release — saved armies, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site

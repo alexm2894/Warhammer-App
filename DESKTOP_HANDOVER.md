@@ -1,3 +1,7 @@
+## Latest update — compact cards
+
+Version 16 is live. Source and refresh now live in the top bar; card bodies take priority over headers and keywords at all landscape heights. Army tools collapse; rule icons and source-preserving effect highlights added. GitHub app commit 995b71c. See RELEASE_STATUS.md for exact release IDs and responsive checks. Pull main before editing elsewhere.
+
 ## Latest update — Saved Armies
 
 Version 15 is live. Four named local saved-army slots are the first screen in Game Data Cards. Save and load selections with replacement confirmation, reusing the existing card cache. Personal armies remain device/browser-local. GitHub app commit 0e0a364; see RELEASE_STATUS.md for exact matching source and deployment IDs. Tests, type checks, build and browser save/reload/load flow passed.
