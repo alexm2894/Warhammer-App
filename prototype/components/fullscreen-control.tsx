@@ -18,7 +18,7 @@ export default function FullscreenControl() {
     try {
       if (document.fullscreenElement) await document.exitFullscreen();
       else if (document.fullscreenEnabled && document.documentElement.requestFullscreen) await document.documentElement.requestFullscreen();
-      else setHelp("For an app view on iPad: open in Safari, tap Share, then Add to Home Screen and open Field Cards from its icon. On PC, try your browser’s fullscreen command (usually F11).");
+      else setHelp("For an app view on iPad: open in Safari, tap Share, then Add to Home Screen and open Warhammer Data Cards from its icon. On PC, try your browser’s fullscreen command (usually F11).");
     } catch {
       setHelp("This browser couldn’t enter fullscreen. On iPad, use Safari → Share → Add to Home Screen, then open the app from its icon. On PC, try F11.");
     }

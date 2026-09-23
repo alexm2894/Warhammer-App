@@ -184,3 +184,35 @@ main:has(.command-menu) .app-header{height:60px;min-height:60px;background:#101b
 @media(orientation:portrait){.command-menu .home-tiles{grid-template-columns:1fr;max-width:500px;gap:20px}.command-menu .command-tile{height:clamp(220px,32vh,320px);min-height:220px}.home-screen.command-menu{padding:24px 24px 64px}.command-emblem .emblem-scan,.command-emblem .emblem-swords{width:112px;height:112px}.command-emblem .emblem-shield{height:104px}.command-emblem:before{width:84px;height:84px}}
 @media(prefers-reduced-motion:reduce){.battle-backdrop *{animation:none!important}.battle-motion{display:none}.command-menu .command-tile{transition:none}}
 .command-menu .command-tile{align-items:stretch}.command-emblem{width:100%}.command-menu .menu-index{margin:0}.command-menu .menu-index span{margin:0}
+
+/* Shared armour-plated controls, preserving compact touch targets and faction identity. */
+.action,.search-collapse,.voice-button,.search-box button,.army-slot,.rule-tile,.faction-tile,.size-options button{border-radius:2px 12px 2px 12px;border-top-width:2px;box-shadow:inset 0 0 0 3px #08181a20;transition:border-color .16s,background-color .16s,box-shadow .16s}
+.action,.search-collapse,.search-box button,.army-slot{background:linear-gradient(125deg,#293d40,#14262d);border-color:#718c81;border-top-color:#bda873;color:#e8ede6}
+.action.primary,.voice-button{background:linear-gradient(125deg,#d5c18e,#ac9564);border-color:#e7d6ac;color:#15262a;box-shadow:inset 0 0 0 3px #172a3020}
+.voice-button.listening{background:#934636;border-color:#e98773;color:#fff}
+.action.faction-tile,.army-slot.faction-tile,.faction-tile,.rule-tile{background:linear-gradient(125deg,#ffffff0a,#00000025),var(--faction-base);border-color:var(--faction-accent);color:#fff}
+.rule-tile{border-left-width:5px}.rule-army{border-radius:12px 2px 12px 2px}.rule-detachment{border-radius:2px 12px 2px 12px}
+button.action:hover:not(:disabled),.search-box button:hover:not(:disabled),.army-slot:hover:not(:disabled){border-color:#e3cb8e;box-shadow:inset 0 0 0 3px #b6b78828}
+button[aria-pressed=true].action,button[aria-pressed=true].faction-tile,.rule-tile[aria-pressed=true]{outline:2px solid #eee8d4;outline-offset:-2px;box-shadow:inset 0 -3px var(--faction-accent,#c9b47d)}
+.roster-heading,.game-card-toolbar{border-bottom-color:#7b8063}.army-save-dialog,.roster-overlay{border-color:#7f9182;border-top:3px solid #bda873;border-radius:2px 16px 2px 16px}
+.app-header .brand{gap:8px;letter-spacing:1px;font-size:clamp(12px,1.4vw,19px)}.brand img{flex-shrink:0}.brand span{white-space:normal;line-height:1.1}.app-header .edition{margin-left:auto}#card-source-slot:empty{display:none}
+@media(max-width:600px){.app-header .brand{max-width:210px;font-size:12px}.brand img{width:28px;height:28px}}
+
+/* Shells arrive before their linked impact, then smoke rises and disperses. */
+.artillery-shell{animation:artillery-fall 12s linear infinite;animation-delay:var(--strike-delay);opacity:0}
+.artillery-impact{animation:artillery-burst 12s ease-out infinite;animation-delay:var(--strike-delay);opacity:0;transform-origin:0 0}
+.artillery-smoke{animation:artillery-smoke 12s ease-out infinite;animation-delay:var(--strike-delay)}
+.artillery-debris{animation:artillery-debris 12s ease-out infinite;animation-delay:var(--strike-delay);opacity:0}
+.battle-convoy{animation:tank-crossing 38s linear infinite}
+.battle-infantry{animation:infantry-crossing 52s linear infinite;animation-delay:-14s}
+.soldier-body{animation:infantry-bob 1.2s ease-in-out infinite;animation-delay:var(--march-delay)}
+.soldier-leg{transform-origin:0 -11px;animation:infantry-step 1.2s ease-in-out infinite alternate;animation-delay:var(--march-delay)}.leg-back{animation-direction:alternate-reverse}
+@keyframes artillery-fall{0%{opacity:0;transform:translate(-280px,-700px)}4%{opacity:.8}15%{opacity:.9;transform:translate(0,0)}16%,100%{opacity:0;transform:translate(0,0)}}
+@keyframes artillery-burst{0%,14%{opacity:0;transform:scale(.1)}17%{opacity:.85;transform:scale(.8)}22%{opacity:.65;transform:scale(1.2)}32%,100%{opacity:0;transform:scale(1.5,.6)}}
+@keyframes artillery-smoke{0%,16%{opacity:0;transform:translate(0,0) scale(.4)}24%{opacity:.4}55%,100%{opacity:0;transform:translate(45px,-145px) scale(2)}}
+@keyframes artillery-debris{0%,15%{opacity:0;transform:scale(.3)}19%{opacity:.7}28%,100%{opacity:0;transform:scale(2) translateY(-10px)}}
+@keyframes tank-crossing{0%{transform:translateX(-240px)}100%{transform:translateX(1460px)}}
+@keyframes infantry-crossing{0%{transform:translateX(1500px)}100%{transform:translateX(-200px)}}
+@keyframes infantry-step{from{transform:rotate(-22deg)}to{transform:rotate(22deg)}}
+@keyframes infantry-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+@media(prefers-reduced-motion:reduce){.battle-backdrop *{animation:none!important}.battle-infantry{transform:translateX(990px)}.battle-convoy{transform:translateX(80px)}.action,.voice-button,.rule-tile,.faction-tile{transition:none}}

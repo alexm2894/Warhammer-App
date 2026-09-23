@@ -26,3 +26,5 @@
 - Prioritise the weapons/abilities body at short landscape heights as well as iPad size. Keep source dates, cache status and refresh in the top-bar disclosure. Keywords stay in a compact visible strip. Rule emphasis preserves exact source conditions and never implies a conditional benefit is active. Navigation icons are illustrative, not official insignia.
 
 - Separate native faction identity from allied entries included in source indexes. Army builders list native units only; explicitly added allies keep separate rosters, saved state, rule libraries and sidebar lists. Preserve and migrate legacy mixed selections. Army-management controls belong on selection screens, not the card sidebar.
+
+- App identity: Warhammer Data Cards. Reuse the command-menu framed metal styling for appropriate actions and selection tiles; preserve faction colours, compact card content, clear selection states and touch targets. Decorative battlefield motion stays on the home menu, is pausable and respects reduced motion.
