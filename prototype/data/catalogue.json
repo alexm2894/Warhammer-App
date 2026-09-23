@@ -118,7 +118,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.315Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:12.315Z",
+    "image": {
+      "source": "https://roningames.com.au/products/warhammer-40-000-adeptus-custodes-sisters-of-silence",
+      "background": "white",
+      "credit": "Games Workshop / Ronin Games",
+      "originalUrl": "https://roningames.com.au/cdn/shop/files/01-01_bfe51cb6-f887-4936-b393-483876ca4f51_1024x1024.jpg?v=1747353529",
+      "verifiedAt": "2026-09-23",
+      "sha256": "b63791ff21a38e8906b64cae6a2ec35d930b24aa402103e756ed1024bccec465",
+      "kind": "miniature",
+      "note": "Visually verified exact pointing sword-bearing Sister miniature used as Knight-Centura in official Warhammer Community article https://www.warhammer-community.com/en-gb/articles/HSV224jn/lead-a-full-sisters-of-silence-army-with-the-powerful-knight-centura/ ; gold/red paint variant. NOT Aleya.",
+      "url": "/images/units/b63791ff21a38e8906b6.jpg"
+    }
   },
   {
     "id": "adeptus-custodes/Shield-captain",
@@ -911,7 +922,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.346Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:12.346Z",
+    "image": {
+      "source": "https://2d4chan.org/wiki/Venerable_Contemptor_Dreadnought",
+      "background": "white",
+      "credit": "Games Workshop / 2d4chan",
+      "originalUrl": "https://2d4chan.org/mediawiki/images/a/a2/Contemptor_Venerable_Dreadnought.jpg",
+      "verifiedAt": "2026-09-23",
+      "sha256": "d2eb754d7487e9e7c4ef56a55032416307a515a2e985989a2aa86599bc220978",
+      "kind": "miniature",
+      "note": "Visually verified gold Custodes Venerable Contemptor with assault cannon and power fist; whole assembled model on white.",
+      "url": "/images/units/d2eb754d7487e9e7c4ef.jpg"
+    }
   },
   {
     "id": "adeptus-custodes/Contemptor-achillus-Dreadnought",
@@ -8412,7 +8434,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.526Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.526Z",
+    "image": {
+      "originalUrl": "https://www.ludifolie.com/47598-large_default/warhammer-40k-tyranids-deathleaper.jpg",
+      "source": "https://www.ludifolie.com/19612-warhammer-40k-tyranids-deathleaper.html",
+      "credit": "Games Workshop / Ludifolie",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/5098c8d4da0c3a5369f7.jpg",
+      "sha256": "5098c8d4da0c3a5369f7488c985ba038ee1abfe4ae6dac8e0ac2b94d9d3d688c",
+      "note": "Same-name allied unit; existing photograph visually reverified."
+    }
   },
   {
     "id": "genestealer-cults/Hell-s-Last",
@@ -8794,7 +8827,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.532Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.532Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://bienjouets.fr/14986-thickbox_default/castellan-cadien-warhammer-40k.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "2e99f7b75ab46d65ae92629378bbbeba7cf9d68ad4fc083650aa0d874652666d",
+      "credit": "Games Workshop / Bienjouets",
+      "source": "https://bienjouets.fr/warhammer/4504-castellan-cadien-warhammer-40k",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/2e99f7b75ab46d65ae92.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Cadian-Command-Squad",
@@ -8809,7 +8853,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.533Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.533Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://mathom.es/62578-thickbox_default/warhammer-40000-astra-militarum-cadian-command-squad.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "4430822611aa25b5b8078df0c52347bf9589d7e356db8c9b9763dd281ed5b699",
+      "credit": "Games Workshop / Mathom",
+      "source": "https://mathom.es/es/astra-militarum/39147-warhammer-40000-astra-militarum-cadian-command-squad-5011921182268.html",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/4430822611aa25b5b807.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Catachan-Command-Squad",
@@ -8900,7 +8955,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.536Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.536Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://www.hobby-max.fr/54162-large_default/astra-militarum-primaris-psyker.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "c0199704cdaa72f4b6bbda8ae43f26d041f71f62bd4e14918decc840e3958fbf",
+      "credit": "Games Workshop / Hobby Max",
+      "source": "https://www.hobby-max.fr/astra-militarum/11562-astra-militarum-primaris-psyker-5011921183647.html",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/c0199704cdaa72f4b6bb.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Winged-Tyranid-Prime",
@@ -8915,7 +8981,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.536Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.536Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://media.cdnws.com/_i/380251/21036/2221/36/080089-aa5b65472e1e467d96a8b78dfb1e5189-mv2.jpeg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "a7d5a000f291c5b7cb718da11ed2697572aeb814b2cbca6cfb900dc148077956",
+      "credit": "Games Workshop / Le Temple du Hobby",
+      "source": "https://www.letempleduhobby.com/tyranids-winged-tyranid-prime",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/a7d5a000f291c5b7cb71.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Quartermaster-Cadre-Squad",
@@ -8945,7 +9022,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.537Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.537Z",
+    "image": {
+      "url": "/images/units/4b9221da846797c03d0c.jpg",
+      "source": "https://www.philibertnet.com/en/tyranids/16953-prince-tyranide-le-maitre-des-essaims--5011921173730.html",
+      "credit": "Games Workshop / Philibert",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23",
+      "originalUrl": "https://cdn1.philibertnet.com/726907-thickbox_default/prince-tyranide-le-maitre-des-essaims--5011921173730.jpg",
+      "sha256": "4b9221da846797c03d0c7a8a8883dca93d248a450c1eafd8416cf0cb6b35f4c6",
+      "note": "Same-name allied unit; existing photograph visually reverified."
+    }
   },
   {
     "id": "genestealer-cults/Jackal-Alphus",
@@ -9079,7 +9167,19 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.539Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.539Z",
+    "image": {
+      "source": "https://legacydistribution.it/products/warhammer-40000-genestealer-cults-acolyte-hybrids",
+      "background": "white",
+      "credit": "Games Workshop / Legacy Distribution",
+      "originalUrl": "https://legacydistribution.it/cdn/shop/files/01-01_1_d6add2df-1df0-4cbe-a52f-61c00dd008d4_2048x2048.webp?v=1709300272",
+      "verifiedAt": "2026-09-23",
+      "sha256": "a9872ba84b7384b3ee1b48ec3618408395122e5631780873f03ca2d1acb2bcb9",
+      "kind": "miniature",
+      "note": "Visually verified Acolyte Hybrid with demolition charges, an exact optional miniature for this unit. It does NOT visibly carry a hand flamer. 11th edition Wahapedia page retrieved 2026-09-23 confirms up to 2 per 5 hand flamers replaced by demolition charges: https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/Acolyte-Hybrids-With-Hand-Flamers . No exact flamer-only white-background photo verified.",
+      "url": "/images/units/a9872ba84b7384b3ee1b.webp",
+      "caption": "Demolition-charge model from this unit; other weapon options are not pictured."
+    }
   },
   {
     "id": "genestealer-cults/Neophyte-Hybrids",
@@ -9131,7 +9231,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.541Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.541Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://static-eu.insales.ru/images/products/1/1755/34064091/Cadians.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white; Cadian Shock Troops photo depicts older plastic kit.",
+      "sha256": "0bc945a5b3cd902f554d436aea13d1fcdbe604126d1aa14e9db29ff69188c7fc",
+      "credit": "Games Workshop / Wargame39",
+      "source": "https://wargame39.ru/collection/imperskaya-gvardiya/product/imperial-guard-cadian-shock-troops",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/0bc945a5b3cd902f554d.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Catachan-Jungle-Fighters",
@@ -9277,7 +9388,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.543Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.543Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://www.fantasy-shop.gr/images/detailed/21/99120105046_ChimeraNEW03.webp",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "3b357e99fd3928d60cdd7545cb6723ddecb90926b2a6af88aa3e2a50581f7a6a",
+      "credit": "Games Workshop / Fantasy Shop",
+      "source": "https://www.fantasy-shop.gr/astra-militarum-chimera.html",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/3b357e99fd3928d60cdd.webp"
+    }
   },
   {
     "id": "genestealer-cults/Taurox",
@@ -9319,7 +9441,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.544Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.544Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://flamberg.com.pl/hpeciai/4fafbf27d98b3c04ca991a6e44519123/pol_pl_Warhammer-40000-Astra-Militarum-Taurox-Prime-195299_1.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "bffca8a4394455d4a9a74374d632803aaf12f55dd7a68bd92a27b125ad2af525",
+      "credit": "Games Workshop / Flamberg",
+      "source": "https://flamberg.com.pl/pl/products/warhammer-40000-astra-militarum-taurox-prime-195299",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/bffca8a4394455d4a9a7.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Tyrannocyte",
@@ -9376,7 +9509,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.545Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.545Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://mesto.club/wa-data/public/shop/products/44/24/2444/images/6491/6491.970.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "191c01f01204f4f55f4b842593a44fcceb8e12dff0b4e40e0999c18ea75d6d8d",
+      "credit": "Games Workshop / Mesto",
+      "source": "https://mesto.club/wh40k-astra-militarum-basilisk/",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/191c01f01204f4f55f4b.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Deathstrike",
@@ -9673,7 +9817,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.550Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.550Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://mechanicalkeyboards.com/cdn/shop/files/22381-FKBVP-Warhammer-40000-Astra-Militarum-Field-Ordnance-Battery.jpg?v=1724855903",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "17be36f9b3e703afc3c0b6c99124a797135a5ebe5ee19aade9471bbfd66d608d",
+      "credit": "Games Workshop / MechanicalKeyboards",
+      "source": "https://mechanicalkeyboards.com/products/warhammer-40000-astra-militarum-field-ordnance-battery",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/17be36f9b3e703afc3c0.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Kasrkin",
@@ -9694,7 +9849,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.551Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.551Z",
+    "image": {
+      "kind": "miniature",
+      "originalUrl": "https://i.ebayimg.com/images/g/NxkAAOSw~p1nIhdl/s-l1200.jpg",
+      "background": "white",
+      "note": "Visually verified assembled correct miniature on white.",
+      "sha256": "a17bbdf51d3de6690b3c4403bfbdf4d52f4b66bebac658920fe034aa90df82af",
+      "credit": "Games Workshop / GrimDarkGames",
+      "source": "https://www.ebay.co.uk/itm/226424402335",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/a17bbdf51d3de6690b3c.jpg"
+    }
   },
   {
     "id": "genestealer-cults/Krieg-Combat-Engineers",
@@ -9788,7 +9954,18 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:20.552Z"
+    "pointsRetrievedAt": "2026-09-11T18:54:20.552Z",
+    "image": {
+      "originalUrl": "https://www.ludifolie.com/48113-large_default/warhammer-40k-tyranids-neurolictor.jpg",
+      "source": "https://www.ludifolie.com/19751-warhammer-40k-tyranids-neurolictor.html",
+      "credit": "Games Workshop / Ludifolie",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23",
+      "url": "/images/units/a5ea48d1bcab5edc5b85.jpg",
+      "sha256": "a5ea48d1bcab5edc5b85cae6154fdbd182b9d4083ed5bded0c8a578224197d91",
+      "note": "Same-name allied unit; existing photograph visually reverified."
+    }
   },
   {
     "id": "genestealer-cults/Raveners",

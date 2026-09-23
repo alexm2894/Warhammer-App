@@ -1,5 +1,5 @@
 import {parseHTML} from "linkedom";
-export interface RuleSection {id:string; name:string; text:string; url:string; options?:RuleSection[]}
+export interface RuleSection {id:string; name:string; text:string; url:string; options?:RuleSection[];kind?:'stratagem'|'enhancement'}
 export interface FactionRules {faction:string; edition:11; retrievedAt:string; url:string; army:RuleSection; detachments:RuleSection[]; warning?:string}
 export function parseFactionRules(html:string,faction:string,url:string):FactionRules {
  const {document}=parseHTML(html);
@@ -12,11 +12,11 @@ export function parseFactionRules(html:string,faction:string,url:string):Faction
    const element=node as Element;
    if(current&&element.classList.contains('str11Wrap')){
     const title=element.querySelector('.str11Name'),body=element.querySelector('.str11Text');
-    if(title?.textContent&&body?.textContent)(current.options??=[]).push({id:title.id,name:`${title.textContent.trim()} · ${element.querySelector('.str11CP')?.textContent?.trim()||'Stratagem'}`,text:body.textContent.trim(),url:url+'#'+title.id});
+    if(title?.textContent&&body?.textContent)(current.options??=[]).push({kind:'stratagem',id:title.id,name:`${title.textContent.trim()} · ${element.querySelector('.str11CP')?.textContent?.trim()||'Stratagem'}`,text:body.textContent.trim(),url:url+'#'+title.id});
    }
    if(current&&element.classList.contains('EnhancementsPts')){
     const title=element.querySelector('li')?.textContent?.trim(),body=element.closest('td');
-    if(title&&body)(current.options??=[]).push({id:`${current.id}-${current.options?.length||0}`,name:title,text:[...body.querySelectorAll('p')].map(p=>p.textContent).join('\n'),url:url+'#'+current.id});
+    if(title&&body)(current.options??=[]).push({kind:'enhancement',id:`${current.id}-${current.options?.length||0}`,name:title,text:[...body.querySelectorAll('p')].map(p=>p.textContent).join('\n'),url:url+'#'+current.id});
    }
    if(element.tagName==='H2'){current={id:element.id,name:(element.textContent||'').trim().replace(/\d+DP$/,''),text:''};groups.push(current);return;}
    for(const child of [...node.childNodes])walk(child);

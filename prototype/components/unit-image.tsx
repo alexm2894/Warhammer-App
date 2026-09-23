@@ -14,5 +14,5 @@ export default function UnitImage({unit}:{unit:CatalogueUnit}){
  const cutout=art?.original===unit.image.url;
  // Native images support the browser-generated cutout data URLs and remote fallback.
  // eslint-disable-next-line @next/next/no-img-element
- return <div ref={host} className={`unit-art ${cutout?'cutout':''}`} title={`Photo: ${unit.image.credit}`}><img loading="lazy" decoding="async" src={cutout?art.url:unit.image.url} alt={`${unit.name} miniatures`} onError={()=>setFailed(unit.image!.url)}/></div>;
+ return <div ref={host} className={`unit-art ${cutout?'cutout':''}`} title={`Photo: ${unit.image.credit}${unit.image.caption?" · "+unit.image.caption:""}`}><img loading="lazy" decoding="async" src={cutout?art.url:unit.image.url} alt={`${unit.name} miniatures${unit.image.caption?" · "+unit.image.caption:""}`} onError={()=>setFailed(unit.image!.url)}/></div>;
 }

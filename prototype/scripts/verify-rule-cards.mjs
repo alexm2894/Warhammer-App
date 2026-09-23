@@ -1,0 +1,24 @@
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {ruleCards,loadRuleCards} from '../lib/rule-cards.ts';
+const packs=JSON.parse(await readFile('data/faction-rules.json','utf8'));
+const pack=packs['Adeptus Custodes'],solar=pack.detachments.find(d=>d.name==='Solar Spearhead');
+assert.ok(solar);
+const cards=ruleCards(pack,solar.id),strats=cards.filter(c=>c.kind==='Stratagem');
+assert.equal(cards.filter(c=>c.kind==='Army rule').length,1);
+assert.equal(cards.filter(c=>c.kind==='Detachment').length,pack.detachments.length);
+assert.equal(strats.length,6);
+assert.ok(strats.every(c=>c.detachment==='Solar Spearhead'&&c.text.includes('WHEN:')&&c.text.includes('TARGET:')&&c.text.includes('EFFECT:')));
+assert.ok(!cards.some(c=>/Adamantine Talisman/.test(c.name)));
+assert.equal(new Set(cards.map(c=>c.key)).size,cards.length);
+const other=ruleCards(pack,pack.detachments[0].id).filter(c=>c.kind==='Stratagem');
+assert.ok(other.every(c=>c.detachment!==solar.name));
+const cult=packs['Genestealer Cults'];assert.ok(ruleCards(cult,cult.detachments[0].id).every(c=>c.faction==='Genestealer Cults'));
+const original=globalThis.fetch;let calls=0;
+try{globalThis.fetch=async()=>{calls++;return Response.json(pack);};
+ await Promise.all([loadRuleCards(pack.faction),loadRuleCards(pack.faction)]);assert.equal(calls,1);
+ await loadRuleCards(pack.faction);assert.equal(calls,1);
+ await loadRuleCards(pack.faction,true);assert.equal(calls,2);
+ globalThis.fetch=async()=>Response.json({...pack,edition:10});await assert.rejects(()=>loadRuleCards(pack.faction,true));
+}finally{globalThis.fetch=original;}
+console.log('PASS: faction/edition isolation, Solar Spearhead stratagems, enhancement exclusion, stable card keys, shared session cache and explicit refresh.');

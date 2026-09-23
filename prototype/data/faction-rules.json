@@ -2,7 +2,7 @@
   "Adeptus Custodes": {
     "faction": "Adeptus Custodes",
     "edition": 11,
-    "retrievedAt": "2026-09-12T18:28:49.896Z",
+    "retrievedAt": "2026-09-23T13:52:37.183Z",
     "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
     "army": {
       "id": "Army-Rules",
@@ -18,60 +18,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-3",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-0",
             "name": "Aegis Projector 20 pts",
             "text": "ADEPTUS CUSTODES model only. Once per turn, the first time a saving throw is failed for the bearer’s unit, change the Damage characteristic of that attack to 0.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-3"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-1",
             "name": "Champion of the Imperium 25 pts",
             "text": "ADEPTUS CUSTODES model only. The range of the bearer’s Null Aegis or Deadly Unity ability is increased to 9\".",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-3"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-2",
             "name": "Gift of Terran Artifice 15 pts",
             "text": "ADEPTUS CUSTODES model only. Each time the bearer makes a melee attack, add 1 to the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-3"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-3",
             "name": "Radiant Mantle 30 pts",
             "text": "ADEPTUS CUSTODES model only. Each time an attack targets the bearer’s unit, if the attacking model is within 12\", subtract 1 from the Hit roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-3"
           },
           {
+            "kind": "stratagem",
             "id": "HUNT-AS-ONE",
             "name": "HUNT AS ONE · 1CP",
             "text": "WHEN: Start of your Movement phase.TARGET: Up to two ADEPTUS CUSTODES units from your army.EFFECT: Until the end of the turn, your units are eilgible to shoot and/or declare a charge in a turn in which they Fell Back.RESTRICTIONS: You can only select two units if one (and only one) of them is an ANATHEMA PSYKANA unit and both are within 6\" of each other.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#HUNT-AS-ONE"
           },
           {
+            "kind": "stratagem",
             "id": "TALONS-INTERLOCKED",
             "name": "TALONS INTERLOCKED · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: Up to two ADEPTUS CUSTODES INFANTRY units from your army, and one enemy unit that is an eligible target for all of those units.EFFECT: Until the end of the phase, your units can only target that enemy unit, but each time a model in one of your units makes a ranged attack, improve the Strength and Armour Penetration characteristics of that attack by 1.RESTRICTIONS: You can only select two units if one (and only one) of them is an ANATHEMA PSYKANA unit and both are within 6\" of each other.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#TALONS-INTERLOCKED"
           },
           {
+            "kind": "stratagem",
             "id": "EMPYRIC-SEVERANCE",
             "name": "EMPYRIC SEVERANCE · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.TARGET: One ADEPTUS CUSTODES unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly ANATHEMA PSYKANA unit within 6\" of that ADEPTUS CUSTODES unit.EFFECT: Until the end of the phase, your unit has the Feel No Pain 4+ ability against Psychic attacks and mortal wounds.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#EMPYRIC-SEVERANCE"
           },
           {
+            "kind": "stratagem",
             "id": "EMPEROR-S-EXECUTIONERS",
             "name": "EMPEROR’S EXECUTIONERS · 2CP",
             "text": "WHEN: Start of the Fight phase.TARGET: Up to two ADEPTUS CUSTODES units from your army.EFFECT: Until the end of the phase, each time a model in one of your units targets an enemy unit that is below its Starting Strength, add 1 to the Wound roll.RESTRICTIONS: You can only select two units if one (and only one) of them is an ANATHEMA PSYKANA unit and both are within 6\" of each other.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#EMPEROR-S-EXECUTIONERS"
           },
           {
+            "kind": "stratagem",
             "id": "TALONED-PINCER",
             "name": "TALONED PINCER · 1CP",
             "text": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.TARGET: Up to two ADEPTUS CUSTODES units from your army that are within 8\" of that enemy unit.EFFECT: Your units can make a Normal move of up to 6\".RESTRICTIONS: You cannot select units that are within Engagement Range of one or more enemy units. You can only select two units if one (and only one) of them is an ANATHEMA PSYKANA unit and both are within 6\" of each other.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#TALONED-PINCER"
           },
           {
+            "kind": "stratagem",
             "id": "SHIELD-OF-HONOUR",
             "name": "SHIELD OF HONOUR · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.TARGET: One ANATHEMA PSYKANA INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one other friendly ADEPTUS CUSTODES INFANTRY unit (excluding ANATHEMA PSYKANA units) within 6\" of that ANATHEMA PSYKANA INFANTRY unit.EFFECT: Until the end of the phase, any attack that targets your ANATHEMA PSYKANA unit must instead target your other ADEPTUS CUSTODES unit (unless it is not an eligible target).",
@@ -86,60 +96,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-0",
             "name": "Auric Mantle 15 pts",
             "text": "SHIELD-CAPTAIN or BLADE CHAMPION model only. Add 2 to the bearer’s Wounds characteristic.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1",
             "name": "Castellan’s Mark 20 pts",
             "text": "SHIELD-CAPTAIN model only. After both players have deployed their armies, you can select up to two ADEPTUS CUSTODES units from your army (excluding ANATHEMA PSYKANA units) and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2",
             "name": "From the Hall of Armouries 20 pts",
             "text": "SHIELD-CAPTAIN model only. Add 1 to the Strength and Damage characteristics of the bearer’s melee weapons.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3",
             "name": "Panoptispex 5 pts",
             "text": "SHIELD-CAPTAIN or BLADE CHAMPION model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [IGNORES cover] ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements"
           },
           {
+            "kind": "stratagem",
             "id": "ARCANE-GENETIC-ALCHEMY",
             "name": "ARCANE GENETIC ALCHEMY · 1CP",
             "text": "WHEN: Any phase, just after a mortal wound has been allocated to an ADEPTUS CUSTODES model from your army(excluding ANATHEMA PSYKANA models).TARGET: That ADEPTUS CUSTODES model’s unit.EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 4+ ability against mortal wounds.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#ARCANE-GENETIC-ALCHEMY"
           },
           {
+            "kind": "stratagem",
             "id": "AVENGE-THE-FALLEN",
             "name": "AVENGE THE FALLEN · 1CP",
             "text": "WHEN: Start of the Fight phase.TARGET: One ADEPTUS CUSTODES unit from your army (excluding ANATHEMA PSYKANA units) that is below its Starting Strength.EFFECT: Until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit. If your unit is Below Half-strength, until the end of the phase, add 2 to the Attacks characteristic of those melee weapons instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#AVENGE-THE-FALLEN"
           },
           {
+            "kind": "stratagem",
             "id": "UNWAVERING-SENTINELS",
             "name": "UNWAVERING SENTINELS · 1CP",
             "text": "WHEN: Fight phase, just after an enemy unit has selected its targets.TARGET: One ADEPTUS CUSTODES INFANTRY unit from your army (excluding ANATHEMA PSYKANA units) that is within range of an objective marker you control and that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, each time a melee attack targets your unit, subtract 1 from the Hit roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#UNWAVERING-SENTINELS"
           },
           {
+            "kind": "stratagem",
             "id": "MULTIPOTENTIALITY",
             "name": "MULTIPOTENTIALITY · 1CP",
             "text": "WHEN: Your Movement phase.TARGET: One ADEPTUS CUSTODES unit from your army that Fell Back this phase.EFFECT: Until the end of your turn, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#MULTIPOTENTIALITY"
           },
           {
+            "kind": "stratagem",
             "id": "VIGILANCE-ETERNAL",
             "name": "VIGILANCE ETERNAL · 1CP",
             "text": "WHEN: Your Movement phase.TARGET: One ADEPTUS CUSTODES BATTLELINE unit from your army (excluding ANATHEMA PSYKANA units) within range of an objective marker you control.EFFECT: That objective marker remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#VIGILANCE-ETERNAL"
           },
           {
+            "kind": "stratagem",
             "id": "ARCHEOTECH-MUNITIONS",
             "name": "ARCHEOTECH MUNITIONS · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One ADEPTUS CUSTODES unit from your army (excluding ANATHEMA PSYKANA units) that has not been selected to shoot this phase.EFFECT: Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase ranged weapons equipped by models in your unit have the selected ability.",
@@ -154,60 +174,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-4",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-0",
             "name": "Enhanced Voidsheen Cloak 10 pts",
             "text": "ANATHEMA PSYKANA model only. Each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack. If that attack was made by a PSYKER or Battle-shocked model, change the Damage characteristic of that attack to 1 instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-4"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-1",
             "name": "Huntress’ Eye 15 pts",
             "text": "ANATHEMA PSYKANA model only. In your Command phase, select one enemy unit within 12\" of the bearer. That unit must take a Battle-shock test.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-4"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-2",
             "name": "Oblivion Knight 25 pts",
             "text": "ANATHEMA PSYKANA model only. While the bearer is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If that attack targeted an enemy PSYKER unit, add 1 to the Wound roll as well.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-4"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-3",
             "name": "Raptor Blade 5 pts",
             "text": "ANATHEMA PSYKANA model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearers melee weapons. While the bearer is within Engagement Range of one or more enemy PSYKER units that are Battle-shocked, add 2 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-4"
           },
           {
+            "kind": "stratagem",
             "id": "DESPERATION-S-PRICE",
             "name": "DESPERATION’S PRICE · 1CP",
             "text": "WHEN: Any phase, just after an enemy PSYKER unit has either finished using a Psychic ability that targets a unit, or finished making Psychic Attacks.TARGET: One ANATHEMA PSYKANA unit from your army within 18\" of that enemy PSYKER unit.EFFECT: That enemy PSYKER unit must take a Leadership test If the test is passed, that PSYKER unit is Battle-shocked; if the test is failed that PSYKER unit suffers 3 mortal wounds and is Battle-shocked.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#DESPERATION-S-PRICE"
           },
           {
+            "kind": "stratagem",
             "id": "WITCH-HUNTERS",
             "name": "WITCH HUNTERS · 1CP",
             "text": "WHEN: Your Shooting phase or the Fight phase.TARGET: One ANATHEMA PSYKANA unit from your army that has not been selected to shoot or fight this phase.EFFECT: Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability, but models in your unit can only target PSYKER units with their attacks.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#WITCH-HUNTERS"
           },
           {
+            "kind": "stratagem",
             "id": "ANATHEMA-BLADEMASTERY",
             "name": "ANATHEMA BLADEMASTERY · 1CP",
             "text": "WHEN: Fight phase.TARGET: One VIGILATORS unit from your army that has not been selected to fight this phase.EFFECT: Until the end of the phase, each time a model in your unit makes a melee attack, you can re-roll the Hit roll If the target of that attack is Battle-shocked or a PSYKER, you can re-roll the Wound roll as well.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#ANATHEMA-BLADEMASTERY"
           },
           {
+            "kind": "stratagem",
             "id": "PSY-CHAFF-VOLLEY",
             "name": "PSY-CHAFF VOLLEY · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One PROSECUTORS unit from your army that has just shot.EFFECT: Select one enemy unit hit by one or more of those attacks. Until the start of your next turn, while your unit is on the battlefield, that enemy unit is prosecuted. While a unit is prosecuted, each time an ANATHEMA PSYKANA model makes an attack against that unit, improve the Armour Penetration characteristic of that attack by 1. While a PSYKER or Battle-shocked unit is prosecuted, each time a model in that unit makes an attack, subtract 1 from the Hit roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#PSY-CHAFF-VOLLEY"
           },
           {
+            "kind": "stratagem",
             "id": "PURGATION-SWEEP",
             "name": "PURGATION SWEEP · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One WITCHSEEKERS unit from your army that has not been selected to shoot this phase.EFFECT: Until the end of the phase, add 1 to the Attacks characteristic of Torrent weapons equipped by models in your unit. If such a weapon targets a PSYKER or Battle-shocked unit this phase, add 2 to its Attacks characteristic instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#PURGATION-SWEEP"
           },
           {
+            "kind": "stratagem",
             "id": "PSYCHIC-ABOMINATIONS",
             "name": "PSYCHIC ABOMINATIONS · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets.TARGET: One ANATHEMA PSYKANA INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, your unit has the Stealth ability, and Battle-shocked and PSYKER models can only select your unit as a target of a ranged attack if they are within 12\".",
@@ -222,60 +252,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-5",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-0",
             "name": "Blade Imperator 25 pts",
             "text": "ADEPTUS CUSTODES model only. Each time the bearer’s unit ends a Charge move, select one enemy unit within Engagement Range of the bearer and roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds. Once per battle, after the bearer s unit ends a Charge move, all enemy units within 6\" of the bearer must take a Battle-shock test.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-5"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-1",
             "name": "Inspirational Exemplar 10 pts",
             "text": "ADEPTUS CUSTODES model only. The bearer has a Leadership characteristic of 5+. Once per battle, at the start of any phase, you can select one friendly ADEPTUS CUSTODES unit that is Battle-shocked and within 12\" of the bearer; that unit is no longer Battle-shocked.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-5"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-2",
             "name": "Martial Philosopher 30 pts",
             "text": "ADEPTUS CUSTODES model only. The bearer’s unit is eligible to shoot and/or declare a charge in a turn in which it Fell Back. Once per battle, in your opponent's Movement phase, when an enemy unit ends a Normal, Advance or Fall Back move within 8\" of the bearer, if the bearer’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\".",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-5"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-3",
             "name": "Veiled Blade 25 pts",
             "text": "ADEPTUS CUSTODES model only. Add 2 to the Attacks characteristic of the bearers melee weapons. Once per battle, at the start of any Command phase, triple the bearer’s Objective Control characteristic until the end of the turn.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-5"
           },
           {
+            "kind": "stratagem",
             "id": "SLAYER-OF-CHAMPIONS",
             "name": "SLAYER OF CHAMPIONS · 1CP",
             "text": "WHEN: Any phase.TARGET: One ADEPTUS CUSTODES CHARACTER unit from your army that has just destroyed the unit you selected at the start of your Command phase as the target of your Assemblage of Might ability.EFFECT: Select one enemy unit on the battlefield Until the start of your next Command phase, each time an ADEPTUS CUSTODES CHARACTER model from your army makes an attack that target that enemy unit, add 1 to the Wound roll In addition, if the destroyed unit was a CHARACTER unit, gain 1CP.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#SLAYER-OF-CHAMPIONS"
           },
           {
+            "kind": "stratagem",
             "id": "SUPERHUMAN-RESERVES",
             "name": "SUPERHUMAN RESERVES · 2CP",
             "text": "WHEN: Any phase, just after an ADEPTUS CUSTODES WARLORD model from your army has used an ability on its datasheet or from an Enhancement that says it can only be used Once per battle.TARGET: That ADEPTUS CUSTODES WARLORD model.EFFECT: Your model can use its Once per battle’ ability one additional time during this battle (but not in the same phase).RESTRICTIONS: You cannot use this Stratagem more than once per battle.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#SUPERHUMAN-RESERVES"
           },
           {
+            "kind": "stratagem",
             "id": "THE-EMPEROR-S-AUSPICE",
             "name": "THE EMPEROR’S AUSPICE · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.TARGET: One ADEPTUS CUSTODES CHARACTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, CHARACTER models in your unit have the Feel No Pain 4+ ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#THE-EMPEROR-S-AUSPICE"
           },
           {
+            "kind": "stratagem",
             "id": "EARNING-OF-A-NAME",
             "name": "EARNING OF A NAME · 1CP",
             "text": "WHEN: Fight phase.TARGET: Up to two ADEPTUS CUSTODES CHARACTER units from your army that have not been selected to fight this phase.EFFECT: Until the end of the phase, each time a CHARACTER model in either of your units makes an attack that targets a MONSTER or VEHICLE unit, you can re-roll the Hit roll and you can re-roll the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#EARNING-OF-A-NAME"
           },
           {
+            "kind": "stratagem",
             "id": "VIGIL-UNENDING",
             "name": "VIGIL UNENDING · 2CP",
             "text": "WHEN: Fight phase.TARGET: One ADEPTUS CUSTODES CHARACTER model from your army that was just destroyed and has not fought this phase. You can use this Stratagem on that unit even though it was just destroyed.EFFECT: Do not remove your destroyed model from play. The destroyed model can fight after the attacking unit has finished making attacks, and is then removed from play.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#VIGIL-UNENDING"
           },
           {
+            "kind": "stratagem",
             "id": "SHOULDER-THE-MANTLE",
             "name": "SHOULDER THE MANTLE · 1CP",
             "text": "WHEN: Your Movement phase, before the Reinforcements step.TARGET: One ADEPTUS CUSTODES CHARACTER model from your army that is not leading a unit.EFFECT: Select one friendly unit (excluding Battle-shocked and Attached units) within 2\" horizontally and 5\" vertically of your model that it could lead (as described in the Leader section of its datasheet). Your model attaches to that unit as a Leader. Change that unit’s Starting Strength accordingly.",
@@ -290,60 +330,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-1",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-0",
             "name": "Adamantine Talisman 25 pts",
             "text": "ADEPTUS CUSTODES model only. Improve the Attacks, Strength and Damage characteristics of melee weapons equipped by the bearer by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-1"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-1",
             "name": "Augury Uplink 35 pts",
             "text": "ADEPTUS CUSTODES model only. The bearer has the Feel No Pain 5+ ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-1"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-2",
             "name": "Honoured Fallen (Aura) 15 pts",
             "text": "ADEPTUS CUSTODES VEHICLE model only. While a friendly ADEPTUS CUSTODES INFANTRY or ADEPTUS CUSTODES MOUNTED unit is within 6\" of the bearer, each time a model in that unit makes an attack, re-roll a Hit roll of 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-1"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-3",
             "name": "Veteran of the Kataphraktoi 10 pts",
             "text": "ADEPTUS CUSTODES INFANTRY or ADEPTUS CUSTODES MOUNTED model only. In your Command phase, select one ADEPTUS CUSTODES VEHICLE or ADEPTUS CUSTODES MOUNTED unit within 6\" of the bearer. Until the start of your next Command phase, that unit is eligible to shoot in a turn in which it Fell Back.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-1"
           },
           {
+            "kind": "stratagem",
             "id": "FLAWLESS-CONSTRUCTION",
             "name": "FLAWLESS CONSTRUCTION · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.TARGET: One ADEPTUS CUSTODES VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#FLAWLESS-CONSTRUCTION"
           },
           {
+            "kind": "stratagem",
             "id": "EMPEROR-S-VENGEANCE",
             "name": "EMPEROR’S VENGEANCE · 1CP",
             "text": "WHEN: Fight phase, just after an enemy unit has selected its targets.TARGET: One ADEPTUS CUSTODES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if your unit has the WALKER keyword. On a 4+, do not remove it from play; The destroyed model can fight after the attacking unit has finished making its attacks (when doing so, it is assumed to have 1 wound remaining), and is then removed from play.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#EMPEROR-S-VENGEANCE"
           },
           {
+            "kind": "stratagem",
             "id": "WRATHFUL-ADVANCE",
             "name": "WRATHFUL ADVANCE · 1CP",
             "text": "WHEN: Fight phase, just before an ADEPTUS CUSTODES unit from your army Piles In.TARGET: That ADEPTUS CUSTODES unit.EFFECT: Until the end of the phase, each time a model in your unit makes a Pile-in move, it can move up to D3+3\" instead of up to 3\".",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#WRATHFUL-ADVANCE"
           },
           {
+            "kind": "stratagem",
             "id": "UNSTOPPABLE",
             "name": "UNSTOPPABLE · 1CP",
             "text": "WHEN: Your Movement phase or your Charge phase.TARGET: One ADEPTUS CUSTODES VEHICLE or ADEPTUS CUSTODES MOUNTED unit from your army.EFFECT: Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#UNSTOPPABLE"
           },
           {
+            "kind": "stratagem",
             "id": "RELENTLESS-PERSECUTION",
             "name": "RELENTLESS PERSECUTION · 1CP",
             "text": "WHEN: Your Movement phase, just after an ADEPTUS CUSTODES VEHICLE unit from your army Advances.TARGET: That ADEPTUS CUSTODES VEHICLE unit.EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the WALKER keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#RELENTLESS-PERSECUTION"
           },
           {
+            "kind": "stratagem",
             "id": "PUNISHMENT-INESCAPABLE",
             "name": "PUNISHMENT INESCAPABLE · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One ADEPTUS CUSTODES unit from your army that has not been selected to shoot this phase.EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and/or any or all modifiers to the Hit roll.",
@@ -358,60 +408,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-2",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-0",
             "name": "Superior Creation 25 pts",
             "text": "ADEPTUS CUSTODES INFANTRY model only. The first time the bearer is destroyed, roll one D6 at the end of the phase. On a 2+, set the bearer back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with its full wounds remaining.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-1",
             "name": "Praesidius 25 pts",
             "text": "ADEPTUS CUSTODES model only. The bearer has the Lone Operative and Stealth abilities.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-2",
             "name": "Fierce Conqueror 15 pts",
             "text": "SHIELD-CAPTAIN model only. At the start of the Fight phase, until the end of the phase, add 2 to the Attacks characteristic of melee weapons equipped by the bearer for every 5 enemy models within 6\" of the bearer (rounding down).",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-3",
             "name": "Admonimortis 30 pts",
             "text": "SHIELD-CAPTAIN model only. Improve the Strength characteristic of melee weapons equipped by the bearer by 3, and improve the Armour Penetration and Damage characteristics of those weapons by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2"
           },
           {
+            "kind": "stratagem",
             "id": "GILDED-CHAMPION",
             "name": "GILDED CHAMPION · 1CP",
             "text": "WHEN: Any phase, just after an ADEPTUS CUSTODES CHARACTER model from your army has used an ability on its datasheet that states it can only be used ‘once per battle’.TARGET: That ADEPTUS CUSTODES CHARACTER model.EFFECT: Your model can use that ‘once per battle’ ability one additional time during the battle (but not in the same phase).RESTRICTIONS: You cannot use this Stratagem on the same ADEPTUS CUSTODES CHARACTER model more than once per battle.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#GILDED-CHAMPION"
           },
           {
+            "kind": "stratagem",
             "id": "DEFIANT-TO-THE-LAST",
             "name": "DEFIANT TO THE LAST · 1CP",
             "text": "WHEN: Fight phase, just after an enemy unit has selected its targets.TARGET: One ADEPTUS CUSTODES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 2 to the result if that model has the CHARACTER keyword. On a 4+, do not remove it from play; the destroyed model can fight after the attacking unit has finished making its attacks (when doing so, it is treated as having 1 wound remaining), and is then removed from play.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#DEFIANT-TO-THE-LAST"
           },
           {
+            "kind": "stratagem",
             "id": "PEERLESS-WARRIOR",
             "name": "PEERLESS WARRIOR · 1CP",
             "text": "WHEN: Fight phase.TARGET: One ADEPTUS CUSTODES unit from your army that has not been selected to fight this phase.EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#PEERLESS-WARRIOR"
           },
           {
+            "kind": "stratagem",
             "id": "UNLEASH-THE-LIONS",
             "name": "UNLEASH THE LIONS · 1CP",
             "text": "WHEN: Your Command phase.TARGET: One ALLARUS CUSTODIANS or AQUILON CUSTODIANS unit from your army that is on the battlefield.EFFECT: That unit is split into separate units, each containing one model. These new units each have a Starting Strength of 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#UNLEASH-THE-LIONS"
           },
           {
+            "kind": "stratagem",
             "id": "MANOEUVRE-AND-FIRE",
             "name": "MANOEUVRE AND FIRE · 1CP",
             "text": "WHEN: Your Movement phase, just after an ADEPTUS CUSTODES unit from your army Falls Back.TARGET: That ADEPTUS CUSTODES unit.EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#MANOEUVRE-AND-FIRE"
           },
           {
+            "kind": "stratagem",
             "id": "SWIFT-AS-THE-EAGLE",
             "name": "SWIFT AS THE EAGLE · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.TARGET: One ADEPTUS CUSTODES unit from your army (excluding VEHICLE units) that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Your unit can make a Normal move of up to D6\".",
@@ -426,30 +486,35 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-8",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-8-0",
             "name": "Interred ExpertiseUPGRADE 25 pts",
             "text": "ADEPTUS CUSTODES WALKER unit only. This unit’s attacks can:\n",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-8"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-8-1",
             "name": "Auramite SarcophagusUPGRADE 15 pts",
             "text": "ADEPTUS CUSTODES WALKER unit only. When you target this unit with the Crushing Impact stratagem, that use is -1 CP.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-8"
           },
           {
+            "kind": "stratagem",
             "id": "FLAWLESS-CONSTRUCTION",
             "name": "FLAWLESS CONSTRUCTION · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS CUSTODES WALKER unit.TARGET: That ADEPTUS CUSTODES WALKER unit.EFFECT: Attacks that target your unit with a S greater than your unit’s T have -1 to wound rolls.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#FLAWLESS-CONSTRUCTION"
           },
           {
+            "kind": "stratagem",
             "id": "UNSTOPPABLE-ADVANCE",
             "name": "UNSTOPPABLE ADVANCE · 1CP",
             "text": "WHEN: Your Movement phase, when a friendly ADEPTUS CUSTODES WALKER unit is selected to move.TARGET: That ADEPTUS CUSTODES WALKER unit.EFFECT: Your unit has MOBILE.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#UNSTOPPABLE-ADVANCE"
           },
           {
+            "kind": "stratagem",
             "id": "PRIORITISED-ERADICATION",
             "name": "PRIORITISED ERADICATION · 1CP",
             "text": "WHEN: Your Shooting phase, when a friendly TELEMON HEAVY DREADNOUGHT unit is selected to shoot.TARGET: That TELEMON HEAVY DREADNOUGHT unit.EFFECT: Your unit’s:Arachnus Storm Cannon weapons have [RAPID FIRE 6].Iliastus Accelerator Culverin weapons have [RAPID FIRE 2].",
@@ -464,30 +529,35 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-9",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-9-0",
             "name": "Encircling Hunter 15 pts",
             "text": "ANATHEMA PSYKANA model only. When both players have deployed their armies, you can redeploy up to three friendly ANATHEMA PSYKANA INFANTRY units. When doing so, you can set those units up in strategic reserves, regardless of how many units are already in strategic reserves.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-9"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-9-1",
             "name": "Psyk-Out GrenadesUPGRADE 10 pts",
             "text": "ANATHEMA PSYKANA unit only.\n",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-9"
           },
           {
+            "kind": "stratagem",
             "id": "DEATHSONG-SCYTHES",
             "name": "DEATHSONG SCYTHES · 1CP",
             "text": "WHEN: Fight phase, when a friendly VIGILATORS unit is selected to fight.TARGET: That VIGILATORS unit.EFFECT:Your unit’s melee attacks have [LANCE].Your unit’s melee attacks that target a PSYKER unit have +1 A.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#DEATHSONG-SCYTHES"
           },
           {
+            "kind": "stratagem",
             "id": "UMBRAL-PROSECUTION",
             "name": "UMBRAL PROSECUTION · 1CP",
             "text": "WHEN: Your Shooting phase, when a friendly PROSECUTORS unit is selected to shoot.TARGET: That PROSECUTORS unit.EFFECT: Your unit’s Boltgun weapons have:[RAPID FIRE 2].+1 AP.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#UMBRAL-PROSECUTION"
           },
           {
+            "kind": "stratagem",
             "id": "SYNCHRONISED-INFERNO",
             "name": "SYNCHRONISED INFERNO · 1CP",
             "text": "WHEN: Your Shooting phase, when a friendly WITCHSEEKERS unit is selected to shoot.TARGET: That WITCHSEEKERS unit.EFFECT: Your unit’s [TORRENT] ranged attacks have [BLAST 1].",
@@ -502,30 +572,35 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Detachment-Rule-10",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-10-0",
             "name": "Mnemo-Locked Shrine Cipher 25 pts",
             "text": "ADEPTUS CUSTODES TERMINATOR model only. In your first Movement phase, this unit can make an ingress move.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-10"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-10-1",
             "name": "Efficient Aggression 25 pts",
             "text": "ADEPTUS CUSTODES TERMINATOR model only. (Once per turn, per army) In your opponent’s Shooting phase, when an enemy unit has shot, if this unit lost a wound as a result of those attacks, this unit can make a surge move of up to D6+1\". ",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-10"
           },
           {
+            "kind": "stratagem",
             "id": "HARDENED-RESOLVE",
             "name": "HARDENED RESOLVE · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS CUSTODES TERMINATORADEPTUS CUSTODES TERMINATOR unit.TARGET: That ADEPTUS CUSTODES TERMINATOR unit.EFFECT: Your unit has +1 T.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#HARDENED-RESOLVE"
           },
           {
+            "kind": "stratagem",
             "id": "UNLEASH-THE-LIONS",
             "name": "UNLEASH THE LIONS · 1CP",
             "text": "WHEN: Your Command phase.TARGET: One friendly ALLARUS CUSTODIANS/AQUILON CUSTODIANS unit that is on the battlefield.EFFECT: Your unit is split into separate units, each containing one model. These new units each have a starting strength of 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#UNLEASH-THE-LIONS"
           },
           {
+            "kind": "stratagem",
             "id": "ELECTROEXORCIST-SATURATION",
             "name": "ELECTROEXORCIST SATURATION · 1CP",
             "text": "WHEN: Your Shooting phase, when a friendly ADEPTUS CUSTODES TERMINATOR unit is selected to shoot.TARGET: That ADEPTUS CUSTODES TERMINATOR unit.EFFECT: Your unit’s Ballistus Grenade Launcher weapons have D3+3 A.",
@@ -4368,7 +4443,7 @@
   "Genestealer Cults": {
     "faction": "Genestealer Cults",
     "edition": 11,
-    "retrievedAt": "2026-09-12T18:28:56.034Z",
+    "retrievedAt": "2026-09-23T13:52:37.993Z",
     "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/",
     "army": {
       "id": "Army-Rules",
@@ -4384,60 +4459,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rule",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-0",
             "name": "Prowling Agitant 15 pts",
             "text": "GENESTEALER CULTS model only. In your opponent's Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to D6\".",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1",
             "name": "A Chink in Their Armour 20 pts",
             "text": "GENESTEALER CULTS model only. Each time the bearer is set up on the battlefield as Reinforcements, until the end of your next Fight phase, ranged weapons equipped by models in the bearer’s unit have the [LETHAL HITS] ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2",
             "name": "Our Time Is Nigh 20 pts",
             "text": "GENESTEALER CULTS model only. Once per battle, when the bearer’s unit declares a charge, the bearer can use this Enhancement. If it does, until the end of the phase, add 2 to Charge rolls made for the bearer’s unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3",
             "name": "Assassination Edict 15 pts",
             "text": "GENESTEALER CULTS model only. Each time a model in the bearer’s unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements"
           },
           {
+            "kind": "stratagem",
             "id": "COORDINATED-TRAP",
             "name": "COORDINATED TRAP · 2CP",
             "text": "WHEN: The start of your Shooting phase or the start of the Fight phase.TARGET: Two GENESTEALER CULTS units from your army that have not been selected to shoot or fight this phase.EFFECT: Select one enemy unit (if this Stratagem is used in the Fight phase, that enemy unit must be within Engagement Range of both of your units). Until the end of the phase, each time a model in either of your units makes an attack, it can only target that enemy unit (and only if it is an eligible target for that attack), and when resolving that attack, add 1 to the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#COORDINATED-TRAP"
           },
           {
+            "kind": "stratagem",
             "id": "PRIMED-AND-READIED",
             "name": "PRIMED AND READIED · 2CP",
             "text": "WHEN: Your Shooting phase or the Fight phase.TARGET: One GENESTEALER CULTS units from your army that has not been selected to shoot or fight this phase.EFFECT: Until the end of the phase, each time a model in your unit makes an attack, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#PRIMED-AND-READIED"
           },
           {
+            "kind": "stratagem",
             "id": "TUNNEL-CRAWLERS",
             "name": "TUNNEL CRAWLERS · 1CP",
             "text": "WHEN: Your Movement phase.TARGET: One GENESTEALER CULTS unit from your army that is arriving using the Deep Strike ability this phase.EFFECT: Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.RESTRICTIONS: A unit targeted by this Stratagem is not eligible to declare a charge in the same turn.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#TUNNEL-CRAWLERS"
           },
           {
+            "kind": "stratagem",
             "id": "LYING-IN-WAIT",
             "name": "LYING IN WAIT · 1CP",
             "text": "WHEN: Your opponent’s Movement phase.TARGET: One GENESTEALER CULTS BATTLELINE unit from your army in Cult Ambush.EFFECT: Until the end of the phase, when setting your unit up using a Cult Ambush marker, set your unit up anywhere on the battlefield wholly within 6\" of that Cult Ambush marker and not within Engagement Range of one or more enemy units.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#LYING-IN-WAIT"
           },
           {
+            "kind": "stratagem",
             "id": "RETURN-TO-THE-SHADOWS",
             "name": "RETURN TO THE SHADOWS · 1CP",
             "text": "WHEN: End of your opponent’s Fight phase.TARGET: One GENESTEALER CULTS INFANTRY unit from your army that is not within Engagement Range of one or more enemy units.EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#RETURN-TO-THE-SHADOWS"
           },
           {
+            "kind": "stratagem",
             "id": "A-DEADLY-SNARE",
             "name": "A DEADLY SNARE · 1CP",
             "text": "WHEN: Your opponent’s Charge phase, just after an enemy unit declares a charge.TARGET: One GENESTEALER CULTS INFANTRY unit from your army that was selected as a target of that charge.EFFECT: Roll one D6: on a 2-4, that enemy unit suffers D3 mortal wounds; on a 5+, that enemy unit suffers 3 mortal wounds.",
@@ -4452,60 +4537,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rule-1",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-0",
             "name": "Gene-sire’s Reliquant 5 pts",
             "text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. You can re-roll Battle-shock tests taken for the bearer’s unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-1"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-1",
             "name": "Denunciator of Tyrants 25 pts",
             "text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. Each time a model in the bearer’s unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll and add 1 to the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-1"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-2",
             "name": "Deeds That Speak to the Masses 25 pts",
             "text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. You start the battle with 2 additional Resurgence points.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-1"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-1-3",
             "name": "Incendiary Inspiration 15 pts",
             "text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. The bearer’s unit is eligible to declare a charge in a turn in which it Advanced.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-1"
           },
           {
+            "kind": "stratagem",
             "id": "VENGEANCE-FOR-THE-MARTYR-",
             "name": "VENGEANCE FOR THE MARTYR! · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit destroys a GENESTEALER CULTS CHARACTER model from your army.TARGET: One other GENESTEALER CULTS CHARACTER model from your army.EFFECT: Until the end of the battle, each time a friendly ACOLYTE HYBRIDS, Hybrid Metamorphs or Neophyte Hybrids model makes an attack that targets that enemy unit, re-roll a Hit roll of 1. If the destroyed model was a MAGUS, PRIMUS or ACOLYTE ICONWARD, you can re-roll the Hit roll instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#VENGEANCE-FOR-THE-MARTYR-"
           },
           {
+            "kind": "stratagem",
             "id": "FRENZIED-DEVOTION",
             "name": "FRENZIED DEVOTION · 1CP",
             "text": "WHEN: Fight phase.TARGET: One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army that has not been selected to fight this phase.EFFECT: Until the end of the phase, improve the Attacks and Weapon Skill characteristics of melee weapons equipped by models (excluding CHARACTERS) in your unit by 1 and those weapons have the [HAZARDOUS] ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#FRENZIED-DEVOTION"
           },
           {
+            "kind": "stratagem",
             "id": "TIRELESS-FERVOUR",
             "name": "TIRELESS FERVOUR · 1CP",
             "text": "WHEN: Your Charge phase.TARGET: One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army that has not declared a charge this phase.EFFECT:If your unit made an advance/fall-back move this turn, that advance/fall-back move does not prevent your unit from being eligible to declare a charge.When your unit declares a charge, you can use this part of this stratagem. If you do:Your unit can re-roll charge rolls.Your unit must end that charge move engaged with an enemy unit engaged with a friendly CHARACTER unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#TIRELESS-FERVOUR"
           },
           {
+            "kind": "stratagem",
             "id": "TRANSCENDENT-CELERITY",
             "name": "TRANSCENDENT CELERITY · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army that has not been selected to shoot this phase.EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] ability.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#TRANSCENDENT-CELERITY"
           },
           {
+            "kind": "stratagem",
             "id": "THE-DOWNTRODDEN-RISE",
             "name": "THE DOWNTRODDEN RISE · 2CP",
             "text": "WHEN: End of your opponent’s Movement phase.TARGET: One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army in Cult Ambush.EFFECT: Until the end of the phase, you can set up your unit on the battlefield without using a Cult Ambush marker. When doing so, set up your unit anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#THE-DOWNTRODDEN-RISE"
           },
           {
+            "kind": "stratagem",
             "id": "THE-PATH-OF-ANGUISH",
             "name": "THE PATH OF ANGUISH · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.TARGET: One ACOLYTE HYBRIDS or NEOPHYTE HYBRIDS unit from your army that had one or more of its models destroyed as a result of the attacking unit's attacks.EFFECT: Your unit can make a move of up to D6\", but it unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT), When doing so, models in your unit can be moved within Engagement Range of that enemy unit.",
@@ -4520,60 +4615,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rule-2",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-0",
             "name": "Predatory Instincts 20 pts",
             "text": "ABOMINANT, BIOPHAGUS or PATRIARCH model only.\n",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-2"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-1",
             "name": "Biomorph Adaptation 25 pts",
             "text": "ABOMINANT or PATRIARCH model only. Improve the Armour Penetration and Damage characteristics of melee weapons equipped by the bearer by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-2"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-2",
             "name": "Mutagenic Regeneration 10 pts",
             "text": "ABOMINANT, BIOPHAGUS or PATRIARCH model only. In each Command phase, one model in the bearer’s unit regains 1 lost wound.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-2"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-2-3",
             "name": "Alien Majesty 15 pts",
             "text": "ABOMINANT, BIOPHAGUS or PATRIARCH model only. While an enemy unit is within Engagement Range of the bearer’s unit, subtract 1 from the Objective Control characteristic of models in that enemy unit (to a minimum of 1).",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-2"
           },
           {
+            "kind": "stratagem",
             "id": "EVASIVE-VANGUARD",
             "name": "EVASIVE VANGUARD · 1CP",
             "text": "WHEN: Any phase, just after an enemy unit ends a move within 8\" of one or more of your Cult Ambush markers, before removing those markers from the battlefield.TARGET: Select one of those Cult Ambush markers.EFFECT: You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#EVASIVE-VANGUARD"
           },
           {
+            "kind": "stratagem",
             "id": "SAINTLY-PAROXYSM",
             "name": "SAINTLY PAROXYSM · 1CP",
             "text": "WHEN: Fight phase, just after an enemy unit destroys a GENESTEALER CULTS CHARACTER model from your army.TARGET: That destroyed CHARACTER model. You can use this Stratagem on that model even though it was just destroyed.EFFECT: Roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds. If that Character model is an ABOMINANT or PATRIARCH, that enemy unit suffers 2D3 mortal wounds instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#SAINTLY-PAROXYSM"
           },
           {
+            "kind": "stratagem",
             "id": "GENE-TWISTED-MUSCLE",
             "name": "GENE-TWISTED MUSCLE · 1CP",
             "text": "WHEN: Fight phase.TARGET: One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not been selected to fight this phase.EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE, add 1 to the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#GENE-TWISTED-MUSCLE"
           },
           {
+            "kind": "stratagem",
             "id": "HYPER-METABOLIC-VIGOUR",
             "name": "HYPER-METABOLIC VIGOUR · 1CP",
             "text": "WHEN: Fight phase.TARGET: One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not been selected to fight this phase.EFFECT: Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". In addition, it does not need to end that move closer to the closest enemy model, provided it ends it as close as possible to the closest enemy unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#HYPER-METABOLIC-VIGOUR"
           },
           {
+            "kind": "stratagem",
             "id": "STIMULATED-BIO-SURGE",
             "name": "STIMULATED BIO-SURGE · 1CP",
             "text": "WHEN: Your Charge phase.TARGET: One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not declared a charge this phase.EFFECT: Your unit has +2 to charge rolls.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#STIMULATED-BIO-SURGE"
           },
           {
+            "kind": "stratagem",
             "id": "BIO-HORROR-REVELATION",
             "name": "BIO-HORROR REVELATION · 1CP",
             "text": "WHEN: Start of your opponent's Shooting phase.TARGET: One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army.EFFECT: Until the end of the phase, each time an enemy unit within 9\" of your unit is selected to shoot, it must take a Leadership test, subtracting 1 from the result. If that test is failed, until the end of the phase, each time a model in that enemy unit makes an attack that targets your unit, subtract 1 from the Hit roll.",
@@ -4588,60 +4693,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rule-3",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-0",
             "name": "Serpentine Tactics 10 pts",
             "text": "GENESTEALER CULTS MOUNTED model only. The bearer’s unit is eligible to shoot in a turn in which it Fell Back.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-3"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-1",
             "name": "Cartographic Data-leech 10 pts",
             "text": "GENESTEALER CULTS model only. While the bearer is embarked within a TRANSPORT, each time that TRANSPORT is selected to shoot, until the end of the phase, improve the Ballistic Skill characteristic of ranged weapons equipped by that TRANSPORT as a result of the Firing Deck ability by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-3"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-2",
             "name": "Starfall Shells 10 pts",
             "text": "GENESTEALER CULTS MOUNTED model only. In your Shooting phase, after the bearer has shot, select one enemy unit hit by one or more of those attacks made with a cult sniper rifle. Until the start of your next Shooting phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-3"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-3-3",
             "name": "Assault Commando 15 pts",
             "text": "GENESTEALER CULTS model only. Each time a model in the bearer’s unit makes a ranged attack, if it disembarked from a TRANSPORT this turn, you can re-roll the Hit roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-3"
           },
           {
+            "kind": "stratagem",
             "id": "ALONG-SHADOWED-TRAILS",
             "name": "ALONG SHADOWED TRAILS · 1CP",
             "text": "WHEN: Any phase, just after an enemy unit ends a move within 8\" of one or more of your Cult Ambush markers.TARGET: Select one of those Cult Ambush markers.EFFECT: You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#ALONG-SHADOWED-TRAILS"
           },
           {
+            "kind": "stratagem",
             "id": "DEVOTED-CREW",
             "name": "DEVOTED CREW · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.TARGET: One GOLIATH ROCKGRINDER or GOLIATH TRUCK unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Damage characteristic of that attack.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#DEVOTED-CREW"
           },
           {
+            "kind": "stratagem",
             "id": "CLOSE-RANGE-SHOOT-OUT",
             "name": "CLOSE-RANGE SHOOT-OUT · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One GENESTEALER CULTS MOUNTED or GENESTEALER CULTS VEHICLE unit from your army that has not been selected to shoot this phase.EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability while targeting an enemy unit within 18\".",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#CLOSE-RANGE-SHOOT-OUT"
           },
           {
+            "kind": "stratagem",
             "id": "RAPID-FEINT",
             "name": "RAPID FEINT · 1CP",
             "text": "WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.TARGET: One ACHILLES RIDGERUNNERS or ATALAN JACKALS unit from your army that is within 8\" of that enemy unit.EFFECT: Your unit can make a Normal move of up to 6\".",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#RAPID-FEINT"
           },
           {
+            "kind": "stratagem",
             "id": "DEFT-MANOEUVRING",
             "name": "DEFT MANOEUVRING · 1CP",
             "text": "WHEN: Your opponent's Shooting phase, just after an enemy unit has selected its targets.TARGET: One ACHILLES RIDGERUNNERS or ATALAN JACKALS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#DEFT-MANOEUVRING"
           },
           {
+            "kind": "stratagem",
             "id": "ENCIRCLING-THE-PREY",
             "name": "ENCIRCLING THE PREY · 1CP",
             "text": "WHEN: End of your opponent's Fight phase.TARGET: One GENESTEALER CULTS MOUNTED or GENESTEALER CULTS VEHICLE unit from your army that is not within Engagement Range of one or more enemy units and is wholly within 9\" of one or more battlefield edges.EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
@@ -4656,60 +4771,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rule-4",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-0",
             "name": "Martial Espionage 25 pts",
             "text": "GENESTEALER CULTS INFANTRY model only. Once per turn, when a friendly ASTRA MILITARUM INFANTRY or ASTRA MILITARUM MOUNTED unit within 9\" of the bearer is selected to shoot, the bearer can use this Enhancement. If it does, until the end of the phase, improve the Armour Penetration characteristic of ranged weapons equipped by models in that unit by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-4"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-1",
             "name": "Adaptive Reprisal 15 pts",
             "text": "GENESTEALER CULTS INFANTRY model only. When you target this unit with the Heroic Intervention stratagem, that use is -1 CP.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-4"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-2",
             "name": "The Hero Returned 20 pts",
             "text": "GENESTEALER CULTS INFANTRY model only. Improve the Leadership and Objective Control characteristics of models in the bearer’s unit by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-4"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-4-3",
             "name": "Firepoint Commander 10 pts",
             "text": "GENESTEALER CULTS INFANTRY model only. Each time you target the bearer’s unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-4"
           },
           {
+            "kind": "stratagem",
             "id": "IN-THE-SHADOW-OF-IRON",
             "name": "IN THE SHADOW OF IRON · 1CP",
             "text": "WHEN: Any phase, just after an enemy unit ends a move within 8\" of one or more of your Cult Ambush markers.TARGET: One ASTRA MILITARUM VEHICLE unit from your army.EFFECT: Select one of those Cult Ambush markers. You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units and wholly within 6\" of your unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#IN-THE-SHADOW-OF-IRON"
           },
           {
+            "kind": "stratagem",
             "id": "REGIMENTAL-REINFORCEMENTS",
             "name": "REGIMENTAL REINFORCEMENTS · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an ASTRA MILITARUM INFANTRY REGIMENT unit from your army (excluding ARTILLERY and CHARACTER units) is destroyed.TARGET: That INFANTRY unit. You can use this Stratagem on that unit even though it was just destroyed.EFFECT: Roll one D6: on a 3+, place one Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units (if this is not possible, no marker is placed) and add a new unit to your army identical to your destroyed unit, in Cult Ambush, at its Starting Strength, with all of its wounds remaining and any [ONE SHOT] weapons those models are equipped with considered as not having been shot.RESTRICTIONS: You can only use this Stratagem once per battle.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#REGIMENTAL-REINFORCEMENTS"
           },
           {
+            "kind": "stratagem",
             "id": "SUPPRESS-AND-OVERWHELM",
             "name": "SUPPRESS AND OVERWHELM · 1CP",
             "text": "WHEN: Your Shooting phase, just after an ASTRA MILITARUM unit from your army has shot.TARGET: That ASTRA MILITARUM unit.EFFECT: Select one enemy unit hit by one or more of those attacks. Until the end of the turn, that enemy unit cannot be targeted with the Fire Overwatch Stratagem and each time a GENESTEALER CULTS unit from your army selects that enemy unit as a target of a charge, you can re-roll the Charge roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#SUPPRESS-AND-OVERWHELM"
           },
           {
+            "kind": "stratagem",
             "id": "ACCEPTABLE-LOSSES",
             "name": "ACCEPTABLE LOSSES · 2CP",
             "text": "WHEN: Your Shooting phase.TARGET: One ASTRA MILITARUM unit from your army.EFFECT: Select one enemy unit within Engagement Range of one or more GENESTEALER CULTS units from your army. Until the end of the phase, your unit can make ranged attacks that target that enemy unit. If it does, after it has resolved those attacks, roll one D6 for each of those GENESTEALER CULTS units: on a 5+, the unit being rolled for suffers D3+1 mortal wounds.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#ACCEPTABLE-LOSSES"
           },
           {
+            "kind": "stratagem",
             "id": "SYMBIOTIC-DESTRUCTION",
             "name": "SYMBIOTIC DESTRUCTION · 1CP",
             "text": "WHEN: Your Shooting phase.TARGET: One ASTRA MILITARUM and one GENESTEALER CULTS unit from your army that have not been selected to shoot this phase.EFFECT: Select one enemy unit that is visible to both of those selected units and within range of at least one ranged weapon from each of those units. Until the end of the phase, models in those units can only make attacks that target that enemy unit (and only if it is an eligible target). When doing so, each time such a model makes an attack, re-roll a Wound roll of 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#SYMBIOTIC-DESTRUCTION"
           },
           {
+            "kind": "stratagem",
             "id": "A-DARK-NETWORK",
             "name": "A DARK NETWORK · 1CP",
             "text": "WHEN: Reinforcements step of your opponent’s Movement phase, just after an enemy unit is set up on the battlefield from Reserves.TARGET: One ASTRA MILITARUM or GENESTEALER CULTS unit from your army (excluding MONSTERS and VEHICLES) within 12\" of that enemy unit.EFFECT: Your unit can make a Normal move of up to 6\".",
@@ -4724,60 +4849,70 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rule-5",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-0",
             "name": "Synaptic Auger 15 pts",
             "text": "TYRANIDS model only. Each time the bearer would regain one or more lost wounds from the Psionic Parasitism Detachment rule, it regains up to twice that number of lost wounds instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-5"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-1",
             "name": "Enraptured Damnation 10 pts",
             "text": "GENESTEALER CULTS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-5"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-2",
             "name": "Vanguard Tyrant 25 pts",
             "text": "WINGED HIVE TYRANT model only. Improve the Strength and Armour Penetration characteristics of melee weapons equipped by the bearer by 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-5"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-5-3",
             "name": "Inhuman Integration 20 pts",
             "text": "GENESTEALER CULTS model only. Weapons equipped by models in the bearer’s unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 6\" of one or more friendly TYRANIDS units.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-5"
           },
           {
+            "kind": "stratagem",
             "id": "HYPERFEROCITY",
             "name": "HYPERFEROCITY · 1CP",
             "text": "WHEN: Fight phase.TARGET: One GENESTEALER CULTS unit from your army that has not been selected to fight this phase.EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re-roll a Wound roll of 1. If one or more friendly TYRANIDS units are within 6\" of that enemy unit, you can re-roll the Wound roll instead.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#HYPERFEROCITY"
           },
           {
+            "kind": "stratagem",
             "id": "PSI-SURGE",
             "name": "PSI SURGE · 1CP",
             "text": "WHEN: Start of any phase.TARGET: One TYRANIDS unit from your army.EFFECT: Until the start of your next Command phase, increase the range of your unit’s Catalyst ability by 3\".RESTRICTIONS: Each time you use this Stratagem, until the end of your next Command phase, you cannot use this Stratagem again.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#PSI-SURGE"
           },
           {
+            "kind": "stratagem",
             "id": "AVENGE-THE-STAR-CHILDREN",
             "name": "AVENGE THE STAR CHILDREN · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought.TARGET: One TYRANIDS CHARACTER unit from your army that was destroyed by that enemy unit this phase. You can use this Stratagem on that unit even though it was just destroyed.EFFECT: Until the end of the battle, each time a GENESTEALER CULTS model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#AVENGE-THE-STAR-CHILDREN"
           },
           {
+            "kind": "stratagem",
             "id": "DIVINE-IMPERATIVE",
             "name": "DIVINE IMPERATIVE · 1CP",
             "text": "WHEN: Your Charge phase, when a friendly GENESTEALER CULTS unit within 12\" of a friendly engaged TYRANIDS unit declares a charge.TARGET: That GENESTEALER CULTS unit.EFFECT:Your unit has +1 to charge rolls.You can use this part of this stratagem. If you do:Your unit can re-roll charge rolls.Your unit must end that charge move engaged with an enemy unit engaged with that friendly TYRANIDS unit.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#DIVINE-IMPERATIVE"
           },
           {
+            "kind": "stratagem",
             "id": "DARTING-ATTACKS",
             "name": "DARTING ATTACKS · 1CP",
             "text": "WHEN: Your Shooting phase or your Charge phase.TARGET: One TYRANIDS unit from your army.EFFECT: Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#DARTING-ATTACKS"
           },
           {
+            "kind": "stratagem",
             "id": "RESISTANCE-TUNNELS",
             "name": "RESISTANCE TUNNELS · 1CP",
             "text": "WHEN: End of your opponent’s Fight phase.TARGET: One GENESTEALER CULTS or TYRANIDS unit from your army that is not within Engagement Range of one or more enemy units.EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves.",
@@ -4792,30 +4927,35 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rules",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-9-0",
             "name": "Gene-Tailored Toxins 35 pts",
             "text": "LOCUS/SANCTUS model only. This model’s attacks have +1 D.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-9"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-9-1",
             "name": "Contraband Munitions 20 pts",
             "text": "KELERMORPH/REDUCTUS SABOTEUR model only. This unit’s ranged attacks have +2 S.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-9"
           },
           {
+            "kind": "stratagem",
             "id": "LIVING-UP-TO-LEGEND",
             "name": "LIVING UP TO LEGEND · 1CP",
             "text": "WHEN: Your Shooting phase or the Fight phase, when a friendly KILLER unit has attacked, if those attacks destroyed an enemy unit or an enemy CHARACTER model.TARGET: That KILLER unit.EFFECT: Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#LIVING-UP-TO-LEGEND"
           },
           {
+            "kind": "stratagem",
             "id": "SURGING-BROODWORSHIP",
             "name": "SURGING BROODWORSHIP · 1CP",
             "text": "WHEN: Your Shooting phase or the Fight phase, when a friendly KILLER unit is selected to attack.TARGET: That KILLER unit.EFFECT: Attacks made by KILLER models in your unit have [DEVASTATING WOUNDS].",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#SURGING-BROODWORSHIP"
           },
           {
+            "kind": "stratagem",
             "id": "LOYAL-TO-THE-END",
             "name": "LOYAL TO THE END · 1CP",
             "text": "WHEN: Fight phase, when an enemy unit targets a friendly KILLER unit.TARGET: That KILLER unit.EFFECT: When a KILLER model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6:On a 1, that enemy unit suffers 1 mortal wound.On a 2+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield.",
@@ -4830,30 +4970,35 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rules-1",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-10-0",
             "name": "Mark of the Star ChildrenUPGRADE 30 pts",
             "text": "PURESTRAIN GENESTEALERS unit only. This unit has:\n",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-10"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-10-1",
             "name": "Talons of the Sire 15 pts",
             "text": "PATRIARCH model only. This unit’s attacks can re-roll wound rolls of 1.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-10"
           },
           {
+            "kind": "stratagem",
             "id": "LURK-AND-STRIKE",
             "name": "LURK AND STRIKE · 1CP",
             "text": "WHEN: Your Movement phase, when a friendly PURESTRAIN GENESTEALERS unit is selected to make a fall-back move.TARGET: That PURESTRAIN GENESTEALERS unit.EFFECT: That move does not prevent your unit from being eligible to declare a charge.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#LURK-AND-STRIKE"
           },
           {
+            "kind": "stratagem",
             "id": "CRAWLING-HORROR",
             "name": "CRAWLING HORROR · 1CP",
             "text": "WHEN: Start of your opponent’s Movement phase.TARGET: One friendly PURESTRAIN GENESTEALERS unit.EFFECT: Your unit has -6\" detection range until the end of the turn.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#CRAWLING-HORROR"
           },
           {
+            "kind": "stratagem",
             "id": "INHUMAN-REACTIONS",
             "name": "INHUMAN REACTIONS · 1CP",
             "text": "WHEN: Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged PURESTRAIN GENESTEALERS unit.TARGET: That PURESTRAIN GENESTEALERS unit.EFFECT: Your unit can make a normal move of up to D3+3\".",
@@ -4868,30 +5013,35 @@
         "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Detachment-Rules-2",
         "options": [
           {
+            "kind": "enhancement",
             "id": "Enhancements-11-0",
             "name": "Inspired to Greatness 15 pts",
             "text": "MAGUS/PRIMUS model only. This unit’s attacks can re-roll damage rolls.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-11"
           },
           {
+            "kind": "enhancement",
             "id": "Enhancements-11-1",
             "name": "Devious DisguisesUPGRADE 15 pts",
             "text": "NEOPHYTE HYBRIDS unit only. This unit has -3\" detection range.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#Enhancements-11"
           },
           {
+            "kind": "stratagem",
             "id": "EYES-OF-THE-CULT",
             "name": "EYES OF THE CULT · 1CP",
             "text": "WHEN: Start of your Shooting phase.TARGET: One friendly NEOPHYTE HYBRIDS unit within a terrain area.EFFECT: Enemy units within that terrain area have +6\" detection range",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#EYES-OF-THE-CULT"
           },
           {
+            "kind": "stratagem",
             "id": "FANATICAL-HAIL",
             "name": "FANATICAL HAIL · 1CP",
             "text": "WHEN: Your Shooting phase, when a friendly NEOPHYTE HYBRIDS unit is selected to shoot.TARGET: That NEOPHYTE HYBRIDS unit.EFFECT: Select one enemy unit. Your unit’s ranged attacks that target that enemy unit can re-roll hit rolls.",
             "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/#FANATICAL-HAIL"
           },
           {
+            "kind": "stratagem",
             "id": "SLUNK-FROM-THE-UNDERBELLY",
             "name": "SLUNK FROM THE UNDERBELLY · 1CP",
             "text": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly NEOPHYTE HYBRIDS unit with every model within a terrain area.TARGET: That NEOPHYTE HYBRIDS unit.EFFECT: Ranged attacks that target your unit have -1 AP until that unit has attacked",
