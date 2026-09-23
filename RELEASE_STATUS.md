@@ -1,3 +1,18 @@
+# Live release — grouped rule sheets, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 14
+- Deployment: appgdep_6ab4062e98348191aff87dfe9391bc6d — succeeded, 17:03:02 UTC
+- GitHub application source: c2a0c29cc8ed059a1c98abf2cff7180a694671e9
+- Hosting source: 5880cf8c8db9f249b55fc471532a2308723697ec
+- Matching application tree: d1b7c070971dba0b7dac6295f1c620a0c08585fa
+
+Both viewers now contain sidebar and sheet scrolling independently. Selecting a new card resets its body to the top. Army/detachment sheets group their own stratagems with source CP/category/timing metadata, coloured rails and diamond badges. No individual stratagem sidebar buttons remain. All 23 faction snapshots refreshed from their 11th-edition sources.
+
+Validation: full automated suite, TypeScript and production build passed. Interactive 1180x820 landscape preview confirmed two-column stratagem layout, sidebar scrolling while sheet stayed at top, sheet scrolling independently, and switching detachments reset the sheet while retaining sidebar scroll position. Native deployment succeeded. Physical iPad testing remains outstanding.
+
+---
+
 # Live release — viewer and rules cards, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site

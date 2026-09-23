@@ -1,3 +1,7 @@
+## Latest update — 23 September 2026
+
+Version 14 is live. GitHub app source c2a0c29 and hosting source 5880cf8 have identical app trees. Both viewers use independent sidebar/card scrolling and grouped army/detachment sheets containing their stratagems. Source timing colours, CP badges and source dates are retained. Full tests, type checks, production build and landscape browser checks passed. See RELEASE_STATUS.md for exact release IDs. Pull main before editing on another computer.
+
 # Desktop handover — 23 September 2026
 
 Pull GitHub main before editing. The app is in prototype/. GitHub is canonical; the hosting repository uses the same application tree at its root.
