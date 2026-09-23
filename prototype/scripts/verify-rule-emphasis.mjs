@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {effectParts} from '../lib/rule-emphasis.ts';
+const packs=JSON.parse(readFileSync('data/faction-rules.json','utf8'));
+let count=0;function walk(value){if(typeof value==='string'){assert.equal(effectParts(value).map(p=>p.text).join(''),value);count++;}else if(value&&typeof value==='object')Object.values(value).forEach(walk);}walk(packs);
+const text='While within 6 inches, models have Feel No Pain 5+ against Psychic Attacks and mortal wounds.';
+assert.ok(effectParts(text).some(p=>p.highlight&&p.text==='Feel No Pain 5+'));
+assert.equal(effectParts(text).map(p=>p.text).join(''),text);
+assert.ok(effectParts('Add 2" to the Move characteristic.').some(p=>p.highlight));
+console.log(`PASS effect emphasis preserves all source wording and conditions across ${count} strings.`);

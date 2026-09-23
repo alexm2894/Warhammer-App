@@ -1,0 +1,3 @@
+// Presentation only: exact source substrings, never inferred active effects.
+const effect=/Feel No Pain(?:\s+\d\+)?|(?:add|subtract)\s+\d+(?:"|″)?\s+(?:to|from)[^.;\n]{0,130}|re-roll[^.;\n]{0,100}|(?:Normal|Advance|Charge|Pile-in|Consolidation) move(?:s)?|(?:SUSTAINED HITS|LETHAL HITS|DEVASTATING WOUNDS|FIGHTS FIRST|STEALTH|LONE OPERATIVE|IGNORES COVER)(?:\s+\d+)?/gi;
+export function effectParts(text:string){let at=0;const parts:{text:string;highlight:boolean}[]=[];for(const match of text.matchAll(effect)){const index=match.index!;if(index>at)parts.push({text:text.slice(at,index),highlight:false});parts.push({text:match[0],highlight:true});at=index+match[0].length;}if(at<text.length)parts.push({text:text.slice(at),highlight:false});return parts;}

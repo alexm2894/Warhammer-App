@@ -1,4 +1,7 @@
 "use client";
+import CardSource from './card-source';
+import RuleIcon from './rule-icon';
+import {effectParts} from '@/lib/rule-emphasis';
 import {useEffect,useState} from 'react';
 import {BookOpen,Flag,RefreshCw,ArrowUp,ArrowDown,ArrowLeftRight} from 'lucide-react';
 import type {FactionRules,RuleSection} from '@/lib/faction-rules';
@@ -17,12 +20,13 @@ export function RuleLibrary({library,selected,onSelect,collapsed=false}:{library
  return <section className={`rule-library ${collapsed?'rules-compact':''}`} aria-label="Army and detachment cards">
  {!collapsed&&<h2>Rules & stratagems</h2>}
  {library.loading&&<p role="status">Loading rules…</p>}{library.error&&<p role="alert">{library.error}</p>}
- {(['Army rule','Detachment'] as const).map(kind=><div className="rule-group" key={kind}>{library.cards.filter(c=>c.kind===kind).map(c=><button key={c.key} className={`rule-tile rule-${kind.toLowerCase().replace(' ','-')}`} style={factionStyle(c.faction)} data-active-detachment={c.kind==='Detachment'&&c.id===library.activeDetachment} aria-pressed={selected===c.key} aria-label={`${c.kind}: ${c.name}`} title={`${c.kind}: ${c.name}`} onClick={()=>{if(c.kind==='Detachment')library.choose(c.id);onSelect(c);}}>{kind==='Army rule'?<BookOpen/>:<Flag/>}<span><small>{kind}</small><strong>{c.name}</strong></span></button>)}</div>)}
+ {(['Army rule','Detachment'] as const).map(kind=><div className="rule-group" key={kind}>{library.cards.filter(c=>c.kind===kind).map(c=><button key={c.key} className={`rule-tile rule-${kind.toLowerCase().replace(' ','-')}`} style={factionStyle(c.faction)} data-active-detachment={c.kind==='Detachment'&&c.id===library.activeDetachment} aria-pressed={selected===c.key} aria-label={`${c.kind}: ${c.name}`} title={`${c.kind}: ${c.name}`} onClick={()=>{if(c.kind==='Detachment')library.choose(c.id);onSelect(c);}}><RuleIcon name={c.kind==='Army rule'?c.faction:c.name} army={kind==='Army rule'}/><span><small>{kind}</small><strong>{c.name}</strong></span></button>)}</div>)}
  {!collapsed&&<button className="action" disabled={library.loading} onClick={library.refresh}><RefreshCw size={18}/>Refresh rules</button>}
  </section>;
 }
+function EffectText({text}:{text:string}){return <>{effectParts(text).map((part,i)=>part.highlight?<mark className="rule-effect" key={i}>{part.text}</mark>:part.text)}</>;}
 function RuleText({text}:{text:string}){
- return <>{text.replace(/\s*(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)/g,'\n$1').split('\n').map(t=>t.trim()).filter(Boolean).map((line,i)=>{const match=line.match(/^(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)\s*([\s\S]*)$/);return <p key={i}>{match?<><b>{match[1]}</b> {match[2]}</>:line}</p>;})}</>;
+ return <>{text.replace(/\s*(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)/g,'\n$1').split('\n').map(t=>t.trim()).filter(Boolean).map((line,i)=>{const match=line.match(/^(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)\s*([\s\S]*)$/);return <p key={i} className={line.startsWith("EFFECT:")?"rule-effect-paragraph":line.startsWith("Designer")?"rule-designer-note":""}>{match?<><b>{match[1]}</b> <EffectText text={match[2]}/></>:<EffectText text={line}/>}</p>;})}</>;
 }
 function Stratagem({rule}:{rule:RuleSection}){
  const timing=rule.timing||'unknown',cp=rule.cp||rule.name.match(/(\d+\s*CP)\b/i)?.[1];
@@ -33,8 +37,8 @@ function Stratagem({rule}:{rule:RuleSection}){
 }
 export function RuleCard({card,refresh,busy}:{card:ReferenceCard;refresh:()=>void;busy:boolean}){
  return <article className="datasheet reference-card" style={factionStyle(card.faction)}><header className="card-banner"><div className="banner-copy"><span className="eyebrow">{card.faction} · {card.kind}</span><h2>{card.name}</h2></div></header><div className="reference-body" tabIndex={0} aria-label={`${card.name} rules and stratagems`}>
- {card.warning&&<p className="error" role="status">{card.warning}</p>}
+ <CardSource date={card.retrievedAt} url={card.url} warning={card.warning} refresh={refresh} busy={busy}/>
  <section className="detachment-rule-text"><h3>{card.kind==='Detachment'?'Detachment rules':'Army rules'}</h3><RuleText text={card.text}/></section>
  {card.stratagems.length>0&&<><h3 className="stratagem-heading">Stratagems</h3><div className="stratagem-legend"><span className="timing-your">Blue · your turn</span><span className="timing-either">Green · either turn</span><span className="timing-enemy">Red · opponent’s turn</span></div><div className="stratagem-grid">{card.stratagems.map((rule,i)=><Stratagem key={rule.id+':'+i} rule={rule}/>)}</div></>}
- <details className="reference-source"><summary>Source · 11th edition · {new Date(card.retrievedAt).toLocaleDateString()}</summary><a href={card.url} target="_blank" rel="noreferrer">View rule on Wahapedia ↗</a><button className="action" disabled={busy} onClick={refresh}>Refresh rules</button></details></div></article>;
+ </div></article>;
 }

@@ -89,3 +89,60 @@ main:has(.lookup-workspace){height:100vh;height:100dvh;display:flex;flex-directi
 @media(max-width:600px){.army-slot strong{font-size:18px}.army-slot{padding:12px}.army-slot-images{height:55px}}
 
 .army-save-dialog::backdrop {background:#000b}
+
+/* Card content receives the remaining viewport at every landscape height. */
+main:has(.lookup-workspace) .app-header {height:50px;min-height:50px;flex-shrink:0;padding:0 14px;gap:12px}
+.app-header .brand{font-size:clamp(15px,1.5vw,20px);white-space:nowrap}
+.app-header:has(.header-source) .edition{display:none}
+#card-source-slot{margin-left:auto;min-width:0}
+.header-source{position:relative;font-size:13px;color:#d5ddd8}
+.header-source summary{cursor:pointer;min-height:44px;display:flex;align-items:center;white-space:nowrap}
+.header-source-popover{position:absolute;right:0;top:100%;z-index:100;width:min(390px,85vw);background:#17282d;border:1px solid #7b9690;padding:16px;box-shadow:0 8px 24px #0008;display:grid;gap:12px;max-height:70dvh;overflow:auto}
+.header-source-popover p{margin:0;line-height:1.4}
+.workspace.lookup-workspace{grid-template-columns:clamp(190px,22vw,260px) minmax(0,1fr);padding:8px;gap:8px}
+.lookup-workspace>.datasheet>.card-banner{min-height:0;max-height:32%;padding:10px 14px;flex:0 0 auto}
+.lookup-workspace .card-banner h2{font-size:clamp(21px,2.4vw,32px);margin:4px 0 8px;line-height:1.08}
+.lookup-workspace .card-banner .eyebrow{font-size:11px;letter-spacing:.5px}
+.lookup-workspace .card-banner .stats{--stat-width:clamp(36px,4vw,48px);gap:6px}
+.lookup-workspace .stat{min-width:var(--stat-width);width:var(--stat-width)}
+.lookup-workspace .stat>span{font-size:11px;margin-bottom:2px}
+.lookup-workspace .stat strong{height:30px;font-size:21px}
+.lookup-workspace .header-invulnerable b{height:29px;font-size:18px}
+.lookup-workspace .header-invulnerable>span{font-size:10px;padding:2px 5px;max-width:160px}
+.lookup-workspace .header-invulnerable small{font-size:11px}
+.lookup-workspace .profile:has(.header-invulnerable){padding-bottom:31px}
+.lookup-workspace .card-banner>.unit-art{width:clamp(90px,15vw,170px);height:110px;min-width:0;margin:0 0 0 12px;flex-shrink:0}
+.lookup-workspace .card-body{padding:10px;gap:12px;grid-template-columns:minmax(0,1.65fr) minmax(220px,1fr);align-content:start}
+.lookup-workspace .weapon-section{margin-bottom:14px}
+.lookup-workspace .weapon-section h3,.lookup-workspace .abilities-column h3{padding:6px 8px;font-size:13px}
+.lookup-workspace tbody th,.lookup-workspace tbody td{padding:7px 5px;font-size:15px}
+.lookup-workspace thead th{padding:6px 4px;font-size:11px}
+.lookup-workspace .abilities-column{padding-left:10px}
+.lookup-workspace .abilities-column p{font-size:14px;line-height:1.45;padding:7px 2px}
+.lookup-workspace .card-keywords{display:flex;flex-wrap:wrap;flex:0 0 auto;max-height:54px;overflow:auto;font-size:11px}
+.lookup-workspace .card-keywords>div{display:block;padding:4px 8px;font-size:11px;line-height:1.35;flex:1;min-width:190px}
+.lookup-workspace .card-keywords b{display:inline;margin-right:6px;font-size:10px;letter-spacing:0}
+.lookup-workspace .card-keywords span{display:inline}
+.lookup-workspace .search-collapse{min-height:44px;padding:7px 10px}
+.library-army-tools h1{font-size:16px;margin:0 0 6px}
+.army-tools-menu summary{min-height:44px;display:flex;align-items:center;cursor:pointer;border:1px solid #546b6c;border-radius:4px;padding:6px 10px}
+.army-tools-menu[open]{max-height:190px;overflow:auto}.army-tools-menu .action{width:100%;margin-top:4px}
+.lookup-workspace .saved-card-list .faction-tile{min-height:66px;padding:6px;gap:8px}
+.lookup-workspace .saved-card-list .unit-art{width:54px;height:54px;min-width:54px}
+.lookup-workspace .saved-card-list .faction-tile>span{font-size:14px}
+.rule-symbol{display:flex!important;align-items:center;justify-content:center;flex-direction:column;flex:0 0 34px;gap:2px}
+.rule-symbol small{font-size:9px!important;letter-spacing:1px}
+.rule-effect{background:#e6edb6;color:#182b22;font-weight:750;border-radius:2px;padding:0 2px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.stratagem-copy .rule-effect-paragraph{border-left:3px solid var(--stratagem-color);padding-left:8px;background:#f2f5ec}
+.rule-designer-note{color:#52615d;font-size:14px!important}
+.lookup-workspace .reference-card .card-banner{padding:10px 16px;max-height:22%}
+@media(max-height:600px) and (orientation:landscape){
+ .lookup-workspace>.datasheet>.card-banner{max-height:34%;padding:6px 10px}
+ .lookup-workspace .card-banner h2{font-size:22px;margin:2px 0 5px}
+ .lookup-workspace .card-banner>.unit-art{height:80px;width:110px}
+ .lookup-workspace .card-banner .eyebrow{display:none}
+ .lookup-workspace .card-keywords{max-height:42px}
+ .lookup-workspace .card-body{padding:6px 8px}
+}
+@media(max-width:850px){.lookup-workspace .card-body{grid-template-columns:1fr}.lookup-workspace .abilities-column{border-left:0;padding-left:0}.lookup-workspace .card-banner>.unit-art{display:none}}
+@media(max-width:600px){.header-source summary{font-size:11px}.app-header .brand{font-size:13px}.workspace.lookup-workspace{grid-template-columns:145px minmax(0,1fr)}}
