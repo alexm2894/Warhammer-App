@@ -1,7 +1,7 @@
 "use client";
 import {useEffect,useState} from 'react';
-import {BookOpen,Flag,Zap,RefreshCw} from 'lucide-react';
-import type {FactionRules} from '@/lib/faction-rules';
+import {BookOpen,Flag,RefreshCw,ArrowUp,ArrowDown,ArrowLeftRight} from 'lucide-react';
+import type {FactionRules,RuleSection} from '@/lib/faction-rules';
 import {loadRuleCards,ruleCards,type ReferenceCard} from '@/lib/rule-cards';
 import {factionStyle} from '@/lib/factions';
 export function useRuleLibrary(faction:string){
@@ -17,11 +17,24 @@ export function RuleLibrary({library,selected,onSelect,collapsed=false}:{library
  return <section className={`rule-library ${collapsed?'rules-compact':''}`} aria-label="Army and detachment cards">
  {!collapsed&&<h2>Rules & stratagems</h2>}
  {library.loading&&<p role="status">Loading rules…</p>}{library.error&&<p role="alert">{library.error}</p>}
- {(['Army rule','Detachment','Stratagem'] as const).map(kind=><div className="rule-group" key={kind}>{!collapsed&&kind==='Stratagem'&&<h3>{library.pack?.detachments.find(d=>d.id===library.activeDetachment)?.name} · Stratagems</h3>}{library.cards.filter(c=>c.kind===kind).map(c=><button key={c.key} className={`rule-tile rule-${kind.toLowerCase().replace(' ','-')}`} style={factionStyle(c.faction)} data-active-detachment={c.kind==='Detachment'&&c.id===library.activeDetachment} aria-pressed={selected===c.key} aria-label={`${c.kind}: ${c.name}`} title={`${c.kind}: ${c.name}`} onClick={()=>{if(c.kind==='Detachment')library.choose(c.id);onSelect(c);}}>{kind==='Army rule'?<BookOpen/>:kind==='Detachment'?<Flag/>:<Zap/>}<span><small>{kind}</small><strong>{c.name}</strong></span></button>)}</div>)}
+ {(['Army rule','Detachment'] as const).map(kind=><div className="rule-group" key={kind}>{library.cards.filter(c=>c.kind===kind).map(c=><button key={c.key} className={`rule-tile rule-${kind.toLowerCase().replace(' ','-')}`} style={factionStyle(c.faction)} data-active-detachment={c.kind==='Detachment'&&c.id===library.activeDetachment} aria-pressed={selected===c.key} aria-label={`${c.kind}: ${c.name}`} title={`${c.kind}: ${c.name}`} onClick={()=>{if(c.kind==='Detachment')library.choose(c.id);onSelect(c);}}>{kind==='Army rule'?<BookOpen/>:<Flag/>}<span><small>{kind}</small><strong>{c.name}</strong></span></button>)}</div>)}
  {!collapsed&&<button className="action" disabled={library.loading} onClick={library.refresh}><RefreshCw size={18}/>Refresh rules</button>}
  </section>;
 }
+function RuleText({text}:{text:string}){
+ return <>{text.replace(/\s*(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)/g,'\n$1').split('\n').map(t=>t.trim()).filter(Boolean).map((line,i)=>{const match=line.match(/^(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)\s*([\s\S]*)$/);return <p key={i}>{match?<><b>{match[1]}</b> {match[2]}</>:line}</p>;})}</>;
+}
+function Stratagem({rule}:{rule:RuleSection}){
+ const timing=rule.timing||'unknown',cp=rule.cp||rule.name.match(/(\d+\s*CP)\b/i)?.[1];
+ return <section className={`stratagem-block timing-${timing}`}>
+ <div className="stratagem-rail" aria-hidden="true"><span className="stratagem-diamond">{timing==='your'?<ArrowUp size={18}/>:timing==='enemy'?<ArrowDown size={18}/>:<ArrowLeftRight size={18}/>}</span>{cp&&<span className="stratagem-diamond cp-badge"><b>{cp}</b></span>}</div>
+ <div className="stratagem-copy"><h3>{rule.name.replace(/\s*·\s*(\d+\s*CP|Stratagem)$/i,'')}</h3><div className="stratagem-meta">{rule.category||'Stratagem'}{cp&&<span className="sr-only"> · {cp}</span>}</div><RuleText text={rule.text}/></div>
+ </section>;
+}
 export function RuleCard({card,refresh,busy}:{card:ReferenceCard;refresh:()=>void;busy:boolean}){
- const paragraphs=card.text.replace(/\s*(WHEN:|TARGET:|EFFECT:|RESTRICTIONS:)/g,'\n$1').split('\n').map(t=>t.trim()).filter(Boolean);
- return <article className="datasheet reference-card" style={factionStyle(card.faction)}><header className="card-banner"><div className="banner-copy"><span className="eyebrow">{card.faction} · {card.kind}</span><h2>{card.name}</h2>{card.detachment&&<p>{card.detachment}</p>}</div></header><div className="reference-body">{card.warning&&<p className="error" role="status">{card.warning}</p>}{paragraphs.map((text,i)=><p key={i}>{text}</p>)}<details className="reference-source"><summary>Source · 11th edition · {new Date(card.retrievedAt).toLocaleDateString()}</summary><a href={card.url} target="_blank" rel="noreferrer">View rule on Wahapedia ↗</a><button className="action" disabled={busy} onClick={refresh}>Refresh rules</button></details></div></article>;
+ return <article className="datasheet reference-card" style={factionStyle(card.faction)}><header className="card-banner"><div className="banner-copy"><span className="eyebrow">{card.faction} · {card.kind}</span><h2>{card.name}</h2></div></header><div className="reference-body" tabIndex={0} aria-label={`${card.name} rules and stratagems`}>
+ {card.warning&&<p className="error" role="status">{card.warning}</p>}
+ <section className="detachment-rule-text"><h3>{card.kind==='Detachment'?'Detachment rules':'Army rules'}</h3><RuleText text={card.text}/></section>
+ {card.stratagems.length>0&&<><h3 className="stratagem-heading">Stratagems</h3><div className="stratagem-legend"><span className="timing-your">Blue · your turn</span><span className="timing-either">Green · either turn</span><span className="timing-enemy">Red · opponent’s turn</span></div><div className="stratagem-grid">{card.stratagems.map((rule,i)=><Stratagem key={rule.id+':'+i} rule={rule}/>)}</div></>}
+ <details className="reference-source"><summary>Source · 11th edition · {new Date(card.retrievedAt).toLocaleDateString()}</summary><a href={card.url} target="_blank" rel="noreferrer">View rule on Wahapedia ↗</a><button className="action" disabled={busy} onClick={refresh}>Refresh rules</button></details></div></article>;
 }

@@ -20,3 +20,5 @@
 - Roster points must use dated 11th-edition source tables, including repeat-unit tiers and composition choices. Mark chapter/army-dependent or missing costs unverified instead of selecting an arbitrary price. Do not claim roster legality or enhancement/loadout support.
 
 - The app is exclusively a card viewer: home, lookup and Game Data Cards. Do not restore Versus or battle resolution. Share unit and rule card components across both viewers. Distinguish army, detachment and stratagem reference cards by icon, label and shape, preserve faction colours and source dates, and keep rules as source text rather than executable effects.
+
+- Viewer sidebars and displayed cards must scroll independently. Selecting a different unit or rule sheet resets the displayed body to the top. Detachment sheets contain their own complete stratagem list with source-provided timing/category/CP metadata; do not put individual stratagem buttons in the sidebar.

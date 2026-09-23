@@ -1,9 +1,9 @@
 import type {FactionRules,RuleSection} from './faction-rules';
-export type ReferenceCard=Omit<RuleSection,'kind'> & {key:string;kind:'Army rule'|'Detachment'|'Stratagem';faction:string;detachment?:string;retrievedAt:string;warning?:string};
-export function ruleCards(pack:FactionRules,detachmentId:string):ReferenceCard[]{
- const make=(rule:RuleSection,kind:ReferenceCard['kind'],detachment?:string):ReferenceCard=>({...rule,key:[pack.faction,kind,detachment||'',rule.id].join('|'),kind,faction:pack.faction,detachment,retrievedAt:pack.retrievedAt,warning:pack.warning});
- const detachment=pack.detachments.find(d=>d.id===detachmentId);
- return [make(pack.army,'Army rule'),...pack.detachments.map(d=>make(d,'Detachment')), ...(detachment?.options||[]).filter(r=>r.kind==='stratagem'||(!r.kind&&!/^Enhancements/.test(r.id)&&/\b\d+\s*CP\b|Stratagem/i.test(r.name))).map(r=>make(r,'Stratagem',detachment!.name))];
+export type ReferenceCard=Omit<RuleSection,'kind'> & {key:string;kind:'Army rule'|'Detachment';stratagems:RuleSection[];faction:string;detachment?:string;retrievedAt:string;warning?:string};
+export function isStratagem(rule:RuleSection){return rule.kind==='stratagem'||(!rule.kind&&!/^Enhancements/.test(rule.id)&&/\b\d+\s*CP\b|Stratagem/i.test(rule.name));}
+export function ruleCards(pack:FactionRules,_detachmentId?:string):ReferenceCard[]{
+ const make=(rule:RuleSection,kind:ReferenceCard['kind']):ReferenceCard=>({...rule,key:[pack.faction,kind,'',rule.id].join('|'),kind,faction:pack.faction,retrievedAt:pack.retrievedAt,warning:pack.warning,stratagems:(rule.options||[]).filter(isStratagem)});
+ return [make(pack.army,'Army rule'),...pack.detachments.map(d=>make(d,'Detachment'))];
 }
 const cache=new Map<string,FactionRules>(),pending=new Map<string,Promise<FactionRules>>();
 export async function loadRuleCards(faction:string,refresh=false):Promise<FactionRules>{
