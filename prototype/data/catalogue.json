@@ -4018,6 +4018,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.521Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; ULTRAMARINES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.957Z"
+    },
     "image": {
       "url": "/images/units/d5b411d282850d1d2758.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/747958-thickbox_default/w40k-adeptus-astartes-space-marines-roboute-guilliman-5011921142569.jpg",
@@ -4027,12 +4033,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "d5b411d282850d1d2758369db43c90c6c296b7495abf1e425be5774c3bbadf32"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; ULTRAMARINES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.957Z"
     }
   },
   {
@@ -4259,6 +4259,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.532Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.959Z"
+    },
     "image": {
       "url": "/images/units/ac6f2ddb43a2282d407a.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/779902-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-ancient-5011921163076.jpg",
@@ -4268,12 +4274,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "ac6f2ddb43a2282d407a70704d0f11ad8b41558887e3b0e75c2b3730e9cc1510"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.959Z"
     }
   },
   {
@@ -4290,6 +4290,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.533Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.959Z"
+    },
     "image": {
       "url": "/images/units/d95140638fd06777fbcf.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/812472-thickbox_default/w40k-space-marines-doyen-en-armure-terminator-5011921248780.jpg",
@@ -4299,12 +4305,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "d95140638fd06777fbcf4aa9b468ffcee3e6a2bf65d1413ef847c17fe69dd33a"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.959Z"
     }
   },
   {
@@ -4321,6 +4321,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.534Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.960Z"
+    },
     "image": {
       "url": "/images/units/d34f25244efca5ddf2c0.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731150-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-apothecary-5011921999170.jpg",
@@ -4330,12 +4336,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "d34f25244efca5ddf2c03e1201b2b29d72b584db711aa4215238bd517188fc5b"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.960Z"
     }
   },
   {
@@ -4394,6 +4394,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.538Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.960Z"
+    },
     "image": {
       "url": "/images/units/b7a557e293bc4a8f134c.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731162-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-captain-5011921145980.jpg",
@@ -4403,12 +4409,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "b7a557e293bc4a8f134c666ecbdcbd40e155f6dadba5ddab99b6870693e00263"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.960Z"
     }
   },
   {
@@ -4425,6 +4425,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.539Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.961Z"
+    },
     "image": {
       "url": "/images/units/4844616703814fa10430.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/779873-thickbox_default/w40k-adeptus-astartes-space-marines-captain-in-gravis-armour-5011921163083.jpg",
@@ -4434,12 +4440,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "4844616703814fa10430519119e1f15726f9404b40658f4d1bd0bb755facb52d"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.961Z"
     }
   },
   {
@@ -4456,6 +4456,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.540Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.961Z"
+    },
     "image": {
       "url": "/images/units/15363f6810d34b57a9fb.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/779734-thickbox_default/w40k-adeptus-astartes-primaris-captain-en-armure-phobos-copie-5011921142101.jpg",
@@ -4465,12 +4471,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "15363f6810d34b57a9fbabd35054d666d543890622c54cf2727cc69c1c68af84"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.961Z"
     }
   },
   {
@@ -4487,6 +4487,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.541Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.961Z"
+    },
     "image": {
       "url": "/images/units/d30cb624b15fe4e93f21.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/613818-thickbox_default/w40k-adeptus-astartes-capitaine-en-armure-terminator-5011921201327.jpg",
@@ -4496,12 +4502,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "d30cb624b15fe4e93f2107e2d48aadce44dd6b3990ea46991bfbf8cf887cec73"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.961Z"
     }
   },
   {
@@ -4524,6 +4524,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.543Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.962Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/42299-large_default/warhammer-40k-space-marines-captain-with-jump-pack.jpg",
       "source": "https://www.ludifolie.com/17979-warhammer-40k-space-marines-captain-with-jump-pack.html",
@@ -4533,12 +4539,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/1f60adc0a3fe4528d306.jpg",
       "sha256": "1f60adc0a3fe4528d30673a94d1e897cb98d31924b51a1574b58335760530817"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.962Z"
     }
   },
   {
@@ -4555,6 +4555,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.544Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.962Z"
+    },
     "image": {
       "url": "/images/units/8aebf67818e5c65c8244.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731148-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-chaplain-5011921999156.jpg",
@@ -4564,12 +4570,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "8aebf67818e5c65c8244e9c1276a0d0632e1d0b064941e6227f194d85275f87b"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.962Z"
     }
   },
   {
@@ -4586,6 +4586,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.545Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.962Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/55457-large_default/warhammer-40k-space-marines-chaplain-in-terminator-armour.jpg",
       "source": "https://www.ludifolie.com/21776-warhammer-40k-space-marines-chaplain-in-terminator-armour.html",
@@ -4595,12 +4601,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/b7e6ed83783d873e060a.jpg",
       "sha256": "b7e6ed83783d873e060a8f8159bb588b5b5d3040e726f390c96aaadc22567478"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.962Z"
     }
   },
   {
@@ -4692,6 +4692,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.551Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.963Z"
+    },
     "image": {
       "url": "/images/units/973338c7a5651018de63.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/779738-thickbox_default/w40k-adeptus-astartes-primaris-librarian-en-armure-phobos-5011921142095.jpg",
@@ -4701,12 +4707,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "973338c7a5651018de637220dd882f58bc9d97c650e980acf72b164123a28bbc"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.963Z"
     }
   },
   {
@@ -4744,6 +4744,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.553Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.964Z"
+    },
     "image": {
       "url": "/images/units/d03ebb197b0483b92f8e.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/592435-thickbox_default/w40k-adeptus-astartes-lieutenant-space-marine-5011921177943.jpg",
@@ -4753,12 +4759,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "d03ebb197b0483b92f8e65fedeab7b57defbd6c8e15b767d8e60941ae06a1f68"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.964Z"
     }
   },
   {
@@ -5333,6 +5333,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.585Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.971Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/46467-large_default/warhammer-40k-space-marines-primaris-chaplain-on-bike.jpg",
       "source": "https://www.ludifolie.com/19272-warhammer-40k-space-marines-primaris-chaplain-on-bike.html",
@@ -5342,12 +5348,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/f0748e993412a3e3e0e7.jpg",
       "sha256": "f0748e993412a3e3e0e70e77f4eba2b77089a0b126d34045fe9e543baf4e3b99"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.971Z"
     }
   },
   {
@@ -5592,6 +5592,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.599Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.975Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/48550-large_default/warhammer-40k-space-marines-assault-intercessors.jpg",
       "source": "https://www.ludifolie.com/19876-warhammer-40k-space-marines-assault-intercessors.html",
@@ -5601,12 +5607,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/5259541f8858bb0f105f.jpg",
       "sha256": "5259541f8858bb0f105ffedede4306726fe4544c6f825ca5c039f1448f113115"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.975Z"
     }
   },
   {
@@ -5629,6 +5629,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.600Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.975Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/39346-large_default/w40k-space-marines-heavy-intercessors.jpg",
       "source": "https://www.ludifolie.com/17140-w40k-space-marines-heavy-intercessors.html",
@@ -5638,12 +5644,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/991c86e92eef4d45d470.jpg",
       "sha256": "991c86e92eef4d45d470c1f02a7b61965ba948f9feb8f52e193dc5e13bc9309f"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.975Z"
     }
   },
   {
@@ -5845,6 +5845,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.611Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.980Z"
+    },
     "image": {
       "url": "/images/units/e634a590fa7265c0d7c8.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/771385-thickbox_default/w40k-adeptus-astartes-modules-de-largage-5011921229154.jpg",
@@ -5854,12 +5860,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "e634a590fa7265c0d7c84b44c94aaaf955145214de8870bdaea6463f54484515"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.980Z"
     }
   },
   {
@@ -5882,6 +5882,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.612Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.981Z"
+    },
     "image": {
       "url": "/images/units/95c4d5fa621f9207b340.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/763168-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-impulsor-5011921142538.jpg",
@@ -5891,12 +5897,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "95c4d5fa621f9207b340834d5b2e2197b741c7586af54da45ccb547b03678e78"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.981Z"
     }
   },
   {
@@ -5919,6 +5919,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.613Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.981Z"
+    },
     "image": {
       "url": "/images/units/c6d28d4a7a15b4e2bc97.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/754011-thickbox_default/razorback-space-marine-5011921142484.jpg",
@@ -5928,12 +5934,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "c6d28d4a7a15b4e2bc97ae932139bf3400a88aadeb88dbf0e59be340ff4bb183"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.981Z"
     }
   },
   {
@@ -5956,6 +5956,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.614Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.981Z"
+    },
     "image": {
       "url": "/images/units/39e12f888876ecccf47b.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/754013-thickbox_default/razorback-space-marine-5011921142484.jpg",
@@ -5965,12 +5971,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "39e12f888876ecccf47b36237b6402745ac7948316285cd1ef16919fa53e63da"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.981Z"
     }
   },
   {
@@ -5993,6 +5993,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.615Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.982Z"
+    },
     "image": {
       "url": "/images/units/95c4d5fa621f9207b340.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/763168-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-impulsor-5011921142538.jpg",
@@ -6002,12 +6008,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "95c4d5fa621f9207b340834d5b2e2197b741c7586af54da45ccb547b03678e78"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.982Z"
     }
   },
   {
@@ -6087,6 +6087,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.618Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.987Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/46987-large_default/warhammer-40k-space-marines-stormhawk-interceptor.jpg",
       "source": "https://www.ludifolie.com/19437-warhammer-40k-space-marines-stormhawk-interceptor.html",
@@ -6096,12 +6102,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/25f3ba25e078be5bd939.jpg",
       "sha256": "25f3ba25e078be5bd939c56c40cf46c6044298c98081805a84104cd2de8781ac"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.987Z"
     }
   },
   {
@@ -6355,6 +6355,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.629Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.992Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/56540-large_default/warhammer-40k-space-marines-primaris-firestrike-servo-turret.jpg",
       "source": "https://www.ludifolie.com/22065-warhammer-40k-space-marines-primaris-firestrike-servo-turret.html",
@@ -6364,12 +6370,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/d835a850cf78fd56937b.jpg",
       "sha256": "d835a850cf78fd56937b84b3a72300cf43f6f56716790ad49430f0b8d1274700"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.992Z"
     }
   },
   {
@@ -6518,6 +6518,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.633Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.993Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/46995-large_default/warhammer-40k-space-marines-aggressor-squad.jpg",
       "source": "https://www.ludifolie.com/19439-warhammer-40k-space-marines-aggressor-squad.html",
@@ -6527,12 +6533,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/63cd147299a45c51e65b.jpg",
       "sha256": "63cd147299a45c51e65bb802a58065b597bd885a834b02f79bda7f2a8519a078"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.993Z"
     }
   },
   {
@@ -6591,6 +6591,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.634Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.993Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/40643-large_default/warhammer-40k-space-marines-jump-pack-intercessors.jpg",
       "source": "https://www.ludifolie.com/17499-warhammer-40k-space-marines-jump-pack-intercessors.html",
@@ -6600,12 +6606,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/200a126929656ad02230.jpg",
       "sha256": "200a126929656ad02230409bc30262554acb84cbd7f15cca614548c1b421f2dd"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.993Z"
     }
   },
   {
@@ -6820,6 +6820,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.647Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.996Z"
+    },
     "image": {
       "url": "/images/units/00f6824f5a135af12323.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/779723-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-eliminators-5011921142521.jpg",
@@ -6829,12 +6835,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "00f6824f5a135af12323fa41d3eef1c8684170e26b710ee00ef83807e444cf4b"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.996Z"
     }
   },
   {
@@ -6869,6 +6869,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.648Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.996Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/47093-large_default/warhammer-40k-space-marines-primaris-eradicators.jpg",
       "source": "https://www.ludifolie.com/19463-warhammer-40k-space-marines-primaris-eradicators.html",
@@ -6878,12 +6884,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/534bb5c9b800653e5d30.jpg",
       "sha256": "534bb5c9b800653e5d30a289f70be1b7e6ea72f39ac05bc00f55016665174230"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.996Z"
     }
   },
   {
@@ -6927,6 +6927,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.650Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.997Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/47090-large_default/warhammer-40k-space-marines-hellblasters.jpg",
       "source": "https://www.ludifolie.com/19462-warhammer-40k-space-marines-hellblasters.html",
@@ -6936,12 +6942,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/4fa0ca2513e32260bbda.jpg",
       "sha256": "4fa0ca2513e32260bbda47d5ddd09ad7b0641fc24199e06be215cb1b29ef4e55"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.997Z"
     }
   },
   {
@@ -6976,6 +6976,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.651Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.997Z"
+    },
     "image": {
       "url": "/images/units/500c24fee6aec82cc602.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/728683-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-inceptors-5011921142415.jpg",
@@ -6985,12 +6991,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "500c24fee6aec82cc602e9dc779da72e282a6bdd228fc0262445de2ed1687686"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.997Z"
     }
   },
   {
@@ -7052,6 +7052,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.653Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.998Z"
+    },
     "image": {
       "url": "/images/units/f5b51120d77a1fbcc7d8.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/613811-thickbox_default/w40k-adeptus-astartes-escouade-infernus-5011921200481.jpg",
@@ -7061,12 +7067,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "f5b51120d77a1fbcc7d809d83634a2f1113bcd700451e7a21084c6c865486232"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.998Z"
     }
   },
   {
@@ -7101,6 +7101,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.654Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.998Z"
+    },
     "image": {
       "url": "/images/units/fd71047b5826e8b742a7.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/723756-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-infiltrators-5011921142545.jpg",
@@ -7110,12 +7116,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "fd71047b5826e8b742a7176d41c2dffefb95e9bc8bf20980adb90a942c456e7e"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.998Z"
     }
   },
   {
@@ -7204,6 +7204,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.658Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.999Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/40877-large_default/warhammer-40k-space-marines-sternguard-veteran-squad.jpg",
       "source": "https://www.ludifolie.com/17561-warhammer-40k-space-marines-sternguard-veteran-squad.html",
@@ -7213,12 +7219,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/3c5c9c60a772f172062d.jpg",
       "sha256": "3c5c9c60a772f172062df50be5b7068e8752ae8a38acbaeeb8bfe415bf18d8dc"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.999Z"
     }
   },
   {
@@ -7262,6 +7262,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.659Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:10.999Z"
+    },
     "image": {
       "url": "/images/units/26e80ef46a758f542cc9.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/812476-thickbox_default/w40k-space-marines-scouade-d-assaut-terminator-5011921248773.jpg",
@@ -7271,12 +7277,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "26e80ef46a758f542cc95875b7cb14780732d9f2bcf3a5b27af10e0c36c83fe4"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:10.999Z"
     }
   },
   {
@@ -7299,6 +7299,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.661Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.000Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/45761-large_default/warhammer-40k-space-marines-terminator-squad.jpg",
       "source": "https://www.ludifolie.com/19060-warhammer-40k-space-marines-terminator-squad.html",
@@ -7308,12 +7314,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/7675a44eeace83eaf8fc.jpg",
       "sha256": "7675a44eeace83eaf8fc765e576a77be449f62980d26a2cd336c078580948836"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.000Z"
     }
   },
   {
@@ -7399,6 +7399,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.663Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.001Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/40877-large_default/warhammer-40k-space-marines-sternguard-veteran-squad.jpg",
       "source": "https://www.ludifolie.com/17561-warhammer-40k-space-marines-sternguard-veteran-squad.html",
@@ -7408,12 +7414,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/3c5c9c60a772f172062d.jpg",
       "sha256": "3c5c9c60a772f172062df50be5b7068e8752ae8a38acbaeeb8bfe415bf18d8dc"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.001Z"
     }
   },
   {
@@ -7499,6 +7499,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.666Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.002Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/45761-large_default/warhammer-40k-space-marines-terminator-squad.jpg",
       "source": "https://www.ludifolie.com/19060-warhammer-40k-space-marines-terminator-squad.html",
@@ -7508,12 +7514,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/7675a44eeace83eaf8fc.jpg",
       "sha256": "7675a44eeace83eaf8fc765e576a77be449f62980d26a2cd336c078580948836"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.002Z"
     }
   },
   {
@@ -7692,6 +7692,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.671Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; DARK ANGELS",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.004Z"
+    },
     "image": {
       "url": "/images/units/75d192fb1a345af9b986.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/614656-thickbox_default/w40k-adeptus-astartes-dark-angels-chevaliers-de-la-deathwing-5011921203697.jpg",
@@ -7701,12 +7707,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "75d192fb1a345af9b986b2c4f76b2c01ed83c72fc5829338aeb4d4e550f2489d"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; DARK ANGELS",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.004Z"
     }
   },
   {
@@ -8565,6 +8565,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.706Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.014Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/46983-large_default/warhammer-40k-space-marines-outriders.jpg",
       "source": "https://www.ludifolie.com/19436-warhammer-40k-space-marines-outriders.html",
@@ -8574,12 +8580,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/620599f267a37c047c3d.jpg",
       "sha256": "620599f267a37c047c3d65dcf84f187d1019a9168065c9efadb6dbd1dad100a5"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.014Z"
     }
   },
   {
@@ -8938,6 +8938,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.720Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.019Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/48076-large_default/warhammer-40k-space-marines-land-raider-crusader.jpg",
       "source": "https://www.ludifolie.com/19741-warhammer-40k-space-marines-land-raider-crusader.html",
@@ -8947,12 +8953,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/58d99fd9da944cf24647.jpg",
       "sha256": "58d99fd9da944cf246472c44b4fb8f85bf2c254a8b7d57761eeaabad038e9ea8"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.019Z"
     }
   },
   {
@@ -9002,6 +9002,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.722Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.020Z"
+    },
     "image": {
       "url": "/images/units/48749651a492e890cc7f.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731144-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-repulsor-5011921142408.jpg",
@@ -9011,12 +9017,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "48749651a492e890cc7fe5512aed0e706221be3c3408fe3ffc702d65d36698e5"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.020Z"
     }
   },
   {
@@ -9078,6 +9078,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.725Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.021Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/54961-large_default/warhammer-40k-space-marines-stormraven-gunship.jpg",
       "source": "https://www.ludifolie.com/21644-warhammer-40k-space-marines-stormraven-gunship.html",
@@ -9087,12 +9093,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/df625cdaf830a56c3282.jpg",
       "sha256": "df625cdaf830a56c32829035e801b8e4f9ebdbb39da24d23c2699e530a9ba58c"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.021Z"
     }
   },
   {
@@ -9142,6 +9142,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.727Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.021Z"
+    },
     "image": {
       "url": "/images/units/48749651a492e890cc7f.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731144-thickbox_default/w40k-adeptus-astartes-space-marines-primaris-repulsor-5011921142408.jpg",
@@ -9151,12 +9157,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "48749651a492e890cc7fe5512aed0e706221be3c3408fe3ffc702d65d36698e5"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.021Z"
     }
   },
   {
@@ -9470,6 +9470,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.739Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.024Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/46979-large_default/warhammer-40k-space-marines-gladiator.jpg",
       "source": "https://www.ludifolie.com/19435-warhammer-40k-space-marines-gladiator.html",
@@ -9479,12 +9485,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/e4567624617275dedd9f.jpg",
       "sha256": "e4567624617275dedd9f528fddf8b8f2a45b433da74b73882a687834554798a4"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.024Z"
     }
   },
   {
@@ -9582,6 +9582,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.743Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.025Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/52225-large_default/warhammer-40k-space-marines-storm-speeder.jpg",
       "source": "https://www.ludifolie.com/20883-warhammer-40k-space-marines-storm-speeder.html",
@@ -9591,12 +9597,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/74e7a6fcf7af01c8c24c.jpg",
       "sha256": "74e7a6fcf7af01c8c24c80a8a363e5ae1746fd56946939e3b46bd26530f6fa52"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.025Z"
     }
   },
   {
@@ -9781,6 +9781,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.748Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.026Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/46979-large_default/warhammer-40k-space-marines-gladiator.jpg",
       "source": "https://www.ludifolie.com/19435-warhammer-40k-space-marines-gladiator.html",
@@ -9790,12 +9796,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/e4567624617275dedd9f.jpg",
       "sha256": "e4567624617275dedd9f528fddf8b8f2a45b433da74b73882a687834554798a4"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES; BLACK TEMPLARS",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.026Z"
     }
   },
   {
@@ -10292,6 +10292,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.768Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.031Z"
+    },
     "image": {
       "url": "/images/units/c0b62ca5146a476af2c9.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/613807-thickbox_default/w40k-adeptus-astartes-dreadnought-ballistus-5011921200504.jpg",
@@ -10301,12 +10307,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "c0b62ca5146a476af2c901d22979dad0d7284823cbdf219b2faa1f725c814bee"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.031Z"
     }
   },
   {
@@ -10329,6 +10329,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.769Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.032Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/49861-large_default/warhammer-40k-space-marines-brutalis-dreadnought.jpg",
       "source": "https://www.ludifolie.com/20228-warhammer-40k-space-marines-brutalis-dreadnought.html",
@@ -10338,12 +10344,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/e59156bd0a95d542e3c2.jpg",
       "sha256": "e59156bd0a95d542e3c25b5319c95419fd316fe8078ec65d346bcdd42cbcfb87"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.032Z"
     }
   },
   {
@@ -10381,6 +10381,12 @@
       }
     ],
     "pointsRetrievedAt": "2026-09-11T18:54:19.771Z",
+    "nativeFaction": "Space Marines",
+    "factionKeywords": "ADEPTUS ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:42:11.032Z"
+    },
     "image": {
       "url": "/images/units/044fbbb51b045334aea8.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/779729-thickbox_default/w40k-adeptus-astartes-primaris-invictor-tactical-warsuit-5011921142552.jpg",
@@ -10390,12 +10396,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "044fbbb51b045334aea876f003495baa9167bdb23c31186fa8dee3fd87dcafe6"
-    },
-    "nativeFaction": "Space Marines",
-    "factionKeywords": "ADEPTUS ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:42:11.032Z"
     }
   },
   {
@@ -19683,6 +19683,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:42.993Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105140",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105140-3.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/2ce1c5f09dfee1b502f1.jpg",
+      "sha256": "2ce1c5f09dfee1b502f1ab8beff8a0c75ed8aed25d3779091958af6199b77941"
     }
   },
   {
@@ -19739,6 +19749,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:42.994Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105117-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105117-1-1.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/b6eb091e0bf9ef3ef12a.jpg",
+      "sha256": "b6eb091e0bf9ef3ef12a35162ca963454364422710377bf1ef69dcd53eb0e61b"
     }
   },
   {
@@ -19751,6 +19771,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:42.995Z"
+    },
+    "image": {
+      "source": "https://www.thewarp.co.uk/products/sly-marbo",
+      "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99810105030_SlyMarbo01.webp?v=1669924501",
+      "credit": "Games Workshop / The Warp",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/b118c39c48e1d41a3f8e.jpg",
+      "sha256": "b118c39c48e1d41a3f8ef50f25c7511e6acf5f9a7c8b54dd07b4bcb439b17309"
     }
   },
   {
@@ -19785,6 +19815,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:42.996Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99060105264",
+      "originalUrl": "https://miniset.net/files/set/gw-99060105264-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/945242c267d3865a5adc.jpg",
+      "sha256": "945242c267d3865a5adc7865bd112be8af678ccc0e1e6d2aa71506808c0201b2"
     }
   },
   {
@@ -19819,6 +19859,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.056Z"
+    },
+    "image": {
+      "source": "https://www.thegamestore.com/products/hells-last",
+      "originalUrl": "https://cdn.shopify.com/s/files/1/0865/3219/4588/files/warhammer-40k-astra-militarum-hells-last-content.webp?v=1741108674",
+      "credit": "Games Workshop / The Game Store",
+      "verifiedAt": "2026-09-23",
+      "background": "transparent",
+      "kind": "miniature",
+      "url": "/images/units/f43b5ecc68ca99522abd.png",
+      "sha256": "f43b5ecc68ca99522abde216e2faa703043d15f7399b4ef3c9bbb6722077dd10"
     }
   },
   {
@@ -19831,6 +19881,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.057Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105122",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105122-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/2f777d62cc3928711914.jpg",
+      "sha256": "2f777d62cc392871191462c83837d4aea6ad51c83c011d5fe3d4da5ae607b30e"
     }
   },
   {
@@ -19843,6 +19903,17 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.057Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-60010699015",
+      "originalUrl": "https://miniset.net/files/set/gw-60010699015-9.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/1a11e1d500f91fb86018.jpg",
+      "sha256": "1a11e1d500f91fb860187367eedd1c73151ef3dee796da39b9798f8c6280996b",
+      "caption": "Rein, sniper member of the two-model Rein and Raus unit."
     }
   },
   {
@@ -19855,6 +19926,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.058Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99060105265",
+      "originalUrl": "https://miniset.net/files/set/gw-99060105265-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/4571d103e7f9fc694dfe.jpg",
+      "sha256": "4571d103e7f9fc694dfe56632623fd8717e0e6c84056c07d7049cc72a9c36d0c"
     }
   },
   {
@@ -19979,6 +20060,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.068Z"
+    },
+    "image": {
+      "source": "https://www.thewarp.co.uk/products/catachan-command-squad",
+      "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/files/99120105037_CatachanCommandSquadNEW01.jpg?v=1710946419",
+      "credit": "Games Workshop / The Warp",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/b5fcc8d084c7931a77b4.jpg",
+      "sha256": "b5fcc8d084c7931a77b4ebad6bcc806045867e8b28e11ab26c9f6359189eb307"
     }
   },
   {
@@ -20035,6 +20126,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.078Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105055-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105055-1-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/5080c7efc7d9afd7f132.jpg",
+      "sha256": "5080c7efc7d9afd7f1327e157b38c7aa8db5bfb6ba9b3a75e3a750e944890c3d"
     }
   },
   {
@@ -20047,6 +20148,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.080Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99070108011",
+      "originalUrl": "https://miniset.net/files/set/gw-99070108011-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/9401743120b3c0bf13bf.jpg",
+      "sha256": "9401743120b3c0bf13bf406793f5ea9d3bf664050fe2c8a191f33ef3f4da8ef0"
     }
   },
   {
@@ -20059,6 +20170,17 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.081Z"
+    },
+    "image": {
+      "source": "https://battlegroundhobbies.blogspot.com/2014/04/new-release-militarum-auxilla-bullgryns.html",
+      "originalUrl": "https://4.bp.blogspot.com/-0fc1UzeDvDE/U1XgyGGCAhI/AAAAAAAAFBY/o-5bUQs5VIU/s1600/bullgryn-bone-ead-02.jpg",
+      "credit": "Games Workshop / Battleground Hobbies",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/4fabae3f3537528a2183.jpg",
+      "sha256": "4fabae3f3537528a21831d8db6d5dc4217514747940c42b30d14dc69e87b9236",
+      "caption": "Ogryn kit: grenadier gauntlet and slabshield build."
     }
   },
   {
@@ -20116,6 +20238,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.085Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99550105208",
+      "originalUrl": "https://miniset.net/files/set/gw-99550105208-0.jpg",
+      "credit": "Forge World / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/b783d9fac9ba6a5dc929.jpg",
+      "sha256": "b783d9fac9ba6a5dc929b098d0e5683941536d2636f9996f26bcc1c959894dc1"
     }
   },
   {
@@ -20128,6 +20260,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.085Z"
+    },
+    "image": {
+      "source": "https://www.evil-games-shop.de/epages/78108884.sf/en_US/?ObjectPath=/Shops/78108884/Products/995901052886",
+      "originalUrl": "https://www.evil-games-shop.de/WebRoot/Store15/Shops/78108884/5E57/D42A/15CA/CF0C/BB07/0A0C/6D0F/CCDD/Death_rider_Commissar.png",
+      "credit": "Forge World / Evil Games Shop",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/5a45aff111648fd1e3a7.png",
+      "sha256": "5a45aff111648fd1e3a7483a37f8843aa9156f8c4a8c020eb0003b7db9af90d0"
     }
   },
   {
@@ -20140,6 +20282,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.087Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105048",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105048-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a3cbe558d83dd36eba18.jpg",
+      "sha256": "a3cbe558d83dd36eba18005d0ace7c7d4aa221b4afba1385d482f6be1f150672"
     }
   },
   {
@@ -20152,6 +20304,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.089Z"
+    },
+    "image": {
+      "source": "https://www.ludifolie.com/15789-w40k-astra-militarum-rogal-dorn-battle-tank.html",
+      "originalUrl": "https://www.ludifolie.com/34659-large_default/w40k-astra-militarum-rogal-dorn-battle-tank.jpg",
+      "credit": "Games Workshop / Ludifolie",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/bde608fb4a55777a4148.jpg",
+      "sha256": "bde608fb4a55777a414870394f32079af02c827eddc454bba5f3ed59c40a0f09"
     }
   },
   {
@@ -20187,6 +20349,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.091Z"
+    },
+    "image": {
+      "source": "https://www.thewarp.co.uk/products/catachan-jungle-fighters",
+      "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99120105040_JungleFightersNEW_01.webp?v=1669924702",
+      "credit": "Games Workshop / The Warp",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/6abba5b748d56750fe5d.jpg",
+      "sha256": "6abba5b748d56750fe5ddbb684dfb82d322c38f01a368080d2e698e3e2f430cc"
     }
   },
   {
@@ -20266,6 +20438,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.094Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105054-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105054-1-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/e1aac6a36a83b56be0e1.jpg",
+      "sha256": "e1aac6a36a83b56be0e1e6fa7bf3978565481f9f199eec73cfd6451b1bd6feec"
     }
   },
   {
@@ -20301,6 +20483,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.096Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99550105293",
+      "originalUrl": "https://miniset.net/files/set/gw-99550105293-2.jpg",
+      "credit": "Forge World / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a85a4c730a595765b550.jpg",
+      "sha256": "a85a4c730a595765b550ea25a814d64bbf728f781b0565fde468ff8bfb0d7b1a"
     }
   },
   {
@@ -20313,6 +20505,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.097Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863008089",
+      "originalUrl": "https://miniset.net/files/set/gw-99863008089-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/3fb745915f610c99111e.jpg",
+      "sha256": "3fb745915f610c99111ec3d3f07fdaab9d512ae0fd22cbdbe31f85deeec133cf"
     }
   },
   {
@@ -20325,6 +20527,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.097Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863008015",
+      "originalUrl": "https://miniset.net/files/set/gw-99863008015-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/ed8b5b27d5f112472cf5.jpg",
+      "sha256": "ed8b5b27d5f112472cf5ab0247f65f514af6d947d11bb424f59e4775a9b07908"
     }
   },
   {
@@ -20337,6 +20549,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.098Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863008016",
+      "originalUrl": "https://miniset.net/files/set/gw-99863008016-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/d7f95628f647b795686a.jpg",
+      "sha256": "d7f95628f647b795686a31b39d3ffadc656c3b3c6aa656d174c3be191c3f47a3"
     }
   },
   {
@@ -20349,6 +20571,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.098Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863008090",
+      "originalUrl": "https://miniset.net/files/set/gw-99863008090-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/ff98cd60cea37a7ea8f0.jpg",
+      "sha256": "ff98cd60cea37a7ea8f0fb7e4b0e8cfe1ee20db3d48a19467b515d189314dc89"
     }
   },
   {
@@ -20384,6 +20616,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.099Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105049-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105049-1-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/0aecdf16f8898e075836.jpg",
+      "sha256": "0aecdf16f8898e0758363ba44eec69286b006b5aa156b120987dd9c1ceb914f3"
     }
   },
   {
@@ -20396,6 +20638,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.100Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105049",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105049-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/ba66eb709346c2e74b5b.jpg",
+      "sha256": "ba66eb709346c2e74b5bb4dcd2e49b7a1dfccfa17cbfb28c60c50554e0ab2a39"
     }
   },
   {
@@ -20408,6 +20660,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.101Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105115",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105115-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/1b32e91a17f1c12bbb42.jpg",
+      "sha256": "1b32e91a17f1c12bbb421a0f04111a6d83e2865dfab0011a0c53b91e13abbbda"
     }
   },
   {
@@ -20420,6 +20682,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.101Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105110",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105110-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/55eed3948a91f20d4835.jpg",
+      "sha256": "55eed3948a91f20d4835e8be5e3c1e9066f790ce8148068fe5ac8d9a242f5a94"
     }
   },
   {
@@ -20432,6 +20704,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.102Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105180",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105180-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c3fa76b4c9354c843bf0.jpg",
+      "sha256": "c3fa76b4c9354c843bf009b529deaaee3be67436af82884d4c4208db2a1affd0"
     }
   },
   {
@@ -20444,6 +20726,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.102Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105284",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105284-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/f2bd2486e830d6974073.jpg",
+      "sha256": "f2bd2486e830d697407376d76bf501b9853193eae6f34aec68a3d444b7a07e7f"
     }
   },
   {
@@ -20478,6 +20770,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.104Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105053-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105053-1-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/3e779ea58f1dd2ebbe15.jpg",
+      "sha256": "3e779ea58f1dd2ebbe156578057b254fcc63d1241e66572a50b4f7da578084a8"
     }
   },
   {
@@ -20490,6 +20792,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.104Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105097",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105097-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/46baefb492316b67518f.jpg",
+      "sha256": "46baefb492316b67518f05d59f0cabceac73caf2f689dfb69a969f7e1ae4fcef"
     }
   },
   {
@@ -20502,6 +20814,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.105Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105153",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105153-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c44092ccf12d4ef30b38.jpg",
+      "sha256": "c44092ccf12d4ef30b38f744f884a14034ef813700535ece68cf9dc1e65bde42"
     }
   },
   {
@@ -20514,6 +20836,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.106Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105014",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105014-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/865a28fd95663538de28.jpg",
+      "sha256": "865a28fd95663538de28bc0753cd44fdd0b11b50b85595c7d15a8d819cad74b7"
     }
   },
   {
@@ -20616,6 +20948,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.109Z"
+    },
+    "image": {
+      "source": "https://www.thewarp.co.uk/products/ogryns",
+      "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99120105077_AMBullgrynOgryns01.webp?v=1737539881",
+      "credit": "Games Workshop / The Warp",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/e2ffb2c08e18c19d9d26.jpg",
+      "sha256": "e2ffb2c08e18c19d9d26f5d662cd67533d5814c05639e6c624e351a8c8cc849e"
     }
   },
   {
@@ -20628,6 +20970,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.110Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105132",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105132-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/dc911c5d0efab62b545b.jpg",
+      "sha256": "dc911c5d0efab62b545b246cd64961d11db6a01e4de2316f9347c29f99e2a22e"
     }
   },
   {
@@ -20640,6 +20992,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.111Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105123",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105123-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/d326d8091981f9a97515.jpg",
+      "sha256": "d326d8091981f9a97515503be75d295c4bde01d3d734a2706652d5d964610c48"
     }
   },
   {
@@ -20652,6 +21014,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.111Z"
+    },
+    "image": {
+      "source": "https://www.thewarp.co.uk/products/militarum-tempestus-scions",
+      "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99120105055_TempestusScions01.webp?v=1737539645",
+      "credit": "Games Workshop / The Warp",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a6115c6235990d2ca00d.jpg",
+      "sha256": "a6115c6235990d2ca00d20796d266a457e914ec9471ba7abd1c76b425fcef189"
     }
   },
   {
@@ -20664,6 +21036,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.112Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99550105047",
+      "originalUrl": "https://miniset.net/files/set/gw-99550105047-0.jpg",
+      "credit": "Forge World / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/6188192004b7f33c8eb4.jpg",
+      "sha256": "6188192004b7f33c8eb4196bf9ffbc7aec8f3d44faaa123ee861cd4a7e2e50fd"
     }
   },
   {
@@ -20676,6 +21058,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.112Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005325",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005325-0.jpg",
+      "url": "/images/units/e1b9cfa0acd191f403f8.jpg",
+      "sha256": "e1b9cfa0acd191f403f850209117880d085cb3d41341a427c1f2d4e491698f0d",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20688,6 +21080,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.113Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105064",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105064-0.jpg",
+      "credit": "Forge World / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/6a1900457ee9d3a24f58.jpg",
+      "sha256": "6a1900457ee9d3a24f58f50a44395426e9f7005c95dd91dd8f418a992d885731"
     }
   },
   {
@@ -20700,6 +21102,17 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.113Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99020187314",
+      "originalUrl": "https://miniset.net/files/set/gw-99020187314-0.jpg",
+      "url": "/images/units/206a77bb0e8d5f03eaa1.jpg",
+      "sha256": "206a77bb0e8d5f03eaa17d1d67ff8761b18c2c07aab4e07dab8635f38d91630e",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23",
+      "caption": "Battery shown with several assembled teams."
     }
   },
   {
@@ -20712,6 +21125,17 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.114Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99020187315",
+      "originalUrl": "https://miniset.net/files/set/gw-99020187315-0.jpg",
+      "url": "/images/units/fadbcede63bb8ba01f5e.jpg",
+      "sha256": "fadbcede63bb8ba01f5e764be28c371d32ea5b0005400730a6867381365e4147",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23",
+      "caption": "Battery shown with several assembled teams."
     }
   },
   {
@@ -20724,6 +21148,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.114Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005326",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005326-0.jpg",
+      "url": "/images/units/31c0d033972393e2798f.jpg",
+      "sha256": "31c0d033972393e2798fc0bc2d7bb8fef0b2db3c10c60ea56e62384dc0890674",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20736,6 +21170,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.114Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99800107020",
+      "originalUrl": "https://miniset.net/files/set/gw-99800107020-0.jpg",
+      "url": "/images/units/f863852df3ec8c9b4d63.jpg",
+      "sha256": "f863852df3ec8c9b4d632d9658364965b2dc62ac20f81318466a68b306266aa6",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20748,6 +21192,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.115Z"
+    },
+    "image": {
+      "source": "https://buildinstructions.com/pdf-downloads/2013-Forge-World-Catalogue-Second-Edition.pdf#page=9",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105358-0.jpg",
+      "url": "/images/units/e24e2048dd93afbc79cd.jpg",
+      "sha256": "e24e2048dd93afbc79cd3f21cb131abd3d8fdfeaf0967958f0eefdaead4c03b9",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20760,6 +21214,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.115Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99060105263",
+      "originalUrl": "https://miniset.net/files/set/gw-99060105263-0.jpg",
+      "url": "/images/units/7662758eab2de585ee35.jpg",
+      "sha256": "7662758eab2de585ee352eced33b3a95464ca9015784e66ba08ac0f2616310c8",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20816,6 +21280,17 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.117Z"
+    },
+    "image": {
+      "url": "/images/units/4c1371673c52370f235d.png",
+      "sha256": "4c1371673c52370f235d706b54f57d4a3c9858d1a5b9db19ef425f1abd394017",
+      "source": "https://buildinstructions.com/pdf-downloads/2005-Forge-World-Catalogue-May-Supplement.pdf#page=2",
+      "originalUrl": "https://buildinstructions.com/pdf-downloads/2005-Forge-World-Catalogue-May-Supplement.pdf",
+      "credit": "Forge World catalogue, May 2005",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23",
+      "caption": "Archived catalogue photograph of an assembled Mukaali Rough Rider; greyscale."
     }
   },
   {
@@ -20828,6 +21303,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.118Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105315",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105315-0.jpg",
+      "url": "/images/units/5426cd6ea1ed1a143205.jpg",
+      "sha256": "5426cd6ea1ed1a143205dc224fc7d528d6d95f6f4fc7533e0ff037cd13bc404a",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20840,6 +21325,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.118Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105290",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105290-0.jpg",
+      "url": "/images/units/4ce15ea06772279e7816.jpg",
+      "sha256": "4ce15ea06772279e78168b42a70fe791dca4f727dd722bca0d44ec24d3c5e791",
+      "credit": "Games Workshop / Forge World; archived by Miniset",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-23"
     }
   },
   {
@@ -20874,6 +21369,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.119Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-1-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/7e509de6fa74b3501426.jpg",
+      "sha256": "7e509de6fa74b3501426915cb9dfa8760ea17014999e4870cab7fdedfbb7af71"
     }
   },
   {
@@ -20886,6 +21391,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.120Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-2",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-2-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/db88f908329f294f76d2.jpg",
+      "sha256": "db88f908329f294f76d2d41cfd3aeac4e12f38e2140ef14d25a45e83083b5079"
     }
   },
   {
@@ -20898,6 +21413,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.120Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-3",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-3-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/f17508410a2c20fe5480.jpg",
+      "sha256": "f17508410a2c20fe5480565b08c1b7c51c3bc495478c990a1ade68bff24cd2da"
     }
   },
   {
@@ -20910,6 +21435,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.121Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-4",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-4-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/6746babceb7b22ece7e5.jpg",
+      "sha256": "6746babceb7b22ece7e5395194e68a1ef17cbecb97764abbb42000750912112a"
     }
   },
   {
@@ -20922,6 +21457,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.122Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-5",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-5-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/162fad1da1d0e1906e5d.jpg",
+      "sha256": "162fad1da1d0e1906e5d0d4fecce78c712e3db164924bc3a9fe8cd6d8c497271"
     }
   },
   {
@@ -20934,6 +21479,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.123Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-6",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-6-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/aec7d3a2cc3bd4ddfb4f.jpg",
+      "sha256": "aec7d3a2cc3bd4ddfb4fe90a60e0e472b9bf8c2d0995cce401fedcb44756313b"
     }
   },
   {
@@ -20946,6 +21501,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.124Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105107-7",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105107-7-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/74ca3ad075dc64041db8.jpg",
+      "sha256": "74ca3ad075dc64041db81ad0dfdf5bf7ebbb5cd82f42156c2044e784111727a3"
     }
   },
   {
@@ -20958,6 +21523,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.124Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005385",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005385-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/e7a759f8387efe149bcf.jpg",
+      "sha256": "e7a759f8387efe149bcf65517b87ffd358280dee3ae6b4c2fa58dd05724fdd92"
     }
   },
   {
@@ -20982,6 +21557,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.126Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105394",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105394-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/aaf7043e4d80606d68e9.jpg",
+      "sha256": "aaf7043e4d80606d68e9cd88aba828ebffb50b9a2020f7bc1c17653c3e94d1ec"
     }
   },
   {
@@ -20994,6 +21579,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.127Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105318",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105318-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/d2e72970a1931e76b27c.jpg",
+      "sha256": "d2e72970a1931e76b27ca135134a231713b040f01678197987e0d4702fd4eb9c"
     }
   },
   {
@@ -21006,6 +21601,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.128Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105357",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105357-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/85bd3806bb2d06418fb2.jpg",
+      "sha256": "85bd3806bb2d06418fb20d3fb88250ba2194a002b1f15be177fca53b5a256631"
     }
   },
   {
@@ -21018,6 +21623,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.128Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105319",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105319-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/4b8bdbbea47a0eee2513.jpg",
+      "sha256": "4b8bdbbea47a0eee25135b50aa8131f1d76bd64da5c0630ce689c645d28f9cbc"
     }
   },
   {
@@ -21030,6 +21645,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.129Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105320",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105320-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a9289b2f078e9d5ea28d.jpg",
+      "sha256": "a9289b2f078e9d5ea28d082455328561b162936939bc2770b35c073c7e331544"
     }
   },
   {
@@ -21042,6 +21667,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.130Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105328",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105328-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/fd8d15dd06ec2169ac0e.jpg",
+      "sha256": "fd8d15dd06ec2169ac0e5acb228912edfad9f3d0b8e745a38fc5ec97428a6701"
     }
   },
   {
@@ -21054,6 +21689,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.131Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005287",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005287-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/f7ce2ab9c75c443a9957.jpg",
+      "sha256": "f7ce2ab9c75c443a9957c0390e01a227a5818a619cc80c8f4ca077e627752076"
     }
   },
   {
@@ -21088,6 +21733,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.132Z"
+    },
+    "image": {
+      "source": "https://wh40k.lexicanum.com/wiki/File:Aquila_Lander.jpg",
+      "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/f/f6/Aquila_Lander.jpg",
+      "credit": "Games Workshop / Forge World; model painted by George Dellapina, crew by Chris Straw; archived via Lexicanum",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/4cb0ef10084e5448d4ae.jpg",
+      "sha256": "4cb0ef10084e5448d4ae68932e4da96dcc4578d1cc56bf052cc9104bd75e52f1"
     }
   },
   {
@@ -21100,6 +21755,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.132Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863008233",
+      "originalUrl": "https://miniset.net/files/set/gw-99863008233-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/5fe49701cb51ac8e5216.jpg",
+      "sha256": "5fe49701cb51ac8e521628ebb28e13efdd8184ac33d20e030d4cf5e9d6c5aeb0"
     }
   },
   {
@@ -21112,6 +21777,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.132Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105234",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105234-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/204c7f8b9a858241dd00.jpg",
+      "sha256": "204c7f8b9a858241dd0080bc1754a5b2ec1576debb9d5bffd4586e521fe78023"
     }
   },
   {
@@ -21124,6 +21799,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.133Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105355",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105355-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/991eef3f184dcd932ee4.jpg",
+      "sha256": "991eef3f184dcd932ee4ea9b24b40277a08ceb3275701b32de14566b5a6eac29"
     }
   },
   {
@@ -21136,6 +21821,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.133Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860108082",
+      "originalUrl": "https://miniset.net/files/set/gw-99860108082-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/6078867dff18db873669.jpg",
+      "sha256": "6078867dff18db873669d41c55dd7fcda591e24789cddc7c23c50fe022347f1c"
     }
   },
   {
@@ -21148,6 +21843,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.133Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99550108079",
+      "originalUrl": "https://miniset.net/files/set/gw-99550108079-1.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/284c57cbf18be6975aa5.jpg",
+      "sha256": "284c57cbf18be6975aa501245fe43cf94083f814043606abdb8af808632639f7"
     }
   },
   {
@@ -21160,6 +21865,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.134Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105044",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105044-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c14add491c4ac53f6688.jpg",
+      "sha256": "c14add491c4ac53f6688ae5e2460ae0aef06327c9169b3d10d03b16600141614"
     }
   },
   {
@@ -21194,6 +21909,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.135Z"
+    },
+    "image": {
+      "source": "https://www.boardgamesdallas.com/products/w40k-ami-hydra",
+      "originalUrl": "https://www.boardgamesdallas.com/cdn/shop/files/99120105115_AMHydra1.jpg?v=1728586122",
+      "credit": "Games Workshop / Common Ground Games",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/952ff74ab07cd33dbb81.jpg",
+      "sha256": "952ff74ab07cd33dbb8111bca39a1acbbc0a4904cdaec955d535ea6c3d44b772"
     }
   },
   {
@@ -21206,6 +21931,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.135Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105048",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105048-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a3cbe558d83dd36eba18.jpg",
+      "sha256": "a3cbe558d83dd36eba18005d0ace7c7d4aa221b4afba1385d482f6be1f150672"
     }
   },
   {
@@ -21240,6 +21975,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.137Z"
+    },
+    "image": {
+      "source": "https://thetrolltrader.com/products/leman-russ-eradicator-16",
+      "originalUrl": "https://thetrolltrader.com/cdn/shop/products/DSC07839_2cb20a96-fc2b-42b2-8810-62487654f441.jpg?v=1682001961",
+      "credit": "Games Workshop miniature / The Troll Trader photography",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/e7eee7ff4656dadd90fa.jpg",
+      "sha256": "e7eee7ff4656dadd90fa77401f2084d0a394fdc278cdd6c304b999ec734141ed"
     }
   },
   {
@@ -21252,6 +21997,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.137Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105045",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105045-1.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/b06b220ab2803f375120.jpg",
+      "sha256": "b06b220ab2803f375120c88774c790aa3f888ba969c1fbf1a2109634596c8b86"
     }
   },
   {
@@ -21264,6 +22019,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.138Z"
+    },
+    "image": {
+      "source": "https://thetrolltrader.com/products/leman-russ-exterminator-28",
+      "originalUrl": "https://thetrolltrader.com/cdn/shop/files/DSC00643_398e4ac9-3391-4d50-8f8e-5a65a6773acd.jpg?v=1703151808",
+      "credit": "Games Workshop miniature / The Troll Trader photography",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/ae3e8e20f7c9c378875a.jpg",
+      "sha256": "ae3e8e20f7c9c378875aabf9c23295f0a3aa3bbb8c387a7e41f57d947c274323"
     }
   },
   {
@@ -21276,6 +22041,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.140Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105045",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105045-2.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/563d1f0466c4582b40a4.jpg",
+      "sha256": "563d1f0466c4582b40a4d44e106971185468dd0975f4d046b734292246b7970a"
     }
   },
   {
@@ -21288,6 +22063,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.140Z"
+    },
+    "image": {
+      "source": "https://thetrolltrader.com/products/leman-russ-vanquisher-63",
+      "originalUrl": "https://thetrolltrader.com/cdn/shop/files/DSC06986_b67dc582-1c57-4db1-8419-3e7b0365c9bd.jpg?v=1712932511",
+      "credit": "Games Workshop miniature / The Troll Trader photography",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/eb1acabba451c11e4952.jpg",
+      "sha256": "eb1acabba451c11e49522c1f76d7c93f13257b4d4babf222559dab1bc28e89da"
     }
   },
   {
@@ -21322,6 +22107,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.141Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99853005103",
+      "originalUrl": "https://miniset.net/files/set/gw-99853005103-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/f74e4675dd6083574340.jpg",
+      "sha256": "f74e4675dd6083574340bbca065f4bc69d7ac052ff4e6824db6644643fa939d1"
     }
   },
   {
@@ -21334,6 +22129,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.141Z"
+    },
+    "image": {
+      "source": "https://wh40k.lexicanum.com/wiki/File:AtlasRecTank.jpg",
+      "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/8/83/AtlasRecTank.jpg",
+      "credit": "Games Workshop / Forge World; model painted by Tony Cottrell; archived via Lexicanum",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/36078b2c3d1c230010a5.jpg",
+      "sha256": "36078b2c3d1c230010a523991200cf00b3bb0fca38c6262acdbcbab7a1ac231c"
     }
   },
   {
@@ -21346,6 +22151,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.141Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005398",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005398-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/0767ba31e00836798b61.jpg",
+      "sha256": "0767ba31e00836798b612efb3fa56ca719ef4f93661fe434ec206b0e16752930"
     }
   },
   {
@@ -21358,6 +22173,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.141Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005313",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005313-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c09b1ad25c2a651c41f7.jpg",
+      "sha256": "c09b1ad25c2a651c41f73afad9078844f9d2f7983246e5669ab7491018e0d2ab"
     }
   },
   {
@@ -21370,6 +22195,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.142Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105285",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105285-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c3ca46103f650298afb4.jpg",
+      "sha256": "c3ca46103f650298afb4fa80c09bd39a311d75aac72faf9208a9a6ce19d16b46"
     }
   },
   {
@@ -21382,6 +22217,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.142Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105316",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105316-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/bcca5123177fa9ad56be.jpg",
+      "sha256": "bcca5123177fa9ad56be6bae4f72d994fcd1be7a059c1611ac58674f7473e8a1"
     }
   },
   {
@@ -21394,6 +22239,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.142Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105317",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105317-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a467f54dd8fc9c40d5b1.jpg",
+      "sha256": "a467f54dd8fc9c40d5b1d1965f91c671f0bc9f938b6d55ef0c57134a6d937320"
     }
   },
   {
@@ -21406,6 +22261,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.143Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105216",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105216-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/8d6308ffaaff8d73f5fe.jpg",
+      "sha256": "8d6308ffaaff8d73f5fe0aa5a9e5bfd8480a5c1eca99a251e91a0a82041f7888"
     }
   },
   {
@@ -21418,6 +22283,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.143Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99863005349",
+      "originalUrl": "https://miniset.net/files/set/gw-99863005349-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/13a48e71663d42f0cf7c.jpg",
+      "sha256": "13a48e71663d42f0cf7cc8249cc12cc91e67d9e409f4e89883ed395983a4f695"
     }
   },
   {
@@ -21430,6 +22305,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.143Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99860105356",
+      "originalUrl": "https://miniset.net/files/set/gw-99860105356-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/9ddf86a334f2e475c809.jpg",
+      "sha256": "9ddf86a334f2e475c80911e5f3fb3b4f474b9dbcd810e8454249102421ab3e66"
     }
   },
   {
@@ -21442,6 +22327,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.144Z"
+    },
+    "image": {
+      "source": "https://wh40k.lexicanum.com/wiki/File:SalaCom.jpg",
+      "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/9/91/SalaCom.jpg",
+      "credit": "Games Workshop / Forge World; model painted by Tony Cottrell; archived via Lexicanum",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/789d7bd2366897e1b03a.jpg",
+      "sha256": "789d7bd2366897e1b03a4f3d5161544e22d4ce110b13303ef48a823e3220724a"
     }
   },
   {
@@ -21454,6 +22349,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.144Z"
+    },
+    "image": {
+      "source": "https://wh40k.lexicanum.com/wiki/File:SalaSco.jpg",
+      "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/f/f3/SalaSco.jpg",
+      "credit": "Games Workshop / Forge World; model painted by Tony Cottrell; archived via Lexicanum",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a0207661e882f1abc450.jpg",
+      "sha256": "a0207661e882f1abc4504529ca468fafef287693ad20b33595a77809f993eccc"
     }
   },
   {
@@ -21466,6 +22371,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.145Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105340",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105340-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/2dd2d251bb27622294b2.jpg",
+      "sha256": "2dd2d251bb27622294b2c49cd52d2425cd29d8d21cb695512f282a58c5bb2e2e"
     }
   },
   {
@@ -21478,6 +22393,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.145Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99853005097",
+      "originalUrl": "https://miniset.net/files/set/gw-99853005097-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/aae1743a48d67ee9b5ef.jpg",
+      "sha256": "aae1743a48d67ee9b5efd4210c0e8d64754e1d263018a8fd28de07a3bd9aafce"
     }
   },
   {
@@ -21490,6 +22415,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.145Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105347",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105347-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/cbcc8f3ff2bd3d09af8c.jpg",
+      "sha256": "cbcc8f3ff2bd3d09af8c2491285dc98088a1e7bfd49b46572d25524e315edbcf"
     }
   },
   {
@@ -21502,6 +22437,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.146Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590108078",
+      "originalUrl": "https://miniset.net/files/set/gw-99590108078-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/d5bc470308a773af4ef6.jpg",
+      "sha256": "d5bc470308a773af4ef6260e36b4ad61e3bf193364045b57708da50df8387568"
     }
   },
   {
@@ -21514,6 +22459,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.146Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105103",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105103-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/9f1673a4e2154d26b28d.jpg",
+      "sha256": "9f1673a4e2154d26b28d6be69f32c0db09b0b10f55c117dd38043449218312fc"
     }
   },
   {
@@ -21526,6 +22481,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.147Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99120105103-1",
+      "originalUrl": "https://miniset.net/files/set/gw-99120105103-1-0.jpg",
+      "credit": "Games Workshop / Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/27026683e3aa77c53323.jpg",
+      "sha256": "27026683e3aa77c533237dde96b18e01579b45dd181d07997e5a2d6fd69b74fe"
     }
   },
   {
@@ -21538,6 +22503,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.147Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105265",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105265-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/f73e8ea21233cfbef579.jpg",
+      "sha256": "f73e8ea21233cfbef5790e0824653b477e423e9059da00a008caac9e2eb5e114"
     }
   },
   {
@@ -21550,6 +22525,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.147Z"
+    },
+    "image": {
+      "source": "https://wh40k.lexicanum.com/wiki/File:SentinelPowerlifter.jpg",
+      "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/3/3d/SentinelPowerlifter.jpg",
+      "credit": "Games Workshop / Forge World; original miniature photo archived via Lexicanum",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c819d23875e15ca603ed.jpg",
+      "sha256": "c819d23875e15ca603edec23f7ef226029d66d3f34b52e1a869f6e299c52bc04"
     }
   },
   {
@@ -21562,6 +22547,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.148Z"
+    },
+    "image": {
+      "source": "https://www.goldengoblingames.com/shop/warhammer-40k-astra-militarum-aegis-defence-line-14770",
+      "originalUrl": "https://www.goldengoblingames.com/web/image/product.product/14770/image_1920?unique=ea10aaf",
+      "credit": "Games Workshop / Golden Goblin Games",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/37a62b2d892168a98495.jpg",
+      "sha256": "37a62b2d892168a98495f083d14d3e4875f798b233527d8117d7853875702542"
     }
   },
   {
@@ -21574,6 +22569,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.148Z"
+    },
+    "image": {
+      "source": "https://cowlevel.net/article/2037278",
+      "originalUrl": "https://pic1.cdncl.net/user/CodeRachel/common_pic/47652ef120d45a7ada0e1288cc0e94bf.jpg",
+      "credit": "Games Workshop / Forge World; archived miniature photograph reproduced by CodeRachel on Cowlevel",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/c7012e97b0ab6a3a450f.jpg",
+      "sha256": "c7012e97b0ab6a3a450ffd6d6c29c3ca6f59cd322e1dd96cb722d9b3970786eb"
     }
   },
   {
@@ -21586,6 +22591,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.148Z"
+    },
+    "image": {
+      "source": "https://cowlevel.net/article/2037278",
+      "originalUrl": "https://pic1.cdncl.net/user/CodeRachel/common_pic/54cf089a38573fa9d49ded0f728949c9.jpg",
+      "credit": "Games Workshop / Forge World; archived miniature photograph reproduced by CodeRachel on Cowlevel",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/a114d8c56f23ba3b24ee.jpg",
+      "sha256": "a114d8c56f23ba3b24ee3f4705c1125bccdb7deb7c12c949974ea36671ff1032"
     }
   },
   {
@@ -21598,6 +22613,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.149Z"
+    },
+    "image": {
+      "source": "https://cowlevel.net/article/2037278",
+      "originalUrl": "https://pic1.cdncl.net/user/CodeRachel/common_pic/e3825149653dd5ac3a4886d1c6017583.jpg",
+      "credit": "Games Workshop / Forge World; archived miniature photograph reproduced by CodeRachel on Cowlevel",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/807c464a98010b6c5834.jpg",
+      "sha256": "807c464a98010b6c583490e7ed192738e2f6dcd00c6f1222a3a74ef5b6ae8eae"
     }
   },
   {
@@ -21610,6 +22635,16 @@
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/astra-militarum/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:43.149Z"
+    },
+    "image": {
+      "source": "https://miniset.net/sets/gw-99590105261",
+      "originalUrl": "https://miniset.net/files/set/gw-99590105261-0.jpg",
+      "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+      "verifiedAt": "2026-09-23",
+      "background": "white",
+      "kind": "miniature",
+      "url": "/images/units/e183e1e66b9cbb99b311.jpg",
+      "sha256": "e183e1e66b9cbb99b311016cdb7d8831deddb50bc6a346eef73cc50184ede7a6"
     }
   },
   {
@@ -22043,6 +23078,12 @@
     "name": "Skulltaker",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skulltaker",
+    "nativeFaction": "Chaos Daemons",
+    "factionKeywords": "LEGIONES DAEMONICA",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.315Z"
+    },
     "image": {
       "url": "/images/units/5aae7d43cc2f3c171bca.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/727122-thickbox_default/age-of-sigmar-deamons-of-khorne-skulltaker-5011921259182.jpg",
@@ -22052,12 +23093,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "5aae7d43cc2f3c171bca9c4518cf9b9a5f65e5d1f6533c7341898d5dffd6f8c2"
-    },
-    "nativeFaction": "Chaos Daemons",
-    "factionKeywords": "LEGIONES DAEMONICA",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.315Z"
     }
   },
   {
@@ -22065,6 +23100,12 @@
     "name": "The Changeling",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/The-Changeling",
+    "nativeFaction": "Chaos Daemons",
+    "factionKeywords": "LEGIONES DAEMONICA",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.315Z"
+    },
     "image": {
       "url": "/images/units/ea37e4b0ae6236423c04.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/790283-thickbox_default/w40k-age-of-sigmar-chaos-deamon-tzeentch-changelin-5011921178674.jpg",
@@ -22074,12 +23115,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "ea37e4b0ae6236423c04b118e1df5cf8c91cebaf3614f54ed8da9fdb6d46ec12"
-    },
-    "nativeFaction": "Chaos Daemons",
-    "factionKeywords": "LEGIONES DAEMONICA",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.315Z"
     }
   },
   {
@@ -22099,6 +23134,12 @@
     "name": "Be’lakor",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Be-lakor",
+    "nativeFaction": "Chaos Daemons",
+    "factionKeywords": "LEGIONES DAEMONICA",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.316Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/29847-large_default/w40k-chaos-daemons-be-lakor-the-dark-master.jpg",
       "source": "https://www.ludifolie.com/14361-w40k-chaos-daemons-be-lakor-the-dark-master.html",
@@ -22108,12 +23149,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/4a6b856094b118f546a6.jpg",
       "sha256": "4a6b856094b118f546a60f330ae344475025678ebd253fef3cce1e7591d4dfae"
-    },
-    "nativeFaction": "Chaos Daemons",
-    "factionKeywords": "LEGIONES DAEMONICA",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.316Z"
     }
   },
   {
@@ -22361,6 +23396,12 @@
     "name": "Chaos Lord",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Chaos-Lord",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.321Z"
+    },
     "image": {
       "url": "/images/units/44b05a82c16046655841.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/680617-thickbox_default/w40k-space-marines-du-chaos-seigneur-du-chaos-5011921225101.jpg",
@@ -22370,12 +23411,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "44b05a82c160466558415ce29fe90426d0667bfedfbc7d0144ff9084472398f6"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.321Z"
     }
   },
   {
@@ -22383,6 +23418,12 @@
     "name": "Chaos Lord In Terminator Armour",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Chaos-Lord-In-Terminator-Armour",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.322Z"
+    },
     "image": {
       "url": "/images/units/e5c2a05e33bb1de3db02.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/723744-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
@@ -22392,12 +23433,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "e5c2a05e33bb1de3db025bd2cc5e0b3703bf389d7f53ef0db60bcae4e80ec6ee"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.322Z"
     }
   },
   {
@@ -22477,6 +23512,12 @@
     "name": "Sorcerer In Terminator Armour",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Sorcerer-In-Terminator-Armour",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.324Z"
+    },
     "image": {
       "url": "/images/units/bd6d314d40f1197401ee.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/723745-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
@@ -22486,12 +23527,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "bd6d314d40f1197401ee6f7d6cd3d57001e2a35ab8dcdd02ba7d24d7e2a3c801"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.324Z"
     }
   },
   {
@@ -22499,6 +23534,12 @@
     "name": "Traitor Enforcer",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Traitor-Enforcer",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.324Z"
+    },
     "image": {
       "url": "/images/units/a12bea45b5fef71eab21.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804722-thickbox_default/w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.jpg",
@@ -22508,12 +23549,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "a12bea45b5fef71eab211610c8112f7384aeb596ff2ccb85e327abb6a81750b6"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.324Z"
     }
   },
   {
@@ -22857,6 +23892,12 @@
     "name": "Legionaries",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Legionaries",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.336Z"
+    },
     "image": {
       "url": "/images/units/40239cc317813fe48527.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804715-thickbox_default/w40k-space-marines-du-chaos-legionnaires-5011921248414.jpg",
@@ -22866,12 +23907,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "40239cc317813fe485276294c7a5870ea235f9fcb3c5e02ab20191dfa276d38f"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.336Z"
     }
   },
   {
@@ -22987,6 +24022,12 @@
     "name": "Chaos Terminator Squad",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Chaos-Terminator-Squad",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.340Z"
+    },
     "image": {
       "url": "/images/units/24b1c072e2f383dcc6a1.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/740121-thickbox_default/w40k-chaos-space-marines-terminators-5011921178247.jpg",
@@ -22996,12 +24037,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "24b1c072e2f383dcc6a13d90dcfab9c9fa718f45fb42631c64ed87f1494f94a2"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.340Z"
     }
   },
   {
@@ -23021,6 +24056,12 @@
     "name": "Fellgor Beastmen",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Fellgor-Beastmen",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.341Z"
+    },
     "image": {
       "url": "/images/units/3d63831c10966fae48df.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/877263-thickbox_default/w40k-empire-t-au-hommes-betes-affregors-5011921273324.jpg",
@@ -23030,12 +24071,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "3d63831c10966fae48df4fc7bcacd1327ad4d42e4efc98baa5c2235fcba70734"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.341Z"
     }
   },
   {
@@ -23067,6 +24102,12 @@
     "name": "Raptors",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Raptors",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.343Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/67606-large_default/warhammer-40k-chaos-space-marines-raptors.jpg",
       "source": "https://www.ludifolie.com/10915-warhammer-40k-chaos-space-marines-raptors.html",
@@ -23076,12 +24117,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/65c607811a4d9faab4ea.jpg",
       "sha256": "65c607811a4d9faab4ea26e66b8973f5ecf7dcf5f079652fe243a4f01c77fb2c"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.343Z"
     }
   },
   {
@@ -23089,6 +24124,12 @@
     "name": "Traitor Guardsmen Squad",
     "faction": "Chaos Daemons",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Traitor-Guardsmen-Squad",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.344Z"
+    },
     "image": {
       "url": "/images/units/ff45ad26cc5fed7ad666.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804728-thickbox_default/w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.jpg",
@@ -23098,12 +24139,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "ff45ad26cc5fed7ad6665525d6f05f3306e71ae58c03b6467904f11e4529c571"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.344Z"
     }
   },
   {
@@ -23375,6 +24410,12 @@
     "name": "Traitor Enforcer",
     "faction": "Chaos Knights",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/Traitor-Enforcer",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.683Z"
+    },
     "image": {
       "url": "/images/units/a12bea45b5fef71eab21.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804722-thickbox_default/w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.jpg",
@@ -23384,12 +24425,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "a12bea45b5fef71eab211610c8112f7384aeb596ff2ccb85e327abb6a81750b6"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.683Z"
     }
   },
   {
@@ -23643,6 +24678,12 @@
     "name": "Fellgor Beastmen",
     "faction": "Chaos Knights",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/Fellgor-Beastmen",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.688Z"
+    },
     "image": {
       "url": "/images/units/3d63831c10966fae48df.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/877263-thickbox_default/w40k-empire-t-au-hommes-betes-affregors-5011921273324.jpg",
@@ -23652,12 +24693,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "3d63831c10966fae48df4fc7bcacd1327ad4d42e4efc98baa5c2235fcba70734"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.688Z"
     }
   },
   {
@@ -23665,6 +24700,12 @@
     "name": "Traitor Guardsmen Squad",
     "faction": "Chaos Knights",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/Traitor-Guardsmen-Squad",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:44.688Z"
+    },
     "image": {
       "url": "/images/units/ff45ad26cc5fed7ad666.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804728-thickbox_default/w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.jpg",
@@ -23674,12 +24715,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "ff45ad26cc5fed7ad6665525d6f05f3306e71ae58c03b6467904f11e4529c571"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:44.688Z"
     }
   },
   {
@@ -23855,6 +24890,12 @@
     "name": "Abaddon The Despoiler",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Abaddon-The-Despoiler",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.689Z"
+    },
     "image": {
       "url": "/images/units/377a611b1be35ef04ecb.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/729207-thickbox_default/w40k-chaos-space-marines-abaddon-the-despoiler-5011921178285.jpg",
@@ -23864,12 +24905,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "377a611b1be35ef04ecbf9fb2665f078ed209c8fa05d1270b6730a6d464aebb0"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.689Z"
     }
   },
   {
@@ -23889,6 +24924,12 @@
     "name": "Fabius Bile",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Fabius-Bile",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.690Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/48091-large_default/warhammer-40k-chaos-space-marines-fabius-bile.jpg",
       "source": "https://www.ludifolie.com/19745-warhammer-40k-chaos-space-marines-fabius-bile.html",
@@ -23898,12 +24939,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/9b57a02ce15f652318e5.jpg",
       "sha256": "9b57a02ce15f652318e585b006e0002d50cb42849cfc4c87e3e9ed1450382919"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.690Z"
     }
   },
   {
@@ -23911,6 +24946,12 @@
     "name": "Haarken Worldclaimer",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Haarken-Worldclaimer",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.690Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/54119-large_default/warhammer-40k-chaos-space-marines-haarken-worldclaimer.jpg",
       "source": "https://www.ludifolie.com/21401-warhammer-40k-chaos-space-marines-haarken-worldclaimer.html",
@@ -23920,12 +24961,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/ef210a693d02fe14b85b.jpg",
       "sha256": "ef210a693d02fe14b85b521cb06c8b0d58f2aeaa92711be59ee0486385d7f921"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.690Z"
     }
   },
   {
@@ -23945,6 +24980,12 @@
     "name": "Kravek Morne",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Kravek-Morne",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.691Z"
+    },
     "image": {
       "url": "/images/units/f5f6328ace6b959a291f.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/848352-thickbox_default/w40k-chaos-space-marines-kravek-morne-5011921259267.jpg",
@@ -23954,12 +24995,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "f5f6328ace6b959a291f68535fdedc503f23481a6933847bd98a55ae70224434"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.691Z"
     }
   },
   {
@@ -23979,6 +25014,12 @@
     "name": "Vashtorr The Arkifane",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Vashtorr-The-Arkifane",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.691Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/56263-large_default/warhammer-40k-chaos-space-marines-vashtorr-the-arkifane.jpg",
       "source": "https://www.ludifolie.com/21987-warhammer-40k-chaos-space-marines-vashtorr-the-arkifane.html",
@@ -23988,12 +25029,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/38c58c75df27593cd025.jpg",
       "sha256": "38c58c75df27593cd0257f7ccf30e7af46d39ff6a24fc2420a2c02d9ac711f0e"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.691Z"
     }
   },
   {
@@ -24001,6 +25036,12 @@
     "name": "Chaos Lord",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Lord",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.692Z"
+    },
     "image": {
       "url": "/images/units/44b05a82c16046655841.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/680617-thickbox_default/w40k-space-marines-du-chaos-seigneur-du-chaos-5011921225101.jpg",
@@ -24010,12 +25051,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "44b05a82c160466558415ce29fe90426d0667bfedfbc7d0144ff9084472398f6"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.692Z"
     }
   },
   {
@@ -24023,6 +25058,12 @@
     "name": "Chaos Lord In Terminator Armour",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Lord-In-Terminator-Armour",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.692Z"
+    },
     "image": {
       "url": "/images/units/e5c2a05e33bb1de3db02.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/723744-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
@@ -24032,12 +25073,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "e5c2a05e33bb1de3db025bd2cc5e0b3703bf389d7f53ef0db60bcae4e80ec6ee"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.692Z"
     }
   },
   {
@@ -24045,6 +25080,12 @@
     "name": "Chaos Lord with Jump Pack",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Lord-with-Jump-Pack",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.692Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/51792-large_default/warhammer-40k-chaos-space-marines-chaos-lord-with-jump-pack.jpg",
       "source": "https://www.ludifolie.com/20748-warhammer-40k-chaos-space-marines-chaos-lord-with-jump-pack.html",
@@ -24054,12 +25095,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/c1e0746084cc10e4ca33.jpg",
       "sha256": "c1e0746084cc10e4ca333d1a097749712a1674cec09fff2a9c3b5878f9f75b86"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.692Z"
     }
   },
   {
@@ -24103,6 +25138,12 @@
     "name": "Master Of Executions",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Master-Of-Executions",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.693Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/56520-large_default/warhammer-40k-chaos-space-marines-master-of-executions.jpg",
       "source": "https://www.ludifolie.com/22060-warhammer-40k-chaos-space-marines-master-of-executions.html",
@@ -24112,12 +25153,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/d1e4720e3d11bb95f4ba.jpg",
       "sha256": "d1e4720e3d11bb95f4ba643fa15b731a206e319a857702f48adc80bcf375df13"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.693Z"
     }
   },
   {
@@ -24137,6 +25172,12 @@
     "name": "Red Corsairs Reave-Captain",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Red-Corsairs-Reave-Captain",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.693Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/64040-large_default/warhammer-40k-chaos-space-marines-red-corsairs-reave-captain.jpg",
       "source": "https://www.ludifolie.com/24124-warhammer-40k-chaos-space-marines-red-corsairs-reave-captain.html",
@@ -24146,12 +25187,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/ed0bcc8b1f472e41b746.jpg",
       "sha256": "ed0bcc8b1f472e41b746cac3c762ba333c4933689220be44af331971b13c9570"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.693Z"
     }
   },
   {
@@ -24159,6 +25194,12 @@
     "name": "Sorcerer",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Sorcerer",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.694Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/56524-large_default/warhammer-40k-chaos-space-marines-sorcerer.jpg",
       "source": "https://www.ludifolie.com/22061-warhammer-40k-chaos-space-marines-sorcerer.html",
@@ -24168,12 +25209,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/27ad6a322fa0e2daa716.jpg",
       "sha256": "27ad6a322fa0e2daa716a2e36f49f6ab1afeb1e1e94ac1e0d95e3a32835595c7"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.694Z"
     }
   },
   {
@@ -24181,6 +25216,12 @@
     "name": "Sorcerer In Terminator Armour",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Sorcerer-In-Terminator-Armour",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.694Z"
+    },
     "image": {
       "url": "/images/units/bd6d314d40f1197401ee.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/723745-thickbox_default/seigneur-terminator-du-chaos-5011921178223.jpg",
@@ -24190,12 +25231,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "bd6d314d40f1197401ee6f7d6cd3d57001e2a35ab8dcdd02ba7d24d7e2a3c801"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.694Z"
     }
   },
   {
@@ -24203,6 +25238,12 @@
     "name": "Traitor Enforcer",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Traitor-Enforcer",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.694Z"
+    },
     "image": {
       "url": "/images/units/a12bea45b5fef71eab21.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804722-thickbox_default/w40k-space-marines-du-chaos-accusateur-renegat-5011921248438.jpg",
@@ -24212,12 +25253,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "a12bea45b5fef71eab211610c8112f7384aeb596ff2ccb85e327abb6a81750b6"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.694Z"
     }
   },
   {
@@ -24225,6 +25260,12 @@
     "name": "Warpsmith",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Warpsmith",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.694Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/48412-large_default/warhammer-40k-chaos-space-marines-warpsmith.jpg",
       "source": "https://www.ludifolie.com/19829-warhammer-40k-chaos-space-marines-warpsmith.html",
@@ -24234,12 +25275,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/90347c1a147d15278080.jpg",
       "sha256": "90347c1a147d15278080bad29cfcaf23c003f090b285a3d5d738678aa7c5e243"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.694Z"
     }
   },
   {
@@ -24355,6 +25390,12 @@
     "name": "Lord Discordant On Helstalker",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.697Z"
+    },
     "image": {
       "url": "/images/units/597f39835a336379cfa5.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/752999-thickbox_default/w40k-chaos-space-marines-vex-machinator-arch-lord-discordant-5011921178278.jpg",
@@ -24364,12 +25405,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "597f39835a336379cfa50b190bf618c710b8628d2521821d51f31de70fb31d46"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.697Z"
     }
   },
   {
@@ -24449,6 +25484,12 @@
     "name": "Legionaries",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Legionaries",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.699Z"
+    },
     "image": {
       "url": "/images/units/40239cc317813fe48527.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804715-thickbox_default/w40k-space-marines-du-chaos-legionnaires-5011921248414.jpg",
@@ -24458,12 +25499,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "40239cc317813fe485276294c7a5870ea235f9fcb3c5e02ab20191dfa276d38f"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.699Z"
     }
   },
   {
@@ -24539,6 +25574,12 @@
     "name": "Chaos Rhino",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Rhino",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.700Z"
+    },
     "image": {
       "url": "/images/units/754a6e668697ea210907.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/720595-thickbox_default/rhino-du-chaos-5011921178216.jpg",
@@ -24548,12 +25589,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "754a6e668697ea210907a6888f0b7cb7948af04410f250ad09871c2352af3e61"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.700Z"
     }
   },
   {
@@ -24693,6 +25728,12 @@
     "name": "Accursed Cultists",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Accursed-Cultists",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.703Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/54132-large_default/warhammer-40k-chaos-space-marines-accursed-cultists.jpg",
       "source": "https://www.ludifolie.com/21405-warhammer-40k-chaos-space-marines-accursed-cultists.html",
@@ -24702,12 +25743,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/29c57cb8952b754e5baa.jpg",
       "sha256": "29c57cb8952b754e5baa9725a7d9b7f5ca56d5a2af12abac358599de671689de"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.703Z"
     }
   },
   {
@@ -24715,6 +25750,12 @@
     "name": "Chaos Terminator Squad",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Terminator-Squad",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.703Z"
+    },
     "image": {
       "url": "/images/units/24b1c072e2f383dcc6a1.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/740121-thickbox_default/w40k-chaos-space-marines-terminators-5011921178247.jpg",
@@ -24724,12 +25765,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "24b1c072e2f383dcc6a13d90dcfab9c9fa718f45fb42631c64ed87f1494f94a2"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.703Z"
     }
   },
   {
@@ -24749,6 +25784,12 @@
     "name": "Fellgor Beastmen",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Fellgor-Beastmen",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.704Z"
+    },
     "image": {
       "url": "/images/units/3d63831c10966fae48df.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/877263-thickbox_default/w40k-empire-t-au-hommes-betes-affregors-5011921273324.jpg",
@@ -24758,12 +25799,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "3d63831c10966fae48df4fc7bcacd1327ad4d42e4efc98baa5c2235fcba70734"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.704Z"
     }
   },
   {
@@ -24771,6 +25806,12 @@
     "name": "Havocs",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Havocs",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.704Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/57344-large_default/warhammer-40k-chaos-space-marines-havocs.jpg",
       "source": "https://www.ludifolie.com/22282-warhammer-40k-chaos-space-marines-havocs.html",
@@ -24780,12 +25821,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/93b8bfb6eae6c04c1ebf.jpg",
       "sha256": "93b8bfb6eae6c04c1ebfd664a7d20ef7a5cb6b96bd2a92d261e9139922d186bb"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.704Z"
     }
   },
   {
@@ -24793,6 +25828,12 @@
     "name": "Mutilators",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Mutilators",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.704Z"
+    },
     "image": {
       "url": "/images/units/41e49aea87fef9f60468.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/848354-thickbox_default/w40k-space-marines-du-chaos-mutilators-5011921252299.jpg",
@@ -24802,12 +25843,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "41e49aea87fef9f604689dc9ec129fbfaac54a665effa8693da0df6d951bc933"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.704Z"
     }
   },
   {
@@ -24839,6 +25874,12 @@
     "name": "Possessed",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Possessed",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.705Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/47015-large_default/warhammer-40k-chaos-space-marines-possessed.jpg",
       "source": "https://www.ludifolie.com/19444-warhammer-40k-chaos-space-marines-possessed.html",
@@ -24848,12 +25889,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/cff585f5d8ee2f5f7c9b.jpg",
       "sha256": "cff585f5d8ee2f5f7c9b1d73fc560ce4a90c785624102ba62216db809338ff16"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.705Z"
     }
   },
   {
@@ -24861,6 +25896,12 @@
     "name": "Raptors",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Raptors",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.705Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/67606-large_default/warhammer-40k-chaos-space-marines-raptors.jpg",
       "source": "https://www.ludifolie.com/10915-warhammer-40k-chaos-space-marines-raptors.html",
@@ -24870,12 +25911,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/65c607811a4d9faab4ea.jpg",
       "sha256": "65c607811a4d9faab4ea26e66b8973f5ecf7dcf5f079652fe243a4f01c77fb2c"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.705Z"
     }
   },
   {
@@ -24883,6 +25918,12 @@
     "name": "Red Corsairs Raiders",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Red-Corsairs-Raiders",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.706Z"
+    },
     "image": {
       "url": "/images/units/3e0d57ee2e5a256e0a57.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/837828-thickbox_default/w40k-space-marines-du-chaos-pillards-red-corsairs-5011921251711.jpg",
@@ -24892,12 +25933,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "3e0d57ee2e5a256e0a5787270edfc0e7d868c11efd23458b6b99da31f1b1df47"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.706Z"
     }
   },
   {
@@ -24905,6 +25940,12 @@
     "name": "Traitor Guardsmen Squad",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Traitor-Guardsmen-Squad",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.706Z"
+    },
     "image": {
       "url": "/images/units/ff45ad26cc5fed7ad666.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/804728-thickbox_default/w40k-space-marines-du-chaos-escouade-de-gardes-renegats-5011921248421.jpg",
@@ -24914,12 +25955,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "ff45ad26cc5fed7ad6665525d6f05f3306e71ae58c03b6467904f11e4529c571"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.706Z"
     }
   },
   {
@@ -25225,6 +26260,12 @@
     "name": "Heldrake",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Heldrake",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.729Z"
+    },
     "image": {
       "url": "/images/units/509a000f593aa3c4d83e.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731235-thickbox_default/w40k-chaos-space-marines-heldrake-5011921178193.jpg",
@@ -25234,12 +26275,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "509a000f593aa3c4d83edd0970b0d3bfafb0472ad84379027b9eadcad957b628"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.729Z"
     }
   },
   {
@@ -25355,6 +26390,12 @@
     "name": "Defiler",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Defiler",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.731Z"
+    },
     "image": {
       "originalUrl": "https://www.ludifolie.com/64963-large_default/warhammer-40k-chaos-space-marines-defiler.jpg",
       "source": "https://www.ludifolie.com/24355-warhammer-40k-chaos-space-marines-defiler.html",
@@ -25364,12 +26405,6 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/93f4e4de42099053fb44.jpg",
       "sha256": "93f4e4de42099053fb445d12886c5cfd9e29aa41de520b3832f86b0f6135ee69"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.731Z"
     }
   },
   {
@@ -25377,6 +26412,12 @@
     "name": "Forgefiend",
     "faction": "Chaos Space Marines",
     "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Forgefiend",
+    "nativeFaction": "Chaos Space Marines",
+    "factionKeywords": "HERETIC ASTARTES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:48.731Z"
+    },
     "image": {
       "url": "/images/units/0a0c50bdcf33f41121a8.jpg",
       "originalUrl": "https://cdn1.philibertnet.com/731068-thickbox_default/ferrocentaurus-ferrocerberus-space-marines-du-chaos-5011921178186.jpg",
@@ -25386,12 +26427,6 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "0a0c50bdcf33f41121a84e043f44f717e6d21fcf1ec4ffec749c92f8d945a0e2"
-    },
-    "nativeFaction": "Chaos Space Marines",
-    "factionKeywords": "HERETIC ASTARTES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:48.731Z"
     }
   },
   {

@@ -3634,5 +3634,1040 @@
     "background": "white",
     "verifiedAt": "2026-09-23",
     "sha256": "db638630f7187c8326abf692979e3b67b06c8f2403b82ff466d3fb8da5adf225"
+  },
+  "astra-militarum/Regimental-Attach-s": {
+    "source": "https://miniset.net/sets/gw-99060105263",
+    "originalUrl": "https://miniset.net/files/set/gw-99060105263-0.jpg",
+    "url": "/images/units/7662758eab2de585ee35.jpg",
+    "sha256": "7662758eab2de585ee352eced33b3a95464ca9015784e66ba08ac0f2616310c8",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Medusa-Carriage-Battery": {
+    "source": "https://miniset.net/sets/gw-99863005326",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005326-0.jpg",
+    "url": "/images/units/31c0d033972393e2798f.jpg",
+    "sha256": "31c0d033972393e2798fc0bc2d7bb8fef0b2db3c10c60ea56e62384dc0890674",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Earthshaker-Carriage-Battery": {
+    "source": "https://miniset.net/sets/gw-99863005325",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005325-0.jpg",
+    "url": "/images/units/e1b9cfa0acd191f403f8.jpg",
+    "sha256": "e1b9cfa0acd191f403f850209117880d085cb3d41341a427c1f2d4e491698f0d",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Tauros-Assault-Vehicle": {
+    "source": "https://miniset.net/sets/gw-99590105315",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105315-0.jpg",
+    "url": "/images/units/5426cd6ea1ed1a143205.jpg",
+    "sha256": "5426cd6ea1ed1a143205dc224fc7d528d6d95f6f4fc7533e0ff037cd13bc404a",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Tauros-Venator": {
+    "source": "https://miniset.net/sets/gw-99590105290",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105290-0.jpg",
+    "url": "/images/units/4ce15ea06772279e7816.jpg",
+    "sha256": "4ce15ea06772279e78168b42a70fe791dca4f727dd722bca0d44ec24d3c5e791",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Heavy-Mortar-Team": {
+    "source": "https://miniset.net/sets/gw-99020187314",
+    "originalUrl": "https://miniset.net/files/set/gw-99020187314-0.jpg",
+    "url": "/images/units/206a77bb0e8d5f03eaa1.jpg",
+    "sha256": "206a77bb0e8d5f03eaa17d1d67ff8761b18c2c07aab4e07dab8635f38d91630e",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "caption": "Battery shown with several assembled teams."
+  },
+  "astra-militarum/Heavy-Quad-Launcher-Team": {
+    "source": "https://miniset.net/sets/gw-99020187315",
+    "originalUrl": "https://miniset.net/files/set/gw-99020187315-0.jpg",
+    "url": "/images/units/fadbcede63bb8ba01f5e.jpg",
+    "sha256": "fadbcede63bb8ba01f5e764be28c371d32ea5b0005400730a6867381365e4147",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "caption": "Battery shown with several assembled teams."
+  },
+  "astra-militarum/Munitorum-Servitors": {
+    "source": "https://miniset.net/sets/gw-99800107020",
+    "originalUrl": "https://miniset.net/files/set/gw-99800107020-0.jpg",
+    "url": "/images/units/f863852df3ec8c9b4d63.jpg",
+    "sha256": "f863852df3ec8c9b4d632d9658364965b2dc62ac20f81318466a68b306266aa6",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Rapier-Laser-Destroyer-Battery": {
+    "source": "https://buildinstructions.com/pdf-downloads/2013-Forge-World-Catalogue-Second-Edition.pdf#page=9",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105358-0.jpg",
+    "url": "/images/units/e24e2048dd93afbc79cd.jpg",
+    "sha256": "e24e2048dd93afbc79cd3f21cb131abd3d8fdfeaf0967958f0eefdaead4c03b9",
+    "credit": "Games Workshop / Forge World; archived by Miniset",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23"
+  },
+  "astra-militarum/Mukaali-Riders": {
+    "url": "/images/units/4c1371673c52370f235d.png",
+    "sha256": "4c1371673c52370f235d706b54f57d4a3c9858d1a5b9db19ef425f1abd394017",
+    "source": "https://buildinstructions.com/pdf-downloads/2005-Forge-World-Catalogue-May-Supplement.pdf#page=2",
+    "originalUrl": "https://buildinstructions.com/pdf-downloads/2005-Forge-World-Catalogue-May-Supplement.pdf",
+    "credit": "Forge World catalogue, May 2005",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "caption": "Archived catalogue photograph of an assembled Mukaali Rough Rider; greyscale."
+  },
+  "astra-militarum/Minotaur": {
+    "source": "https://miniset.net/sets/gw-99860105284",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105284-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/f2bd2486e830d6974073.jpg",
+    "sha256": "f2bd2486e830d697407376d76bf501b9853193eae6f34aec68a3d444b7a07e7f"
+  },
+  "astra-militarum/Avenger-Strike-Fighter": {
+    "source": "https://miniset.net/sets/gw-99863008089",
+    "originalUrl": "https://miniset.net/files/set/gw-99863008089-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/3fb745915f610c99111e.jpg",
+    "sha256": "3fb745915f610c99111ec3d3f07fdaab9d512ae0fd22cbdbe31f85deeec133cf"
+  },
+  "astra-militarum/Gorgon-Heavy-Transport": {
+    "source": "https://miniset.net/sets/gw-99860105394",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105394-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/aaf7043e4d80606d68e9.jpg",
+    "sha256": "aaf7043e4d80606d68e9cd88aba828ebffb50b9a2020f7bc1c17653c3e94d1ec"
+  },
+  "astra-militarum/Malcador-Defender": {
+    "source": "https://miniset.net/sets/gw-99590105216",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105216-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/8d6308ffaaff8d73f5fe.jpg",
+    "sha256": "8d6308ffaaff8d73f5fe0aa5a9e5bfd8480a5c1eca99a251e91a0a82041f7888"
+  },
+  "astra-militarum/Crassus": {
+    "source": "https://miniset.net/sets/gw-99860105355",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105355-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/991eef3f184dcd932ee4.jpg",
+    "sha256": "991eef3f184dcd932ee4ea9b24b40277a08ceb3275701b32de14566b5a6eac29"
+  },
+  "astra-militarum/Carnodon": {
+    "source": "https://miniset.net/sets/gw-99863005398",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005398-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/0767ba31e00836798b61.jpg",
+    "sha256": "0767ba31e00836798b612efb3fa56ca719ef4f93661fe434ec206b0e16752930"
+  },
+  "astra-militarum/Macharius": {
+    "source": "https://miniset.net/sets/gw-99860105318",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105318-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/d2e72970a1931e76b27c.jpg",
+    "sha256": "d2e72970a1931e76b27ca135134a231713b040f01678197987e0d4702fd4eb9c"
+  },
+  "astra-militarum/Marauder-Bomber": {
+    "source": "https://miniset.net/sets/gw-99863008015",
+    "originalUrl": "https://miniset.net/files/set/gw-99863008015-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/ed8b5b27d5f112472cf5.jpg",
+    "sha256": "ed8b5b27d5f112472cf5ab0247f65f514af6d947d11bb424f59e4775a9b07908"
+  },
+  "astra-militarum/Tarantula-Battery": {
+    "source": "https://miniset.net/sets/gw-99853005097",
+    "originalUrl": "https://miniset.net/files/set/gw-99853005097-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/aae1743a48d67ee9b5ef.jpg",
+    "sha256": "aae1743a48d67ee9b5efd4210c0e8d64754e1d263018a8fd28de07a3bd9aafce"
+  },
+  "astra-militarum/Malcador-Infernus": {
+    "source": "https://miniset.net/sets/gw-99863005349",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005349-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/13a48e71663d42f0cf7c.jpg",
+    "sha256": "13a48e71663d42f0cf7cc8249cc12cc91e67d9e409f4e89883ed395983a4f695"
+  },
+  "astra-militarum/Arkurian-Stormhammer": {
+    "source": "https://miniset.net/sets/gw-99863005385",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005385-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/e7a759f8387efe149bcf.jpg",
+    "sha256": "e7a759f8387efe149bcf65517b87ffd358280dee3ae6b4c2fa58dd05724fdd92"
+  },
+  "astra-militarum/Valdor": {
+    "source": "https://miniset.net/sets/gw-99863005287",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005287-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/f7ce2ab9c75c443a9957.jpg",
+    "sha256": "f7ce2ab9c75c443a9957c0390e01a227a5818a619cc80c8f4ca077e627752076"
+  },
+  "astra-militarum/Colossus": {
+    "source": "https://miniset.net/sets/gw-99863005313",
+    "originalUrl": "https://miniset.net/files/set/gw-99863005313-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c09b1ad25c2a651c41f7.jpg",
+    "sha256": "c09b1ad25c2a651c41f73afad9078844f9d2f7983246e5669ab7491018e0d2ab"
+  },
+  "astra-militarum/Praetor": {
+    "source": "https://miniset.net/sets/gw-99860105356",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105356-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/9ddf86a334f2e475c809.jpg",
+    "sha256": "9ddf86a334f2e475c80911e5f3fb3b4f474b9dbcd810e8454249102421ab3e66"
+  },
+  "astra-militarum/Macharius-Vanquisher": {
+    "source": "https://miniset.net/sets/gw-99860105319",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105319-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/4b8bdbbea47a0eee2513.jpg",
+    "sha256": "4b8bdbbea47a0eee25135b50aa8131f1d76bd64da5c0630ce689c645d28f9cbc"
+  },
+  "astra-militarum/Hades-Breaching-Drill": {
+    "source": "https://miniset.net/sets/gw-99860105285",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105285-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c3ca46103f650298afb4.jpg",
+    "sha256": "c3ca46103f650298afb4fa80c09bd39a311d75aac72faf9208a9a6ce19d16b46"
+  },
+  "astra-militarum/Marauder-Destroyer": {
+    "source": "https://miniset.net/sets/gw-99863008016",
+    "originalUrl": "https://miniset.net/files/set/gw-99863008016-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/d7f95628f647b795686a.jpg",
+    "sha256": "d7f95628f647b795686a31b39d3ffadc656c3b3c6aa656d174c3be191c3f47a3"
+  },
+  "astra-militarum/Voss-pattern-Lightning": {
+    "source": "https://miniset.net/sets/gw-99863008090",
+    "originalUrl": "https://miniset.net/files/set/gw-99863008090-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/ff98cd60cea37a7ea8f0.jpg",
+    "sha256": "ff98cd60cea37a7ea8f0fb7e4b0e8cfe1ee20db3d48a19467b515d189314dc89"
+  },
+  "astra-militarum/Macharius-Vulcan": {
+    "source": "https://miniset.net/sets/gw-99860105320",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105320-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a9289b2f078e9d5ea28d.jpg",
+    "sha256": "a9289b2f078e9d5ea28d082455328561b162936939bc2770b35c073c7e331544"
+  },
+  "astra-militarum/Stormblade": {
+    "source": "https://miniset.net/sets/gw-99860105328",
+    "originalUrl": "https://miniset.net/files/set/gw-99860105328-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/fd8d15dd06ec2169ac0e.jpg",
+    "sha256": "fd8d15dd06ec2169ac0e5acb228912edfad9f3d0b8e745a38fc5ec97428a6701"
+  },
+  "astra-militarum/Cyclops-Demolition-Vehicle": {
+    "source": "https://miniset.net/sets/gw-99853005103",
+    "originalUrl": "https://miniset.net/files/set/gw-99853005103-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/f74e4675dd6083574340.jpg",
+    "sha256": "f74e4675dd6083574340bbca065f4bc69d7ac052ff4e6824db6644643fa939d1"
+  },
+  "astra-militarum/Valkyrie-Sky-Talon": {
+    "source": "https://miniset.net/sets/gw-99860108082",
+    "originalUrl": "https://miniset.net/files/set/gw-99860108082-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/6078867dff18db873669.jpg",
+    "sha256": "6078867dff18db873669d41c55dd7fcda591e24789cddc7c23c50fe022347f1c"
+  },
+  "astra-militarum/Stygies-Destroyer-Tank-Hunter": {
+    "source": "https://miniset.net/sets/gw-99590105340",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105340-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/2dd2d251bb27622294b2.jpg",
+    "sha256": "2dd2d251bb27622294b2c49cd52d2425cd29d8d21cb695512f282a58c5bb2e2e"
+  },
+  "astra-militarum/Trojan-Support-Vehicle": {
+    "source": "https://miniset.net/sets/gw-99590105347",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105347-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/cbcc8f3ff2bd3d09af8c.jpg",
+    "sha256": "cbcc8f3ff2bd3d09af8c2491285dc98088a1e7bfd49b46572d25524e315edbcf"
+  },
+  "astra-militarum/Macharius-Omega": {
+    "source": "https://miniset.net/sets/gw-99590105357",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105357-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/85bd3806bb2d06418fb2.jpg",
+    "sha256": "85bd3806bb2d06418fb20d3fb88250ba2194a002b1f15be177fca53b5a256631"
+  },
+  "astra-militarum/Arvus-Lighter": {
+    "source": "https://miniset.net/sets/gw-99863008233",
+    "originalUrl": "https://miniset.net/files/set/gw-99863008233-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/5fe49701cb51ac8e5216.jpg",
+    "sha256": "5fe49701cb51ac8e521628ebb28e13efdd8184ac33d20e030d4cf5e9d6c5aeb0"
+  },
+  "astra-militarum/Malcador-Annihilator": {
+    "source": "https://miniset.net/sets/gw-99590105317",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105317-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a467f54dd8fc9c40d5b1.jpg",
+    "sha256": "a467f54dd8fc9c40d5b1d1965f91c671f0bc9f938b6d55ef0c57134a6d937320"
+  },
+  "astra-militarum/Vulture-Gunship": {
+    "source": "https://miniset.net/sets/gw-99590108078",
+    "originalUrl": "https://miniset.net/files/set/gw-99590108078-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/d5bc470308a773af4ef6.jpg",
+    "sha256": "d5bc470308a773af4ef6260e36b4ad61e3bf193364045b57708da50df8387568"
+  },
+  "astra-militarum/Armageddon-pattern-Medusa": {
+    "source": "https://miniset.net/sets/gw-99590105110",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105110-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/55eed3948a91f20d4835.jpg",
+    "sha256": "55eed3948a91f20d4835e8be5e3c1e9066f790ce8148068fe5ac8d9a242f5a94"
+  },
+  "astra-militarum/Griffon-Mortar-Carrier": {
+    "source": "https://miniset.net/sets/gw-99590105180",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105180-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c3fa76b4c9354c843bf0.jpg",
+    "sha256": "c3fa76b4c9354c843bf009b529deaaee3be67436af82884d4c4208db2a1affd0"
+  },
+  "astra-militarum/Malcador": {
+    "source": "https://miniset.net/sets/gw-99590105316",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105316-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/bcca5123177fa9ad56be.jpg",
+    "sha256": "bcca5123177fa9ad56be6bae4f72d994fcd1be7a059c1611ac58674f7473e8a1"
+  },
+  "astra-militarum/Centaur-Light-Carrier": {
+    "source": "https://miniset.net/sets/gw-99590105234",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105234-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/204c7f8b9a858241dd00.jpg",
+    "sha256": "204c7f8b9a858241dd0080bc1754a5b2ec1576debb9d5bffd4586e521fe78023"
+  },
+  "astra-militarum/Sabre-Weapons-Battery": {
+    "source": "https://miniset.net/sets/gw-99590105261",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105261-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/e183e1e66b9cbb99b311.jpg",
+    "sha256": "e183e1e66b9cbb99b311016cdb7d8831deddb50bc6a346eef73cc50184ede7a6"
+  },
+  "astra-militarum/Elysian-Drop-Sentinel": {
+    "source": "https://miniset.net/sets/gw-99590105265",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105265-0.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/f73e8ea21233cfbef579.jpg",
+    "sha256": "f73e8ea21233cfbef5790e0824653b477e423e9059da00a008caac9e2eb5e114"
+  },
+  "astra-militarum/Salamander-Command-Vehicle": {
+    "source": "https://wh40k.lexicanum.com/wiki/File:SalaCom.jpg",
+    "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/9/91/SalaCom.jpg",
+    "credit": "Games Workshop / Forge World; model painted by Tony Cottrell; archived via Lexicanum",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/789d7bd2366897e1b03a.jpg",
+    "sha256": "789d7bd2366897e1b03a4f3d5161544e22d4ce110b13303ef48a823e3220724a"
+  },
+  "astra-militarum/Salamander-Scout-Vehicle": {
+    "source": "https://wh40k.lexicanum.com/wiki/File:SalaSco.jpg",
+    "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/f/f3/SalaSco.jpg",
+    "credit": "Games Workshop / Forge World; model painted by Tony Cottrell; archived via Lexicanum",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a0207661e882f1abc450.jpg",
+    "sha256": "a0207661e882f1abc4504529ca468fafef287693ad20b33595a77809f993eccc"
+  },
+  "astra-militarum/Sly-Marbo": {
+    "source": "https://www.thewarp.co.uk/products/sly-marbo",
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99810105030_SlyMarbo01.webp?v=1669924501",
+    "credit": "Games Workshop / The Warp",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/b118c39c48e1d41a3f8e.jpg",
+    "sha256": "b118c39c48e1d41a3f8ef50f25c7511e6acf5f9a7c8b54dd07b4bcb439b17309"
+  },
+  "astra-militarum/Ogryn-Squad": {
+    "source": "https://www.thewarp.co.uk/products/ogryns",
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99120105077_AMBullgrynOgryns01.webp?v=1737539881",
+    "credit": "Games Workshop / The Warp",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/e2ffb2c08e18c19d9d26.jpg",
+    "sha256": "e2ffb2c08e18c19d9d26f5d662cd67533d5814c05639e6c624e351a8c8cc849e"
+  },
+  "astra-militarum/Catachan-Command-Squad": {
+    "source": "https://www.thewarp.co.uk/products/catachan-command-squad",
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/files/99120105037_CatachanCommandSquadNEW01.jpg?v=1710946419",
+    "credit": "Games Workshop / The Warp",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/b5fcc8d084c7931a77b4.jpg",
+    "sha256": "b5fcc8d084c7931a77b4ebad6bcc806045867e8b28e11ab26c9f6359189eb307"
+  },
+  "astra-militarum/Catachan-Jungle-Fighters": {
+    "source": "https://www.thewarp.co.uk/products/catachan-jungle-fighters",
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99120105040_JungleFightersNEW_01.webp?v=1669924702",
+    "credit": "Games Workshop / The Warp",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/6abba5b748d56750fe5d.jpg",
+    "sha256": "6abba5b748d56750fe5ddbb684dfb82d322c38f01a368080d2e698e3e2f430cc"
+  },
+  "astra-militarum/Tempestus-Scions": {
+    "source": "https://www.thewarp.co.uk/products/militarum-tempestus-scions",
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0612/7304/7224/products/99120105055_TempestusScions01.webp?v=1737539645",
+    "credit": "Games Workshop / The Warp",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a6115c6235990d2ca00d.jpg",
+    "sha256": "a6115c6235990d2ca00d20796d266a457e914ec9471ba7abd1c76b425fcef189"
+  },
+  "astra-militarum/Death-Korps-Grenadier-Squad": {
+    "source": "https://miniset.net/sets/gw-99550105047",
+    "originalUrl": "https://miniset.net/files/set/gw-99550105047-0.jpg",
+    "credit": "Forge World / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/6188192004b7f33c8eb4.jpg",
+    "sha256": "6188192004b7f33c8eb4196bf9ffbc7aec8f3d44faaa123ee861cd4a7e2e50fd"
+  },
+  "astra-militarum/Quartermaster-Cadre-Squad": {
+    "source": "https://miniset.net/sets/gw-99550105208",
+    "originalUrl": "https://miniset.net/files/set/gw-99550105208-0.jpg",
+    "credit": "Forge World / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/b783d9fac9ba6a5dc929.jpg",
+    "sha256": "b783d9fac9ba6a5dc929b098d0e5683941536d2636f9996f26bcc1c959894dc1"
+  },
+  "astra-militarum/Elysian-Sniper-Squad": {
+    "source": "https://miniset.net/sets/gw-99590105064",
+    "originalUrl": "https://miniset.net/files/set/gw-99590105064-0.jpg",
+    "credit": "Forge World / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/6a1900457ee9d3a24f58.jpg",
+    "sha256": "6a1900457ee9d3a24f58f50a44395426e9f7005c95dd91dd8f418a992d885731"
+  },
+  "astra-militarum/Nork-Deddog": {
+    "source": "https://miniset.net/sets/gw-99120105117-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105117-1-1.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/b6eb091e0bf9ef3ef12a.jpg",
+    "sha256": "b6eb091e0bf9ef3ef12a35162ca963454364422710377bf1ef69dcd53eb0e61b"
+  },
+  "astra-militarum/Bullgryn-Squad": {
+    "source": "https://miniset.net/sets/gw-99120105053-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105053-1-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/3e779ea58f1dd2ebbe15.jpg",
+    "sha256": "3e779ea58f1dd2ebbe156578057b254fcc63d1241e66572a50b4f7da578084a8"
+  },
+  "astra-militarum/Sergeant-Harker": {
+    "source": "https://miniset.net/sets/gw-99060105265",
+    "originalUrl": "https://miniset.net/files/set/gw-99060105265-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/4571d103e7f9fc694dfe.jpg",
+    "sha256": "4571d103e7f9fc694dfe56632623fd8717e0e6c84056c07d7049cc72a9c36d0c"
+  },
+  "astra-militarum/Iron-Hand-Straken": {
+    "source": "https://miniset.net/sets/gw-99060105264",
+    "originalUrl": "https://miniset.net/files/set/gw-99060105264-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/945242c267d3865a5adc.jpg",
+    "sha256": "945242c267d3865a5adc7865bd112be8af678ccc0e1e6d2aa71506808c0201b2"
+  },
+  "astra-militarum/Provisionally-Prepared": {
+    "source": "https://miniset.net/sets/gw-99120105122",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105122-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/2f777d62cc3928711914.jpg",
+    "sha256": "2f777d62cc392871191462c83837d4aea6ad51c83c011d5fe3d4da5ae607b30e"
+  },
+  "astra-militarum/Tempestus-Aquilons": {
+    "source": "https://miniset.net/sets/gw-99120105123",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105123-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/d326d8091981f9a97515.jpg",
+    "sha256": "d326d8091981f9a97515503be75d295c4bde01d3d734a2706652d5d964610c48"
+  },
+  "astra-militarum/Ratlings": {
+    "source": "https://miniset.net/sets/gw-99120105132",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105132-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/dc911c5d0efab62b545b.jpg",
+    "sha256": "dc911c5d0efab62b545b246cd64961d11db6a01e4de2316f9347c29f99e2a22e"
+  },
+  "astra-militarum/Militarum-Tempestus-Command-Squad": {
+    "source": "https://miniset.net/sets/gw-99120105055-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105055-1-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/5080c7efc7d9afd7f132.jpg",
+    "sha256": "5080c7efc7d9afd7f1327e157b38c7aa8db5bfb6ba9b3a75e3a750e944890c3d"
+  },
+  "astra-militarum/Ministorum-Priest": {
+    "source": "https://miniset.net/sets/gw-99070108011",
+    "originalUrl": "https://miniset.net/files/set/gw-99070108011-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/9401743120b3c0bf13bf.jpg",
+    "sha256": "9401743120b3c0bf13bf406793f5ea9d3bf664050fe2c8a191f33ef3f4da8ef0"
+  },
+  "astra-militarum/Catachan-Heavy-Weapons-Squad": {
+    "source": "https://miniset.net/sets/gw-99120105014",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105014-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/865a28fd95663538de28.jpg",
+    "sha256": "865a28fd95663538de28bc0753cd44fdd0b11b50b85595c7d15a8d819cad74b7"
+  },
+  "astra-militarum/Hell-s-Last": {
+    "source": "https://www.thegamestore.com/products/hells-last",
+    "originalUrl": "https://cdn.shopify.com/s/files/1/0865/3219/4588/files/warhammer-40k-astra-militarum-hells-last-content.webp?v=1741108674",
+    "credit": "Games Workshop / The Game Store",
+    "verifiedAt": "2026-09-23",
+    "background": "transparent",
+    "kind": "miniature",
+    "url": "/images/units/f43b5ecc68ca99522abd.png",
+    "sha256": "f43b5ecc68ca99522abde216e2faa703043d15f7399b4ef3c9bbb6722077dd10"
+  },
+  "astra-militarum/Cadian-Heavy-Weapons-Squad": {
+    "source": "https://miniset.net/sets/gw-99120105097",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105097-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/46baefb492316b67518f.jpg",
+    "sha256": "46baefb492316b67518f05d59f0cabceac73caf2f689dfb69a969f7e1ae4fcef"
+  },
+  "astra-militarum/Cadian-Recon-Squad": {
+    "source": "https://miniset.net/sets/gw-99120105153",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105153-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c44092ccf12d4ef30b38.jpg",
+    "sha256": "c44092ccf12d4ef30b38f744f884a14034ef813700535ece68cf9dc1e65bde42"
+  },
+  "astra-militarum/Commissar-Graves-on-Foot": {
+    "source": "https://miniset.net/sets/gw-99120105140",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105140-3.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/2ce1c5f09dfee1b502f1.jpg",
+    "sha256": "2ce1c5f09dfee1b502f1ab8beff8a0c75ed8aed25d3779091958af6199b77941"
+  },
+  "astra-militarum/Banehammer": {
+    "source": "https://miniset.net/sets/gw-99120105107-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-1-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/7e509de6fa74b3501426.jpg",
+    "sha256": "7e509de6fa74b3501426915cb9dfa8760ea17014999e4870cab7fdedfbb7af71"
+  },
+  "astra-militarum/Banesword": {
+    "source": "https://miniset.net/sets/gw-99120105107-2",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-2-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/db88f908329f294f76d2.jpg",
+    "sha256": "db88f908329f294f76d2d41cfd3aeac4e12f38e2140ef14d25a45e83083b5079"
+  },
+  "astra-militarum/Doomhammer": {
+    "source": "https://miniset.net/sets/gw-99120105107-3",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-3-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/f17508410a2c20fe5480.jpg",
+    "sha256": "f17508410a2c20fe5480565b08c1b7c51c3bc495478c990a1ade68bff24cd2da"
+  },
+  "astra-militarum/Hellhammer": {
+    "source": "https://miniset.net/sets/gw-99120105107-4",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-4-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/6746babceb7b22ece7e5.jpg",
+    "sha256": "6746babceb7b22ece7e5395194e68a1ef17cbecb97764abbb42000750912112a"
+  },
+  "astra-militarum/Shadowsword": {
+    "source": "https://miniset.net/sets/gw-99120105107-5",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-5-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/162fad1da1d0e1906e5d.jpg",
+    "sha256": "162fad1da1d0e1906e5d0d4fecce78c712e3db164924bc3a9fe8cd6d8c497271"
+  },
+  "astra-militarum/Stormlord": {
+    "source": "https://miniset.net/sets/gw-99120105107-6",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-6-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/aec7d3a2cc3bd4ddfb4f.jpg",
+    "sha256": "aec7d3a2cc3bd4ddfb4fe90a60e0e472b9bf8c2d0995cce401fedcb44756313b"
+  },
+  "astra-militarum/Stormsword": {
+    "source": "https://miniset.net/sets/gw-99120105107-7",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105107-7-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/74ca3ad075dc64041db8.jpg",
+    "sha256": "74ca3ad075dc64041db81ad0dfdf5bf7ebbb5cd82f42156c2044e784111727a3"
+  },
+  "astra-militarum/Armoured-Sentinels": {
+    "source": "https://miniset.net/sets/gw-99120105103",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105103-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/9f1673a4e2154d26b28d.jpg",
+    "sha256": "9f1673a4e2154d26b28d6be69f32c0db09b0b10f55c117dd38043449218312fc"
+  },
+  "astra-militarum/Scout-Sentinels": {
+    "source": "https://miniset.net/sets/gw-99120105103-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105103-1-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/27026683e3aa77c53323.jpg",
+    "sha256": "27026683e3aa77c533237dde96b18e01579b45dd181d07997e5a2d6fd69b74fe"
+  },
+  "astra-militarum/Leman-Russ-Battle-Tank": {
+    "source": "https://miniset.net/sets/gw-99120105048",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105048-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a3cbe558d83dd36eba18.jpg",
+    "sha256": "a3cbe558d83dd36eba18005d0ace7c7d4aa221b4afba1385d482f6be1f150672"
+  },
+  "astra-militarum/Leman-Russ-Commander": {
+    "source": "https://miniset.net/sets/gw-99120105048",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105048-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a3cbe558d83dd36eba18.jpg",
+    "sha256": "a3cbe558d83dd36eba18005d0ace7c7d4aa221b4afba1385d482f6be1f150672"
+  },
+  "astra-militarum/Leman-Russ-Executioner": {
+    "source": "https://miniset.net/sets/gw-99120105045",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105045-1.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/b06b220ab2803f375120.jpg",
+    "sha256": "b06b220ab2803f375120c88774c790aa3f888ba969c1fbf1a2109634596c8b86"
+  },
+  "astra-militarum/Leman-Russ-Punisher": {
+    "source": "https://miniset.net/sets/gw-99120105045",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105045-2.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/563d1f0466c4582b40a4.jpg",
+    "sha256": "563d1f0466c4582b40a4d44e106971185468dd0975f4d046b734292246b7970a"
+  },
+  "astra-militarum/Hellhound": {
+    "source": "https://miniset.net/sets/gw-99120105044",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105044-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c14add491c4ac53f6688.jpg",
+    "sha256": "c14add491c4ac53f6688ae5e2460ae0aef06327c9169b3d10d03b16600141614"
+  },
+  "astra-militarum/Wyvern": {
+    "source": "https://miniset.net/sets/gw-99120105115",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105115-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/1b32e91a17f1c12bbb42.jpg",
+    "sha256": "1b32e91a17f1c12bbb421a0f04111a6d83e2865dfab0011a0c53b91e13abbbda"
+  },
+  "astra-militarum/Manticore": {
+    "source": "https://miniset.net/sets/gw-99120105049",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105049-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/ba66eb709346c2e74b5b.jpg",
+    "sha256": "ba66eb709346c2e74b5bb4dcd2e49b7a1dfccfa17cbfb28c60c50554e0ab2a39"
+  },
+  "astra-militarum/Deathstrike": {
+    "source": "https://miniset.net/sets/gw-99120105049-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105049-1-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/0aecdf16f8898e075836.jpg",
+    "sha256": "0aecdf16f8898e0758363ba44eec69286b006b5aa156b120987dd9c1ceb914f3"
+  },
+  "astra-militarum/Taurox": {
+    "source": "https://miniset.net/sets/gw-99120105054-1",
+    "originalUrl": "https://miniset.net/files/set/gw-99120105054-1-0.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/e1aac6a36a83b56be0e1.jpg",
+    "sha256": "e1aac6a36a83b56be0e1e6fa7bf3978565481f9f199eec73cfd6451b1bd6feec"
+  },
+  "astra-militarum/Hydra": {
+    "source": "https://www.boardgamesdallas.com/products/w40k-ami-hydra",
+    "originalUrl": "https://www.boardgamesdallas.com/cdn/shop/files/99120105115_AMHydra1.jpg?v=1728586122",
+    "credit": "Games Workshop / Common Ground Games",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/952ff74ab07cd33dbb81.jpg",
+    "sha256": "952ff74ab07cd33dbb8111bca39a1acbbc0a4904cdaec955d535ea6c3d44b772"
+  },
+  "astra-militarum/Atlas-Recovery-Vehicle": {
+    "source": "https://wh40k.lexicanum.com/wiki/File:AtlasRecTank.jpg",
+    "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/8/83/AtlasRecTank.jpg",
+    "credit": "Games Workshop / Forge World; model painted by Tony Cottrell; archived via Lexicanum",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/36078b2c3d1c230010a5.jpg",
+    "sha256": "36078b2c3d1c230010a523991200cf00b3bb0fca38c6262acdbcbab7a1ac231c"
+  },
+  "astra-militarum/Aquila-Lander": {
+    "source": "https://wh40k.lexicanum.com/wiki/File:Aquila_Lander.jpg",
+    "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/f/f6/Aquila_Lander.jpg",
+    "credit": "Games Workshop / Forge World; model painted by George Dellapina, crew by Chris Straw; archived via Lexicanum",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/4cb0ef10084e5448d4ae.jpg",
+    "sha256": "4cb0ef10084e5448d4ae68932e4da96dcc4578d1cc56bf052cc9104bd75e52f1"
+  },
+  "astra-militarum/Rein-And-Raus": {
+    "source": "https://miniset.net/sets/gw-60010699015",
+    "originalUrl": "https://miniset.net/files/set/gw-60010699015-9.jpg",
+    "credit": "Games Workshop / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/1a11e1d500f91fb86018.jpg",
+    "sha256": "1a11e1d500f91fb860187367eedd1c73151ef3dee796da39b9798f8c6280996b",
+    "caption": "Rein, sniper member of the two-model Rein and Raus unit."
+  },
+  "astra-militarum/Death-Rider-Commissar": {
+    "source": "https://www.evil-games-shop.de/epages/78108884.sf/en_US/?ObjectPath=/Shops/78108884/Products/995901052886",
+    "originalUrl": "https://www.evil-games-shop.de/WebRoot/Store15/Shops/78108884/5E57/D42A/15CA/CF0C/BB07/0A0C/6D0F/CCDD/Death_rider_Commissar.png",
+    "credit": "Forge World / Evil Games Shop",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/5a45aff111648fd1e3a7.png",
+    "sha256": "5a45aff111648fd1e3a7483a37f8843aa9156f8c4a8c020eb0003b7db9af90d0"
+  },
+  "astra-militarum/Leman-Russ-Eradicator": {
+    "source": "https://thetrolltrader.com/products/leman-russ-eradicator-16",
+    "originalUrl": "https://thetrolltrader.com/cdn/shop/products/DSC07839_2cb20a96-fc2b-42b2-8810-62487654f441.jpg?v=1682001961",
+    "credit": "Games Workshop miniature / The Troll Trader photography",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/e7eee7ff4656dadd90fa.jpg",
+    "sha256": "e7eee7ff4656dadd90fa77401f2084d0a394fdc278cdd6c304b999ec734141ed"
+  },
+  "astra-militarum/Leman-Russ-Exterminator": {
+    "source": "https://thetrolltrader.com/products/leman-russ-exterminator-28",
+    "originalUrl": "https://thetrolltrader.com/cdn/shop/files/DSC00643_398e4ac9-3391-4d50-8f8e-5a65a6773acd.jpg?v=1703151808",
+    "credit": "Games Workshop miniature / The Troll Trader photography",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/ae3e8e20f7c9c378875a.jpg",
+    "sha256": "ae3e8e20f7c9c378875aabf9c23295f0a3aa3bbb8c387a7e41f57d947c274323"
+  },
+  "astra-militarum/Leman-Russ-Vanquisher": {
+    "source": "https://thetrolltrader.com/products/leman-russ-vanquisher-63",
+    "originalUrl": "https://thetrolltrader.com/cdn/shop/files/DSC06986_b67dc582-1c57-4db1-8419-3e7b0365c9bd.jpg?v=1712932511",
+    "credit": "Games Workshop miniature / The Troll Trader photography",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/eb1acabba451c11e4952.jpg",
+    "sha256": "eb1acabba451c11e49522c1f76d7c93f13257b4d4babf222559dab1bc28e89da"
+  },
+  "astra-militarum/Storm-Chimera": {
+    "source": "https://miniset.net/sets/gw-99550105293",
+    "originalUrl": "https://miniset.net/files/set/gw-99550105293-2.jpg",
+    "credit": "Forge World / Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a85a4c730a595765b550.jpg",
+    "sha256": "a85a4c730a595765b550ea25a814d64bbf728f781b0565fde468ff8bfb0d7b1a"
+  },
+  "astra-militarum/Rogal-Dorn-Commander": {
+    "source": "https://www.ludifolie.com/15789-w40k-astra-militarum-rogal-dorn-battle-tank.html",
+    "originalUrl": "https://www.ludifolie.com/34659-large_default/w40k-astra-militarum-rogal-dorn-battle-tank.jpg",
+    "credit": "Games Workshop / Ludifolie",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/bde608fb4a55777a4148.jpg",
+    "sha256": "bde608fb4a55777a414870394f32079af02c827eddc454bba5f3ed59c40a0f09"
+  },
+  "astra-militarum/Aegis-Defence-Line": {
+    "source": "https://www.goldengoblingames.com/shop/warhammer-40k-astra-militarum-aegis-defence-line-14770",
+    "originalUrl": "https://www.goldengoblingames.com/web/image/product.product/14770/image_1920?unique=ea10aaf",
+    "credit": "Games Workshop / Golden Goblin Games",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/37a62b2d892168a98495.jpg",
+    "sha256": "37a62b2d892168a98495f083d14d3e4875f798b233527d8117d7853875702542"
+  },
+  "astra-militarum/Earthshaker-Platform": {
+    "source": "https://cowlevel.net/article/2037278",
+    "originalUrl": "https://pic1.cdncl.net/user/CodeRachel/common_pic/47652ef120d45a7ada0e1288cc0e94bf.jpg",
+    "credit": "Games Workshop / Forge World; archived miniature photograph reproduced by CodeRachel on Cowlevel",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c7012e97b0ab6a3a450f.jpg",
+    "sha256": "c7012e97b0ab6a3a450ffd6d6c29c3ca6f59cd322e1dd96cb722d9b3970786eb"
+  },
+  "astra-militarum/Hydra-Platform": {
+    "source": "https://cowlevel.net/article/2037278",
+    "originalUrl": "https://pic1.cdncl.net/user/CodeRachel/common_pic/54cf089a38573fa9d49ded0f728949c9.jpg",
+    "credit": "Games Workshop / Forge World; archived miniature photograph reproduced by CodeRachel on Cowlevel",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/a114d8c56f23ba3b24ee.jpg",
+    "sha256": "a114d8c56f23ba3b24ee3f4705c1125bccdb7deb7c12c949974ea36671ff1032"
+  },
+  "astra-militarum/Manticore-Platform": {
+    "source": "https://cowlevel.net/article/2037278",
+    "originalUrl": "https://pic1.cdncl.net/user/CodeRachel/common_pic/e3825149653dd5ac3a4886d1c6017583.jpg",
+    "credit": "Games Workshop / Forge World; archived miniature photograph reproduced by CodeRachel on Cowlevel",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/807c464a98010b6c5834.jpg",
+    "sha256": "807c464a98010b6c583490e7ed192738e2f6dcd00c6f1222a3a74ef5b6ae8eae"
+  },
+  "astra-militarum/Vendetta-Gunship": {
+    "source": "https://miniset.net/sets/gw-99550108079",
+    "originalUrl": "https://miniset.net/files/set/gw-99550108079-1.jpg",
+    "credit": "Games Workshop / Forge World; archived product photograph via Miniset",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/284c57cbf18be6975aa5.jpg",
+    "sha256": "284c57cbf18be6975aa501245fe43cf94083f814043606abdb8af808632639f7"
+  },
+  "astra-militarum/Sentinel-Powerlifter": {
+    "source": "https://wh40k.lexicanum.com/wiki/File:SentinelPowerlifter.jpg",
+    "originalUrl": "https://wh40k.lexicanum.com/mediawiki/images/3/3d/SentinelPowerlifter.jpg",
+    "credit": "Games Workshop / Forge World; original miniature photo archived via Lexicanum",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/c819d23875e15ca603ed.jpg",
+    "sha256": "c819d23875e15ca603edec23f7ef226029d66d3f34b52e1a869f6e299c52bc04"
+  },
+  "astra-militarum/Ogryn-Bodyguard": {
+    "source": "https://battlegroundhobbies.blogspot.com/2014/04/new-release-militarum-auxilla-bullgryns.html",
+    "originalUrl": "https://4.bp.blogspot.com/-0fc1UzeDvDE/U1XgyGGCAhI/AAAAAAAAFBY/o-5bUQs5VIU/s1600/bullgryn-bone-ead-02.jpg",
+    "credit": "Games Workshop / Battleground Hobbies",
+    "verifiedAt": "2026-09-23",
+    "background": "white",
+    "kind": "miniature",
+    "url": "/images/units/4fabae3f3537528a2183.jpg",
+    "sha256": "4fabae3f3537528a21831d8db6d5dc4217514747940c42b30d14dc69e87b9236",
+    "caption": "Ogryn kit: grenadier gauntlet and slabshield build."
   }
 }
