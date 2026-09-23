@@ -1,3 +1,19 @@
+# Live release — Warhammer Data Cards identity, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 19
+- Version ID: appgprj_6aa33e6481d08191afbb08599691d2a2~appgver_5cd3d9633c9481918fb9ca1888500b93
+- Deployment: appgdep_6ab415c1fd4c819183b6e54c91279eb8 — succeeded, 18:09:29 UTC
+- GitHub source: e7deca442e5f480c59c0f4c3d14c74fa9ef7e968
+- Hosting source: 7d6e2db4cf04cc0bfc15a44b4eab55437989a325
+- Matching app tree: b3af8014ca111c1452bc4e28db91217dc9cc6004
+
+App renamed Warhammer Data Cards in header, metadata and manifest. Original winged skull/shield SVG mark plus 180px Apple and 192/512px PWA PNG assets. Existing URL and storage keys preserved. Home battlefield adds staggered artillery descent/impacts/smoke/debris, full-width tank crossing and animated infantry. Shared metal frames extend to actions, saved slots, unit/rule tiles and roster dialogs while retaining faction colours. Pause includes every moving element; reduced motion disables all battlefield animation.
+
+TypeScript and production build passed. Local browser verified 1180x820 and 800x400 layouts, no horizontal overflow, renamed document title, Apple icon metadata, active animation transforms, pause across shells/tank/legs, saved-army loading and compact Custodian Guard card image. Native deployment succeeded. Physical iPad and installed Home Screen icon refresh untested. No gameplay/data/storage changes. Windows packaging fallback used after source workflow push.
+
+---
+
 # Live release — landscape images and command menu, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site

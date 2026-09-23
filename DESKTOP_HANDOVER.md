@@ -1,3 +1,7 @@
+## Latest update — Warhammer Data Cards
+
+Version 19 is live at the existing URL. New app identity/icon (including Apple/PWA PNGs), artillery/infantry/tank animation, shared command-frame button/tile styling. Home menu tiles preserved. GitHub e7deca4; exact IDs in RELEASE_STATUS.md. No storage-key migration. Existing installations may retain cached launcher names/icons until re-added. Photo backlog unchanged. Pull main before editing elsewhere.
+
 ## Latest update — landscape photos and command menu
 
 Version 18 is live. Banner photos scale in landscape and hide in portrait. Fullscreen button and home flavour copy removed; themed animated vector battlefield and new menu emblems added, with pause/reduced-motion support. GitHub source caaccfa9. Release IDs and viewport verification in RELEASE_STATUS.md. Photo coverage work is unchanged: Astra Militarum still has 104 outstanding entries. Pull main before editing on another PC.
