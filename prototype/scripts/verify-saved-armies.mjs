@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {ARMY_SLOTS_KEY,parseArmySlots,saveArmySlot} from '../lib/saved-armies.ts';
+const data=new Map();const storage={getItem:k=>data.get(k)||null,setItem:(k,v)=>data.set(k,v)};
+const army={name:' Custodes One ',faction:'Adeptus Custodes',roster:{mode:'build',text:'original export',entries:[{unitId:'guard',models:4,count:1}]},used:['guard'],savedAt:new Date().toISOString()};
+assert.deepEqual(parseArmySlots(null),[null,null,null,null]);
+for(let i=0;i<4;i++)saveArmySlot(storage,i,{...army,name:'Army '+i});
+assert.equal(parseArmySlots(storage.getItem(ARMY_SLOTS_KEY)).filter(Boolean).length,4);
+const before=storage.getItem(ARMY_SLOTS_KEY);assert.throws(()=>saveArmySlot(storage,4,army));assert.equal(storage.getItem(ARMY_SLOTS_KEY),before);
+const loaded=parseArmySlots(before);loaded[0].roster.entries[0].unitId='different';assert.equal(parseArmySlots(storage.getItem(ARMY_SLOTS_KEY))[0].roster.entries[0].unitId,'guard');
+saveArmySlot(storage,1,{...army,name:'Replacement'});const after=parseArmySlots(storage.getItem(ARMY_SLOTS_KEY));assert.equal(after[1].name,'Replacement');assert.equal(after[0].name,'Army 0');assert.equal(after[2].name,'Army 2');assert.equal(after[1].roster.text,'original export');
+assert.throws(()=>saveArmySlot({...storage,setItem:()=>{throw Error('quota');}},0,army),/quota/);assert.equal(parseArmySlots(storage.getItem(ARMY_SLOTS_KEY))[0].name,'Army 0');
+data.set(ARMY_SLOTS_KEY,'broken');assert.throws(()=>saveArmySlot(storage,0,army));assert.equal(data.get(ARMY_SLOTS_KEY),'broken');
+console.log('PASS saved armies: four slots, replacement isolation, reload, draft preservation, storage errors');
