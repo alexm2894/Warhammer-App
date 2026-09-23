@@ -146,3 +146,7 @@ main:has(.lookup-workspace) .app-header {height:50px;min-height:50px;flex-shrink
 }
 @media(max-width:850px){.lookup-workspace .card-body{grid-template-columns:1fr}.lookup-workspace .abilities-column{border-left:0;padding-left:0}.lookup-workspace .card-banner>.unit-art{display:none}}
 @media(max-width:600px){.header-source summary{font-size:11px}.app-header .brand{font-size:13px}.workspace.lookup-workspace{grid-template-columns:145px minmax(0,1fr)}}
+
+.army-unit-group{border-top:1px solid #657876;padding:12px 0}.army-unit-group header{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.army-unit-group h2,.sidebar-army-group h2{font-size:14px;margin:8px 0}.allied-army-picker{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.sidebar-army-group{border-top:1px solid #657876;padding-top:6px;margin-top:8px}
+
+.army-view-tabs{display:flex;flex-direction:column;gap:5px}.army-view-tabs button{font-size:12px;white-space:normal;min-height:44px;text-align:left}.army-view-tabs button[aria-pressed="true"]{outline:2px solid white;outline-offset:-2px}

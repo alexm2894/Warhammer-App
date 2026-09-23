@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {nativeUnits,separateArmies} from '../lib/army-groups.ts';
+const units=JSON.parse(readFileSync('data/catalogue.json','utf8'));
+assert.equal(nativeUnits(units,'Genestealer Cults').length,25);
+assert.ok(nativeUnits(units,'Genestealer Cults').every(u=>u.nativeFaction==='Genestealer Cults'&&u.image));
+const entry=id=>({unitId:id,models:1,count:1});
+const legacy={roster:{mode:'build',text:'original export',entries:[entry('genestealer-cults/Biophagus'),entry('genestealer-cults/Cadian-Shock-Troops'),entry('genestealer-cults/Deathleaper')]},used:[]};
+const next=separateArmies(legacy,'Genestealer Cults',units);
+assert.equal(next.roster.entries.length,1);assert.equal(next.roster.text,'original export');
+assert.equal(next.allies.length,2);assert.equal(next.allies.find(a=>a.faction==='Astra Militarum').roster.entries[0].unitId,'astra-militarum/Cadian-Shock-Troops');
+assert.deepEqual(separateArmies(next,'Genestealer Cults',units),next);assert.equal(legacy.roster.entries.length,3);
+console.log('PASS native GSC isolation, verified photo coverage, lossless legacy allied migration and idempotency');

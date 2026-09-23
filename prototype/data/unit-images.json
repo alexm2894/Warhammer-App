@@ -3195,5 +3195,444 @@
     "url": "/images/units/a5ea48d1bcab5edc5b85.jpg",
     "sha256": "a5ea48d1bcab5edc5b85cae6154fdbd182b9d4083ed5bded0c8a578224197d91",
     "note": "Same-name allied unit; existing photograph visually reverified."
+  },
+  "astra-militarum/Cadian-Castellan": {
+    "kind": "miniature",
+    "originalUrl": "https://bienjouets.fr/14986-thickbox_default/castellan-cadien-warhammer-40k.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "2e99f7b75ab46d65ae92629378bbbeba7cf9d68ad4fc083650aa0d874652666d",
+    "credit": "Games Workshop / Bienjouets",
+    "source": "https://bienjouets.fr/warhammer/4504-castellan-cadien-warhammer-40k",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/2e99f7b75ab46d65ae92.jpg"
+  },
+  "astra-militarum/Cadian-Command-Squad": {
+    "kind": "miniature",
+    "originalUrl": "https://mathom.es/62578-thickbox_default/warhammer-40000-astra-militarum-cadian-command-squad.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "4430822611aa25b5b8078df0c52347bf9589d7e356db8c9b9763dd281ed5b699",
+    "credit": "Games Workshop / Mathom",
+    "source": "https://mathom.es/es/astra-militarum/39147-warhammer-40000-astra-militarum-cadian-command-squad-5011921182268.html",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/4430822611aa25b5b807.jpg"
+  },
+  "astra-militarum/Primaris-Psyker": {
+    "kind": "miniature",
+    "originalUrl": "https://www.hobby-max.fr/54162-large_default/astra-militarum-primaris-psyker.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "c0199704cdaa72f4b6bbda8ae43f26d041f71f62bd4e14918decc840e3958fbf",
+    "credit": "Games Workshop / Hobby Max",
+    "source": "https://www.hobby-max.fr/astra-militarum/11562-astra-militarum-primaris-psyker-5011921183647.html",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/c0199704cdaa72f4b6bb.jpg"
+  },
+  "astra-militarum/Cadian-Shock-Troops": {
+    "kind": "miniature",
+    "originalUrl": "https://static-eu.insales.ru/images/products/1/1755/34064091/Cadians.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white; Cadian Shock Troops photo depicts older plastic kit.",
+    "sha256": "0bc945a5b3cd902f554d436aea13d1fcdbe604126d1aa14e9db29ff69188c7fc",
+    "credit": "Games Workshop / Wargame39",
+    "source": "https://wargame39.ru/collection/imperskaya-gvardiya/product/imperial-guard-cadian-shock-troops",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/0bc945a5b3cd902f554d.jpg"
+  },
+  "astra-militarum/Chimera": {
+    "kind": "miniature",
+    "originalUrl": "https://www.fantasy-shop.gr/images/detailed/21/99120105046_ChimeraNEW03.webp",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "3b357e99fd3928d60cdd7545cb6723ddecb90926b2a6af88aa3e2a50581f7a6a",
+    "credit": "Games Workshop / Fantasy Shop",
+    "source": "https://www.fantasy-shop.gr/astra-militarum-chimera.html",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/3b357e99fd3928d60cdd.webp"
+  },
+  "astra-militarum/Taurox-Prime": {
+    "kind": "miniature",
+    "originalUrl": "https://flamberg.com.pl/hpeciai/4fafbf27d98b3c04ca991a6e44519123/pol_pl_Warhammer-40000-Astra-Militarum-Taurox-Prime-195299_1.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "bffca8a4394455d4a9a74374d632803aaf12f55dd7a68bd92a27b125ad2af525",
+    "credit": "Games Workshop / Flamberg",
+    "source": "https://flamberg.com.pl/pl/products/warhammer-40000-astra-militarum-taurox-prime-195299",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/bffca8a4394455d4a9a7.jpg"
+  },
+  "astra-militarum/Basilisk": {
+    "kind": "miniature",
+    "originalUrl": "https://mesto.club/wa-data/public/shop/products/44/24/2444/images/6491/6491.970.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "191c01f01204f4f55f4b842593a44fcceb8e12dff0b4e40e0999c18ea75d6d8d",
+    "credit": "Games Workshop / Mesto",
+    "source": "https://mesto.club/wh40k-astra-militarum-basilisk/",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/191c01f01204f4f55f4b.jpg"
+  },
+  "astra-militarum/Field-Ordnance-Battery": {
+    "kind": "miniature",
+    "originalUrl": "https://mechanicalkeyboards.com/cdn/shop/files/22381-FKBVP-Warhammer-40000-Astra-Militarum-Field-Ordnance-Battery.jpg?v=1724855903",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "17be36f9b3e703afc3c0b6c99124a797135a5ebe5ee19aade9471bbfd66d608d",
+    "credit": "Games Workshop / MechanicalKeyboards",
+    "source": "https://mechanicalkeyboards.com/products/warhammer-40000-astra-militarum-field-ordnance-battery",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/17be36f9b3e703afc3c0.jpg"
+  },
+  "astra-militarum/Kasrkin": {
+    "kind": "miniature",
+    "originalUrl": "https://i.ebayimg.com/images/g/NxkAAOSw~p1nIhdl/s-l1200.jpg",
+    "background": "white",
+    "note": "Visually verified assembled correct miniature on white.",
+    "sha256": "a17bbdf51d3de6690b3c4403bfbdf4d52f4b66bebac658920fe034aa90df82af",
+    "credit": "Games Workshop / GrimDarkGames",
+    "source": "https://www.ebay.co.uk/itm/226424402335",
+    "verifiedAt": "2026-09-23",
+    "url": "/images/units/a17bbdf51d3de6690b3c.jpg"
+  },
+  "astra-militarum/Commissar": {
+    "url": "/images/units/7465f69153b1098f3616.jpg",
+    "originalUrl": "https://www.ludifolie.com/39540-large_default/warhammer-40k-astra-militarum-commissar.jpg",
+    "source": "https://www.ludifolie.com/15253-warhammer-40k-astra-militarum-commissar.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "7465f69153b1098f36165bb6be76b5fe5569a06986afc05190fd2b11058711fe"
+  },
+  "genestealer-cults/Rogal-Dorn-Battle-Tank": {
+    "url": "/images/units/bde608fb4a55777a4148.jpg",
+    "originalUrl": "https://www.ludifolie.com/34659-large_default/w40k-astra-militarum-rogal-dorn-battle-tank.jpg",
+    "source": "https://www.ludifolie.com/15789-w40k-astra-militarum-rogal-dorn-battle-tank.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "bde608fb4a55777a414870394f32079af02c827eddc454bba5f3ed59c40a0f09"
+  },
+  "astra-militarum/Rogal-Dorn-Battle-Tank": {
+    "url": "/images/units/bde608fb4a55777a4148.jpg",
+    "originalUrl": "https://www.ludifolie.com/34659-large_default/w40k-astra-militarum-rogal-dorn-battle-tank.jpg",
+    "source": "https://www.ludifolie.com/15789-w40k-astra-militarum-rogal-dorn-battle-tank.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "bde608fb4a55777a414870394f32079af02c827eddc454bba5f3ed59c40a0f09"
+  },
+  "astra-militarum/Gaunt-s-Ghosts": {
+    "url": "/images/units/ca4456c38bd81cdc102c.jpg",
+    "originalUrl": "https://www.ludifolie.com/39491-large_default/w40k-astra-militarum-gaunt-s-ghost.jpg",
+    "source": "https://www.ludifolie.com/17176-w40k-astra-militarum-gaunt-s-ghost.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "ca4456c38bd81cdc102c5448d0a80f5d2834508ea216bd5ae9e67cf62d40a05e"
+  },
+  "genestealer-cults/Leman-Russ-Demolisher": {
+    "url": "/images/units/feba74e6970ef061b1fa.jpg",
+    "originalUrl": "https://www.ludifolie.com/42289-large_default/warhammer-40k-astra-militarum-leman-russ-battle-tank.jpg",
+    "source": "https://www.ludifolie.com/17976-warhammer-40k-astra-militarum-leman-russ-battle-tank.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "feba74e6970ef061b1fa38fce75040e70f34474fba2c679241c845ffe0efcb27"
+  },
+  "astra-militarum/Leman-Russ-Demolisher": {
+    "url": "/images/units/feba74e6970ef061b1fa.jpg",
+    "originalUrl": "https://www.ludifolie.com/42289-large_default/warhammer-40k-astra-militarum-leman-russ-battle-tank.jpg",
+    "source": "https://www.ludifolie.com/17976-warhammer-40k-astra-militarum-leman-russ-battle-tank.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "feba74e6970ef061b1fa38fce75040e70f34474fba2c679241c845ffe0efcb27"
+  },
+  "astra-militarum/Lord-Solar-Leontus": {
+    "url": "/images/units/e2b907c61582434bfd6f.jpg",
+    "originalUrl": "https://www.ludifolie.com/45757-large_default/warhammer-40k-astra-militarum-lord-solar-leontus.jpg",
+    "source": "https://www.ludifolie.com/19059-warhammer-40k-astra-militarum-lord-solar-leontus.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "e2b907c61582434bfd6f396a3234772337de29aa086b64eb1bbb362a2bb6c403"
+  },
+  "genestealer-cults/Attilan-Rough-Riders": {
+    "url": "/images/units/d8c96e807ba79c16335d.jpg",
+    "originalUrl": "https://www.ludifolie.com/47023-large_default/warhammer-40k-astra-militarum-attilan-rough-riders.jpg",
+    "source": "https://www.ludifolie.com/19446-warhammer-40k-astra-militarum-attilan-rough-riders.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "d8c96e807ba79c16335d302f73af4f0f498b5933a1fb74c627e4d40e871d6c4c"
+  },
+  "astra-militarum/Attilan-Rough-Riders": {
+    "url": "/images/units/d8c96e807ba79c16335d.jpg",
+    "originalUrl": "https://www.ludifolie.com/47023-large_default/warhammer-40k-astra-militarum-attilan-rough-riders.jpg",
+    "source": "https://www.ludifolie.com/19446-warhammer-40k-astra-militarum-attilan-rough-riders.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "d8c96e807ba79c16335d302f73af4f0f498b5933a1fb74c627e4d40e871d6c4c"
+  },
+  "astra-militarum/Ursula-Creed": {
+    "url": "/images/units/71a8b0d0e6a4d0767d27.jpg",
+    "originalUrl": "https://www.ludifolie.com/47594-large_default/warhammer-40k-astra-militarum-lord-castellan-ursula-creed.jpg",
+    "source": "https://www.ludifolie.com/19611-warhammer-40k-astra-militarum-lord-castellan-ursula-creed.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "71a8b0d0e6a4d0767d27ebbffdaa8db6b2cb676b214928b2fcc245893b6e6fa5"
+  },
+  "astra-militarum/Tech-Priest-Enginseer": {
+    "url": "/images/units/886304f01de22e064ea0.jpg",
+    "originalUrl": "https://www.ludifolie.com/47782-large_default/warhammer-40k-astra-militarum-tech-priest-enginseer.jpg",
+    "source": "https://www.ludifolie.com/19661-warhammer-40k-astra-militarum-tech-priest-enginseer.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "886304f01de22e064ea0818d5333ee68b2c9d3c30f2422f58e204476bf9b0b69"
+  },
+  "astra-militarum/Valkyrie": {
+    "url": "/images/units/266a63539d9dd476bfd5.jpg",
+    "originalUrl": "https://www.ludifolie.com/52502-large_default/warhammer-40k-astra-militarum-valkyrie.jpg",
+    "source": "https://www.ludifolie.com/20961-warhammer-40k-astra-militarum-valkyrie.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "266a63539d9dd476bfd5d09860ebd0599710214d904f13ee9c7475d9b54a5af5"
+  },
+  "genestealer-cults/Artillery-Team": {
+    "url": "/images/units/ccb0e81f87773bc3042d.jpg",
+    "originalUrl": "https://www.ludifolie.com/54638-large_default/warhammer-40k-astra-militarum-artillery-team.jpg",
+    "source": "https://www.ludifolie.com/21539-warhammer-40k-astra-militarum-artillery-team.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "ccb0e81f87773bc3042de9b45c474f7055ca9ed33d2be76d7c71ed188ef469f1"
+  },
+  "astra-militarum/Artillery-Team": {
+    "url": "/images/units/ccb0e81f87773bc3042d.jpg",
+    "originalUrl": "https://www.ludifolie.com/54638-large_default/warhammer-40k-astra-militarum-artillery-team.jpg",
+    "source": "https://www.ludifolie.com/21539-warhammer-40k-astra-militarum-artillery-team.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "ccb0e81f87773bc3042de9b45c474f7055ca9ed33d2be76d7c71ed188ef469f1"
+  },
+  "astra-militarum/Lord-Marshal-Dreir": {
+    "url": "/images/units/5d660a61c40d9fcdb6c5.jpg",
+    "originalUrl": "https://www.ludifolie.com/54642-large_default/warhammer-40k-astra-militarum-lord-marshal-dreir.jpg",
+    "source": "https://www.ludifolie.com/21540-warhammer-40k-astra-militarum-lord-marshal-dreir.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "5d660a61c40d9fcdb6c5b78f5e4ab69dcc0792a49f9dcd289134d7b57f32cfb3"
+  },
+  "genestealer-cults/Krieg-Heavy-Weapons-Squad": {
+    "url": "/images/units/55570593ffec4a6dbfd3.jpg",
+    "originalUrl": "https://www.ludifolie.com/54646-large_default/warhammer-40k-astra-militarum-krieg-heavy-weapon-squad.jpg",
+    "source": "https://www.ludifolie.com/21541-warhammer-40k-astra-militarum-krieg-heavy-weapon-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "55570593ffec4a6dbfd32582c1ef3bbf4e0f54ed7aff23841313c5ec7deb01fa"
+  },
+  "astra-militarum/Krieg-Heavy-Weapons-Squad": {
+    "url": "/images/units/55570593ffec4a6dbfd3.jpg",
+    "originalUrl": "https://www.ludifolie.com/54646-large_default/warhammer-40k-astra-militarum-krieg-heavy-weapon-squad.jpg",
+    "source": "https://www.ludifolie.com/21541-warhammer-40k-astra-militarum-krieg-heavy-weapon-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "55570593ffec4a6dbfd32582c1ef3bbf4e0f54ed7aff23841313c5ec7deb01fa"
+  },
+  "genestealer-cults/Death-Riders": {
+    "url": "/images/units/ca197a1aaefc51ddbb08.jpg",
+    "originalUrl": "https://www.ludifolie.com/54651-large_default/warhammer-40k-astra-militarum-death-riders.jpg",
+    "source": "https://www.ludifolie.com/21542-warhammer-40k-astra-militarum-death-riders.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "ca197a1aaefc51ddbb08410f2dd5c29cb553bd002157c21428aa8ef8052fa660"
+  },
+  "astra-militarum/Death-Riders": {
+    "url": "/images/units/ca197a1aaefc51ddbb08.jpg",
+    "originalUrl": "https://www.ludifolie.com/54651-large_default/warhammer-40k-astra-militarum-death-riders.jpg",
+    "source": "https://www.ludifolie.com/21542-warhammer-40k-astra-militarum-death-riders.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "ca197a1aaefc51ddbb08410f2dd5c29cb553bd002157c21428aa8ef8052fa660"
+  },
+  "genestealer-cults/Krieg-Combat-Engineers": {
+    "url": "/images/units/708af0e2be5b6415fa1b.jpg",
+    "originalUrl": "https://www.ludifolie.com/54655-large_default/warhammer-40k-astra-militarum-krieg-combat-engineers.jpg",
+    "source": "https://www.ludifolie.com/21543-warhammer-40k-astra-militarum-krieg-combat-engineers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "708af0e2be5b6415fa1b8f0f0b81ce1b2ac0bacca65f7f9438efdc18255b2afc"
+  },
+  "astra-militarum/Krieg-Combat-Engineers": {
+    "url": "/images/units/708af0e2be5b6415fa1b.jpg",
+    "originalUrl": "https://www.ludifolie.com/54655-large_default/warhammer-40k-astra-militarum-krieg-combat-engineers.jpg",
+    "source": "https://www.ludifolie.com/21543-warhammer-40k-astra-militarum-krieg-combat-engineers.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "708af0e2be5b6415fa1b8f0f0b81ce1b2ac0bacca65f7f9438efdc18255b2afc"
+  },
+  "astra-militarum/Commissar-Graves": {
+    "url": "/images/units/d649fb6c5b5f2e7d9957.jpg",
+    "originalUrl": "https://www.ludifolie.com/65549-large_default/warhammer-40k-astra-militarum-commissar-graves.jpg",
+    "source": "https://www.ludifolie.com/24505-warhammer-40k-astra-militarum-commissar-graves.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "d649fb6c5b5f2e7d9957848650a14115034d2240167036b6dbc73b49b91beb42"
+  },
+  "genestealer-cults/Hippogriff-AFV": {
+    "url": "/images/units/92f32506dee5f0e2a916.jpg",
+    "originalUrl": "https://www.ludifolie.com/66822-large_default/warhammer-40k-astra-militarum-hippogriff-afv.jpg",
+    "source": "https://www.ludifolie.com/24814-warhammer-40k-astra-militarum-hippogriff-afv.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "92f32506dee5f0e2a9165e1f9ba005b4d05cdd94c418cf697f3f5bd6eff3b859"
+  },
+  "astra-militarum/Hippogriff-AFV": {
+    "url": "/images/units/92f32506dee5f0e2a916.jpg",
+    "originalUrl": "https://www.ludifolie.com/66822-large_default/warhammer-40k-astra-militarum-hippogriff-afv.jpg",
+    "source": "https://www.ludifolie.com/24814-warhammer-40k-astra-militarum-hippogriff-afv.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "92f32506dee5f0e2a9165e1f9ba005b4d05cdd94c418cf697f3f5bd6eff3b859"
+  },
+  "genestealer-cults/Centaur-RSV": {
+    "url": "/images/units/a2c3aeaa8f5f91a670b2.jpg",
+    "originalUrl": "https://www.ludifolie.com/66827-large_default/warhammer-40k-astra-militarum-centaur-rsv.jpg",
+    "source": "https://www.ludifolie.com/24815-warhammer-40k-astra-militarum-centaur-rsv.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "a2c3aeaa8f5f91a670b2cf5e8990dab9e42697c0318acbdcb61f6477567d1eff"
+  },
+  "astra-militarum/Centaur-RSV": {
+    "url": "/images/units/a2c3aeaa8f5f91a670b2.jpg",
+    "originalUrl": "https://www.ludifolie.com/66827-large_default/warhammer-40k-astra-militarum-centaur-rsv.jpg",
+    "source": "https://www.ludifolie.com/24815-warhammer-40k-astra-militarum-centaur-rsv.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "a2c3aeaa8f5f91a670b2cf5e8990dab9e42697c0318acbdcb61f6477567d1eff"
+  },
+  "genestealer-cults/Baneblade": {
+    "url": "/images/units/a2e678c110bcb6082814.jpg",
+    "originalUrl": "https://www.ludifolie.com/51550-large_default/warhammer-40k-astra-militarum-baneblade.jpg",
+    "source": "https://www.ludifolie.com/20675-warhammer-40k-astra-militarum-baneblade.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "a2e678c110bcb6082814474634835b1969217d82abb5b1a7706bf606b0db30e5"
+  },
+  "astra-militarum/Baneblade": {
+    "url": "/images/units/a2e678c110bcb6082814.jpg",
+    "originalUrl": "https://www.ludifolie.com/51550-large_default/warhammer-40k-astra-militarum-baneblade.jpg",
+    "source": "https://www.ludifolie.com/20675-warhammer-40k-astra-militarum-baneblade.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "a2e678c110bcb6082814474634835b1969217d82abb5b1a7706bf606b0db30e5"
+  },
+  "genestealer-cults/Krieg-Command-Squad": {
+    "url": "/images/units/775fd0ef08f8f7236159.jpg",
+    "originalUrl": "https://www.ludifolie.com/54658-large_default/warhammer-40k-astra-militarum-krieg-command-squad.jpg",
+    "source": "https://www.ludifolie.com/21544-warhammer-40k-astra-militarum-krieg-command-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "775fd0ef08f8f7236159c6aa6a732e65d91c51e369d0cbeda526d639395d0fbc"
+  },
+  "astra-militarum/Krieg-Command-Squad": {
+    "url": "/images/units/775fd0ef08f8f7236159.jpg",
+    "originalUrl": "https://www.ludifolie.com/54658-large_default/warhammer-40k-astra-militarum-krieg-command-squad.jpg",
+    "source": "https://www.ludifolie.com/21544-warhammer-40k-astra-militarum-krieg-command-squad.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "775fd0ef08f8f7236159c6aa6a732e65d91c51e369d0cbeda526d639395d0fbc"
+  },
+  "genestealer-cults/Death-Korps-Of-Krieg": {
+    "url": "/images/units/b799b847e6cf7886d3ea.jpg",
+    "originalUrl": "https://www.ludifolie.com/54702-large_default/warhammer-40k-astra-militarum-death-korps-of-krieg.jpg",
+    "source": "https://www.ludifolie.com/21557-warhammer-40k-astra-militarum-death-korps-of-krieg.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "b799b847e6cf7886d3eab4f5ef81ac073d9a8db1ab72acda20760fe9a925382d"
+  },
+  "astra-militarum/Death-Korps-Of-Krieg": {
+    "url": "/images/units/b799b847e6cf7886d3ea.jpg",
+    "originalUrl": "https://www.ludifolie.com/54702-large_default/warhammer-40k-astra-militarum-death-korps-of-krieg.jpg",
+    "source": "https://www.ludifolie.com/21557-warhammer-40k-astra-militarum-death-korps-of-krieg.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "b799b847e6cf7886d3eab4f5ef81ac073d9a8db1ab72acda20760fe9a925382d"
+  },
+  "astra-militarum/Commissar-Yarrick": {
+    "url": "/images/units/b006374f046764b1a111.jpg",
+    "originalUrl": "https://www.ludifolie.com/65546-large_default/warhammer-40k-astra-militarum-commissar-yarrick.jpg",
+    "source": "https://www.ludifolie.com/24504-warhammer-40k-astra-militarum-commissar-yarrick.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "b006374f046764b1a11167eaa33b8f9881dc239c2489e6e3d46a5aa0a4d39acb"
+  },
+  "astra-militarum/Ciaphas-Cain": {
+    "url": "/images/units/db638630f7187c8326ab.jpg",
+    "originalUrl": "https://www.ludifolie.com/66835-large_default/warhammer-40k-astra-militarum-ciaphas-cain.jpg",
+    "source": "https://www.ludifolie.com/24818-warhammer-40k-astra-militarum-ciaphas-cain.html",
+    "credit": "Games Workshop / Ludifolie",
+    "kind": "miniature",
+    "background": "white",
+    "verifiedAt": "2026-09-23",
+    "sha256": "db638630f7187c8326abf692979e3b67b06c8f2403b82ff466d3fb8da5adf225"
   }
 }
