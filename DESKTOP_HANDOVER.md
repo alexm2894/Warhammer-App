@@ -1,3 +1,7 @@
+## Latest update — Saved Armies
+
+Version 15 is live. Four named local saved-army slots are the first screen in Game Data Cards. Save and load selections with replacement confirmation, reusing the existing card cache. Personal armies remain device/browser-local. GitHub app commit 0e0a364; see RELEASE_STATUS.md for exact matching source and deployment IDs. Tests, type checks, build and browser save/reload/load flow passed.
+
 ## Latest update — 23 September 2026
 
 Version 14 is live. GitHub app source c2a0c29 and hosting source 5880cf8 have identical app trees. Both viewers use independent sidebar/card scrolling and grouped army/detachment sheets containing their stratagems. Source timing colours, CP badges and source dates are retained. Full tests, type checks, production build and landscape browser checks passed. See RELEASE_STATUS.md for exact release IDs. Pull main before editing on another computer.

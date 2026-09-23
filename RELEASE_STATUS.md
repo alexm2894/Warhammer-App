@@ -1,3 +1,18 @@
+# Live release — saved armies, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 15
+- Deployment: appgdep_6ab4087dee188191909073bcc14cada3 — succeeded, 17:12:54 UTC
+- GitHub application source: 0e0a364c4d02c33f22315ee284abc0cebdbbef74
+- Hosting source: b49d685d043dbc38e9e028a7e9a5f61ccfd06c73
+- Matching application tree: dd13bc260e244dc688e343e9a1dab4156871c4c1
+
+Game Data Cards opens on Saved Armies with four named local slots. Save after building/importing or from the viewer. Occupied-slot replacement requires confirmation; switching armies restores roster selections and loads cached cards. Existing faction drafts remain preserved.
+
+Validation: full test suite, saved-army slot/reload/isolation/storage-failure tests, TypeScript and production build passed. Browser at 1180x820: build selection, name and save a slot, reload, load saved army and verify Custodian Guard card displayed. Physical iPad remains untested.
+
+---
+
 # Live release — grouped rule sheets, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site
