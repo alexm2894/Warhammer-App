@@ -1,3 +1,20 @@
+# Live release — viewer and rules cards, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 13
+- Deployment: appgdep_6ab3db7c43a08191b9cbcca2882b9553 — succeeded, 14:00:53 UTC
+- GitHub application source: 16dc489de4f233f69ea9754566f58c451e037601
+- Hosting source: cf1dc9cbd829943f67b8959aeefe322c3306e99d
+- Matching application tree: 8edafca553ec768b3295f0c62739eadd75f9d6e3
+
+Versus removed. Both card viewers expose shared army/detachment/stratagem reference cards with distinct sidebar tiles, detachment-specific stratagem lists, source dates, session caching and refresh. Custodes and Cult source snapshots refreshed from 11th-edition Wahapedia on 23 September.
+
+Photo references total 318. Custodes 31/31 and native GSC coverage complete, including the Venerable Contemptor. The Hand Flamers card uses its demolition-charge member with an explicit photo caption. GSC's extended index has 42/139 photos; 97 allied entries remain missing. See IMAGE_COVERAGE.md.
+
+Validation: TypeScript, existing viewer tests, new rule-card isolation/cache/refresh tests, production build; local home/lookup/game-cards returned 200 and removed Versus returned 404. Native deployment succeeded. Interactive browser checks were blocked by unreachable local preview in the browser tool; real iPad touch/voice/fullscreen validation remains outstanding.
+
+---
+
 # Live release — sidebar update, 16 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site

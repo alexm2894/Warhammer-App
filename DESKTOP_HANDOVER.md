@@ -1,21 +1,17 @@
-# Desktop handover — 16 September 2026
+# Desktop handover — 23 September 2026
 
-GitHub `main` is the canonical source. Pull before editing on another PC. The application is in `prototype/` within this repository; run `npm ci` there, then `npm run dev`. Local development uses port 5173. The original public URL is recorded in RELEASE_STATUS.md; localhost is only a preview.
+Pull GitHub main before editing. The app is in prototype/. GitHub is canonical; the hosting repository uses the same application tree at its root.
 
-## Latest completed implementation
+## Current product
 
-- Home now offers Data Cards, Game Data Cards, and Versus.
-- Lookup has an animated narrow search rail with a large expand button, preserving the current card and search state.
-- Shared cards show larger model photographs.
-- Game Data Cards lets players choose an army, select cards through the shared builder, or upload/paste a Warhammer app text export and review it before replacing the selection.
-- Selected cards preload through the shared loader and are retained in IndexedDB. A top strip of named model thumbnails switches the full card below it. Previously used units sort first when preparing that army again.
-- Custodes and Genestealer Cults lead the army list. Army choices and imported drafts persist locally; they do not sync between PCs through GitHub. Saved cards retain their source date and Refresh control. This is not a promise that the whole website works offline.
-- Permanent photographs and their provenance are versioned with the app. IMAGE_COVERAGE.md records the exact remaining gaps. The known autopistol image was removed from the hand-flamer variant to avoid misidentifying its weapons.
+- Two modes only: Datasheet lookup and Game Data Cards. Versus route, setup UI and battle resolver were removed at the user's request.
+- Both modes share unit cards and new army/detachment/stratagem reference cards. Pick a faction in lookup, or use the prepared army in Game Data Cards. Tap a detachment card to select its stratagem list. Detachment preference persists locally; rule packs reuse a session cache and have explicit refresh.
+- Collapsible sidebars retain selectable unit thumbnails and distinctive labelled rule tiles.
+- Custodes and GSC rule snapshots were checked on Wahapedia on 23 September. Rules remain source prose, not executable combat effects.
+- All 31 Custodes and all native GSC entries have model photos. GSC's extended allied index remains incomplete: 42/139 images overall. See IMAGE_COVERAGE.md. The Hand Flamers photo is a demolition-charge member, identified in the source caption.
 
-## Remaining scope from earlier requests
+## Validation and limits
 
-- Complete all missing regular-army photographs listed in IMAGE_COVERAGE.md. Custodes currently has 29/31 entries; Knight-centura and Venerable Contemptor remain. Genestealer counts include allied datasheets, not just native Cult units. A correct hand-flamer variant photograph still needs verification.
-- Rules prose not supported by typed calculations stays visible as manual reminders; a working dice/casualty/damage system is future work. Never silently infer rules from prose.
-- Maintain the 11th-edition Wahapedia verification rule and iPad-first layout in prototype/AGENTS.md. No gameplay values were changed by the latest card-library UI work.
+TypeScript, automated viewer tests, Solar Spearhead stratagem/cache/edition tests and production build passed. Local home/lookup/game-cards routes returned 200; Versus returned 404. Interactive browser QA could not run because the browser tool reported an unreachable local preview. Test touch scrolling, collapsed rule labels, voice and fullscreen on the real iPad.
 
-Release source, deployment status, and validation evidence are recorded separately in RELEASE_STATUS.md. Do not assume an unrecorded local build has been published.
+Publication details are recorded in RELEASE_STATUS.md.
