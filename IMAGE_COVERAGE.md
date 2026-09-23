@@ -1,3 +1,9 @@
+# Latest native-army coverage — 23 September 2026
+
+Genestealer Cults: 25/25 native units. Astra Militarum: 31/135; 104 remain unverified. The previous 139-entry GSC count mixed in 100 Astra Militarum and 14 Tyranid entries; those now live in separate allied lists. Full up-to-date missing list: prototype/data/IMAGE_COVERAGE.md. The historical notes below use the old source-index grouping.
+
+---
+
 # Photo coverage update — 23 September 2026
 
 Custodes: 31/31 entries. Native Genestealer Cults units now have photographs; the Hand Flamers entry depicts its demolition-charge member, clearly captioned. The extended Genestealer Cults index includes allied Astra Militarum and Tyranid units. It has 42/139 photos after 13 allied additions.

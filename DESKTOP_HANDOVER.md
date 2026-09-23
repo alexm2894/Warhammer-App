@@ -1,3 +1,7 @@
+## Latest update — main and allied armies
+
+Version 17 is live. Native faction ownership separates source-index allies. Explicit allied rosters and four saved slots preserve separate unit groups; selection menus own all management actions. GSC photo coverage 25/25, Astra Militarum 31/135; 104 photographs remain outstanding (prototype/data/IMAGE_COVERAGE.md). Do not report full AM coverage. GitHub app source 2b5881b; exact release IDs and checks in RELEASE_STATUS.md. Pull main before editing on another PC.
+
 ## Latest update — compact cards
 
 Version 16 is live. Source and refresh now live in the top bar; card bodies take priority over headers and keywords at all landscape heights. Army tools collapse; rule icons and source-preserving effect highlights added. GitHub app commit 995b71c. See RELEASE_STATUS.md for exact release IDs and responsive checks. Pull main before editing elsewhere.

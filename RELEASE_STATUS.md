@@ -1,3 +1,20 @@
+# Live release — separate allied armies, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 17
+- Deployment: appgdep_6ab4100b651c819186e42942f5b45aa5 — succeeded, 17:45:07 UTC
+- GitHub application source: 2b5881b2ea2b91d2fe197d541582dc4d5b0ec5f6
+- Hosting source: 93127c7bf03faa48506164f2403959a92de8cdd6
+- Matching application tree: c292f32b0900754ef3091aaad090399139948ad8
+
+Native faction metadata verified from 11th-edition datasheet faction keywords. GSC source index comprises 25 native, 100 Astra Militarum and 14 Tyranid entries. Native builders and general lookup exclude allied source duplicates. Explicit allied rosters have separate selection lists and sidebar army selectors. Legacy selections migrate without loss. Named saves retain allied lists. Save/Edit/army management removed from viewer sidebar and available on selection screens.
+
+Photos: native GSC 25/25. Astra Militarum 31/135 (nine reused verified assets plus 22 new photographed models). Remaining 104 entries still unverified; full photo request is NOT complete. Retailer APIs returned HTTP 429, archived gallery HTTP 403; accessible galleries were visually audited, rejecting packaging and mismatched variants. Exact missing list: prototype/data/IMAGE_COVERAGE.md.
+
+Validation: full automated suite, native faction/legacy migration/idempotency tests, TypeScript and production build. Browser at 1180x820 confirmed 25-unit native GSC builder, adding Astra Militarum separately, saving/reloading both groups, isolated allied sidebar and Yarrick photograph, and zero sidebar management buttons. Physical iPad untested.
+
+---
+
 # Live release — compact card content, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site
