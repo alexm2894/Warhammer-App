@@ -1,3 +1,7 @@
+## Latest update — landscape photos and command menu
+
+Version 18 is live. Banner photos scale in landscape and hide in portrait. Fullscreen button and home flavour copy removed; themed animated vector battlefield and new menu emblems added, with pause/reduced-motion support. GitHub source caaccfa9. Release IDs and viewport verification in RELEASE_STATUS.md. Photo coverage work is unchanged: Astra Militarum still has 104 outstanding entries. Pull main before editing on another PC.
+
 ## Latest update â€” main and allied armies
 
 Version 17 is live. Native faction ownership separates source-index allies. Explicit allied rosters and four saved slots preserve separate unit groups; selection menus own all management actions. GSC photo coverage 25/25, Astra Militarum 31/135; 104 photographs remain outstanding (prototype/data/IMAGE_COVERAGE.md). Do not report full AM coverage. GitHub app source 2b5881b; exact release IDs and checks in RELEASE_STATUS.md. Pull main before editing on another PC.

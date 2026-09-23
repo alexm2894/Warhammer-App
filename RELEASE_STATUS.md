@@ -1,3 +1,19 @@
+# Live release — landscape images and command menu, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 18
+- Version ID: appgprj_6aa33e6481d08191afbb08599691d2a2~appgver_098b0157c7e48191a75a088f8d52bfc3
+- Deployment: appgdep_6ab41367775c8191a738baedca7aa4ea — succeeded, 17:59:22 UTC
+- GitHub application source: caaccfa90a3717aa4a19ddcfbda63df7d3d7334c
+- Hosting source: 16f833d346d1a0c37bc30b3b419f5bcdcd9383e8
+- Matching application tree: 89836027d83bb41411cd34fe3eb5f8ce6651823a
+
+Landscape unit images now scale instead of disappearing below 850px. Portrait omits banner images. Removed fullscreen UI and home flavour copy; Home Screen standalone support remains. Original vector ruined battlefield animation, shield/blade menu emblems, pause control and reduced-motion support. No gameplay or storage changes.
+
+Validation: TypeScript and production build passed. Browser checked 1180x820, 800x400 and 820x1180; landscape image loaded without horizontal page overflow, all weapon rows visible at iPad size, portrait hides image, menu pause and both navigation links work. Published menu, Saved Armies screen and Allarus lookup/image verified. Physical iPad untested. Native Windows packaging fallback used after workflow source push; pushed source and artifact tree match.
+
+---
+
 # Live release â€” separate allied armies, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site
