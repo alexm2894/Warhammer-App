@@ -1,3 +1,19 @@
+# Live release - Astra Militarum photos, 23 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 20
+- Version ID: appgprj_6aa33e6481d08191afbb08599691d2a2~appgver_959e09fe9bc081918d146566ab5fc495
+- Deployment: appgdep_6ab43caaa0208191b1c9dd659fde42ec - succeeded, 20:55:30 UTC
+- GitHub source: b5dbf71650d7a7be62091b062d0e00f2b9e1e9da
+- Hosting source: bc9e6ce16ee6d679b6874a9d67bf0693a4309d45
+- Matching app tree: cb1793933abf7e511c6e0732936e17ba58cc639f
+
+Added 103 verified Astra Militarum photo mappings, increasing coverage from 31/135 to 134/135. Dominus Armoured Siege Bombard remains without a verified official miniature; no proxy supplied. Genestealer Cults remains 25/25. Photos are permanent local assets with provenance and hashes. Archived kits can be unpainted or lower resolution; Rein and Raus uses an explicitly captioned Rein photo. No gameplay or storage changes.
+
+Validation: catalogue/file/hash/signature/provenance audit passed (464 mappings, 404 unique files, 43.82 MiB). TypeScript and production build passed. Local iPad-landscape browser verified Manticore image in banner/sidebar, saved-army loading and separate allied Astra Militarum list. Windows packaging fallback used after successful source push. Native deployment succeeded. Published home navigation, Manticore lookup and both model images verified loaded. Physical iPad untested.
+
+---
+
 ## Latest update — Warhammer Data Cards
 
 Version 19 is live at the existing URL. New app identity/icon (including Apple/PWA PNGs), artillery/infantry/tank animation, shared command-frame button/tile styling. Home menu tiles preserved. GitHub e7deca4; exact IDs in RELEASE_STATUS.md. No storage-key migration. Existing installations may retain cached launcher names/icons until re-added. Photo backlog unchanged. Pull main before editing elsewhere.
