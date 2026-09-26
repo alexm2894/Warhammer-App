@@ -1,3 +1,19 @@
+# Live release - daily and manual data updates, 26 September 2026
+
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site
+- Sites version: 21
+- Version ID: appgprj_6aa33e6481d08191afbb08599691d2a2~appgver_94dee6ab31388191bbb69928ac0cc013
+- Deployment: appgdep_6ab7d3211bd481918589a80f4d8ea8b0 - succeeded, 14:14:12 UTC
+- GitHub source: 18d17bcba88c1450020fc040edb01d04fcf1e196
+- Hosting source: ef49a4245850e31bd50a42464804719899cd80fc
+- Matching app tree: e5aebbc8db81b435576dfc05661a0eab8d99d979
+
+Main menu Check for updates plus daily automatic check at the safe menu boundary. Refreshes supported faction lists, locally stored/session cards, saved/draft army selections and their faction rule packs. Dynamic units are verified against an allowlisted live index; allies retain native identity. Successful live card size/points metadata updates with its retrieval date. Fallback snapshots never replace good records during a batch check. Atomic IndexedDB commit, cancellation/navigation abort, per-item failures and last full-check timestamp. Saved army slot/draft keys unchanged. New photos and wholly new factions remain curated release work. See prototype/data/UPDATE_BEHAVIOUR.md.
+
+Validation: full regression suite and new daily/backoff/stale-data policy tests passed, TypeScript and production build passed. HTTP verified five live cards, invalid-URL rejection, Astra Militarum and Genestealer live lists. Local browser completed a 30-item check, retained date on reload, cancelled another check, preserved both saved army slots and reopened refreshed Custodian Guard. Pointer automation did not activate existing or new buttons in this browser session; keyboard activation verified; physical iPad untested. Original publishing helper disappeared from the installed plugin path mid-turn; existing Sites tools remained available. Source pushed with a short-lived in-memory credential, current Worker build packaged in the previously verified archive structure, native deployment succeeded. Published menu completed a full data check at 15:15:10 local time and displayed the successful check date.
+
+---
+
 # Live release - Astra Militarum photos, 23 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site
