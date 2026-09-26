@@ -28,6 +28,19 @@ export function parseCatalogue(html: string, factionSlug: string, faction: strin
   });
   return [...found.values()];
 }
+function readSizes(root:Element):NonNullable<CatalogueUnit['sizes']>{
+ const sizes:NonNullable<CatalogueUnit['sizes']>=[];let from=1,to:number|null=null;
+ for(const row of root.querySelectorAll('table tr')){
+  const header=row.querySelector('.dsUnitCostHeader')?.textContent||'';
+  if(header){const nums=[...header.matchAll(/\d+/g)].map(m=>Number(m[0]));from=nums[0]||1;to=nums[1]??(/\+/.test(header)?null:nums[0]||null);}
+  const price=row.querySelector('.PriceTag');if(!price)continue;
+  const label=row.querySelector('td')?.textContent?.trim()||'',m=label.match(/^(\d+)\s+models?$/i);
+  const composition=!m&&label.split(/,\s*/).every(part=>/^\d+\s+[A-Za-z]/.test(part));if(!m&&!composition)continue;
+  const points=Number(price.textContent?.trim());if(!Number.isFinite(points))continue;
+  sizes.push({models:m?Number(m[1]):[...label.matchAll(/(?:^|,\s*)(\d+)/g)].reduce((n,m)=>n+Number(m[1]),0),points,from,to,...(!m?{label}:{})});
+ }
+ return [...new Map(sizes.map(s=>[JSON.stringify(s),s])).values()];
+}
 export function parseCard(html: string, unit: CatalogueUnit, retrievedAt = new Date().toISOString()): UnitCard {
   const { document } = parseHTML(html);
   if (!unit.url.startsWith("https://wahapedia.ru/wh40k11ed/") || !/Warhammer 40,000 11th edition/i.test(document.querySelector('meta[name="description"]')?.getAttribute("content") || "")) throw Error("The source is not verified as 11th edition. It was not imported.");
@@ -75,7 +88,7 @@ export function parseCard(html: string, unit: CatalogueUnit, retrievedAt = new D
     if (child.tagName === "UL") for (const li of [...child.children]) { const value = plain(li); if(value) wargear.push(value); }
     else {const value = plain(child); if(value) wargear.push(value);}
   }
-  return {...unit, name, profiles, weapons, sections: sections.filter(s => s.paragraphs.length), wargear,
+  return {...unit, name, sizes:readSizes(root),pointsRetrievedAt:retrievedAt, profiles, weapons, sections: sections.filter(s => s.paragraphs.length), wargear,
     invulnerableSave: plain(root.querySelector(".dsCharInvulValue")),
     invulnerableCondition: plain(root.querySelector(".dsInvulComment")).replace(/^\*\s*/, "") || (plain(root.querySelector(".dsCharInvulText")).includes("*") ? "Conditional save — check source" : ""),
     keywords: plain(root.querySelector(".dsLeftСolKW")).replace(/^KEYWORDS:\s*/i, ""),

@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {updateDue,isFreshCard,DAY} from '../lib/update-policy.ts';
+const now=Date.parse('2026-09-26T12:00:00Z'),date=ms=>new Date(ms).toISOString();
+assert.equal(updateDue(undefined,undefined,now),true);
+assert.equal(updateDue(date(now-23*3600000),undefined,now),false);
+assert.equal(updateDue(date(now-DAY),undefined,now),true);
+assert.equal(updateDue(undefined,date(now-30*60000),now),false);
+assert.equal(updateDue(undefined,date(now-3600000),now),true);
+assert.equal(updateDue(date(now+DAY),undefined,now),false);
+assert.equal(updateDue('bad','bad',now),true);
+assert.equal(isFreshCard({source:{edition:11,mode:'live'}}),true);
+assert.equal(isFreshCard({source:{edition:10,mode:'live'}}),false);
+assert.equal(isFreshCard({source:{edition:11,mode:'snapshot'}}),false);
+assert.equal(isFreshCard({source:{edition:11,mode:'live'},warning:'Refresh failed'}),false);
+console.log('PASS: daily boundary, failure backoff, clock skew, and rejection of stale or wrong-edition refreshes.');

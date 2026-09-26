@@ -22,3 +22,5 @@ export function clearSessionCards() {
   memory.clear();
   try { const keys=[]; for(let i=0;i<sessionStorage.length;i++){const key=sessionStorage.key(i); if(key?.startsWith(PREFIX)) keys.push(key);} for(const key of keys) sessionStorage.removeItem(key); } catch {}
 }
+
+export function sessionCardIds():string[]{const ids=new Set(memory.keys());try{for(let i=0;i<sessionStorage.length;i++){const key=sessionStorage.key(i);if(key?.startsWith(PREFIX))ids.add(key.slice(PREFIX.length));}}catch{}return [...ids];}

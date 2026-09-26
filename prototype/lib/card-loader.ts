@@ -1,5 +1,5 @@
 import type {UnitCard} from './types';
-import {getSessionCard,saveSessionCard} from './session-cache';
+import {getSessionCard,saveSessionCard} from './session-cache.ts';
 const pending=new Map<string,Promise<UnitCard>>();
 export async function loadCard(id:string){
  const cached=getSessionCard(id);if(cached)return cached;
