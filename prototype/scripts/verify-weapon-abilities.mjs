@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {findWeaponAbility} from '../lib/weapon-abilities.ts';
+import {parseWeaponAbilities} from '../lib/parse-weapon-abilities.ts';
+const pack=JSON.parse(readFileSync(new URL('../data/weapon-abilities.json',import.meta.url),'utf8'));
+assert.match(findWeaponAbility('Twin-linked',pack),/re-roll.*wound roll/);
+assert.equal(findWeaponAbility('[Sustained Hits 1: Infantry/Beasts]',pack),pack.abilities['SUSTAINED HITS']);
+assert.equal(findWeaponAbility('Anti-Vehicle 4+',pack),pack.abilities.ANTI);
+assert.equal(findWeaponAbility('Unknown ability',pack),undefined);
+assert.equal(findWeaponAbility('Heavyweight',pack),undefined);
+assert.match(pack.abilities.ASSAULT,/ELIGIBLE IF/);
+assert.match(pack.abilities.TORRENT,/cannot have/);
+assert.throws(()=>parseWeaponAbilities('<meta name="description" content="10th edition">','today'),/11th-edition/);
+assert.throws(()=>parseWeaponAbilities('<meta name="description" content="11th edition">','today'),/incomplete/);
+console.log('Weapon ability matching, restrictions and edition guards passed.');

@@ -218,3 +218,23 @@ button[aria-pressed=true].action,button[aria-pressed=true].faction-tile,.rule-ti
 @media(prefers-reduced-motion:reduce){.battle-backdrop *{animation:none!important}.battle-infantry{transform:translateX(990px)}.battle-convoy{transform:translateX(80px)}.action,.voice-button,.rule-tile,.faction-tile{transition:none}}
 
 .data-updates{position:relative;width:min(100%,1000px);margin:20px auto 0;background:#101e25ed;border:1px solid #61716a;padding:12px 16px;border-radius:2px 12px 2px 12px;font-size:14px}.update-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.update-actions span{color:#b9ccc4}.data-updates p{margin:8px 0 0;line-height:1.4}.data-updates progress{width:100%;height:7px;accent-color:#dfbc74}.data-updates details{margin-top:8px}.data-updates summary{min-height:44px;display:flex;align-items:center;cursor:pointer}.data-updates ul{max-height:140px;overflow:auto;padding-left:24px}.home-screen.command-menu:has(.data-updates){gap:0}.command-menu:has(.data-updates) .home-tiles{margin:0 auto}@media(max-height:600px) and (orientation:landscape){.home-screen.command-menu:has(.data-updates){padding:14px 30px}.command-menu:has(.data-updates) .command-tile{height:220px;min-height:200px}.data-updates{margin-top:12px;padding:8px 12px}}
+
+/* Shared weapon explanations: compact labels, accessible modal with its own scroll. */
+.weapon-ability-tags{display:flex!important;flex-wrap:wrap;gap:3px 6px;margin-top:3px}
+.weapon-ability-tag{font:inherit!important;color:inherit!important;background:transparent!important;border:0!important;border-radius:3px!important;min-height:30px!important;padding:3px 2px!important;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:3px;cursor:pointer}
+.weapon-ability-tag:hover,.weapon-ability-tag:focus-visible{background:#00000012!important;outline:2px solid currentColor;outline-offset:1px}
+.weapon-ability-dialog{color:#eaf0ec;background:#142124;border:2px solid #849a98;border-top:4px solid var(--faction-accent,#bea367);border-radius:8px;padding:0;width:min(600px,calc(100vw - 32px));max-height:calc(100dvh - 32px);box-shadow:0 20px 80px #000a;overflow:auto;overscroll-behavior:contain}
+.weapon-ability-dialog::backdrop{background:#020808b8}
+.weapon-ability-dialog header,.weapon-ability-dialog footer{padding:16px 20px}
+.weapon-ability-dialog h2{font-size:clamp(20px,3vw,28px);margin:5px 0 0}
+.weapon-ability-explanation{padding:0 20px;font-size:16px;line-height:1.55}
+.weapon-ability-explanation p{white-space:pre-line;margin:8px 0 16px}
+.weapon-ability-dialog footer{border-top:1px solid #ffffff26}
+.weapon-ability-dialog footer small{display:block;color:#bdc9c6;font-size:12px;margin-bottom:10px}
+.weapon-ability-dialog footer>div{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.weapon-ability-dialog footer a{margin-right:auto;color:#e2cb8a;text-decoration:underline}
+.weapon-ability-dialog footer button{min-height:44px;padding:8px 18px;font-size:16px}
+
+.weapon-ability-dialog{margin:auto}
+.weapon-ability-dialog footer button{border:1px solid #80938d;border-radius:4px;background:#263a3d;color:#f3f6ef}
+.weapon-ability-dialog h2{text-transform:uppercase}
