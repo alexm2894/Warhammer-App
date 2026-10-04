@@ -1,3 +1,15 @@
+## 2026-10-04 - Weapon ability pop-ups (live version 22)
+
+- Shared datasheet ability labels now open an accessible, centred rule explanation dialog in lookup and Game Data Cards.
+- Verified Wahapedia 11th-edition core rules, live refresh and dated bundled fallback; unknown abilities explicitly unavailable.
+- Tests: regression suite, TypeScript, production build; local modal layout, Escape and focus restoration verified.
+- GitHub source: 62bd0bf5d86435777eee24b714d697a88eda4db5
+- Hosting source: 9b3830ca9a45b511e07cc5279575397ab8975c4c
+- Matching app tree: ae063b6d14e599d992cbfbe8f272b383530b3850
+- Version: appgprj_6aa33e6481d08191afbb08599691d2a2~appgver_3be4c7b411888191a934494146064fce
+- Deployment: appgdep_6ac19b4620708191a7f5f9c2706e38bf - succeeded 2026-10-04T00:18:32Z
+- URL: https://warhammer-field-cards.alexm2894.chatgpt.site/
+
 # Live release - daily and manual data updates, 26 September 2026
 
 - URL: https://warhammer-field-cards.alexm2894.chatgpt.site
