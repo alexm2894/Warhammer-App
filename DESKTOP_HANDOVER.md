@@ -1,3 +1,9 @@
+## 2026-11-10 - Custodes codex, public version 23
+
+GitHub 9155a20f28cf93be73d238633c32d311576072bb; hosting fadb974f6bab77bc89725c84c7a859f0ba3c482f; matching tree 1b78cb0f5123ac51b00505f736841072af868f07.
+Deployment appgdep_6af38d532c048191a54a642ad710dc53 succeeded 2026-11-10T21:32:18Z on the existing public site.
+36 current Custodes sheets compared with their individual Wahapedia pages. Production Achillus endpoint returns Unyielding Ancient for the original roster ID. Typecheck, production build and test suite passed. Interactive browser QA unavailable (local browser disabled); no physical iPad test.
+
 ## 2026-10-04 - Weapon ability pop-ups (live version 22)
 
 - Shared datasheet ability labels now open an accessible, centred rule explanation dialog in lookup and Game Data Cards.
