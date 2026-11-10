@@ -1,3 +1,8 @@
+## 2026-11-10 - Responsive unit-card header, public version 24
+
+GitHub 71ab7c92a53c2285105547e3f3f65f4efdbc0484; hosting 55612b9a270f74928f098e59497ddc05402075e9; matching tree 4cb6c5168d82a684e534fe2d77d0847aac71ef1e.
+Deployment appgdep_6af39012ce80819199127b4dc7124c5c succeeded. Production build, typecheck and regression suite passed. Device/browser rendering unverified (browser access disabled).
+
 ## 2026-11-10 - Custodes codex, public version 23
 
 GitHub 9155a20f28cf93be73d238633c32d311576072bb; hosting fadb974f6bab77bc89725c84c7a859f0ba3c482f; matching tree 1b78cb0f5123ac51b00505f736841072af868f07.
