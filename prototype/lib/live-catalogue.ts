@@ -1,3 +1,4 @@
+import {CUSTODES,custodesRevision} from './custodes-revision.ts';
 import bundled from '@/data/catalogue.json';
 import {parseHTML} from 'linkedom';
 import {parseCatalogue,parseCard} from './wahapedia';
@@ -24,8 +25,8 @@ export async function liveFaction(faction:string):Promise<CatalogueUnit[]>{
   const parsed=parseCatalogue(await sourceHtml(url,true),slug,faction);if(!parsed.length)throw Error('No supported unit list found');
   const result:CatalogueUnit[]=[];
   for(const unit of parsed){
-   const known=baseUnits.find(u=>u.id===unit.id);
-   if(known){result.push({...known,...unit});continue;}
+   const known=baseUnits.find(u=>u.url===unit.url||u.id===unit.id);
+   if(known){result.push({...known,...unit,id:known.id});continue;}
    // An allied unit can appear in several faction indexes. Preserve its native identity.
    const canonical=baseUnits.find(u=>u.id.split('/')[1]===unit.id.split('/')[1]&&(!u.nativeFaction||u.nativeFaction===u.faction));
    if(canonical){result.push({...canonical,...unit,nativeFaction:canonical.faction});continue;}
@@ -33,14 +34,14 @@ export async function liveFaction(faction:string):Promise<CatalogueUnit[]>{
    const card=parseCard(await sourceHtml(unit.url),unit);
    const normal=(s:string)=>s.toLowerCase().replace(/[^a-z0-9]/g,'');
    const owner=[...factionSlugs.keys()].find(f=>card.factionKeywords.split(/[;,]/).some(k=>normal(k)===normal(f)||(f==='Space Marines'&&normal(k)==='adeptusastartes')||(f==='Chaos Space Marines'&&normal(k)==='hereticastartes')));
-   if(!owner)throw Error(`Could not verify the native army for ${unit.name}`);
-   result.push({...unit,nativeFaction:owner,factionKeywords:card.factionKeywords});
+   if(!owner&&!(faction===CUSTODES&&card.factionKeywords==="ANATHEMA PSYKANA"))throw Error(`Could not verify the native army for ${unit.name}`);
+   result.push({...unit,...(faction===CUSTODES?{rulesRevision:custodesRevision}:{}),nativeFaction:owner||faction,factionKeywords:card.factionKeywords});
   }
   return result;
  })();pending.set(faction,work);try{return await work;}finally{pending.delete(faction);}
 }
 export async function resolveUnit(id:string){
- const known=baseUnits.find(u=>u.id===id);if(known)return known;
+ const known=baseUnits.find(u=>u.id===id||u.url.endsWith("/"+id.split("/")[1])&&u.id.split("/")[0]===id.split("/")[0]);if(known)return known;
  const match=id.match(/^([a-z0-9-]+)\/([A-Z][A-Za-z0-9-]+)$/);if(!match)return;
  const faction=[...factionSlugs].find(([,slug])=>slug===match[1])?.[0];if(!faction)return;
  return (await liveFaction(faction)).find(u=>u.id===id);

@@ -8,7 +8,7 @@ export function separateArmies(saved:ArmySelection,faction:string,units:Catalogu
  const groups=new Map<string,AlliedArmy>();groups.set(faction,{faction,roster:{...saved.roster,entries:[]},used:saved.used});
  for(const group of [{faction,roster:saved.roster,used:saved.used},...(saved.allies||[])]){
   if(!groups.has(group.faction))groups.set(group.faction,{...group,roster:{...group.roster,entries:[]}});
-  for(const entry of group.roster.entries){const unit=units.find(u=>u.id===entry.unitId);const owner=unit?.nativeFaction||unit?.faction||group.faction;
+  for(const entry of group.roster.entries){const unit=units.find(u=>u.id===entry.unitId)||units.find(u=>u.faction==="Adeptus Custodes"&&u.url.endsWith("/"+entry.unitId));const owner=unit?.nativeFaction||unit?.faction||group.faction;
    const canonical=unit&&units.find(u=>u.faction===owner&&(u.nativeFaction||owner)===owner&&u.id.split('/')[1]===unit.id.split('/')[1]);
    if(!groups.has(owner))groups.set(owner,{faction:owner,roster:{...emptyRoster(),mode:'build'},used:[]});
    groups.get(owner)!.roster.entries.push({...entry,unitId:canonical?.id||entry.unitId});

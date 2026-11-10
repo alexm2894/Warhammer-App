@@ -46,6 +46,8 @@ export function parseCard(html: string, unit: CatalogueUnit, retrievedAt = new D
   if (!unit.url.startsWith("https://wahapedia.ru/wh40k11ed/") || !/Warhammer 40,000 11th edition/i.test(document.querySelector('meta[name="description"]')?.getAttribute("content") || "")) throw Error("The source is not verified as 11th edition. It was not imported.");
   const root = document.querySelector(".dsOuterFrame");
   if (!root) throw Error("The source did not contain a supported datasheet.");
+  const book=root.querySelector(".dsPicNarrow img[title]")?.getAttribute("title")||"";
+  if(unit.faction==="Adeptus Custodes" && !/^App\. Adeptus Custodes.*\(11th edition\)/i.test(book))throw Error("The individual Custodes datasheet publication is not verified as current 11th edition.");
   const name = clean(root.querySelector(".dsH2Header > div")?.textContent);
   if (!name || name.toLowerCase() !== unit.name.toLowerCase()) throw Error("The source returned a different unit. The card was not updated.");
   const profiles = [...root.querySelectorAll(".dsProfileWrap")].map(profile => ({
@@ -81,6 +83,12 @@ export function parseCard(html: string, unit: CatalogueUnit, retrievedAt = new D
   }
   const wargear: string[] = [];
   const left = root.querySelector(".dsLeftColFlat, .dsLeftСol");
+  for(const heading of root.querySelectorAll('.dsHeader')){
+    const title=plain(heading);if(!['SUPREME COMMANDER','LED BY','SUPPORTED BY'].includes(title)||sections.some(s=>s.title===title))continue;
+    const paragraphs:string[]=[];
+    for(let next=heading.nextElementSibling;next?.classList.contains('dsAbility');next=next.nextElementSibling)paragraphs.push(plain(next));
+    if(paragraphs.length)sections.push({title,paragraphs});
+  }
   let collecting = false;
   for (const child of [...(left?.children || [])]) {
     if (child.classList.contains("dsHeader")) { collecting = plain(child) === "WARGEAR OPTIONS"; continue; }
@@ -93,5 +101,5 @@ export function parseCard(html: string, unit: CatalogueUnit, retrievedAt = new D
     invulnerableCondition: plain(root.querySelector(".dsInvulComment")).replace(/^\*\s*/, "") || (plain(root.querySelector(".dsCharInvulText")).includes("*") ? "Conditional save — check source" : ""),
     keywords: plain(root.querySelector(".dsLeftСolKW")).replace(/^KEYWORDS:\s*/i, ""),
     factionKeywords: plain(root.querySelector(".dsRightСolKW")).replace(/^FACTION KEYWORDS:\s*/i, ""),
-    source: {url: unit.url, retrievedAt, parserVersion: 3, edition: 11, mode: "live"}};
+    source: {book, url: unit.url, retrievedAt, parserVersion: 3, edition: 11, mode: "live"}};
 }

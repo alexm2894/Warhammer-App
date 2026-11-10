@@ -1,7 +1,7 @@
 import {access, mkdir, writeFile} from 'node:fs/promises';
 import {dirname} from 'node:path';
 const fixtures = [
-  ['.sites-runtime/samples-11/adeptus-custodes.html', 'https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard'],
+  ['.sites-runtime/samples-11/custodian-guard-sodality.html', 'https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard-Sodality'],
   ['.sites-runtime/versus/knight.html', 'https://wahapedia.ru/wh40k11ed/factions/imperial-knights/Knight-Paladin'],
 ];
 export async function prepareFixtures() {

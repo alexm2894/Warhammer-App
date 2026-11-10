@@ -1,3 +1,4 @@
+import {currentUnit} from "./custodes-revision.ts";
 import {readUpdate,keepRulePack} from './update-storage.ts';
 import type {FactionRules,RuleSection} from './faction-rules';
 export type ReferenceCard=Omit<RuleSection,'kind'> & {key:string;kind:'Army rule'|'Detachment';stratagems:RuleSection[];faction:string;detachment?:string;retrievedAt:string;warning?:string};
@@ -10,6 +11,6 @@ const cache=new Map<string,FactionRules>(),pending=new Map<string,Promise<Factio
 export async function loadRuleCards(faction:string,refresh=false):Promise<FactionRules>{
  if(!refresh&&cache.has(faction))return cache.get(faction)!;
  if(pending.has(faction))return pending.get(faction)!;
- const request=(async()=>{ if(!refresh){try{const saved=(await readUpdate()).rules[faction];if(saved){cache.set(faction,saved);return saved;}}catch{}}const response=await fetch('/api/faction-rules?faction='+encodeURIComponent(faction));const pack=await response.json() as FactionRules & {error?:string};if(!response.ok||pack.edition!==11||pack.faction!==faction||!Array.isArray(pack.detachments)||!pack.army?.text)throw Error(pack.error||'Army rules unavailable.');cache.set(faction,pack);if(!pack.warning){try{await keepRulePack(pack);}catch{}}return pack as FactionRules;})();
+ const request=(async()=>{ if(!refresh){try{const saved=(await readUpdate()).rules[faction];if(saved&&currentUnit(saved)){cache.set(faction,saved);return saved;}}catch{}}const response=await fetch('/api/faction-rules?faction='+encodeURIComponent(faction));const pack=await response.json() as FactionRules & {error?:string};if(!response.ok||pack.edition!==11||pack.faction!==faction||!Array.isArray(pack.detachments)||!pack.army?.text)throw Error(pack.error||'Army rules unavailable.');cache.set(faction,pack);if(!pack.warning){try{await keepRulePack(pack);}catch{}}return pack as FactionRules;})();
  pending.set(faction,request);try{return await request;}finally{pending.delete(faction);}
 }

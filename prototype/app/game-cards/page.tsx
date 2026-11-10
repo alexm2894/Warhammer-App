@@ -26,6 +26,7 @@ import {factionStyle} from '@/lib/factions';
 
 import {ARMY_SLOTS_KEY,parseArmySlots,saveArmySlot,type ArmySlots,type SavedArmy} from '@/lib/saved-armies';
 
+import {splitIds} from '@/lib/custodes-revision';
 import {nativeUnits,separateArmies,type ArmySelection} from '@/lib/army-groups';
 
 import type {UnitCard} from '@/lib/types';
@@ -70,7 +71,9 @@ function Library(){
 
  function openSaved(army:SavedArmy,index:number){
  const restored=separateArmies(army,army.faction,units);setFaction(army.faction);setRuleFaction('');setViewFaction('');setSaved(structuredClone(restored));setActiveSlot(index);setShelf(false);setStatus('');setCards({});
- void prepare([...new Set([restored.roster,...(restored.allies||[]).map(a=>a.roster)].flatMap(r=>r.entries).filter(e=>e.count>0).map(e=>e.unitId))],restored);
+ const split=[{faction:army.faction,roster:restored.roster},...(restored.allies||[])].find(g=>g.roster.entries.some(e=>splitIds.includes(e.unitId)));
+  if(split){setPlaying(false);setEditing(split.faction);return;}
+  void prepare([...new Set([restored.roster,...(restored.allies||[]).map(a=>a.roster)].flatMap(r=>r.entries).filter(e=>e.count>0).map(e=>e.unitId))],restored);
  }
  function beginSave(){setSaveName(activeSlot===null?faction:slots[activeSlot]?.name||faction);setReplaceSlot(null);setSaveOpen(true);}
  function persistSlot(index:number){try{const next=saveArmySlot(localStorage,index,{name:saveName,faction,roster:saved.roster,used:saved.used,allies:saved.allies,savedAt:new Date().toISOString()});setSlots(next);setActiveSlot(index);setSaveOpen(false);setSlotError('');setStatus(`Saved “${next[index]!.name}” on this device.`);}catch(e){setSlotError(e instanceof Error?e.message:'This device could not save the army. Free some browser storage and try again.');}}

@@ -1,36 +1,5 @@
 [
   {
-    "id": "adeptus-custodes/Aleya",
-    "name": "Aleya",
-    "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Aleya",
-    "sizes": [
-      {
-        "models": 1,
-        "points": 55,
-        "from": 1,
-        "to": null
-      }
-    ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.312Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.807Z"
-    },
-    "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99120108031-2.jpg",
-      "source": "https://miniset.net/sets/gw-99120108031",
-      "credit": "\"Games",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/73543cbe16a7b1c10b22.jpg",
-      "sha256": "73543cbe16a7b1c10b2293fab6a944d1b98b1607b57797ccd8856307c4715225"
-    }
-  },
-  {
     "id": "adeptus-custodes/Trajann-Valoris",
     "name": "Trajann Valoris",
     "faction": "Adeptus Custodes",
@@ -38,12 +7,12 @@
     "sizes": [
       {
         "models": 1,
-        "points": 135,
+        "points": 265,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.314Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -59,7 +28,40 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "96067f87a1b306d1c8d40c5d93bed8a79c7b5358de10be676f455009fff2c6aa"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
+  },
+  {
+    "id": "adeptus-custodes/Aleya",
+    "name": "Aleya",
+    "faction": "Adeptus Custodes",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Aleya",
+    "sizes": [
+      {
+        "models": 1,
+        "points": 55,
+        "from": 1,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "nativeFaction": "Adeptus Custodes",
+    "factionKeywords": "ANATHEMA PSYKANA",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:33.807Z"
+    },
+    "image": {
+      "originalUrl": "https://miniset.net/files/set/gw-99120108031-2.jpg",
+      "source": "https://miniset.net/sets/gw-99120108031",
+      "credit": "\"Games",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-14",
+      "url": "/images/units/73543cbe16a7b1c10b22.jpg",
+      "sha256": "73543cbe16a7b1c10b2293fab6a944d1b98b1607b57797ccd8856307c4715225"
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Valerian",
@@ -69,12 +71,12 @@
     "sizes": [
       {
         "models": 1,
-        "points": 110,
+        "points": 130,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.314Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -90,7 +92,8 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/6fa5e6bf14167163489a.jpg",
       "sha256": "6fa5e6bf14167163489a6963be96562efbce0e36805dbdabfbd140e160bf40b2"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Blade-Champion",
@@ -100,18 +103,18 @@
     "sizes": [
       {
         "models": 1,
-        "points": 110,
+        "points": 175,
         "from": 1,
-        "to": 1
+        "to": 2
       },
       {
         "models": 1,
-        "points": 125,
-        "from": 2,
+        "points": 195,
+        "from": 3,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.315Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -127,13 +130,14 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "1f807d0e258fc4211cbd64fd6e86050f3d431702b478c557ac3ecce893cf55cd"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Knight-centura",
-    "name": "Knight-centura",
+    "name": "Knight-Centura",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Knight-centura",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Knight-Centura",
     "sizes": [
       {
         "models": 1,
@@ -142,9 +146,9 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.315Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionKeywords": "ANATHEMA PSYKANA",
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:33.810Z"
@@ -159,22 +163,32 @@
       "kind": "miniature",
       "note": "Visually verified exact pointing sword-bearing Sister miniature used as Knight-Centura in official Warhammer Community article https://www.warhammer-community.com/en-gb/articles/HSV224jn/lead-a-full-sisters-of-silence-army-with-the-powerful-knight-centura/ ; gold/red paint variant. NOT Aleya.",
       "url": "/images/units/b63791ff21a38e8906b6.jpg"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Knight-centura"
+    ]
   },
   {
     "id": "adeptus-custodes/Shield-captain",
-    "name": "Shield-captain",
+    "name": "Shield-Captain",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-Captain",
     "sizes": [
       {
         "models": 1,
-        "points": 110,
+        "points": 180,
         "from": 1,
+        "to": 1
+      },
+      {
+        "models": 1,
+        "points": 200,
+        "from": 2,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.316Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -190,22 +204,32 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/cfcdf6957d3021dee8a1.jpg",
       "sha256": "cfcdf6957d3021dee8a15b7032fa2bf6744932ca896b20d87a3350f39640eaaf"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Shield-captain"
+    ]
   },
   {
     "id": "adeptus-custodes/Shield-captain-In-Allarus-Terminator-Armour",
     "name": "Shield-captain In Allarus Terminator Armour",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-In-Allarus-Terminator-Armour",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-Captain-in-Allarus-Terminator-Armour",
     "sizes": [
       {
         "models": 1,
-        "points": 130,
+        "points": 185,
         "from": 1,
+        "to": 1
+      },
+      {
+        "models": 1,
+        "points": 205,
+        "from": 2,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.317Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -221,22 +245,29 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/576d8443e23d2a98cda5.jpg",
       "sha256": "576d8443e23d2a98cda5972f42e1ef0df1a158f2350c7f57dd41bd426ab24e8a"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike",
     "name": "Shield-captain On Dawneagle Jetbike",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-Captain-on-Dawneagle-Jetbike",
     "sizes": [
       {
         "models": 1,
-        "points": 140,
+        "points": 205,
         "from": 1,
+        "to": 1
+      },
+      {
+        "models": 1,
+        "points": 225,
+        "from": 2,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.317Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -252,56 +283,64 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/81a48fd9bf63409f1247.jpg",
       "sha256": "81a48fd9bf63409f12476925fd9c6d369d89ac33b3d8a93862283e0b640918c6"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
-    "id": "adeptus-custodes/Custodian-Guard",
-    "name": "Custodian Guard",
+    "id": "adeptus-custodes/Custodian-Guard-Sodality",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard-Sodality",
+    "name": "Custodian Guard Sodality",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Custodian Guard",
+      "Custodian Guards"
+    ],
     "sizes": [
       {
-        "models": 4,
-        "points": 170,
+        "models": 3,
+        "points": 240,
         "from": 1,
         "to": 3
       },
       {
-        "models": 5,
-        "points": 215,
-        "from": 1,
-        "to": 3
-      },
-      {
-        "models": 4,
-        "points": 180,
-        "from": 4,
-        "to": null
-      },
-      {
-        "models": 5,
-        "points": 225,
+        "models": 3,
+        "points": 270,
         "from": 4,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.318Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
+  },
+  {
+    "id": "adeptus-custodes/Sentinel-Guard-Sodality",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Sentinel-Guard-Sodality",
+    "name": "Sentinel Guard Sodality",
+    "faction": "Adeptus Custodes",
     "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.811Z"
-    },
-    "image": {
-      "url": "/images/units/0ceec063d839e471300e.jpg",
-      "source": "https://www.philibertnet.com/en/adeptus-custodes/49742-w40k-adeptus-custodes-custodian-guard-5011921172016.html",
-      "credit": "Games Workshop / Philibert",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-12",
-      "originalUrl": "https://cdn2.philibertnet.com/731175-thickbox_default/w40k-adeptus-custodes-custodian-guard.jpg",
-      "sha256": "0ceec063d839e471300ee19ff093683fbd859497f11243743092a677216e5e35"
-    }
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Custodian Guard",
+      "Custodian Guards"
+    ],
+    "sizes": [
+      {
+        "models": 3,
+        "points": 240,
+        "from": 1,
+        "to": 3
+      },
+      {
+        "models": 3,
+        "points": 270,
+        "from": 4,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
   },
   {
     "id": "adeptus-custodes/Anathema-Psykana-Rhino",
@@ -311,20 +350,20 @@
     "sizes": [
       {
         "models": 1,
-        "points": 65,
+        "points": 70,
         "from": 1,
         "to": 3
       },
       {
         "models": 1,
-        "points": 75,
+        "points": 80,
         "from": 4,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.319Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionKeywords": "ANATHEMA PSYKANA",
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:33.811Z"
@@ -338,7 +377,8 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/cdf079dcb64e902bff37.jpg",
       "sha256": "cdf079dcb64e902bff3705c3a464a141a974820ec95cea975d429bb1fb1b5430"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Ares-Gunship",
@@ -359,7 +399,7 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.319Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -375,7 +415,8 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/cca24ac4cd5a0def3e5b.jpg",
       "sha256": "cca24ac4cd5a0def3e5b2611cdb9c273391bdbe47f8dbad78b5fb0fd8feda6a8"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Allarus-Custodians",
@@ -385,54 +426,30 @@
     "sizes": [
       {
         "models": 2,
-        "points": 110,
+        "points": 180,
         "from": 1,
         "to": 2
       },
       {
         "models": 3,
-        "points": 165,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 5,
-        "points": 280,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 6,
-        "points": 340,
+        "points": 270,
         "from": 1,
         "to": 2
       },
       {
         "models": 2,
-        "points": 140,
+        "points": 210,
         "from": 3,
         "to": null
       },
       {
         "models": 3,
-        "points": 195,
-        "from": 3,
-        "to": null
-      },
-      {
-        "models": 5,
-        "points": 310,
-        "from": 3,
-        "to": null
-      },
-      {
-        "models": 6,
-        "points": 370,
+        "points": 300,
         "from": 3,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.320Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -448,7 +465,56 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "b3ab379daf18005cd155ce0466b481b3e16804d5896639540859de5fba79751b"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
+  },
+  {
+    "id": "adeptus-custodes/Aquilon-Terminators-with-Solarite-Power-Gauntlets",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Aquilon-Terminators-with-Solarite-Power-Gauntlets",
+    "name": "Aquilon Terminators with Solarite Power Gauntlets",
+    "faction": "Adeptus Custodes",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
+    "sizes": [
+      {
+        "models": 3,
+        "points": 285,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 3,
+        "points": 315,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
+  },
+  {
+    "id": "adeptus-custodes/Aquilon-Terminators-with-Solarite-Power-Talons",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Aquilon-Terminators-with-Solarite-Power-Talons",
+    "name": "Aquilon Terminators with Solarite Power Talons",
+    "faction": "Adeptus Custodes",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
+    "sizes": [
+      {
+        "models": 3,
+        "points": 275,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 3,
+        "points": 305,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
   },
   {
     "id": "adeptus-custodes/Custodian-Wardens",
@@ -457,31 +523,31 @@
     "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens",
     "sizes": [
       {
-        "models": 4,
+        "models": 2,
         "points": 200,
         "from": 1,
         "to": 1
       },
       {
-        "models": 5,
-        "points": 250,
+        "models": 3,
+        "points": 295,
         "from": 1,
         "to": 1
       },
       {
-        "models": 4,
-        "points": 220,
+        "models": 2,
+        "points": 230,
         "from": 2,
         "to": null
       },
       {
-        "models": 5,
-        "points": 270,
+        "models": 3,
+        "points": 325,
         "from": 2,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.339Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -497,13 +563,14 @@
       "background": "white",
       "verifiedAt": "2026-09-13",
       "sha256": "4c442a6d32d373d836c48664c68d33fb9b1b84212634a94c75ccdca7df55ba4e"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Prosecutors",
-    "name": "Prosecutors",
+    "name": "Prosecutor Squad",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutor-Squad",
     "sizes": [
       {
         "models": 4,
@@ -519,20 +586,20 @@
       },
       {
         "models": 9,
-        "points": 75,
+        "points": 80,
         "from": 1,
         "to": null
       },
       {
         "models": 10,
-        "points": 85,
+        "points": 90,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.339Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionKeywords": "ANATHEMA PSYKANA",
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:33.812Z"
@@ -546,13 +613,65 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/f19909030c95ce008396.jpg",
       "sha256": "f19909030c95ce00839679c054aa998f206337b81051abeed2b5f5eec645b102"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Prosecutors"
+    ]
+  },
+  {
+    "id": "adeptus-custodes/Venatari-with-Kinetic-Destroyers",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-with-Kinetic-Destroyers",
+    "name": "Venatari with Kinetic Destroyers",
+    "faction": "Adeptus Custodes",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
+    "sizes": [
+      {
+        "models": 3,
+        "points": 255,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 3,
+        "points": 280,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
+  },
+  {
+    "id": "adeptus-custodes/Venatari-with-Verutum-Lances",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-with-Verutum-Lances",
+    "name": "Venatari with Verutum Lances",
+    "faction": "Adeptus Custodes",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
+    "sizes": [
+      {
+        "models": 3,
+        "points": 270,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 3,
+        "points": 300,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
   },
   {
     "id": "adeptus-custodes/Vigilators",
-    "name": "Vigilators",
+    "name": "Vigilator Squad",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vigilators",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vigilator-Squad",
     "sizes": [
       {
         "models": 4,
@@ -579,9 +698,9 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.340Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionKeywords": "ANATHEMA PSYKANA",
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:33.812Z"
@@ -595,42 +714,46 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/1fa9f7de1d6313c92b8d.jpg",
       "sha256": "1fa9f7de1d6313c92b8d46323ea1a3da03797306e572eadd2902f52964d7d28e"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Vigilators"
+    ]
   },
   {
     "id": "adeptus-custodes/Witchseekers",
-    "name": "Witchseekers",
+    "name": "Witchseeker Squad",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Witchseekers",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Witchseeker-Squad",
     "sizes": [
       {
         "models": 4,
-        "points": 50,
-        "from": 1,
-        "to": null
-      },
-      {
-        "models": 5,
         "points": 55,
         "from": 1,
         "to": null
       },
       {
+        "models": 5,
+        "points": 60,
+        "from": 1,
+        "to": null
+      },
+      {
         "models": 9,
-        "points": 90,
+        "points": 100,
         "from": 1,
         "to": null
       },
       {
         "models": 10,
-        "points": 100,
+        "points": 110,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.340Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionKeywords": "ANATHEMA PSYKANA",
     "factionSource": {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
       "retrievedAt": "2026-09-23T17:41:33.813Z"
@@ -644,96 +767,62 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/d5927d936a29d650d2ff.jpg",
       "sha256": "d5927d936a29d650d2ffdd5b022c0f4d4806d676297dad5db04d7215a39e3943"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Witchseekers"
+    ]
   },
   {
-    "id": "adeptus-custodes/Aquilon-Custodians",
-    "name": "Aquilon Custodians",
+    "id": "adeptus-custodes/Custodian-Guard-Sodality-with-Adrasite-Spears",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard-Sodality-with-Adrasite-Spears",
+    "name": "Custodian Guard Sodality with Adrasite Spears",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Aquilon-Custodians",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
     "sizes": [
       {
         "models": 3,
-        "points": 195,
-        "from": 1,
-        "to": null
-      },
-      {
-        "models": 6,
-        "points": 390,
+        "points": 200,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.341Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.813Z"
-    },
-    "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99560108190-0.jpg",
-      "source": "https://miniset.net/sets/gw-99560108190",
-      "credit": "\"Games",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/c7692d0645149be7e365.jpg",
-      "sha256": "c7692d0645149be7e3656bfd9352f47083fa977f9a2e201a59365bf0c9a727fa"
-    }
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
   },
   {
-    "id": "adeptus-custodes/Custodian-Guard-With-Adrasite-And-Pyrithite-Spears",
-    "name": "Custodian Guard With Adrasite And Pyrithite Spears",
+    "id": "adeptus-custodes/Custodian-Guard-Sodality-with-Pyrithite-Spears",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard-Sodality-with-Pyrithite-Spears",
+    "name": "Custodian Guard Sodality with Pyrithite Spears",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard-With-Adrasite-And-Pyrithite-Spears",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
     "sizes": [
       {
-        "models": 5,
-        "points": 250,
+        "models": 3,
+        "points": 215,
         "from": 1,
-        "to": 3
-      },
-      {
-        "models": 5,
-        "points": 260,
-        "from": 4,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.341Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.813Z"
-    },
-    "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99020187355-0.jpg",
-      "source": "https://miniset.net/sets/gw-99020187355",
-      "credit": "\"Games",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/3faa9d7b4492d5045791.jpg",
-      "sha256": "3faa9d7b4492d50457910c1f8e678200420a9a3f38d2b5086eda5206c5d7e3a0"
-    }
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
   },
   {
     "id": "adeptus-custodes/Sagittarum-Custodians",
-    "name": "Sagittarum Custodians",
+    "name": "Sagittarum Custodians Sodality",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Sagittarum-Custodians",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Sagittarum-Custodians-Sodality",
     "sizes": [
       {
-        "models": 5,
-        "points": 225,
+        "models": 3,
+        "points": 185,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.342Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -749,126 +838,32 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/21768346afe5fb5c6a88.jpg",
       "sha256": "21768346afe5fb5c6a88a9294cbece77e2d689240919abd400f1a84ae4a27649"
-    }
-  },
-  {
-    "id": "adeptus-custodes/Venatari-Custodians",
-    "name": "Venatari Custodians",
-    "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians",
-    "sizes": [
-      {
-        "models": 3,
-        "points": 150,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 6,
-        "points": 300,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 3,
-        "points": 160,
-        "from": 3,
-        "to": null
-      },
-      {
-        "models": 6,
-        "points": 310,
-        "from": 3,
-        "to": null
-      }
-    ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.342Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.814Z"
     },
-    "image": {
-      "originalUrl": "https://gamehaventooele.com/cdn/shop/files/99123043003_CustodesVenatariSodality1_771x1000.jpg",
-      "source": "https://gamehaventooele.com/collections/adeptus-custodes",
-      "credit": "Games Workshop / Game Haven Tooele",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-13",
-      "url": "/images/units/de8275e92ff3ec898e2d.jpg",
-      "sha256": "de8275e92ff3ec898e2d4edd0bd5b3a8cf838c1bda96d7a53487fbda5412265e"
-    }
-  },
-  {
-    "id": "adeptus-custodes/Vertus-Praetors",
-    "name": "Vertus Praetors",
-    "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors",
-    "sizes": [
-      {
-        "models": 2,
-        "points": 145,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 3,
-        "points": 215,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 2,
-        "points": 170,
-        "from": 3,
-        "to": null
-      },
-      {
-        "models": 3,
-        "points": 240,
-        "from": 3,
-        "to": null
-      }
-    ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.343Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.814Z"
-    },
-    "image": {
-      "url": "/images/units/98db1027d2bb800dc66b.jpg",
-      "originalUrl": "https://cdn1.philibertnet.com/779990-thickbox_default/w40k-adeptus-custodes-vertus-praetors-5011921172061.jpg",
-      "source": "https://www.philibertnet.com/en/adeptus-custodes/57215-w40k-adeptus-custodes-vertus-praetors-5011921172061.html",
-      "credit": "Games Workshop / Philibert",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-13",
-      "sha256": "98db1027d2bb800dc66bc0bb703d3980b2f2396b1fb2e7628323d9a8207eabc9"
-    }
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Sagittarum Custodians"
+    ]
   },
   {
     "id": "adeptus-custodes/Agamatus-Custodians",
-    "name": "Agamatus Custodians",
+    "name": "Gyrfalcon Jetbike Sodality",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Agamatus-Custodians",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Gyrfalcon-Jetbike-Sodality",
     "sizes": [
       {
-        "models": 3,
-        "points": 225,
+        "models": 2,
+        "points": 260,
         "from": 1,
-        "to": null
+        "to": 1
       },
       {
-        "models": 6,
-        "points": 450,
-        "from": 1,
+        "models": 2,
+        "points": 280,
+        "from": 2,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.343Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -884,28 +879,44 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/adbfb80c02e9f0ad48c6.jpg",
       "sha256": "adbfb80c02e9f0ad48c68699072e003ee89807ca028fe59c75b32ab28339145f"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Agamatus Custodians"
+    ]
   },
   {
-    "id": "adeptus-custodes/Venerable-Land-Raider",
-    "name": "Venerable Land Raider",
+    "id": "adeptus-custodes/Vertus-Praetors",
+    "name": "Vertus Praetors",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venerable-Land-Raider",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors",
     "sizes": [
       {
-        "models": 1,
+        "models": 2,
         "points": 220,
         "from": 1,
         "to": 1
       },
       {
-        "models": 1,
+        "models": 3,
+        "points": 330,
+        "from": 1,
+        "to": 1
+      },
+      {
+        "models": 2,
         "points": 240,
+        "from": 2,
+        "to": null
+      },
+      {
+        "models": 3,
+        "points": 350,
         "from": 2,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.344Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -913,36 +924,37 @@
       "retrievedAt": "2026-09-23T17:41:33.814Z"
     },
     "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99120101061-1-0.jpg",
-      "source": "https://miniset.net/sets/gw-99120101061-1",
-      "credit": "\"Games",
+      "url": "/images/units/98db1027d2bb800dc66b.jpg",
+      "originalUrl": "https://cdn1.philibertnet.com/779990-thickbox_default/w40k-adeptus-custodes-vertus-praetors-5011921172061.jpg",
+      "source": "https://www.philibertnet.com/en/adeptus-custodes/57215-w40k-adeptus-custodes-vertus-praetors-5011921172061.html",
+      "credit": "Games Workshop / Philibert",
       "kind": "miniature",
       "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/f96202303e8bb516eed2.jpg",
-      "sha256": "f96202303e8bb516eed2b948c8570a4a84073b6e9cbe8e438d988d3a0d592e5f"
-    }
+      "verifiedAt": "2026-09-13",
+      "sha256": "98db1027d2bb800dc66bc0bb703d3980b2f2396b1fb2e7628323d9a8207eabc9"
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Coronus-Grav-carrier",
-    "name": "Coronus Grav-carrier",
+    "name": "Coronus Grav-Carrier",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Coronus-Grav-carrier",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Coronus-Grav-Carrier",
     "sizes": [
       {
         "models": 1,
-        "points": 180,
+        "points": 225,
         "from": 1,
         "to": 2
       },
       {
         "models": 1,
-        "points": 200,
+        "points": 245,
         "from": 3,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.344Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -958,7 +970,11 @@
       "verifiedAt": "2026-09-13",
       "url": "/images/units/a7e3c821e67b0ccc50f8.jpg",
       "sha256": "a7e3c821e67b0ccc50f89af6161826c1804c4b5de314f0ffcf05c822e8eeb412"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Coronus Grav-carrier"
+    ]
   },
   {
     "id": "adeptus-custodes/Orion-Assault-Dropship",
@@ -979,7 +995,7 @@
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.344Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -995,28 +1011,85 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/06a4251243445a040306.jpg",
       "sha256": "06a4251243445a040306a9e59085625bcb9d4efc7ed78faf891a388e214e4f4f"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
-    "id": "adeptus-custodes/Caladius-Grav-tank",
-    "name": "Caladius Grav-tank",
+    "id": "adeptus-custodes/Venerable-Land-Raider",
+    "name": "Venerable Land Raider",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Caladius-Grav-tank",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venerable-Land-Raider",
     "sizes": [
       {
         "models": 1,
-        "points": 210,
+        "points": 230,
+        "from": 1,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "nativeFaction": "Adeptus Custodes",
+    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:33.814Z"
+    },
+    "image": {
+      "originalUrl": "https://miniset.net/files/set/gw-99120101061-1-0.jpg",
+      "source": "https://miniset.net/sets/gw-99120101061-1",
+      "credit": "\"Games",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-14",
+      "url": "/images/units/f96202303e8bb516eed2.jpg",
+      "sha256": "f96202303e8bb516eed2b948c8570a4a84073b6e9cbe8e438d988d3a0d592e5f"
+    },
+    "rulesRevision": "custodes-codex-2026-10"
+  },
+  {
+    "id": "adeptus-custodes/Caladius-Annihilator-Grav-Tank",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Caladius-Annihilator-Grav-Tank",
+    "name": "Caladius Annihilator Grav-Tank",
+    "faction": "Adeptus Custodes",
+    "nativeFaction": "Adeptus Custodes",
+    "rulesRevision": "custodes-codex-2026-10",
+    "sizes": [
+      {
+        "models": 1,
+        "points": 250,
         "from": 1,
         "to": 2
       },
       {
         "models": 1,
-        "points": 225,
+        "points": 280,
         "from": 3,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.345Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "factionKeywords": "ADEPTUS CUSTODES"
+  },
+  {
+    "id": "adeptus-custodes/Caladius-Grav-tank",
+    "name": "Caladius Grav-Tank",
+    "faction": "Adeptus Custodes",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Caladius-Grav-Tank",
+    "sizes": [
+      {
+        "models": 1,
+        "points": 230,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 1,
+        "points": 260,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -1032,22 +1105,26 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/5610de6c937ce1e82b98.jpg",
       "sha256": "5610de6c937ce1e82b98c038b6a164c8584d2c76d7b6640c98c1fcd4ceb6b6af"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Caladius Grav-tank"
+    ]
   },
   {
     "id": "adeptus-custodes/Pallas-Grav-attack",
-    "name": "Pallas Grav-attack",
+    "name": "Pallas Grav-Attack",
     "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Pallas-Grav-attack",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Pallas-Grav-Attack",
     "sizes": [
       {
         "models": 1,
-        "points": 100,
+        "points": 135,
         "from": 1,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.345Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -1063,7 +1140,131 @@
       "verifiedAt": "2026-09-14",
       "url": "/images/units/c1fd50f70ea531e09575.jpg",
       "sha256": "c1fd50f70ea531e09575dc4a5f3fc0810ff77485bef0a4c1ef7aad3b8b6bad55"
-    }
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Pallas Grav-attack"
+    ]
+  },
+  {
+    "id": "adeptus-custodes/Contemptor-achillus-Dreadnought",
+    "name": "Contemptor-Achillus Dreadnought",
+    "faction": "Adeptus Custodes",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Contemptor-Achillus-Dreadnought",
+    "sizes": [
+      {
+        "models": 1,
+        "points": 230,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 1,
+        "points": 260,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "nativeFaction": "Adeptus Custodes",
+    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:33.816Z"
+    },
+    "image": {
+      "originalUrl": "https://miniset.net/files/set/gw-99560108178-0.jpg",
+      "source": "https://miniset.net/sets/gw-99560108178",
+      "credit": "\"Games",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-14",
+      "url": "/images/units/5e72f96d16f939312e6e.jpg",
+      "sha256": "5e72f96d16f939312e6e033b3228f79de278e89941c472f3f6ac3b4e62f4e369"
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Contemptor-achillus Dreadnought"
+    ]
+  },
+  {
+    "id": "adeptus-custodes/Contemptor-galatus-Dreadnought",
+    "name": "Contemptor-Galatus Dreadnought",
+    "faction": "Adeptus Custodes",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Contemptor-Galatus-Dreadnought",
+    "sizes": [
+      {
+        "models": 1,
+        "points": 220,
+        "from": 1,
+        "to": 2
+      },
+      {
+        "models": 1,
+        "points": 250,
+        "from": 3,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "nativeFaction": "Adeptus Custodes",
+    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:33.816Z"
+    },
+    "image": {
+      "originalUrl": "https://miniset.net/files/set/gw-99550108174-0.jpg",
+      "source": "https://miniset.net/sets/gw-99550108174",
+      "credit": "\"Games",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-14",
+      "url": "/images/units/f2921552e06c3c683b30.jpg",
+      "sha256": "f2921552e06c3c683b301713ec3df6f39a479ca6c584c8c5c19af76547be2f23"
+    },
+    "rulesRevision": "custodes-codex-2026-10",
+    "aliases": [
+      "Contemptor-galatus Dreadnought"
+    ]
+  },
+  {
+    "id": "adeptus-custodes/Telemon-Heavy-Dreadnought",
+    "name": "Telemon Heavy Dreadnought",
+    "faction": "Adeptus Custodes",
+    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Telemon-Heavy-Dreadnought",
+    "sizes": [
+      {
+        "models": 1,
+        "points": 280,
+        "from": 1,
+        "to": 1
+      },
+      {
+        "models": 1,
+        "points": 310,
+        "from": 2,
+        "to": null
+      }
+    ],
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
+    "nativeFaction": "Adeptus Custodes",
+    "factionKeywords": "ADEPTUS CUSTODES",
+    "factionSource": {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
+      "retrievedAt": "2026-09-23T17:41:33.816Z"
+    },
+    "image": {
+      "originalUrl": "https://miniset.net/files/set/gw-99020187293-0.jpg",
+      "source": "https://miniset.net/sets/gw-99020187293",
+      "credit": "\"Games",
+      "kind": "miniature",
+      "background": "white",
+      "verifiedAt": "2026-09-14",
+      "url": "/images/units/42646fa508c20987251f.jpg",
+      "sha256": "42646fa508c20987251fc78fd365973ee725d6bcb83109acaf7e1ac6d99fd80f"
+    },
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "adeptus-custodes/Venerable-Contemptor-Dreadnought",
@@ -1073,18 +1274,12 @@
     "sizes": [
       {
         "models": 1,
-        "points": 170,
+        "points": 220,
         "from": 1,
-        "to": 2
-      },
-      {
-        "models": 1,
-        "points": 185,
-        "from": 3,
         "to": null
       }
     ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.346Z",
+    "pointsRetrievedAt": "2026-11-10T21:22:53.331Z",
     "nativeFaction": "Adeptus Custodes",
     "factionKeywords": "ADEPTUS CUSTODES",
     "factionSource": {
@@ -1101,118 +1296,8 @@
       "kind": "miniature",
       "note": "Visually verified gold Custodes Venerable Contemptor with assault cannon and power fist; whole assembled model on white.",
       "url": "/images/units/d2eb754d7487e9e7c4ef.jpg"
-    }
-  },
-  {
-    "id": "adeptus-custodes/Contemptor-achillus-Dreadnought",
-    "name": "Contemptor-achillus Dreadnought",
-    "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Contemptor-achillus-Dreadnought",
-    "sizes": [
-      {
-        "models": 1,
-        "points": 155,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 1,
-        "points": 170,
-        "from": 3,
-        "to": null
-      }
-    ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.346Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.816Z"
     },
-    "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99560108178-0.jpg",
-      "source": "https://miniset.net/sets/gw-99560108178",
-      "credit": "\"Games",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/5e72f96d16f939312e6e.jpg",
-      "sha256": "5e72f96d16f939312e6e033b3228f79de278e89941c472f3f6ac3b4e62f4e369"
-    }
-  },
-  {
-    "id": "adeptus-custodes/Contemptor-galatus-Dreadnought",
-    "name": "Contemptor-galatus Dreadnought",
-    "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Contemptor-galatus-Dreadnought",
-    "sizes": [
-      {
-        "models": 1,
-        "points": 165,
-        "from": 1,
-        "to": 2
-      },
-      {
-        "models": 1,
-        "points": 180,
-        "from": 3,
-        "to": null
-      }
-    ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.346Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.816Z"
-    },
-    "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99550108174-0.jpg",
-      "source": "https://miniset.net/sets/gw-99550108174",
-      "credit": "\"Games",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/f2921552e06c3c683b30.jpg",
-      "sha256": "f2921552e06c3c683b301713ec3df6f39a479ca6c584c8c5c19af76547be2f23"
-    }
-  },
-  {
-    "id": "adeptus-custodes/Telemon-Heavy-Dreadnought",
-    "name": "Telemon Heavy Dreadnought",
-    "faction": "Adeptus Custodes",
-    "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Telemon-Heavy-Dreadnought",
-    "sizes": [
-      {
-        "models": 1,
-        "points": 225,
-        "from": 1,
-        "to": 1
-      },
-      {
-        "models": 1,
-        "points": 245,
-        "from": 2,
-        "to": null
-      }
-    ],
-    "pointsRetrievedAt": "2026-09-11T18:54:12.347Z",
-    "nativeFaction": "Adeptus Custodes",
-    "factionKeywords": "ADEPTUS CUSTODES",
-    "factionSource": {
-      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
-      "retrievedAt": "2026-09-23T17:41:33.816Z"
-    },
-    "image": {
-      "originalUrl": "https://miniset.net/files/set/gw-99020187293-0.jpg",
-      "source": "https://miniset.net/sets/gw-99020187293",
-      "credit": "\"Games",
-      "kind": "miniature",
-      "background": "white",
-      "verifiedAt": "2026-09-14",
-      "url": "/images/units/42646fa508c20987251f.jpg",
-      "sha256": "42646fa508c20987251fc78fd365973ee725d6bcb83109acaf7e1ac6d99fd80f"
-    }
+    "rulesRevision": "custodes-codex-2026-10"
   },
   {
     "id": "necrons/Illuminor-Szeras",

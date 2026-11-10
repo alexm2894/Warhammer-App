@@ -1,15 +1,17 @@
+import {currentUnit} from "./custodes-revision.ts";
 import type {UnitCard} from "./types";
 const PREFIX = "field-cards-session-11-v3:";
 const memory = new Map<string, UnitCard>();
 function isCard(value: unknown, id: string): value is UnitCard {
   const card = value as UnitCard | null;
-  return !!card && card.id === id && typeof card.name === "string" && Array.isArray(card.profiles) && Array.isArray(card.weapons) && Array.isArray(card.sections) && card.source?.parserVersion === 3 && card.source?.edition === 11;
+  return !!card && currentUnit(card) && card.id === id && typeof card.name === "string" && Array.isArray(card.profiles) && Array.isArray(card.weapons) && Array.isArray(card.sections) && card.source?.parserVersion === 3 && card.source?.edition === 11;
 }
 export function getSessionCard(id: string): UnitCard | undefined {
   if(memory.has(id)) return memory.get(id);
   try { const raw = sessionStorage.getItem(PREFIX + id); if(!raw) return; const card: unknown = JSON.parse(raw); if(isCard(card,id)){ memory.set(id,card); return card; } } catch {}
 }
 export function saveSessionCard(card: UnitCard) {
+  if(!currentUnit(card))return;
   memory.set(card.id,card);
   try { sessionStorage.setItem(PREFIX+card.id,JSON.stringify(card)); } catch {} // Memory remains usable when browser storage is full/disabled.
 }

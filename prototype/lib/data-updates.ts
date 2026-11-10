@@ -1,3 +1,4 @@
+import {splitIds} from './custodes-revision';
 import {ARMY_SLOTS_KEY,parseArmySlots} from './saved-armies';
 import {validRoster} from './roster';
 import {readUpdate,storedCardIds,commitUpdate,mergeCatalogue,type UpdateData} from './update-storage';
@@ -18,6 +19,7 @@ export async function runDataUpdate(signal:AbortSignal,progress:(p:UpdateProgres
  for(let i=0;i<localStorage.length;i++){const key=localStorage.key(i)!;if(!key.startsWith('field-game-cards-11:')||key.endsWith('last-army'))continue;
   const draft=JSON.parse(localStorage.getItem(key)||'null');if(draft&&validRoster(draft.roster)){add({faction:key.slice('field-game-cards-11:'.length),roster:draft.roster});for(const ally of draft.allies||[])if(validRoster(ally.roster))add(ally);}
  }
+ for(const id of splitIds)ids.delete(id);
  for(const id of ids){const unit=base.find(u=>u.id===id)||previous.units.find(u=>u.id===id);if(unit)factions.add(unit.nativeFaction||unit.faction);}
  for(const faction of Object.keys(previous.rules))factions.add(faction);
  const allFactions=[...new Set(base.map(u=>u.faction))];const failures:string[]=[];let units=mergeCatalogue(base,previous.units);const rules={...previous.rules};const cards:UnitCard[]=[];
