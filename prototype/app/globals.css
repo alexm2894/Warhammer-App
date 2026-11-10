@@ -238,3 +238,58 @@ button[aria-pressed=true].action,button[aria-pressed=true].faction-tile,.rule-ti
 .weapon-ability-dialog{margin:auto}
 .weapon-ability-dialog footer button{border:1px solid #80938d;border-radius:4px;background:#263a3d;color:#f3f6ef}
 .weapon-ability-dialog h2{text-transform:uppercase}
+
+/* Unit headings and conditional saves take their actual height. The remaining
+   space belongs to the independently scrollable weapons and abilities. */
+.lookup-workspace > .unit-sheet { container: unit-card / inline-size; }
+.lookup-workspace > .unit-sheet > .card-banner {
+  max-height: none;
+  min-height: 0;
+  overflow: visible;
+  padding: 5px 10px;
+  gap: 8px;
+}
+.unit-sheet .unit-heading { min-width: 0; overflow-wrap: anywhere; }
+.lookup-workspace .unit-heading h2 {
+  font-size: clamp(19px, 3cqi, 27px);
+  line-height: 1.08;
+  margin: 1px 0 4px;
+}
+.unit-sheet .banner-copy .profiles { gap: 6px 12px; }
+.unit-sheet .banner-copy .profile { min-width: 0; max-width: 100%; padding: 0; }
+.unit-sheet .card-banner .profile .stats {
+  --stat-width: clamp(35px, 5.2cqi, 47px);
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, var(--stat-width)));
+  gap: 2px 4px;
+}
+.unit-sheet .profile .stats > .stat { width: auto; min-width: 0; }
+.unit-sheet .stats .stat strong { min-height: 1.3em; height: auto; }
+.unit-sheet .stats .header-invulnerable {
+  position: static; grid-column: 3 / -1; width: auto; margin: 0;
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 3fr);
+  grid-template-columns: subgrid;
+}
+.unit-sheet .header-invulnerable b { grid-column: 1; width: 100%; }
+.unit-sheet .header-invulnerable > span { grid-column: 2 / -1; min-width: 0; overflow-wrap: anywhere; }
+.lookup-workspace .unit-sheet .card-banner > .unit-art {
+  width: clamp(60px, 13cqi, 112px); height: clamp(48px, 9cqi, 80px);
+  min-width: 0; margin: 0;
+}
+@container unit-card (min-width: 680px) {
+  .unit-sheet .banner-copy { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: center; gap: 10px; }
+  .unit-sheet .banner-copy:has(.profile:nth-child(2)) { display: block; }
+}
+/* At very short heights or with several profiles, scrolling the entire card
+   keeps even the last weapon accessible without squeezing or cropping stats. */
+@media (max-height: 470px) {
+  .lookup-workspace > .unit-sheet { overflow-y: auto; overscroll-behavior: contain; }
+  .lookup-workspace .unit-sheet > .card-body { flex: none; overflow: visible; }
+}
+.lookup-workspace > .unit-sheet:has(.profile:nth-child(2)) { overflow-y: auto; overscroll-behavior: contain; }
+.lookup-workspace .unit-sheet:has(.profile:nth-child(2)) > .card-body { flex: none; overflow: visible; }
+@container unit-card (max-width: 240px) {
+  .unit-sheet .card-banner .profile .stats { grid-template-columns: repeat(3,minmax(0,1fr)); }
+  .unit-sheet .stats .header-invulnerable { grid-column: 1 / -1; }
+  .lookup-workspace .unit-sheet .card-banner > .unit-art { display: none; }
+}
